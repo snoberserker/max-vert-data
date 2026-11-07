@@ -1,0 +1,9 @@
+[
+  {"triplet": "MHP:CA:MSNT", "name": "Mammoth Pass", "resortArea": "Mammoth Mountain, CA", "latitude": 37.61, "longitude": -119.033},
+  {"triplet": "PLP:CA:MSNT", "name": "Pilot Peak", "resortArea": "Tahoe / Northstar, CA", "latitude": 39.35833, "longitude": -120.26389},
+  {"triplet": "366:UT:SNTL", "name": "Brighton", "resortArea": "Brighton & Solitude, UT", "latitude": 40.61833, "longitude": -111.59389},
+  {"triplet": "1097:UT:SNTL", "name": "Timberline", "resortArea": "Wasatch backcountry / UT", "latitude": 40.56444, "longitude": -111.63833},
+  {"triplet": "531:CO:SNTL", "name": "Hoosier Pass", "resortArea": "Breckenridge area, CO", "latitude": 39.36028, "longitude": -106.06611},
+  {"triplet": "791:WA:SNTL", "name": "Stevens Pass", "resortArea": "Stevens Pass, WA", "latitude": 47.74389, "longitude": -121.08639},
+  {"triplet": "873:OR:SNTL", "name": "Wolf Creek", "resortArea": "Mt. Hood area, OR", "latitude": 45.03528, "longitude": -121.97778}
+]
