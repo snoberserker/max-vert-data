@@ -99,6 +99,8 @@ def collect_forecast():
     os.makedirs(os.path.join(DATA, "forecast"), exist_ok=True)
     with open(os.path.join(DATA, "forecast", f"{today}.json"), "w") as f:
         json.dump(out, f, indent=2, sort_keys=True)
+    with open(os.path.join(DATA, "forecast", "latest.json"), "w") as f:
+        json.dump(out, f, indent=2, sort_keys=True)
     return out
 
 def collect_weekly_trends():

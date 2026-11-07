@@ -1,0 +1,278 @@
+{
+  "collectedAt": "2026-11-07T23:36:42.986596+00:00",
+  "date": "2026-11-07",
+  "points": [
+    {
+      "label": "Mammoth Mountain, CA",
+      "lat": 37.631,
+      "lon": -119.045,
+      "office": "HNX",
+      "periods": [
+        {
+          "name": "This Afternoon",
+          "pop": 0,
+          "short": "Mostly Sunny",
+          "tempF": 50
+        },
+        {
+          "name": "Tonight",
+          "pop": 0,
+          "short": "Partly Cloudy",
+          "tempF": 34
+        },
+        {
+          "name": "Sunday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 51
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 0,
+          "short": "Partly Cloudy",
+          "tempF": 33
+        },
+        {
+          "name": "Monday",
+          "pop": 0,
+          "short": "Mostly Sunny",
+          "tempF": 47
+        },
+        {
+          "name": "Monday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 32
+        },
+        {
+          "name": "Tuesday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 47
+        },
+        {
+          "name": "Tuesday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 33
+        },
+        {
+          "name": "Veterans Day",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 49
+        },
+        {
+          "name": "Wednesday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 32
+        }
+      ]
+    },
+    {
+      "label": "Breckenridge, CO",
+      "lat": 39.481,
+      "lon": -106.038,
+      "office": "BOU",
+      "periods": [
+        {
+          "name": "This Afternoon",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 48
+        },
+        {
+          "name": "Tonight",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 23
+        },
+        {
+          "name": "Sunday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 55
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 0,
+          "short": "Clear",
+          "tempF": 25
+        },
+        {
+          "name": "Monday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 56
+        },
+        {
+          "name": "Monday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 27
+        },
+        {
+          "name": "Tuesday",
+          "pop": 6,
+          "short": "Mostly Sunny",
+          "tempF": 50
+        },
+        {
+          "name": "Tuesday Night",
+          "pop": 6,
+          "short": "Mostly Clear",
+          "tempF": 22
+        },
+        {
+          "name": "Veterans Day",
+          "pop": 1,
+          "short": "Sunny",
+          "tempF": 49
+        },
+        {
+          "name": "Wednesday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 24
+        }
+      ]
+    },
+    {
+      "label": "Alta, UT",
+      "lat": 40.588,
+      "lon": -111.639,
+      "office": "SLC",
+      "periods": [
+        {
+          "name": "This Afternoon",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 41
+        },
+        {
+          "name": "Tonight",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 32
+        },
+        {
+          "name": "Sunday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 46
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 0,
+          "short": "Mostly Cloudy",
+          "tempF": 34
+        },
+        {
+          "name": "Monday",
+          "pop": 0,
+          "short": "Mostly Sunny",
+          "tempF": 48
+        },
+        {
+          "name": "Monday Night",
+          "pop": 0,
+          "short": "Partly Cloudy",
+          "tempF": 33
+        },
+        {
+          "name": "Tuesday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 42
+        },
+        {
+          "name": "Tuesday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 31
+        },
+        {
+          "name": "Veterans Day",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 44
+        },
+        {
+          "name": "Wednesday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 34
+        }
+      ]
+    },
+    {
+      "label": "Stowe, VT",
+      "lat": 44.539,
+      "lon": -72.785,
+      "office": "BTV",
+      "periods": [
+        {
+          "name": "Tonight",
+          "pop": 92,
+          "short": "Light Rain then Rain And Snow Likely",
+          "tempF": 35
+        },
+        {
+          "name": "Sunday",
+          "pop": 40,
+          "short": "Chance Light Snow then Cloudy",
+          "tempF": 41
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 63,
+          "short": "Rain Showers Likely",
+          "tempF": 35
+        },
+        {
+          "name": "Monday",
+          "pop": 95,
+          "short": "Rain Showers then Rain And Snow Showers Likely",
+          "tempF": 39
+        },
+        {
+          "name": "Monday Night",
+          "pop": 67,
+          "short": "Rain And Snow Showers Likely",
+          "tempF": 32
+        },
+        {
+          "name": "Tuesday",
+          "pop": 50,
+          "short": "Slight Chance Snow Showers then Chance Rain And Snow",
+          "tempF": 40
+        },
+        {
+          "name": "Tuesday Night",
+          "pop": 81,
+          "short": "Light Rain then Chance Rain And Snow",
+          "tempF": 33
+        },
+        {
+          "name": "Veterans Day",
+          "pop": 44,
+          "short": "Chance Rain And Snow",
+          "tempF": 37
+        },
+        {
+          "name": "Wednesday Night",
+          "pop": 34,
+          "short": "Chance Light Snow",
+          "tempF": 28
+        },
+        {
+          "name": "Thursday",
+          "pop": 34,
+          "short": "Chance Light Snow",
+          "tempF": 34
+        }
+      ]
+    }
+  ]
+}
