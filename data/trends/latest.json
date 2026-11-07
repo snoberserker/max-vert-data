@@ -1,4 +1,470 @@
 {
-  "collectedAt": "2026-11-07T23:36:48.138343+00:00",
-  "error": "ModuleNotFoundError: No module named 'pytrends'"
+  "collectedAt": "2026-11-07T23:37:36.529590+00:00",
+  "weekly": [
+    {
+      "skiing": 38,
+      "snowboarding": 7,
+      "week": "2026-08-07"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 6,
+      "week": "2026-08-08"
+    },
+    {
+      "skiing": 33,
+      "snowboarding": 8,
+      "week": "2026-08-09"
+    },
+    {
+      "skiing": 37,
+      "snowboarding": 7,
+      "week": "2026-08-10"
+    },
+    {
+      "skiing": 40,
+      "snowboarding": 8,
+      "week": "2026-08-11"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 6,
+      "week": "2026-08-12"
+    },
+    {
+      "skiing": 33,
+      "snowboarding": 7,
+      "week": "2026-08-13"
+    },
+    {
+      "skiing": 36,
+      "snowboarding": 7,
+      "week": "2026-08-14"
+    },
+    {
+      "skiing": 36,
+      "snowboarding": 8,
+      "week": "2026-08-15"
+    },
+    {
+      "skiing": 36,
+      "snowboarding": 8,
+      "week": "2026-08-16"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 7,
+      "week": "2026-08-17"
+    },
+    {
+      "skiing": 37,
+      "snowboarding": 7,
+      "week": "2026-08-18"
+    },
+    {
+      "skiing": 38,
+      "snowboarding": 8,
+      "week": "2026-08-19"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 7,
+      "week": "2026-08-20"
+    },
+    {
+      "skiing": 30,
+      "snowboarding": 7,
+      "week": "2026-08-21"
+    },
+    {
+      "skiing": 23,
+      "snowboarding": 7,
+      "week": "2026-08-22"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 7,
+      "week": "2026-08-23"
+    },
+    {
+      "skiing": 22,
+      "snowboarding": 5,
+      "week": "2026-08-24"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 6,
+      "week": "2026-08-25"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 8,
+      "week": "2026-08-26"
+    },
+    {
+      "skiing": 34,
+      "snowboarding": 8,
+      "week": "2026-08-27"
+    },
+    {
+      "skiing": 30,
+      "snowboarding": 8,
+      "week": "2026-08-28"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 7,
+      "week": "2026-08-29"
+    },
+    {
+      "skiing": 34,
+      "snowboarding": 9,
+      "week": "2026-08-30"
+    },
+    {
+      "skiing": 39,
+      "snowboarding": 9,
+      "week": "2026-08-31"
+    },
+    {
+      "skiing": 38,
+      "snowboarding": 9,
+      "week": "2026-09-01"
+    },
+    {
+      "skiing": 43,
+      "snowboarding": 9,
+      "week": "2026-09-02"
+    },
+    {
+      "skiing": 41,
+      "snowboarding": 8,
+      "week": "2026-09-03"
+    },
+    {
+      "skiing": 38,
+      "snowboarding": 8,
+      "week": "2026-09-04"
+    },
+    {
+      "skiing": 41,
+      "snowboarding": 8,
+      "week": "2026-09-05"
+    },
+    {
+      "skiing": 47,
+      "snowboarding": 9,
+      "week": "2026-09-06"
+    },
+    {
+      "skiing": 43,
+      "snowboarding": 9,
+      "week": "2026-09-07"
+    },
+    {
+      "skiing": 49,
+      "snowboarding": 8,
+      "week": "2026-09-08"
+    },
+    {
+      "skiing": 39,
+      "snowboarding": 8,
+      "week": "2026-09-09"
+    },
+    {
+      "skiing": 35,
+      "snowboarding": 8,
+      "week": "2026-09-10"
+    },
+    {
+      "skiing": 30,
+      "snowboarding": 7,
+      "week": "2026-09-11"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 8,
+      "week": "2026-09-12"
+    },
+    {
+      "skiing": 30,
+      "snowboarding": 8,
+      "week": "2026-09-13"
+    },
+    {
+      "skiing": 43,
+      "snowboarding": 8,
+      "week": "2026-09-14"
+    },
+    {
+      "skiing": 51,
+      "snowboarding": 9,
+      "week": "2026-09-15"
+    },
+    {
+      "skiing": 38,
+      "snowboarding": 9,
+      "week": "2026-09-16"
+    },
+    {
+      "skiing": 47,
+      "snowboarding": 10,
+      "week": "2026-09-17"
+    },
+    {
+      "skiing": 41,
+      "snowboarding": 9,
+      "week": "2026-09-18"
+    },
+    {
+      "skiing": 84,
+      "snowboarding": 15,
+      "week": "2026-09-19"
+    },
+    {
+      "skiing": 100,
+      "snowboarding": 20,
+      "week": "2026-09-20"
+    },
+    {
+      "skiing": 80,
+      "snowboarding": 17,
+      "week": "2026-09-21"
+    },
+    {
+      "skiing": 45,
+      "snowboarding": 12,
+      "week": "2026-09-22"
+    },
+    {
+      "skiing": 29,
+      "snowboarding": 9,
+      "week": "2026-09-23"
+    },
+    {
+      "skiing": 28,
+      "snowboarding": 8,
+      "week": "2026-09-24"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 8,
+      "week": "2026-09-25"
+    },
+    {
+      "skiing": 29,
+      "snowboarding": 9,
+      "week": "2026-09-26"
+    },
+    {
+      "skiing": 33,
+      "snowboarding": 9,
+      "week": "2026-09-27"
+    },
+    {
+      "skiing": 33,
+      "snowboarding": 8,
+      "week": "2026-09-28"
+    },
+    {
+      "skiing": 28,
+      "snowboarding": 8,
+      "week": "2026-09-29"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 8,
+      "week": "2026-09-30"
+    },
+    {
+      "skiing": 23,
+      "snowboarding": 8,
+      "week": "2026-10-01"
+    },
+    {
+      "skiing": 22,
+      "snowboarding": 7,
+      "week": "2026-10-02"
+    },
+    {
+      "skiing": 24,
+      "snowboarding": 7,
+      "week": "2026-10-03"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 8,
+      "week": "2026-10-04"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 8,
+      "week": "2026-10-05"
+    },
+    {
+      "skiing": 25,
+      "snowboarding": 7,
+      "week": "2026-10-06"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 7,
+      "week": "2026-10-07"
+    },
+    {
+      "skiing": 23,
+      "snowboarding": 7,
+      "week": "2026-10-08"
+    },
+    {
+      "skiing": 23,
+      "snowboarding": 8,
+      "week": "2026-10-09"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 7,
+      "week": "2026-10-10"
+    },
+    {
+      "skiing": 30,
+      "snowboarding": 8,
+      "week": "2026-10-11"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 8,
+      "week": "2026-10-12"
+    },
+    {
+      "skiing": 24,
+      "snowboarding": 8,
+      "week": "2026-10-13"
+    },
+    {
+      "skiing": 25,
+      "snowboarding": 8,
+      "week": "2026-10-14"
+    },
+    {
+      "skiing": 25,
+      "snowboarding": 8,
+      "week": "2026-10-15"
+    },
+    {
+      "skiing": 22,
+      "snowboarding": 8,
+      "week": "2026-10-16"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 8,
+      "week": "2026-10-17"
+    },
+    {
+      "skiing": 29,
+      "snowboarding": 9,
+      "week": "2026-10-18"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 8,
+      "week": "2026-10-19"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 9,
+      "week": "2026-10-20"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 8,
+      "week": "2026-10-21"
+    },
+    {
+      "skiing": 25,
+      "snowboarding": 8,
+      "week": "2026-10-22"
+    },
+    {
+      "skiing": 26,
+      "snowboarding": 9,
+      "week": "2026-10-23"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 8,
+      "week": "2026-10-24"
+    },
+    {
+      "skiing": 30,
+      "snowboarding": 9,
+      "week": "2026-10-25"
+    },
+    {
+      "skiing": 28,
+      "snowboarding": 10,
+      "week": "2026-10-26"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 8,
+      "week": "2026-10-27"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 8,
+      "week": "2026-10-28"
+    },
+    {
+      "skiing": 25,
+      "snowboarding": 8,
+      "week": "2026-10-29"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 8,
+      "week": "2026-10-30"
+    },
+    {
+      "skiing": 25,
+      "snowboarding": 8,
+      "week": "2026-10-31"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 9,
+      "week": "2026-11-01"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 10,
+      "week": "2026-11-02"
+    },
+    {
+      "skiing": 29,
+      "snowboarding": 9,
+      "week": "2026-11-03"
+    },
+    {
+      "skiing": 27,
+      "snowboarding": 9,
+      "week": "2026-11-04"
+    },
+    {
+      "skiing": 28,
+      "snowboarding": 10,
+      "week": "2026-11-05"
+    },
+    {
+      "skiing": 31,
+      "snowboarding": 10,
+      "week": "2026-11-06"
+    },
+    {
+      "skiing": 33,
+      "snowboarding": 10,
+      "week": "2026-11-07"
+    }
+  ]
 }
