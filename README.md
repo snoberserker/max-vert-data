@@ -8,6 +8,7 @@ Daily and weekly skiing/snowboarding data feeds for maxvert.com.
 - **NWS api.weather.gov** (public domain, no key): 7-day point forecasts for marquee resorts. Daily.
 - **Google search interest** for "skiing" / "snowboarding" via pytrends. Weekly.
 - **OpenSnow is featured, not scraped**: their API is not openly available; the site links to and features OpenSnow content instead.
+- **Travelpayouts Data API** (free affiliate token, no per-call fee): indicative airfares. Not Kayak. See below.
 
 ## Structure
 
@@ -27,6 +28,20 @@ python3 collect.py weekly   # search-interest trends (needs pytrends)
 pytrends note: installed under `/opt/data/home/.local/lib/python3.14/site-packages`
 (user site); run with `PYTHONPATH=/opt/data/home/.local/lib/python3.14/site-packages`
 under the Hermes venv interpreter.
+
+## Airfare
+
+```bash
+export TRAVELPAYOUTS_TOKEN=...   # free affiliate token, never commit it
+python3 collect_airfare.py
+```
+
+`collect_airfare.py` calls `https://api.travelpayouts.com/v1/prices/cheap`
+with the token in the `x-access-token` header. It exits if the token is
+missing and does not scrape Kayak.
+
+Files already in `data/airfare/` are a retired Kayak scrape. Do not serve
+them. A successful run of this collector replaces `latest.json`.
 
 ## Consumers
 
