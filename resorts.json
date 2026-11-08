@@ -5,7 +5,9 @@
   "lon": -117.5513,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1460647091
+  "osm_id": 1460647091,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/141,121/forecast",
+  "office": "OTX"
  },
  {
   "name": "49\u00b0 North Mountain Resort",
@@ -13,7 +15,9 @@
   "lon": -117.5615,
   "state": "",
   "osm_type": "way",
-  "osm_id": 884007908
+  "osm_id": 884007908,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/141,121/forecast",
+  "office": "OTX"
  },
  {
   "name": "Abenaki Ski Area",
@@ -21,7 +25,9 @@
   "lon": -71.2288,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1038072653
+  "osm_id": 1038072653,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/41,49/forecast",
+  "office": "GYX"
  },
  {
   "name": "Active Backwoods Retreat Ski Trails",
@@ -29,7 +35,9 @@
   "lon": -90.1489,
   "state": "",
   "osm_type": "way",
-  "osm_id": 48946399
+  "osm_id": 48946399,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/64,60/forecast",
+  "office": "MQT"
  },
  {
   "name": "Adventure Center",
@@ -37,7 +45,9 @@
   "lon": -116.6409,
   "state": "",
   "osm_type": "way",
-  "osm_id": 383728494
+  "osm_id": 383728494,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/83,59/forecast",
+  "office": "SGX"
  },
  {
   "name": "Afterhours Ski Trails",
@@ -45,7 +55,9 @@
   "lon": -91.6005,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 15880266
+  "osm_id": 15880266,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/108,58/forecast",
+  "office": "DLH"
  },
  {
   "name": "Afton Alps",
@@ -53,7 +65,9 @@
   "lon": -92.7857,
   "state": "",
   "osm_type": "way",
-  "osm_id": 543987749
+  "osm_id": 543987749,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/124,66/forecast",
+  "office": "MPX"
  },
  {
   "name": "Alpental",
@@ -61,7 +75,9 @@
   "lon": -121.4343,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 6855067
+  "osm_id": 6855067,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/151,55/forecast",
+  "office": "SEW"
  },
  {
   "name": "Alpental Backcountry",
@@ -69,7 +85,9 @@
   "lon": -121.4447,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 6855066
+  "osm_id": 6855066,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/151,55/forecast",
+  "office": "SEW"
  },
  {
   "name": "Alpine Valley",
@@ -77,7 +95,9 @@
   "lon": -81.2613,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1432101063
+  "osm_id": 1432101063,
+  "forecast_url": "https://api.weather.gov/gridpoints/CLE/98,68/forecast",
+  "office": "CLE"
  },
  {
   "name": "Alpine Valley Resort",
@@ -85,7 +105,9 @@
   "lon": -88.4268,
   "state": "",
   "osm_type": "way",
-  "osm_id": 758644690
+  "osm_id": 758644690,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/71,50/forecast",
+  "office": "MKX"
  },
  {
   "name": "Alpine Valley Ski Area",
@@ -93,7 +115,9 @@
   "lon": -83.5233,
   "state": "",
   "osm_type": "way",
-  "osm_id": 278930064
+  "osm_id": 278930064,
+  "forecast_url": "https://api.weather.gov/gridpoints/DTX/48,47/forecast",
+  "office": "DTX"
  },
  {
   "name": "Alta Ski Area",
@@ -101,7 +125,9 @@
   "lon": -111.6245,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1023308077
+  "osm_id": 1023308077,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/109,166/forecast",
+  "office": "SLC"
  },
  {
   "name": "Alyeska Resort",
@@ -109,7 +135,9 @@
   "lon": -149.0846,
   "state": "",
   "osm_type": "way",
-  "osm_id": 934351306
+  "osm_id": 934351306,
+  "forecast_url": "https://api.weather.gov/gridpoints/AER/158,227/forecast",
+  "office": "AFC"
  },
  {
   "name": "Andes Tower Hills",
@@ -117,7 +145,9 @@
   "lon": -95.6207,
   "state": "MN",
   "osm_type": "way",
-  "osm_id": 313781036
+  "osm_id": 313781036,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/31,113/forecast",
+  "office": "MPX"
  },
  {
   "name": "Angel Fire Resort",
@@ -125,7 +155,9 @@
   "lon": -105.2723,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1119742983
+  "osm_id": 1119742983,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/153,175/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Antelope Butte",
@@ -133,7 +165,9 @@
   "lon": -107.5121,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1554646670
+  "osm_id": 1554646670,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/155,179/forecast",
+  "office": "RIW"
  },
  {
   "name": "Anthony Lakes Mountain Resort",
@@ -141,7 +175,9 @@
   "lon": -118.2391,
   "state": "",
   "osm_type": "way",
-  "osm_id": 826310580
+  "osm_id": 826310580,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/77,159/forecast",
+  "office": "BOI"
  },
  {
   "name": "Appalachian Mountain Ski Area",
@@ -149,7 +185,9 @@
   "lon": -81.6629,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1311333299
+  "osm_id": 1311333299,
+  "forecast_url": "https://api.weather.gov/gridpoints/RNK/18,14/forecast",
+  "office": "RNK"
  },
  {
   "name": "Appleton Farms",
@@ -157,7 +195,9 @@
   "lon": -70.8558,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 16327340
+  "osm_id": 16327340,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/76,115/forecast",
+  "office": "BOX"
  },
  {
   "name": "Arapahoe Basin",
@@ -165,7 +205,9 @@
   "lon": -105.8744,
   "state": "",
   "osm_type": "way",
-  "osm_id": 461239598
+  "osm_id": 461239598,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/32,59/forecast",
+  "office": "BOU"
  },
  {
   "name": "Arctic Valley Ski Area",
@@ -173,7 +215,9 @@
   "lon": -149.5204,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 10517367
+  "osm_id": 10517367,
+  "forecast_url": "https://api.weather.gov/gridpoints/AER/150,237/forecast",
+  "office": "AFC"
  },
  {
   "name": "Arizona Snow Bowl",
@@ -181,7 +225,9 @@
   "lon": -111.6998,
   "state": "",
   "osm_type": "way",
-  "osm_id": 956148607
+  "osm_id": 956148607,
+  "forecast_url": "https://api.weather.gov/gridpoints/FGZ/73,95/forecast",
+  "office": "FGZ"
  },
  {
   "name": "Aroostook State Park",
@@ -189,7 +235,9 @@
   "lon": -68.0033,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363822201
+  "osm_id": 1363822201,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/74,162/forecast",
+  "office": "CAR"
  },
  {
   "name": "Arrowhead Recreation Area",
@@ -197,7 +245,9 @@
   "lon": -72.3312,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1366702103
+  "osm_id": 1366702103,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/6,32/forecast",
+  "office": "GYX"
  },
  {
   "name": "Ascutney Outdoors",
@@ -205,7 +255,9 @@
   "lon": -72.4636,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1366784190
+  "osm_id": 1366784190,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/121,14/forecast",
+  "office": "BTV"
  },
  {
   "name": "Aspen Highlands",
@@ -213,7 +265,9 @@
   "lon": -106.8628,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530531926
+  "osm_id": 530531926,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/155,100/forecast",
+  "office": "GJT"
  },
  {
   "name": "Aspen Mountain",
@@ -221,7 +275,9 @@
   "lon": -106.8194,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530531925
+  "osm_id": 530531925,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/156,101/forecast",
+  "office": "GJT"
  },
  {
   "name": "Aspen Snowmass",
@@ -229,7 +285,9 @@
   "lon": -106.9495,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1144096092
+  "osm_id": 1144096092,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/152,102/forecast",
+  "office": "GJT"
  },
  {
   "name": "Atkisson Sno-Park",
@@ -237,7 +295,9 @@
   "lon": -121.6157,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1249724927
+  "osm_id": 1249724927,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/151,117/forecast",
+  "office": "PQR"
  },
  {
   "name": "Attitash Mountain Resort",
@@ -245,7 +305,9 @@
   "lon": -71.2361,
   "state": "",
   "osm_type": "way",
-  "osm_id": 256024127
+  "osm_id": 256024127,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/37,71/forecast",
+  "office": "GYX"
  },
  {
   "name": "Ausblick Ski Hill",
@@ -253,7 +315,9 @@
   "lon": -88.2648,
   "state": "",
   "osm_type": "node",
-  "osm_id": 2625112370
+  "osm_id": 2625112370,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/76,69/forecast",
+  "office": "MKX"
  },
  {
   "name": "Avalanche Safety Training Area",
@@ -261,7 +325,9 @@
   "lon": -121.4229,
   "state": "",
   "osm_type": "way",
-  "osm_id": 885692374
+  "osm_id": 885692374,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/152,55/forecast",
+  "office": "SEW"
  },
  {
   "name": "Badger Pass Ski Area",
@@ -269,7 +335,9 @@
   "lon": -119.6633,
   "state": "",
   "osm_type": "way",
-  "osm_id": 44043541
+  "osm_id": 44043541,
+  "forecast_url": "https://api.weather.gov/gridpoints/HNX/64,139/forecast",
+  "office": "HNX"
  },
  {
   "name": "Badlands Snow Park",
@@ -277,7 +345,9 @@
   "lon": -92.6416,
   "state": "",
   "osm_type": "way",
-  "osm_id": 963326847
+  "osm_id": 963326847,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/129,72/forecast",
+  "office": "MPX"
  },
  {
   "name": "Baithole Trails",
@@ -285,7 +355,9 @@
   "lon": -68.7751,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1234574650
+  "osm_id": 1234574650,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/58,113/forecast",
+  "office": "CAR"
  },
  {
   "name": "Baker Mountain Ski Area",
@@ -293,7 +365,9 @@
   "lon": -69.9092,
   "state": "",
   "osm_type": "way",
-  "osm_id": 379477862
+  "osm_id": 379477862,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/72,125/forecast",
+  "office": "GYX"
  },
  {
   "name": "Bald Mountain Ski Area",
@@ -301,7 +375,9 @@
   "lon": -115.8708,
   "state": "",
   "osm_type": "way",
-  "osm_id": 923545035
+  "osm_id": 923545035,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/43,126/forecast",
+  "office": "MSO"
  },
  {
   "name": "Bear Basin Nordic Center",
@@ -309,7 +385,9 @@
   "lon": -116.1482,
   "state": "",
   "osm_type": "way",
-  "osm_id": 882093832
+  "osm_id": 882093832,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/145,147/forecast",
+  "office": "BOI"
  },
  {
   "name": "Bear Canyon",
@@ -317,7 +395,9 @@
   "lon": -110.9236,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1213966697
+  "osm_id": 1213966697,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/100,54/forecast",
+  "office": "TFX"
  },
  {
   "name": "Bear Creek Mountain Resort Ski Slopes",
@@ -325,7 +405,9 @@
   "lon": -75.6298,
   "state": "",
   "osm_type": "way",
-  "osm_id": 281594168
+  "osm_id": 281594168,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/30,100/forecast",
+  "office": "PHI"
  },
  {
   "name": "Bear Notch Ski Touring Center",
@@ -333,7 +415,9 @@
   "lon": -71.2905,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1360714249
+  "osm_id": 1360714249,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/35,71/forecast",
+  "office": "GYX"
  },
  {
   "name": "Bear Valley",
@@ -341,7 +425,9 @@
   "lon": -120.0533,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 16792393
+  "osm_id": 16792393,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/90,54/forecast",
+  "office": "STO"
  },
  {
   "name": "Bear Valley Adventure Company",
@@ -349,7 +435,9 @@
   "lon": -120.0461,
   "state": "",
   "osm_type": "way",
-  "osm_id": 477982773
+  "osm_id": 477982773,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/90,53/forecast",
+  "office": "STO"
  },
  {
   "name": "Beartooth Basin Summer Ski Area",
@@ -357,7 +445,9 @@
   "lon": -109.4353,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1213945638
+  "osm_id": 1213945638,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/93,203/forecast",
+  "office": "RIW"
  },
  {
   "name": "Beaver Creek Nordic Ski Area",
@@ -365,7 +455,9 @@
   "lon": -108.7053,
   "state": "",
   "osm_type": "way",
-  "osm_id": 666180090
+  "osm_id": 666180090,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/106,89/forecast",
+  "office": "RIW"
  },
  {
   "name": "Beaver Creek Resort",
@@ -373,7 +465,9 @@
   "lon": -106.5368,
   "state": "CO",
   "osm_type": "way",
-  "osm_id": 531009608
+  "osm_id": 531009608,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/168,119/forecast",
+  "office": "GJT"
  },
  {
   "name": "Beaver Meadow XC Skiing",
@@ -381,7 +475,9 @@
   "lon": -71.5662,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1152922340
+  "osm_id": 1152922340,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/32,32/forecast",
+  "office": "GYX"
  },
  {
   "name": "Beaver Mountain",
@@ -389,7 +485,9 @@
   "lon": -111.552,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1070694657
+  "osm_id": 1070694657,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/119,229/forecast",
+  "office": "SLC"
  },
  {
   "name": "Beech Mountain Ski Resort",
@@ -397,7 +495,9 @@
   "lon": -81.8805,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1311339559
+  "osm_id": 1311339559,
+  "forecast_url": "https://api.weather.gov/gridpoints/RNK/10,14/forecast",
+  "office": "RNK"
  },
  {
   "name": "Belleayre Mountain Ski Center",
@@ -405,7 +505,9 @@
   "lon": -74.5022,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 6373343
+  "osm_id": 6373343,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/51,35/forecast",
+  "office": "ALY"
  },
  {
   "name": "Bellows Falls Ski Tow",
@@ -413,7 +515,9 @@
   "lon": -72.4546,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1367310450
+  "osm_id": 1367310450,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/112,92/forecast",
+  "office": "ALY"
  },
  {
   "name": "Berkshire East Ski Resort",
@@ -421,7 +525,9 @@
   "lon": -72.8719,
   "state": "",
   "osm_type": "way",
-  "osm_id": 256781770
+  "osm_id": 256781770,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/9,102/forecast",
+  "office": "BOX"
  },
  {
   "name": "Biathlon Range",
@@ -429,7 +535,9 @@
   "lon": -105.9278,
   "state": "",
   "osm_type": "way",
-  "osm_id": 356040885
+  "osm_id": 356040885,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/31,75/forecast",
+  "office": "BOU"
  },
  {
   "name": "Biathlon Range Boundaries",
@@ -437,7 +545,9 @@
   "lon": -113.4671,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1224536212
+  "osm_id": 1224536212,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/124,144/forecast",
+  "office": "MSO"
  },
  {
   "name": "Big Bear Mountain Resort",
@@ -445,7 +555,9 @@
   "lon": -116.8596,
   "state": "",
   "osm_type": "way",
-  "osm_id": 682224991
+  "osm_id": 682224991,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/78,78/forecast",
+  "office": "SGX"
  },
  {
   "name": "Big Bear Ski Resort",
@@ -453,7 +565,9 @@
   "lon": -75.0199,
   "state": "",
   "osm_type": "way",
-  "osm_id": 392376125
+  "osm_id": 392376125,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/100,35/forecast",
+  "office": "BGM"
  },
  {
   "name": "Big Bear Snow Play",
@@ -461,7 +575,9 @@
   "lon": -116.8671,
   "state": "",
   "osm_type": "way",
-  "osm_id": 329813045
+  "osm_id": 329813045,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/78,80/forecast",
+  "office": "SGX"
  },
  {
   "name": "Big Boulder Ski Resort Area",
@@ -469,7 +585,9 @@
   "lon": -75.6013,
   "state": "",
   "osm_type": "way",
-  "osm_id": 390166745
+  "osm_id": 390166745,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/28,126/forecast",
+  "office": "PHI"
  },
  {
   "name": "Big Hill Nordic",
@@ -477,7 +595,9 @@
   "lon": -114.3624,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1411939523
+  "osm_id": 1411939523,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/53,131/forecast",
+  "office": "PIH"
  },
  {
   "name": "Big Moose Mountain Ski Area",
@@ -485,7 +605,9 @@
   "lon": -69.7057,
   "state": "",
   "osm_type": "way",
-  "osm_id": 379478843
+  "osm_id": 379478843,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/30,101/forecast",
+  "office": "CAR"
  },
  {
   "name": "Big Powderhorn Mountain Resort",
@@ -493,7 +615,9 @@
   "lon": -90.0936,
   "state": "",
   "osm_type": "way",
-  "osm_id": 473859024
+  "osm_id": 473859024,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/66,64/forecast",
+  "office": "MQT"
  },
  {
   "name": "Big Rock Mountain",
@@ -501,7 +625,9 @@
   "lon": -67.8218,
   "state": "",
   "osm_type": "way",
-  "osm_id": 255071260
+  "osm_id": 255071260,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/81,160/forecast",
+  "office": "CAR"
  },
  {
   "name": "Big Sky Resort",
@@ -509,7 +635,9 @@
   "lon": -111.4107,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1254863688
+  "osm_id": 1254863688,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/82,41/forecast",
+  "office": "TFX"
  },
  {
   "name": "Big Snow American Dream",
@@ -517,7 +645,9 @@
   "lon": -74.0704,
   "state": "",
   "osm_type": "way",
-  "osm_id": 755762044
+  "osm_id": 755762044,
+  "forecast_url": "https://api.weather.gov/gridpoints/OKX/30,46/forecast",
+  "office": "OKX"
  },
  {
   "name": "Bigfork Community Nordic Center",
@@ -525,7 +655,9 @@
   "lon": -113.9973,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1354098284
+  "osm_id": 1354098284,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/113,191/forecast",
+  "office": "MSO"
  },
  {
   "name": "Birch Hill Biathlon",
@@ -533,7 +665,9 @@
   "lon": -147.6365,
   "state": "",
   "osm_type": "way",
-  "osm_id": 933399260
+  "osm_id": 933399260,
+  "forecast_url": "https://api.weather.gov/gridpoints/AFG/494,120/forecast",
+  "office": "AFG"
  },
  {
   "name": "Birch Hill Recreation Area",
@@ -541,7 +675,9 @@
   "lon": -147.6468,
   "state": "",
   "osm_type": "way",
-  "osm_id": 933399252
+  "osm_id": 933399252,
+  "forecast_url": "https://api.weather.gov/gridpoints/AFG/494,120/forecast",
+  "office": "AFG"
  },
  {
   "name": "Birch Hill Ski and Snowboard Area",
@@ -549,7 +685,9 @@
   "lon": -147.626,
   "state": "",
   "osm_type": "way",
-  "osm_id": 933399437
+  "osm_id": 933399437,
+  "forecast_url": "https://api.weather.gov/gridpoints/AFG/494,120/forecast",
+  "office": "AFG"
  },
  {
   "name": "Bittersweet",
@@ -557,7 +695,9 @@
   "lon": -85.761,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1249475098
+  "osm_id": 1249475098,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRR/39,24/forecast",
+  "office": "GRR"
  },
  {
   "name": "Black Mountain",
@@ -565,7 +705,9 @@
   "lon": -71.165,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1154306823
+  "osm_id": 1154306823,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/38,76/forecast",
+  "office": "GYX"
  },
  {
   "name": "Black Mountain of Maine",
@@ -573,7 +715,9 @@
   "lon": -70.6201,
   "state": "ME",
   "osm_type": "relation",
-  "osm_id": 19733493
+  "osm_id": 19733493,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/53,98/forecast",
+  "office": "GYX"
  },
  {
   "name": "Black River Basin",
@@ -581,7 +725,9 @@
   "lon": -90.0029,
   "state": "",
   "osm_type": "way",
-  "osm_id": 473859023
+  "osm_id": 473859023,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/69,64/forecast",
+  "office": "MQT"
  },
  {
   "name": "Blackhawk Ski Club",
@@ -589,7 +735,9 @@
   "lon": -89.5688,
   "state": "",
   "osm_type": "way",
-  "osm_id": 277483452
+  "osm_id": 277483452,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/32,64/forecast",
+  "office": "MKX"
  },
  {
   "name": "Blacktail Mountain Ski Area",
@@ -597,7 +745,9 @@
   "lon": -114.3744,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1335354188
+  "osm_id": 1335354188,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/101,187/forecast",
+  "office": "MSO"
  },
  {
   "name": "Blackwater Nordic Club",
@@ -605,7 +755,9 @@
   "lon": -71.7259,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1462273571
+  "osm_id": 1462273571,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/27,30/forecast",
+  "office": "GYX"
  },
  {
   "name": "Blizzard Mountain",
@@ -613,7 +765,9 @@
   "lon": -120.0835,
   "state": "",
   "osm_type": "node",
-  "osm_id": 1110783217
+  "osm_id": 1110783217,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/92,69/forecast",
+  "office": "STO"
  },
  {
   "name": "Blue Knob",
@@ -621,7 +775,9 @@
   "lon": -78.5577,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1221894855
+  "osm_id": 1221894855,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/48,31/forecast",
+  "office": "CTP"
  },
  {
   "name": "Blue Mountain Resort",
@@ -629,7 +785,9 @@
   "lon": -75.5126,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 390536570
+  "osm_id": 390536570,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/32,116/forecast",
+  "office": "PHI"
  },
  {
   "name": "Bluewood Ski Area",
@@ -637,7 +795,9 @@
   "lon": -117.8518,
   "state": "",
   "osm_type": "way",
-  "osm_id": 186084312
+  "osm_id": 186084312,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/165,113/forecast",
+  "office": "PDT"
  },
  {
   "name": "Bogus Basin Mountain Recreation Area",
@@ -645,7 +805,9 @@
   "lon": -116.0924,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1470441271
+  "osm_id": 1470441271,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/138,92/forecast",
+  "office": "BOI"
  },
  {
   "name": "Bolton Valley Resort",
@@ -653,7 +815,9 @@
   "lon": -72.8502,
   "state": "",
   "osm_type": "way",
-  "osm_id": 905237707
+  "osm_id": 905237707,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/101,56/forecast",
+  "office": "BTV"
  },
  {
   "name": "Boston Mills Ski Resort",
@@ -661,7 +825,9 @@
   "lon": -81.5656,
   "state": "OH",
   "osm_type": "way",
-  "osm_id": 452323654
+  "osm_id": 452323654,
+  "forecast_url": "https://api.weather.gov/gridpoints/CLE/89,55/forecast",
+  "office": "CLE"
  },
  {
   "name": "Bousquet Mountain",
@@ -669,7 +835,9 @@
   "lon": -73.2801,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1278125600
+  "osm_id": 1278125600,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/90,55/forecast",
+  "office": "ALY"
  },
  {
   "name": "Boyce Park Ski Area",
@@ -677,7 +845,9 @@
   "lon": -79.7489,
   "state": "",
   "osm_type": "way",
-  "osm_id": 360578768
+  "osm_id": 360578768,
+  "forecast_url": "https://api.weather.gov/gridpoints/PBZ/86,68/forecast",
+  "office": "PBZ"
  },
  {
   "name": "Boyne Highlands Resort",
@@ -685,7 +855,9 @@
   "lon": -84.9399,
   "state": "",
   "osm_type": "way",
-  "osm_id": 997160539
+  "osm_id": 997160539,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/49,81/forecast",
+  "office": "APX"
  },
  {
   "name": "Boyne Mountain",
@@ -693,7 +865,9 @@
   "lon": -84.9465,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1351013953
+  "osm_id": 1351013953,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/50,67/forecast",
+  "office": "APX"
  },
  {
   "name": "Brandywine Ski Resort",
@@ -701,7 +875,9 @@
   "lon": -81.5556,
   "state": "OH",
   "osm_type": "way",
-  "osm_id": 391698033
+  "osm_id": 391698033,
+  "forecast_url": "https://api.weather.gov/gridpoints/CLE/89,56/forecast",
+  "office": "CLE"
  },
  {
   "name": "Brantling Ski Slopes",
@@ -709,7 +885,9 @@
   "lon": -77.0672,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 910275239
+  "osm_id": 910275239,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/95,67/forecast",
+  "office": "BUF"
  },
  {
   "name": "Brattleboro Ski Hill",
@@ -717,7 +895,9 @@
   "lon": -72.5858,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1367080701
+  "osm_id": 1367080701,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/110,78/forecast",
+  "office": "ALY"
  },
  {
   "name": "Breckenridge Resort",
@@ -725,7 +905,9 @@
   "lon": -106.081,
   "state": "CO",
   "osm_type": "way",
-  "osm_id": 531005985
+  "osm_id": 531005985,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/24,53/forecast",
+  "office": "BOU"
  },
  {
   "name": "Bretton Woods Ski Area",
@@ -733,7 +915,9 @@
   "lon": -71.4673,
   "state": "NH",
   "osm_type": "way",
-  "osm_id": 334259249
+  "osm_id": 334259249,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/28,78/forecast",
+  "office": "GYX"
  },
  {
   "name": "Brian Head Resort",
@@ -741,7 +925,9 @@
   "lon": -112.847,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1230308747
+  "osm_id": 1230308747,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/49,42/forecast",
+  "office": "SLC"
  },
  {
   "name": "Bridger Bowl",
@@ -749,7 +935,9 @@
   "lon": -110.9122,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1228627171
+  "osm_id": 1228627171,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/101,64/forecast",
+  "office": "TFX"
  },
  {
   "name": "Brighton Resort",
@@ -757,7 +945,9 @@
   "lon": -111.5804,
   "state": "",
   "osm_type": "way",
-  "osm_id": 682230007
+  "osm_id": 682230007,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/110,166/forecast",
+  "office": "SLC"
  },
  {
   "name": "Bristol Mountain Ski Resort",
@@ -765,7 +955,9 @@
   "lon": -77.4136,
   "state": "",
   "osm_type": "way",
-  "osm_id": 320434895
+  "osm_id": 320434895,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/86,47/forecast",
+  "office": "BUF"
  },
  {
   "name": "Bromley Mountain Ski Resort;Bromley Mountain",
@@ -773,7 +965,9 @@
   "lon": -72.9378,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1096045891
+  "osm_id": 1096045891,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/95,93/forecast",
+  "office": "ALY"
  },
  {
   "name": "Bruce Mound Winter Sports Area",
@@ -781,7 +975,9 @@
   "lon": -90.7914,
   "state": "",
   "osm_type": "way",
-  "osm_id": 613145242
+  "osm_id": 613145242,
+  "forecast_url": "https://api.weather.gov/gridpoints/ARX/78,92/forecast",
+  "office": "ARX"
  },
  {
   "name": "Brundage Mountain",
@@ -789,7 +985,9 @@
   "lon": -116.1437,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1472725361
+  "osm_id": 1472725361,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/145,149/forecast",
+  "office": "BOI"
  },
  {
   "name": "Brush Creek Cross-Country Ski Trail System",
@@ -797,7 +995,9 @@
   "lon": -106.4976,
   "state": "",
   "osm_type": "way",
-  "osm_id": 655243251
+  "osm_id": 655243251,
+  "forecast_url": "https://api.weather.gov/gridpoints/CYS/53,27/forecast",
+  "office": "CYS"
  },
  {
   "name": "Bryce Resort",
@@ -805,7 +1005,9 @@
   "lon": -78.7659,
   "state": "VA",
   "osm_type": "way",
-  "osm_id": 1010720455
+  "osm_id": 1010720455,
+  "forecast_url": "https://api.weather.gov/gridpoints/LWX/37,60/forecast",
+  "office": "LWX"
  },
  {
   "name": "Buck Hill",
@@ -813,7 +1015,9 @@
   "lon": -93.2856,
   "state": "MN",
   "osm_type": "way",
-  "osm_id": 1344641638
+  "osm_id": 1344641638,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/108,60/forecast",
+  "office": "MPX"
  },
  {
   "name": "Buckskin Hills Ski + Tubing Hill",
@@ -821,7 +1025,9 @@
   "lon": -109.4315,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1213948650
+  "osm_id": 1213948650,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/71,169/forecast",
+  "office": "GJT"
  },
  {
   "name": "Buena Vista Ski Area",
@@ -829,7 +1035,9 @@
   "lon": -94.8771,
   "state": "",
   "osm_type": "way",
-  "osm_id": 561579818
+  "osm_id": 561579818,
+  "forecast_url": "https://api.weather.gov/gridpoints/FGF/162,93/forecast",
+  "office": "FGF"
  },
  {
   "name": "Buffalo Ski Club",
@@ -837,7 +1045,9 @@
   "lon": -78.696,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1026073030
+  "osm_id": 1026073030,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/43,38/forecast",
+  "office": "BUF"
  },
  {
   "name": "Bunny Hill",
@@ -845,7 +1055,9 @@
   "lon": -87.6468,
   "state": "",
   "osm_type": "way",
-  "osm_id": 293299187
+  "osm_id": 293299187,
+  "forecast_url": "https://api.weather.gov/gridpoints/LOT/75,75/forecast",
+  "office": "LOT"
  },
  {
   "name": "Burke Mountain Resort",
@@ -853,7 +1065,9 @@
   "lon": -71.9009,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1094524069
+  "osm_id": 1094524069,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/131,68/forecast",
+  "office": "BTV"
  },
  {
   "name": "Buttermilk",
@@ -861,7 +1075,9 @@
   "lon": -106.87,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530538581
+  "osm_id": 530538581,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/155,102/forecast",
+  "office": "GJT"
  },
  {
   "name": "Caberfae Peaks",
@@ -869,7 +1085,9 @@
   "lon": -85.7176,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1241940633
+  "osm_id": 1241940633,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/27,22/forecast",
+  "office": "APX"
  },
  {
   "name": "Camden Snow Bowl",
@@ -877,7 +1095,9 @@
   "lon": -69.1415,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1366642639
+  "osm_id": 1366642639,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/104,90/forecast",
+  "office": "GYX"
  },
  {
   "name": "Camel's Hump Nordic Ski Area",
@@ -885,7 +1105,9 @@
   "lon": -72.934,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363368307
+  "osm_id": 1363368307,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/99,51/forecast",
+  "office": "BTV"
  },
  {
   "name": "Camelback Mountain Resort",
@@ -893,7 +1115,9 @@
   "lon": -75.3521,
   "state": "",
   "osm_type": "way",
-  "osm_id": 52067284
+  "osm_id": 52067284,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/36,127/forecast",
+  "office": "PHI"
  },
  {
   "name": "Camp 10 Ski n Snowboard",
@@ -901,7 +1125,9 @@
   "lon": -89.5045,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 1258231242
+  "osm_id": 1258231242,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/28,78/forecast",
+  "office": "GRB"
  },
  {
   "name": "Campgaw Mountain Ski Area",
@@ -909,7 +1135,9 @@
   "lon": -74.1975,
   "state": "",
   "osm_type": "way",
-  "osm_id": 39834766
+  "osm_id": 39834766,
+  "forecast_url": "https://api.weather.gov/gridpoints/OKX/24,57/forecast",
+  "office": "OKX"
  },
  {
   "name": "Campton Mountain",
@@ -917,7 +1145,9 @@
   "lon": -71.6098,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362711736
+  "osm_id": 1362711736,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/26,59/forecast",
+  "office": "GYX"
  },
  {
   "name": "Canaan Valley Ski Resort",
@@ -925,7 +1155,9 @@
   "lon": -79.4366,
   "state": "",
   "osm_type": "way",
-  "osm_id": 908172888
+  "osm_id": 908172888,
+  "forecast_url": "https://api.weather.gov/gridpoints/PBZ/104,4/forecast",
+  "office": "PBZ"
  },
  {
   "name": "Cannon Mountain",
@@ -933,7 +1165,9 @@
   "lon": -71.7007,
   "state": "",
   "osm_type": "way",
-  "osm_id": 334259037
+  "osm_id": 334259037,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/21,73/forecast",
+  "office": "GYX"
  },
  {
   "name": "Cannonsburg Ski Area",
@@ -941,7 +1175,9 @@
   "lon": -85.5032,
   "state": "MI",
   "osm_type": "way",
-  "osm_id": 524527169
+  "osm_id": 524527169,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRR/46,51/forecast",
+  "office": "GRR"
  },
  {
   "name": "Caribou Medow",
@@ -949,7 +1185,9 @@
   "lon": -105.5818,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1350826545
+  "osm_id": 1350826545,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/43,72/forecast",
+  "office": "BOU"
  },
  {
   "name": "Carter's XC Ski",
@@ -957,7 +1195,9 @@
   "lon": -70.7803,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362834254
+  "osm_id": 1362834254,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/48,92/forecast",
+  "office": "GYX"
  },
  {
   "name": "Cascade Mountain",
@@ -965,7 +1205,9 @@
   "lon": -89.5129,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 552426422
+  "osm_id": 552426422,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/33,84/forecast",
+  "office": "MKX"
  },
  {
   "name": "Casper Nordic Center",
@@ -973,7 +1215,9 @@
   "lon": -106.3053,
   "state": "",
   "osm_type": "way",
-  "osm_id": 664507547
+  "osm_id": 664507547,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/188,90/forecast",
+  "office": "RIW"
  },
  {
   "name": "Castle hill",
@@ -981,7 +1225,9 @@
   "lon": -104.8858,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1443055846
+  "osm_id": 1443055846,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/65,45/forecast",
+  "office": "BOU"
  },
  {
   "name": "Cataloochee Ski Area",
@@ -989,7 +1235,9 @@
   "lon": -83.0908,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1311290835
+  "osm_id": 1311290835,
+  "forecast_url": "https://api.weather.gov/gridpoints/GSP/36,72/forecast",
+  "office": "GSP"
  },
  {
   "name": "Catamount Mountain Resort",
@@ -997,7 +1245,9 @@
   "lon": -73.4771,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1176086204
+  "osm_id": 1176086204,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/85,42/forecast",
+  "office": "ALY"
  },
  {
   "name": "CAVOC Trails",
@@ -1005,7 +1255,9 @@
   "lon": -89.3471,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 17011203
+  "osm_id": 17011203,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/33,82/forecast",
+  "office": "GRB"
  },
  {
   "name": "Cedar Pass",
@@ -1013,7 +1265,9 @@
   "lon": -120.266,
   "state": "",
   "osm_type": "way",
-  "osm_id": 908288937
+  "osm_id": 908288937,
+  "forecast_url": "https://api.weather.gov/gridpoints/MFR/185,21/forecast",
+  "office": "MFR"
  },
  {
   "name": "Chapman Hill Recreation Area",
@@ -1021,7 +1275,9 @@
   "lon": -107.8681,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530501892
+  "osm_id": 530501892,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/112,20/forecast",
+  "office": "GJT"
  },
  {
   "name": "Cherry Peak Ski Area",
@@ -1029,7 +1285,9 @@
   "lon": -111.7535,
   "state": "UT",
   "osm_type": "way",
-  "osm_id": 1275118072
+  "osm_id": 1275118072,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/112,228/forecast",
+  "office": "SLC"
  },
  {
   "name": "Chester Bowl",
@@ -1037,7 +1295,9 @@
   "lon": -92.0959,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1489470471
+  "osm_id": 1489470471,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/91,70/forecast",
+  "office": "DLH"
  },
  {
   "name": "Chestnut Mountain Resort",
@@ -1045,7 +1305,9 @@
   "lon": -90.3977,
   "state": "",
   "osm_type": "way",
-  "osm_id": 867570853
+  "osm_id": 867570853,
+  "forecast_url": "https://api.weather.gov/gridpoints/DVN/72,103/forecast",
+  "office": "DVN"
  },
  {
   "name": "Chimney Park Nordic Trails",
@@ -1053,7 +1315,9 @@
   "lon": -106.0935,
   "state": "",
   "osm_type": "way",
-  "osm_id": 668350382
+  "osm_id": 668350382,
+  "forecast_url": "https://api.weather.gov/gridpoints/CYS/66,14/forecast",
+  "office": "CYS"
  },
  {
   "name": "China Peak Mountain Resort",
@@ -1061,7 +1325,9 @@
   "lon": -119.1568,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1162245573
+  "osm_id": 1162245573,
+  "forecast_url": "https://api.weather.gov/gridpoints/HNX/78,117/forecast",
+  "office": "HNX"
  },
  {
   "name": "Chipmunk Ski Hill",
@@ -1069,7 +1335,9 @@
   "lon": -114.3219,
   "state": "",
   "osm_type": "way",
-  "osm_id": 917828473
+  "osm_id": 917828473,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/54,130/forecast",
+  "office": "PIH"
  },
  {
   "name": "Chiwawa Sno-Park",
@@ -1077,7 +1345,9 @@
   "lon": -120.674,
   "state": "WA",
   "osm_type": "way",
-  "osm_id": 1157604112
+  "osm_id": 1157604112,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/39,115/forecast",
+  "office": "OTX"
  },
  {
   "name": "Christie Mountain Ski Area",
@@ -1085,7 +1355,9 @@
   "lon": -91.3843,
   "state": "",
   "osm_type": "way",
-  "osm_id": 415878204
+  "osm_id": 415878204,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/170,98/forecast",
+  "office": "MPX"
  },
  {
   "name": "Christmas Mountain",
@@ -1093,7 +1365,9 @@
   "lon": -89.8627,
   "state": "",
   "osm_type": "way",
-  "osm_id": 909097500
+  "osm_id": 909097500,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/21,88/forecast",
+  "office": "MKX"
  },
  {
   "name": "Cimarron Start House",
@@ -1101,7 +1375,9 @@
   "lon": -106.0719,
   "state": "",
   "osm_type": "way",
-  "osm_id": 470098262
+  "osm_id": 470098262,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/24,52/forecast",
+  "office": "BOU"
  },
  {
   "name": "Cloudmont Ski Hill",
@@ -1109,7 +1385,9 @@
   "lon": -85.6014,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1246749803
+  "osm_id": 1246749803,
+  "forecast_url": "https://api.weather.gov/gridpoints/HUN/100,36/forecast",
+  "office": "HUN"
  },
  {
   "name": "Cochran's Ski Area",
@@ -1117,7 +1395,9 @@
   "lon": -72.9818,
   "state": "",
   "osm_type": "way",
-  "osm_id": 492412302
+  "osm_id": 492412302,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/97,54/forecast",
+  "office": "BTV"
  },
  {
   "name": "Coffee Mill Ski & Snowboard Resort",
@@ -1125,7 +1405,9 @@
   "lon": -92.0437,
   "state": "MN",
   "osm_type": "way",
-  "osm_id": 734596223
+  "osm_id": 734596223,
+  "forecast_url": "https://api.weather.gov/gridpoints/ARX/36,87/forecast",
+  "office": "ARX"
  },
  {
   "name": "Competition Trails",
@@ -1133,7 +1415,9 @@
   "lon": -88.5434,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1349708541
+  "osm_id": 1349708541,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/115,95/forecast",
+  "office": "MQT"
  },
  {
   "name": "Copper Falls State Park Winter Trails",
@@ -1141,7 +1425,9 @@
   "lon": -90.6485,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361224846
+  "osm_id": 1361224846,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/139,50/forecast",
+  "office": "DLH"
  },
  {
   "name": "Copper Mountain",
@@ -1149,7 +1435,9 @@
   "lon": -106.163,
   "state": "",
   "osm_type": "way",
-  "osm_id": 531005986
+  "osm_id": 531005986,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/21,53/forecast",
+  "office": "BOU"
  },
  {
   "name": "Copper Peak Ski Jump Park",
@@ -1157,7 +1445,9 @@
   "lon": -90.089,
   "state": "",
   "osm_type": "way",
-  "osm_id": 958972227
+  "osm_id": 958972227,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/66,69/forecast",
+  "office": "MQT"
  },
  {
   "name": "Coppervale Ski Area",
@@ -1165,7 +1455,9 @@
   "lon": -120.904,
   "state": "",
   "osm_type": "node",
-  "osm_id": 9634898296
+  "osm_id": 9634898296,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/15,150/forecast",
+  "office": "REV"
  },
  {
   "name": "Cottonwood Butte Ski Hill",
@@ -1173,7 +1465,9 @@
   "lon": -116.4574,
   "state": "",
   "osm_type": "way",
-  "osm_id": 767347917
+  "osm_id": 767347917,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/20,106/forecast",
+  "office": "MSO"
  },
  {
   "name": "Cranmore Mountain Resort",
@@ -1181,7 +1475,9 @@
   "lon": -71.0989,
   "state": "",
   "osm_type": "way",
-  "osm_id": 334089267
+  "osm_id": 334089267,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/41,71/forecast",
+  "office": "GYX"
  },
  {
   "name": "Cranmore Tubing Park",
@@ -1189,7 +1485,9 @@
   "lon": -71.1094,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1017192437
+  "osm_id": 1017192437,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/41,71/forecast",
+  "office": "GYX"
  },
  {
   "name": "Cranor Hill Municipal Ski Hill",
@@ -1197,7 +1495,9 @@
   "lon": -106.8959,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530520630
+  "osm_id": 530520630,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/151,75/forecast",
+  "office": "GJT"
  },
  {
   "name": "Crested Butte Mountain Resort",
@@ -1205,7 +1505,9 @@
   "lon": -106.9432,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530521512
+  "osm_id": 530521512,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/151,89/forecast",
+  "office": "GJT"
  },
  {
   "name": "Crested Butte Nordic",
@@ -1213,7 +1515,9 @@
   "lon": -106.9899,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 7632286
+  "osm_id": 7632286,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/149,88/forecast",
+  "office": "GJT"
  },
  {
   "name": "Cross Country Ski Headquarters Trails",
@@ -1221,7 +1525,9 @@
   "lon": -84.6564,
   "state": "",
   "osm_type": "way",
-  "osm_id": 937917198
+  "osm_id": 937917198,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/62,35/forecast",
+  "office": "APX"
  },
  {
   "name": "Crotched Mountain Ski & Ride",
@@ -1229,7 +1535,9 @@
   "lon": -71.8788,
   "state": "NH",
   "osm_type": "relation",
-  "osm_id": 18511194
+  "osm_id": 18511194,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/24,19/forecast",
+  "office": "GYX"
  },
  {
   "name": "Crystal Mountain",
@@ -1237,7 +1545,9 @@
   "lon": -85.9968,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1155757094
+  "osm_id": 1155757094,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/17,34/forecast",
+  "office": "APX"
  },
  {
   "name": "Cuchara Mountain Resort",
@@ -1245,7 +1555,9 @@
   "lon": -105.1314,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1212155021
+  "osm_id": 1212155021,
+  "forecast_url": "https://api.weather.gov/gridpoints/PUB/74,25/forecast",
+  "office": "PUB"
  },
  {
   "name": "Dartmouth Skiway",
@@ -1253,7 +1565,9 @@
   "lon": -72.0964,
   "state": "NH",
   "osm_type": "relation",
-  "osm_id": 15475391
+  "osm_id": 15475391,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/11,53/forecast",
+  "office": "GYX"
  },
  {
   "name": "Dave Wood Winter Recreation Area",
@@ -1261,7 +1575,9 @@
   "lon": -107.9735,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1000114820
+  "osm_id": 1000114820,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/112,66/forecast",
+  "office": "GJT"
  },
  {
   "name": "Deer Hollow Non-Motorized Winter Recreation Area",
@@ -1269,7 +1585,9 @@
   "lon": -112.7921,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1225048334
+  "osm_id": 1225048334,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/50,35/forecast",
+  "office": "SLC"
  },
  {
   "name": "Deer Valley Resort",
@@ -1277,7 +1595,9 @@
   "lon": -111.4823,
   "state": "",
   "osm_type": "way",
-  "osm_id": 682241434
+  "osm_id": 682241434,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/114,167/forecast",
+  "office": "SLC"
  },
  {
   "name": "Detroit Mountain",
@@ -1285,7 +1605,9 @@
   "lon": -95.784,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1246948337
+  "osm_id": 1246948337,
+  "forecast_url": "https://api.weather.gov/gridpoints/FGF/133,53/forecast",
+  "office": "FGF"
  },
  {
   "name": "Devil's Head Ski Area",
@@ -1293,7 +1615,9 @@
   "lon": -89.6276,
   "state": "",
   "osm_type": "way",
-  "osm_id": 302670313
+  "osm_id": 302670313,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/30,80/forecast",
+  "office": "MKX"
  },
  {
   "name": "Diamond Peak",
@@ -1301,7 +1625,9 @@
   "lon": -119.914,
   "state": "",
   "osm_type": "way",
-  "osm_id": 467831000
+  "osm_id": 467831000,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/39,95/forecast",
+  "office": "REV"
  },
  {
   "name": "Discovery Ski Area",
@@ -1309,7 +1635,9 @@
   "lon": -113.2515,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1263735248
+  "osm_id": 1263735248,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/125,99/forecast",
+  "office": "MSO"
  },
  {
   "name": "Dodge Ridge Ski Area",
@@ -1317,7 +1645,9 @@
   "lon": -119.9387,
   "state": "",
   "osm_type": "way",
-  "osm_id": 242382005
+  "osm_id": 242382005,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/92,41/forecast",
+  "office": "STO"
  },
  {
   "name": "Dry Hill Ski Area",
@@ -1325,7 +1655,9 @@
   "lon": -75.9023,
   "state": "",
   "osm_type": "way",
-  "osm_id": 679909874
+  "osm_id": 679909874,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/129,108/forecast",
+  "office": "BUF"
  },
  {
   "name": "Durango Nordic Center",
@@ -1333,7 +1665,9 @@
   "lon": -107.8045,
   "state": "",
   "osm_type": "way",
-  "osm_id": 529997954
+  "osm_id": 529997954,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/115,36/forecast",
+  "office": "GJT"
  },
  {
   "name": "Dutch Henry Ski Hill",
@@ -1341,7 +1675,9 @@
   "lon": -106.304,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1495620324
+  "osm_id": 1495620324,
+  "forecast_url": "https://api.weather.gov/gridpoints/PUB/39,113/forecast",
+  "office": "PUB"
  },
  {
   "name": "Eagle Point Resort",
@@ -1349,7 +1685,9 @@
   "lon": -112.3819,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1117705886
+  "osm_id": 1117705886,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/69,68/forecast",
+  "office": "SLC"
  },
  {
   "name": "Eagle Rock Ski Resort",
@@ -1357,7 +1695,9 @@
   "lon": -76.1066,
   "state": "",
   "osm_type": "way",
-  "osm_id": 390167295
+  "osm_id": 390167295,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/67,3/forecast",
+  "office": "BGM"
  },
  {
   "name": "Eaglecrest Ski Area",
@@ -1365,7 +1705,9 @@
   "lon": -134.5114,
   "state": "AK",
   "osm_type": "way",
-  "osm_id": 1010412985
+  "osm_id": 1010412985,
+  "forecast_url": "https://api.weather.gov/gridpoints/AJK/192,161/forecast",
+  "office": "AJK"
  },
  {
   "name": "Eastman Cross Country",
@@ -1373,7 +1715,9 @@
   "lon": -72.1128,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363087011
+  "osm_id": 1363087011,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/12,40/forecast",
+  "office": "GYX"
  },
  {
   "name": "Echo Mountain",
@@ -1381,7 +1725,9 @@
   "lon": -105.5204,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530998534
+  "osm_id": 530998534,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/44,60/forecast",
+  "office": "BOU"
  },
  {
   "name": "Echo Valley Ski Area",
@@ -1389,7 +1735,9 @@
   "lon": -120.058,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1017418156
+  "osm_id": 1017418156,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/59,118/forecast",
+  "office": "OTX"
  },
  {
   "name": "Eldora",
@@ -1397,7 +1745,9 @@
   "lon": -105.5934,
   "state": "",
   "osm_type": "way",
-  "osm_id": 427517284
+  "osm_id": 427517284,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/43,72/forecast",
+  "office": "BOU"
  },
  {
   "name": "Elk Mountain Ski Resort",
@@ -1405,7 +1755,9 @@
   "lon": -75.5583,
   "state": "",
   "osm_type": "way",
-  "osm_id": 422321232
+  "osm_id": 422321232,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/81,42/forecast",
+  "office": "BGM"
  },
  {
   "name": "Erie Skeet Club",
@@ -1413,7 +1765,9 @@
   "lon": -80.1563,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 987977823
+  "osm_id": 987977823,
+  "forecast_url": "https://api.weather.gov/gridpoints/CLE/133,95/forecast",
+  "office": "CLE"
  },
  {
   "name": "Fahnestock Winter Park",
@@ -1421,7 +1775,9 @@
   "lon": -73.8281,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1472723234
+  "osm_id": 1472723234,
+  "forecast_url": "https://api.weather.gov/gridpoints/OKX/34,77/forecast",
+  "office": "OKX"
  },
  {
   "name": "Ferguson Ridge Ski Area",
@@ -1429,7 +1785,9 @@
   "lon": -117.1138,
   "state": "",
   "osm_type": "way",
-  "osm_id": 871519195
+  "osm_id": 871519195,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/183,72/forecast",
+  "office": "PDT"
  },
  {
   "name": "Fish Creek Meadows Nordic Park n Ski",
@@ -1437,7 +1795,9 @@
   "lon": -116.0977,
   "state": "",
   "osm_type": "way",
-  "osm_id": 875359993
+  "osm_id": 875359993,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/30,93/forecast",
+  "office": "MSO"
  },
  {
   "name": "Flambeau Hills Trails",
@@ -1445,7 +1805,9 @@
   "lon": -90.7187,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1359863204
+  "osm_id": 1359863204,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/137,24/forecast",
+  "office": "DLH"
  },
  {
   "name": "Forbush Corner Nordic Cross Country Skiing Center",
@@ -1453,7 +1815,9 @@
   "lon": -84.705,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1009742339
+  "osm_id": 1009742339,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/59,49/forecast",
+  "office": "APX"
  },
  {
   "name": "Four Corner Snow Park",
@@ -1461,7 +1825,9 @@
   "lon": -118.6077,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1555175941
+  "osm_id": 1555175941,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/133,76/forecast",
+  "office": "PDT"
  },
  {
   "name": "Four Seasons Trail Association",
@@ -1469,7 +1835,9 @@
   "lon": -68.3211,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1233538168
+  "osm_id": 1233538168,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/57,195/forecast",
+  "office": "CAR"
  },
  {
   "name": "Fox Hill Ski Area",
@@ -1477,7 +1845,9 @@
   "lon": -88.252,
   "state": "",
   "osm_type": "way",
-  "osm_id": 828173278
+  "osm_id": 828173278,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/76,80/forecast",
+  "office": "MKX"
  },
  {
   "name": "Franconia Village XC Ski Center",
@@ -1485,7 +1855,9 @@
   "lon": -71.7402,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363129372
+  "osm_id": 1363129372,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/19,74/forecast",
+  "office": "GYX"
  },
  {
   "name": "Frost Fire Park",
@@ -1493,7 +1865,9 @@
   "lon": -98.0668,
   "state": "ND",
   "osm_type": "way",
-  "osm_id": 656372511
+  "osm_id": 656372511,
+  "forecast_url": "https://api.weather.gov/gridpoints/FGF/61,155/forecast",
+  "office": "FGF"
  },
  {
   "name": "Giants Ridge Resort",
@@ -1501,7 +1875,9 @@
   "lon": -92.3141,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1314867881
+  "osm_id": 1314867881,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/83,106/forecast",
+  "office": "DLH"
  },
  {
   "name": "Gladstone Ski Hill",
@@ -1509,7 +1885,9 @@
   "lon": -87.0366,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1084305228
+  "osm_id": 1084305228,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/167,39/forecast",
+  "office": "MQT"
  },
  {
   "name": "Goat Meadow Snow Play Area",
@@ -1517,7 +1895,9 @@
   "lon": -119.6246,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1381803330
+  "osm_id": 1381803330,
+  "forecast_url": "https://api.weather.gov/gridpoints/HNX/64,132/forecast",
+  "office": "HNX"
  },
  {
   "name": "Gore Mountain",
@@ -1525,7 +1905,9 @@
   "lon": -74.0189,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1238042221
+  "osm_id": 1238042221,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/56,109/forecast",
+  "office": "ALY"
  },
  {
   "name": "Granby Ranch",
@@ -1533,7 +1915,9 @@
   "lon": -105.9028,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1266097397
+  "osm_id": 1266097397,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/32,77/forecast",
+  "office": "BOU"
  },
  {
   "name": "Grand Lake Nordic Center",
@@ -1541,7 +1925,9 @@
   "lon": -105.8605,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1312498328
+  "osm_id": 1312498328,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/35,87/forecast",
+  "office": "BOU"
  },
  {
   "name": "Grand Targhee Resort",
@@ -1549,7 +1935,9 @@
   "lon": -110.9426,
   "state": "WY",
   "osm_type": "way",
-  "osm_id": 952802401
+  "osm_id": 952802401,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/37,154/forecast",
+  "office": "RIW"
  },
  {
   "name": "Granite Gorge Ski Area",
@@ -1557,7 +1945,9 @@
   "lon": -72.2126,
   "state": "",
   "osm_type": "way",
-  "osm_id": 450395267
+  "osm_id": 450395267,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/13,15/forecast",
+  "office": "GYX"
  },
  {
   "name": "Granite Peak Ski Area",
@@ -1565,7 +1955,9 @@
   "lon": -89.6851,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 317142448
+  "osm_id": 317142448,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/23,49/forecast",
+  "office": "GRB"
  },
  {
   "name": "Great Bear Recreation Park",
@@ -1573,7 +1965,9 @@
   "lon": -96.6643,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1214114449
+  "osm_id": 1214114449,
+  "forecast_url": "https://api.weather.gov/gridpoints/FSD/100,66/forecast",
+  "office": "FSD"
  },
  {
   "name": "Great Brook Ski Touring Center",
@@ -1581,7 +1975,9 @@
   "lon": -71.3417,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1230108780
+  "osm_id": 1230108780,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/60,108/forecast",
+  "office": "BOX"
  },
  {
   "name": "Great Divide Ski Area",
@@ -1589,7 +1985,9 @@
   "lon": -112.3259,
   "state": "",
   "osm_type": "way",
-  "osm_id": 147037315
+  "osm_id": 147037315,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/61,113/forecast",
+  "office": "TFX"
  },
  {
   "name": "Great Glen Trails",
@@ -1597,7 +1995,9 @@
   "lon": -71.2244,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361269903
+  "osm_id": 1361269903,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/35,81/forecast",
+  "office": "GYX"
  },
  {
   "name": "Greek Peak Mountain Resort",
@@ -1605,7 +2005,9 @@
   "lon": -76.1391,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 691521201
+  "osm_id": 691521201,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/56,74/forecast",
+  "office": "BGM"
  },
  {
   "name": "Green Mountain",
@@ -1613,7 +2015,9 @@
   "lon": -106.9013,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1213942855
+  "osm_id": 1213942855,
+  "forecast_url": "https://api.weather.gov/gridpoints/CYS/38,19/forecast",
+  "office": "CYS"
  },
  {
   "name": "Green Woodlands",
@@ -1621,7 +2025,9 @@
   "lon": -71.9883,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363573788
+  "osm_id": 1363573788,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/14,53/forecast",
+  "office": "GYX"
  },
  {
   "name": "Gunstock Recreation Area",
@@ -1629,7 +2035,9 @@
   "lon": -71.3677,
   "state": "",
   "osm_type": "way",
-  "osm_id": 47798396
+  "osm_id": 47798396,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/37,46/forecast",
+  "office": "GYX"
  },
  {
   "name": "Happy Jack Winter Trails",
@@ -1637,7 +2045,9 @@
   "lon": -105.4187,
   "state": "",
   "osm_type": "way",
-  "osm_id": 668348061
+  "osm_id": 668348061,
+  "forecast_url": "https://api.weather.gov/gridpoints/CYS/89,20/forecast",
+  "office": "CYS"
  },
  {
   "name": "Hard'Ack Ski Area",
@@ -1645,7 +2055,9 @@
   "lon": -73.0673,
   "state": "",
   "osm_type": "way",
-  "osm_id": 759625771
+  "osm_id": 759625771,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/91,73/forecast",
+  "office": "BTV"
  },
  {
   "name": "Harrington Hill",
@@ -1653,7 +2065,9 @@
   "lon": -72.3711,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1105825771
+  "osm_id": 1105825771,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/121,32/forecast",
+  "office": "BTV"
  },
  {
   "name": "Hasbrouck Ranch Nordic Trails",
@@ -1661,7 +2075,9 @@
   "lon": -116.0213,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1125761974
+  "osm_id": 1125761974,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/145,121/forecast",
+  "office": "BOI"
  },
  {
   "name": "Hatley Pointe",
@@ -1669,7 +2085,9 @@
   "lon": -82.5102,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1126110799
+  "osm_id": 1126110799,
+  "forecast_url": "https://api.weather.gov/gridpoints/GSP/56,91/forecast",
+  "office": "GSP"
  },
  {
   "name": "Hawksnest Snow Tubing",
@@ -1677,7 +2095,9 @@
   "lon": -81.8241,
   "state": "NC",
   "osm_type": "way",
-  "osm_id": 907926156
+  "osm_id": 907926156,
+  "forecast_url": "https://api.weather.gov/gridpoints/GSP/79,102/forecast",
+  "office": "GSP"
  },
  {
   "name": "Heavenly Hill",
@@ -1685,7 +2105,9 @@
   "lon": -71.0239,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1474579830
+  "osm_id": 1474579830,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/73,97/forecast",
+  "office": "BOX"
  },
  {
   "name": "Heavenly Mountain Resort",
@@ -1693,7 +2115,9 @@
   "lon": -119.912,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 12152028
+  "osm_id": 12152028,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/37,81/forecast",
+  "office": "REV"
  },
  {
   "name": "Heiliger Huegel Ski Club",
@@ -1701,7 +2125,9 @@
   "lon": -88.3128,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 1416767720
+  "osm_id": 1416767720,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/74,74/forecast",
+  "office": "MKX"
  },
  {
   "name": "Hermon Mountain",
@@ -1709,7 +2135,9 @@
   "lon": -68.9597,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362710453
+  "osm_id": 1362710453,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/60,72/forecast",
+  "office": "CAR"
  },
  {
   "name": "Hesperus Ski Area",
@@ -1717,7 +2145,9 @@
   "lon": -108.0572,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530498773
+  "osm_id": 530498773,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/105,21/forecast",
+  "office": "GJT"
  },
  {
   "name": "Hickory Ski Center",
@@ -1725,7 +2155,9 @@
   "lon": -73.8168,
   "state": "",
   "osm_type": "node",
-  "osm_id": 2622353354
+  "osm_id": 2622353354,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/64,100/forecast",
+  "office": "ALY"
  },
  {
   "name": "Hidden Valley",
@@ -1733,7 +2165,9 @@
   "lon": -90.6543,
   "state": "",
   "osm_type": "way",
-  "osm_id": 990531013
+  "osm_id": 990531013,
+  "forecast_url": "https://api.weather.gov/gridpoints/LSX/79,70/forecast",
+  "office": "LSX"
  },
  {
   "name": "Hidden Valley Resort",
@@ -1741,7 +2175,9 @@
   "lon": -79.2519,
   "state": "",
   "osm_type": "way",
-  "osm_id": 398100052
+  "osm_id": 398100052,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/25,18/forecast",
+  "office": "CTP"
  },
  {
   "name": "Hillberg Ski Area",
@@ -1749,7 +2185,9 @@
   "lon": -149.8167,
   "state": "",
   "osm_type": "way",
-  "osm_id": 974189591
+  "osm_id": 974189591,
+  "forecast_url": "https://api.weather.gov/gridpoints/AER/144,238/forecast",
+  "office": "AFC"
  },
  {
   "name": "Hilltop Ski Area",
@@ -1757,7 +2195,9 @@
   "lon": -149.739,
   "state": "",
   "osm_type": "way",
-  "osm_id": 839939642
+  "osm_id": 839939642,
+  "forecast_url": "https://api.weather.gov/gridpoints/AER/146,233/forecast",
+  "office": "AFC"
  },
  {
   "name": "Hoedown Hill",
@@ -1765,7 +2205,9 @@
   "lon": -104.9295,
   "state": "CO",
   "osm_type": "way",
-  "osm_id": 1443608615
+  "osm_id": 1443608615,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/67,94/forecast",
+  "office": "BOU"
  },
  {
   "name": "Hogadon Basin Ski Area",
@@ -1773,7 +2215,9 @@
   "lon": -106.3411,
   "state": "",
   "osm_type": "way",
-  "osm_id": 664509572
+  "osm_id": 664509572,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/187,90/forecast",
+  "office": "RIW"
  },
  {
   "name": "Holiday Valley",
@@ -1781,7 +2225,9 @@
   "lon": -78.6771,
   "state": "",
   "osm_type": "way",
-  "osm_id": 136858703
+  "osm_id": 136858703,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/46,19/forecast",
+  "office": "BUF"
  },
  {
   "name": "Holimont",
@@ -1789,7 +2235,9 @@
   "lon": -78.6862,
   "state": "",
   "osm_type": "way",
-  "osm_id": 691516993
+  "osm_id": 691516993,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/46,20/forecast",
+  "office": "BUF"
  },
  {
   "name": "Holy Cross Trail",
@@ -1797,7 +2245,9 @@
   "lon": -90.3855,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1265218791
+  "osm_id": 1265218791,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/148,24/forecast",
+  "office": "DLH"
  },
  {
   "name": "Homestake Lodge & Ski Area",
@@ -1805,7 +2255,9 @@
   "lon": -112.3872,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1219679745
+  "osm_id": 1219679745,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/54,74/forecast",
+  "office": "TFX"
  },
  {
   "name": "Homewood Ski Area",
@@ -1813,7 +2265,9 @@
   "lon": -120.1734,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 8391726
+  "osm_id": 8391726,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/29,88/forecast",
+  "office": "REV"
  },
  {
   "name": "Homewood Snowcat Adventures",
@@ -1821,7 +2275,9 @@
   "lon": -120.1857,
   "state": "",
   "osm_type": "way",
-  "osm_id": 599019465
+  "osm_id": 599019465,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/28,88/forecast",
+  "office": "REV"
  },
  {
   "name": "Hoodoo Ski Area",
@@ -1829,7 +2285,9 @@
   "lon": -121.8809,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1260579139
+  "osm_id": 1260579139,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/128,47/forecast",
+  "office": "PQR"
  },
  {
   "name": "Horseshoe Prairie Nordic Ski Area",
@@ -1837,7 +2295,9 @@
   "lon": -118.0483,
   "state": "",
   "osm_type": "way",
-  "osm_id": 875327042
+  "osm_id": 875327042,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/156,97/forecast",
+  "office": "PDT"
  },
  {
   "name": "Howelson Hill Ski Area",
@@ -1845,7 +2305,9 @@
   "lon": -106.8387,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530989200
+  "osm_id": 530989200,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/161,160/forecast",
+  "office": "GJT"
  },
  {
   "name": "Huff Hills Ski Resort",
@@ -1853,7 +2315,9 @@
   "lon": -100.7262,
   "state": "",
   "osm_type": "way",
-  "osm_id": 846739537
+  "osm_id": 846739537,
+  "forecast_url": "https://api.weather.gov/gridpoints/BIS/112,38/forecast",
+  "office": "BIS"
  },
  {
   "name": "Hunt Hollow Ski Club",
@@ -1861,7 +2325,9 @@
   "lon": -77.4825,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 1303060558
+  "osm_id": 1303060558,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/84,42/forecast",
+  "office": "BUF"
  },
  {
   "name": "Hurricane Ridge Ski Area",
@@ -1869,7 +2335,9 @@
   "lon": -123.4952,
   "state": "",
   "osm_type": "node",
-  "osm_id": 8011579486
+  "osm_id": 8011579486,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/92,93/forecast",
+  "office": "SEW"
  },
  {
   "name": "Hyland Hills Ski Area",
@@ -1877,7 +2345,9 @@
   "lon": -93.3648,
   "state": "",
   "osm_type": "way",
-  "osm_id": 956685533
+  "osm_id": 956685533,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/105,66/forecast",
+  "office": "MPX"
  },
  {
   "name": "Hyland Ski & Snowboard Area Ski Jump",
@@ -1885,7 +2355,9 @@
   "lon": -93.3651,
   "state": "",
   "osm_type": "way",
-  "osm_id": 195173716
+  "osm_id": 195173716,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/105,66/forecast",
+  "office": "MPX"
  },
  {
   "name": "Icicle River Ski & Snowshoe Area",
@@ -1893,7 +2365,9 @@
   "lon": -120.6736,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1240319850
+  "osm_id": 1240319850,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/36,103/forecast",
+  "office": "OTX"
  },
  {
   "name": "Inland Woods and Trails",
@@ -1901,7 +2375,9 @@
   "lon": -70.7897,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1197168541
+  "osm_id": 1197168541,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/49,88/forecast",
+  "office": "GYX"
  },
  {
   "name": "Intervale Center",
@@ -1909,7 +2385,9 @@
   "lon": -73.2119,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363366218
+  "osm_id": 1363366218,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/88,58/forecast",
+  "office": "BTV"
  },
  {
   "name": "Ironton Park Cross-Country Ski Area",
@@ -1917,7 +2395,9 @@
   "lon": -107.6759,
   "state": "",
   "osm_type": "way",
-  "osm_id": 534417305
+  "osm_id": 534417305,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/121,48/forecast",
+  "office": "GJT"
  },
  {
   "name": "Jack Frost Mountain Resort",
@@ -1925,7 +2405,9 @@
   "lon": -75.652,
   "state": "",
   "osm_type": "way",
-  "osm_id": 390163427
+  "osm_id": 390163427,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/25,128/forecast",
+  "office": "PHI"
  },
  {
   "name": "Jackson Creek Summit",
@@ -1933,7 +2415,9 @@
   "lon": -89.9731,
   "state": "",
   "osm_type": "way",
-  "osm_id": 473859022
+  "osm_id": 473859022,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/70,65/forecast",
+  "office": "MQT"
  },
  {
   "name": "Jackson Hole Mountain Resort",
@@ -1941,7 +2425,9 @@
   "lon": -110.8497,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1074335726
+  "osm_id": 1074335726,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/39,144/forecast",
+  "office": "RIW"
  },
  {
   "name": "Jay Peak Resort",
@@ -1949,7 +2435,9 @@
   "lon": -72.5114,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1094522661
+  "osm_id": 1094522661,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/108,81/forecast",
+  "office": "BTV"
  },
  {
   "name": "Jiminy Peak Resort",
@@ -1957,7 +2445,9 @@
   "lon": -73.2858,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1021872776
+  "osm_id": 1021872776,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/88,61/forecast",
+  "office": "ALY"
  },
  {
   "name": "Johnsville Historic Ski Bowl",
@@ -1965,7 +2455,9 @@
   "lon": -120.7,
   "state": "",
   "osm_type": "node",
-  "osm_id": 8014687017
+  "osm_id": 8014687017,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/17,123/forecast",
+  "office": "REV"
  },
  {
   "name": "Jug Mountain Ranch Winter Trails",
@@ -1973,7 +2465,9 @@
   "lon": -116.0193,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1125750315
+  "osm_id": 1125750315,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/148,141/forecast",
+  "office": "BOI"
  },
  {
   "name": "June Mountain",
@@ -1981,7 +2475,9 @@
   "lon": -119.0752,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 14100275
+  "osm_id": 14100275,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/56,23/forecast",
+  "office": "REV"
  },
  {
   "name": "Kanc Recreation Area",
@@ -1989,7 +2485,9 @@
   "lon": -71.6627,
   "state": "",
   "osm_type": "way",
-  "osm_id": 759661881
+  "osm_id": 759661881,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/23,68/forecast",
+  "office": "GYX"
  },
  {
   "name": "Katahdin Woods and Waters National Monument",
@@ -1997,7 +2495,9 @@
   "lon": -68.7581,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 16875921
+  "osm_id": 16875921,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/55,133/forecast",
+  "office": "CAR"
  },
  {
   "name": "Kelly Canyon Ski Resort",
@@ -2005,7 +2505,9 @@
   "lon": -111.6226,
   "state": "",
   "osm_type": "way",
-  "osm_id": 375130755
+  "osm_id": 375130755,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/139,80/forecast",
+  "office": "PIH"
  },
  {
   "name": "Kendall Mountain Recreation Area",
@@ -2013,7 +2515,9 @@
   "lon": -107.6555,
   "state": "",
   "osm_type": "way",
-  "osm_id": 528962955
+  "osm_id": 528962955,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/121,43/forecast",
+  "office": "GJT"
  },
  {
   "name": "Keystone",
@@ -2021,7 +2525,9 @@
   "lon": -105.9334,
   "state": "CO",
   "osm_type": "way",
-  "osm_id": 531000583
+  "osm_id": 531000583,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/30,56/forecast",
+  "office": "BOU"
  },
  {
   "name": "Killington Resort",
@@ -2029,7 +2535,9 @@
   "lon": -72.7884,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1228774360
+  "osm_id": 1228774360,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/109,19/forecast",
+  "office": "BTV"
  },
  {
   "name": "King Pine",
@@ -2037,7 +2545,9 @@
   "lon": -71.0868,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363577242
+  "osm_id": 1363577242,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/43,62/forecast",
+  "office": "GYX"
  },
  {
   "name": "Kirkwood Mountain Resort",
@@ -2045,7 +2555,9 @@
   "lon": -120.0659,
   "state": "",
   "osm_type": "way",
-  "osm_id": 319472357
+  "osm_id": 319472357,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/91,63/forecast",
+  "office": "STO"
  },
  {
   "name": "Kissing Bridge",
@@ -2053,7 +2565,9 @@
   "lon": -78.6587,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1026091819
+  "osm_id": 1026091819,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/45,35/forecast",
+  "office": "BUF"
  },
  {
   "name": "Korkki Nordic Ski Center",
@@ -2061,7 +2575,9 @@
   "lon": -91.8721,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1240803734
+  "osm_id": 1240803734,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/98,78/forecast",
+  "office": "DLH"
  },
  {
   "name": "Ktaadn Resort XC Trails",
@@ -2069,7 +2585,9 @@
   "lon": -68.8086,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1243192412
+  "osm_id": 1243192412,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/57,116/forecast",
+  "office": "CAR"
  },
  {
   "name": "Labrador Mountain",
@@ -2077,7 +2595,9 @@
   "lon": -76.0367,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 691521199
+  "osm_id": 691521199,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/58,86/forecast",
+  "office": "BGM"
  },
  {
   "name": "Lake City Ski Hill",
@@ -2085,7 +2605,9 @@
   "lon": -107.3137,
   "state": "",
   "osm_type": "way",
-  "osm_id": 529976653
+  "osm_id": 529976653,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/134,50/forecast",
+  "office": "GJT"
  },
  {
   "name": "Lapland Lake Nordic Vacation Center",
@@ -2093,7 +2615,9 @@
   "lon": -74.3273,
   "state": "",
   "osm_type": "way",
-  "osm_id": 89894651
+  "osm_id": 89894651,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/49,88/forecast",
+  "office": "ALY"
  },
  {
   "name": "Laurel Mountain Ski Resort",
@@ -2101,7 +2625,9 @@
   "lon": -79.1693,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1026204281
+  "osm_id": 1026204281,
+  "forecast_url": "https://api.weather.gov/gridpoints/PBZ/107,57/forecast",
+  "office": "PBZ"
  },
  {
   "name": "Leavenworth Ski Hill",
@@ -2109,7 +2635,9 @@
   "lon": -120.6695,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 15657891
+  "osm_id": 15657891,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/37,106/forecast",
+  "office": "OTX"
  },
  {
   "name": "Lee Canyon",
@@ -2117,7 +2645,9 @@
   "lon": -115.6799,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1257430570
+  "osm_id": 1257430570,
+  "forecast_url": "https://api.weather.gov/gridpoints/VEF/104,107/forecast",
+  "office": "VEF"
  },
  {
   "name": "Lee's Ski Hill",
@@ -2125,7 +2655,9 @@
   "lon": -107.6689,
   "state": "",
   "osm_type": "way",
-  "osm_id": 528965905
+  "osm_id": 528965905,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/122,52/forecast",
+  "office": "GJT"
  },
  {
   "name": "Leland Snowplay",
@@ -2133,7 +2665,9 @@
   "lon": -119.9773,
   "state": "CA",
   "osm_type": "way",
-  "osm_id": 582377669
+  "osm_id": 582377669,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/91,43/forecast",
+  "office": "STO"
  },
  {
   "name": "Leo Jerome Martin Memorial Golf Course",
@@ -2141,7 +2675,9 @@
   "lon": -71.2651,
   "state": "MA",
   "osm_type": "way",
-  "osm_id": 123170496
+  "osm_id": 123170496,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/65,98/forecast",
+  "office": "BOX"
  },
  {
   "name": "Liberty Mountain Resort",
@@ -2149,7 +2685,9 @@
   "lon": -77.3708,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 390274626
+  "osm_id": 390274626,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/92,13/forecast",
+  "office": "CTP"
  },
  {
   "name": "Lily Lake Winter Non-Motorized Area",
@@ -2157,7 +2695,9 @@
   "lon": -110.8075,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 18480375
+  "osm_id": 18480375,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/138,177/forecast",
+  "office": "SLC"
  },
  {
   "name": "Lily Lake Winter Recreation Area",
@@ -2165,7 +2705,9 @@
   "lon": -110.8018,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 18480402
+  "osm_id": 18480402,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/138,176/forecast",
+  "office": "SLC"
  },
  {
   "name": "Little Boho Mountain",
@@ -2173,7 +2715,9 @@
   "lon": -88.0244,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 19733016
+  "osm_id": 19733016,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/131,109/forecast",
+  "office": "MQT"
  },
  {
   "name": "Little Ski Hill",
@@ -2181,7 +2725,9 @@
   "lon": -116.161,
   "state": "",
   "osm_type": "way",
-  "osm_id": 767350052
+  "osm_id": 767350052,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/144,146/forecast",
+  "office": "BOI"
  },
  {
   "name": "Little Switzerland Ski Hill",
@@ -2189,7 +2735,9 @@
   "lon": -88.2774,
   "state": "",
   "osm_type": "way",
-  "osm_id": 534284011
+  "osm_id": 534284011,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/75,78/forecast",
+  "office": "MKX"
  },
  {
   "name": "Locust Lake Village Ski Hill",
@@ -2197,7 +2745,9 @@
   "lon": -75.5599,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1220179031
+  "osm_id": 1220179031,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/28,130/forecast",
+  "office": "PHI"
  },
  {
   "name": "Lookout Pass",
@@ -2205,7 +2755,9 @@
   "lon": -115.7204,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1225427361
+  "osm_id": 1225427361,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/54,166/forecast",
+  "office": "MSO"
  },
  {
   "name": "Loon Mountain Resort",
@@ -2213,7 +2765,9 @@
   "lon": -71.6396,
   "state": "",
   "osm_type": "way",
-  "osm_id": 334246239
+  "osm_id": 334246239,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/24,67/forecast",
+  "office": "GYX"
  },
  {
   "name": "Lost Trail",
@@ -2221,7 +2775,9 @@
   "lon": -113.957,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1290903952
+  "osm_id": 1290903952,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/98,76/forecast",
+  "office": "MSO"
  },
  {
   "name": "Lost Valley Ski Area",
@@ -2229,7 +2785,9 @@
   "lon": -70.2844,
   "state": "",
   "osm_type": "way",
-  "osm_id": 860486037
+  "osm_id": 860486037,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/67,80/forecast",
+  "office": "GYX"
  },
  {
   "name": "Loup Loup Ski Bowl",
@@ -2237,7 +2795,9 @@
   "lon": -119.9183,
   "state": "",
   "osm_type": "way",
-  "osm_id": 266484152
+  "osm_id": 266484152,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/68,138/forecast",
+  "office": "OTX"
  },
  {
   "name": "Loveland Basin Ski Area",
@@ -2245,7 +2805,9 @@
   "lon": -105.9106,
   "state": "",
   "osm_type": "way",
-  "osm_id": 184326673
+  "osm_id": 184326673,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/31,61/forecast",
+  "office": "BOU"
  },
  {
   "name": "Loveland Valley Ski Area",
@@ -2253,7 +2815,9 @@
   "lon": -105.8797,
   "state": "",
   "osm_type": "way",
-  "osm_id": 184326663
+  "osm_id": 184326663,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/32,61/forecast",
+  "office": "BOU"
  },
  {
   "name": "Lower Trails",
@@ -2261,7 +2825,9 @@
   "lon": -88.5297,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1349708540
+  "osm_id": 1349708540,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/115,95/forecast",
+  "office": "MQT"
  },
  {
   "name": "Lutsen Mountains",
@@ -2269,7 +2835,9 @@
   "lon": -90.7201,
   "state": "MN",
   "osm_type": "relation",
-  "osm_id": 20342475
+  "osm_id": 20342475,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/135,111/forecast",
+  "office": "DLH"
  },
  {
   "name": "Lyndon Outing Club",
@@ -2277,7 +2845,9 @@
   "lon": -71.9837,
   "state": "",
   "osm_type": "way",
-  "osm_id": 759623390
+  "osm_id": 759623390,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/128,66/forecast",
+  "office": "BTV"
  },
  {
   "name": "Mackey Skate Park",
@@ -2285,7 +2855,9 @@
   "lon": -70.6744,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1458594842
+  "osm_id": 1458594842,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/63,32/forecast",
+  "office": "GYX"
  },
  {
   "name": "Mad River Glen",
@@ -2293,7 +2865,9 @@
   "lon": -72.9245,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1094318196
+  "osm_id": 1094318196,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/100,45/forecast",
+  "office": "BTV"
  },
  {
   "name": "Mad River Mountain",
@@ -2301,7 +2875,9 @@
   "lon": -83.6759,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1263732880
+  "osm_id": 1263732880,
+  "forecast_url": "https://api.weather.gov/gridpoints/ILN/60,95/forecast",
+  "office": "ILN"
  },
  {
   "name": "Magic Mountain Resort",
@@ -2309,7 +2885,9 @@
   "lon": -114.2849,
   "state": "",
   "osm_type": "way",
-  "osm_id": 859506501
+  "osm_id": 859506501,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/188,11/forecast",
+  "office": "BOI"
  },
  {
   "name": "Magic Mountain Ski Area",
@@ -2317,7 +2895,9 @@
   "lon": -72.7659,
   "state": "",
   "osm_type": "way",
-  "osm_id": 452295412
+  "osm_id": 452295412,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/101,93/forecast",
+  "office": "ALY"
  },
  {
   "name": "Maine Huts and Trails",
@@ -2325,7 +2905,9 @@
   "lon": -70.1643,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1233552674
+  "osm_id": 1233552674,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/62,130/forecast",
+  "office": "GYX"
  },
  {
   "name": "Mammoth Mountain",
@@ -2333,7 +2915,9 @@
   "lon": -119.0209,
   "state": "",
   "osm_type": "way",
-  "osm_id": 682231907
+  "osm_id": 682231907,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/57,17/forecast",
+  "office": "REV"
  },
  {
   "name": "Maple Ski Ridge",
@@ -2341,7 +2925,9 @@
   "lon": -74.033,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 1367181096
+  "osm_id": 1367181096,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/61,69/forecast",
+  "office": "ALY"
  },
  {
   "name": "Marlboro Nordic Ski Club",
@@ -2349,7 +2935,9 @@
   "lon": -72.7243,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1367078842
+  "osm_id": 1367078842,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/105,77/forecast",
+  "office": "ALY"
  },
  {
   "name": "Massanutten Resort Ski Area",
@@ -2357,7 +2945,9 @@
   "lon": -78.7603,
   "state": "",
   "osm_type": "way",
-  "osm_id": 543145559
+  "osm_id": 543145559,
+  "forecast_url": "https://api.weather.gov/gridpoints/LWX/39,41/forecast",
+  "office": "LWX"
  },
  {
   "name": "McCall Activity Barn",
@@ -2365,7 +2955,9 @@
   "lon": -116.1185,
   "state": "",
   "osm_type": "way",
-  "osm_id": 880047742
+  "osm_id": 880047742,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/145,143/forecast",
+  "office": "BOI"
  },
  {
   "name": "McCauley Mountain Ski Area",
@@ -2373,7 +2965,9 @@
   "lon": -74.9618,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 1085935982
+  "osm_id": 1085935982,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/24,105/forecast",
+  "office": "ALY"
  },
  {
   "name": "McIntyre Ski Area",
@@ -2381,7 +2975,9 @@
   "lon": -71.4408,
   "state": "NH",
   "osm_type": "way",
-  "osm_id": 361561697
+  "osm_id": 361561697,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/38,21/forecast",
+  "office": "GYX"
  },
  {
   "name": "Meacham Divide Nordic Area",
@@ -2389,7 +2985,9 @@
   "lon": -118.3075,
   "state": "",
   "osm_type": "way",
-  "osm_id": 875318001
+  "osm_id": 875318001,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/145,87/forecast",
+  "office": "PDT"
  },
  {
   "name": "Meadowlark Ski Area",
@@ -2397,7 +2995,9 @@
   "lon": -107.2179,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1554646926
+  "osm_id": 1554646926,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/163,158/forecast",
+  "office": "RIW"
  },
  {
   "name": "MECCA Trails",
@@ -2405,7 +3005,9 @@
   "lon": -90.0783,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1359352091
+  "osm_id": 1359352091,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/158,40/forecast",
+  "office": "DLH"
  },
  {
   "name": "Meequon Sledding Hill",
@@ -2413,7 +3015,9 @@
   "lon": -87.9897,
   "state": "",
   "osm_type": "way",
-  "osm_id": 722095938
+  "osm_id": 722095938,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/85,75/forecast",
+  "office": "MKX"
  },
  {
   "name": "Methow Trails",
@@ -2421,7 +3025,9 @@
   "lon": -120.3306,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1312614889
+  "osm_id": 1312614889,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/56,147/forecast",
+  "office": "OTX"
  },
  {
   "name": "Middlebury College Snow Bowl",
@@ -2429,7 +3035,9 @@
   "lon": -72.9548,
   "state": "",
   "osm_type": "way",
-  "osm_id": 32644222
+  "osm_id": 32644222,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/101,33/forecast",
+  "office": "BTV"
  },
  {
   "name": "Milan Hill State Park",
@@ -2437,7 +3045,9 @@
   "lon": -71.2256,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361282835
+  "osm_id": 1361282835,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/33,94/forecast",
+  "office": "GYX"
  },
  {
   "name": "Miller Mesa Nordic",
@@ -2445,7 +3055,9 @@
   "lon": -107.7785,
   "state": "",
   "osm_type": "way",
-  "osm_id": 534441752
+  "osm_id": 534441752,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/118,55/forecast",
+  "office": "GJT"
  },
  {
   "name": "Minocqua Winter Park",
@@ -2453,7 +3065,9 @@
   "lon": -89.8883,
   "state": "WI",
   "osm_type": "relation",
-  "osm_id": 10438213
+  "osm_id": 10438213,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/15,91/forecast",
+  "office": "GRB"
  },
  {
   "name": "Mission Ridge",
@@ -2461,7 +3075,9 @@
   "lon": -120.4095,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 15657511
+  "osm_id": 15657511,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/42,89/forecast",
+  "office": "OTX"
  },
  {
   "name": "Mohawk Mountain Ski Area",
@@ -2469,7 +3085,9 @@
   "lon": -73.3111,
   "state": "",
   "osm_type": "way",
-  "osm_id": 68519530
+  "osm_id": 68519530,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/93,28/forecast",
+  "office": "ALY"
  },
  {
   "name": "Monarch Mountain",
@@ -2477,7 +3095,9 @@
   "lon": -106.3428,
   "state": "",
   "osm_type": "way",
-  "osm_id": 308152532
+  "osm_id": 308152532,
+  "forecast_url": "https://api.weather.gov/gridpoints/PUB/35,81/forecast",
+  "office": "PUB"
  },
  {
   "name": "Mont du Lac",
@@ -2485,7 +3105,9 @@
   "lon": -92.2838,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1314378058
+  "osm_id": 1314378058,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/85,62/forecast",
+  "office": "DLH"
  },
  {
   "name": "Mont Ripley Ski Area",
@@ -2493,7 +3115,9 @@
   "lon": -88.5601,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 19733089
+  "osm_id": 19733089,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/114,96/forecast",
+  "office": "MQT"
  },
  {
   "name": "Montage Mountain Ski Area",
@@ -2501,7 +3125,9 @@
   "lon": -75.6587,
   "state": "",
   "osm_type": "way",
-  "osm_id": 45096232
+  "osm_id": 45096232,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/80,24/forecast",
+  "office": "BGM"
  },
  {
   "name": "Montana Snowbowl",
@@ -2509,7 +3135,9 @@
   "lon": -114.0067,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1335348646
+  "osm_id": 1335348646,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/106,138/forecast",
+  "office": "MSO"
  },
  {
   "name": "Moose Mountain Ski Resort",
@@ -2517,7 +3145,9 @@
   "lon": -147.9756,
   "state": "",
   "osm_type": "way",
-  "osm_id": 938362715
+  "osm_id": 938362715,
+  "forecast_url": "https://api.weather.gov/gridpoints/AFG/488,123/forecast",
+  "office": "AFG"
  },
  {
   "name": "Mount Abram",
@@ -2525,7 +3155,9 @@
   "lon": -70.711,
   "state": "",
   "osm_type": "way",
-  "osm_id": 415176032
+  "osm_id": 415176032,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/51,88/forecast",
+  "office": "GYX"
  },
  {
   "name": "Mount Ashwabay Ski & Recreation Area",
@@ -2533,7 +3165,9 @@
   "lon": -90.8962,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 788041949
+  "osm_id": 788041949,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/130,69/forecast",
+  "office": "DLH"
  },
  {
   "name": "Mount Bohemia",
@@ -2541,7 +3175,9 @@
   "lon": -88.0105,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 19375326
+  "osm_id": 19375326,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/131,109/forecast",
+  "office": "MQT"
  },
  {
   "name": "Mount Eyak Ski Area",
@@ -2549,7 +3185,9 @@
   "lon": -145.7409,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1010406137
+  "osm_id": 1010406137,
+  "forecast_url": "https://api.weather.gov/gridpoints/AER/219,214/forecast",
+  "office": "AFC"
  },
  {
   "name": "Mount Greylock Ski Club",
@@ -2557,7 +3195,9 @@
   "lon": -73.2141,
   "state": "",
   "osm_type": "way",
-  "osm_id": 29785325
+  "osm_id": 29785325,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/90,65/forecast",
+  "office": "ALY"
  },
  {
   "name": "Mount Jefferson Ski Area",
@@ -2565,7 +3205,9 @@
   "lon": -68.2821,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362606945
+  "osm_id": 1362606945,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/77,103/forecast",
+  "office": "CAR"
  },
  {
   "name": "Mount Kato Ski Area",
@@ -2573,7 +3215,9 @@
   "lon": -94.0366,
   "state": "",
   "osm_type": "way",
-  "osm_id": 713467426
+  "osm_id": 713467426,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/83,32/forecast",
+  "office": "MPX"
  },
  {
   "name": "Mount Peter",
@@ -2581,7 +3225,9 @@
   "lon": -74.2947,
   "state": "",
   "osm_type": "node",
-  "osm_id": 2622480705
+  "osm_id": 2622480705,
+  "forecast_url": "https://api.weather.gov/gridpoints/OKX/20,65/forecast",
+  "office": "OKX"
  },
  {
   "name": "Mount Pinos Winter Sports Area",
@@ -2589,7 +3235,9 @@
   "lon": -119.1264,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 2829056
+  "osm_id": 2829056,
+  "forecast_url": "https://api.weather.gov/gridpoints/LOX/129,84/forecast",
+  "office": "LOX"
  },
  {
   "name": "Mount Pisgah Ski Center",
@@ -2597,7 +3245,9 @@
   "lon": -74.1264,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1464128439
+  "osm_id": 1464128439,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/60,46/forecast",
+  "office": "BTV"
  },
  {
   "name": "Mount Pleasant of Edinboro",
@@ -2605,7 +3255,9 @@
   "lon": -80.075,
   "state": "",
   "osm_type": "way",
-  "osm_id": 860101380
+  "osm_id": 860101380,
+  "forecast_url": "https://api.weather.gov/gridpoints/CLE/137,87/forecast",
+  "office": "CLE"
  },
  {
   "name": "Mount Prospect Ski Tow",
@@ -2613,7 +3265,9 @@
   "lon": -71.574,
   "state": "",
   "osm_type": "way",
-  "osm_id": 957400619
+  "osm_id": 957400619,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/22,87/forecast",
+  "office": "GYX"
  },
  {
   "name": "Mount Rose Ski Tahoe",
@@ -2621,7 +3275,9 @@
   "lon": -119.8832,
   "state": "",
   "osm_type": "way",
-  "osm_id": 534160668
+  "osm_id": 534160668,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/41,97/forecast",
+  "office": "REV"
  },
  {
   "name": "Mount Ski Gull",
@@ -2629,7 +3285,9 @@
   "lon": -94.3786,
   "state": "",
   "osm_type": "way",
-  "osm_id": 931477309
+  "osm_id": 931477309,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/17,52/forecast",
+  "office": "DLH"
  },
  {
   "name": "Mount Snow",
@@ -2637,7 +3295,9 @@
   "lon": -72.907,
   "state": "",
   "osm_type": "way",
-  "osm_id": 860260235
+  "osm_id": 860260235,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/98,82/forecast",
+  "office": "ALY"
  },
  {
   "name": "Mount Southington Ski Area",
@@ -2645,7 +3305,9 @@
   "lon": -72.9291,
   "state": "",
   "osm_type": "way",
-  "osm_id": 390809151
+  "osm_id": 390809151,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/15,55/forecast",
+  "office": "BOX"
  },
  {
   "name": "Mount Sunapee",
@@ -2653,7 +3315,9 @@
   "lon": -72.0745,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1230199887
+  "osm_id": 1230199887,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/15,32/forecast",
+  "office": "GYX"
  },
  {
   "name": "Mount Telemark Village",
@@ -2661,7 +3325,9 @@
   "lon": -91.2484,
   "state": "",
   "osm_type": "way",
-  "osm_id": 736369773
+  "osm_id": 736369773,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/120,41/forecast",
+  "office": "DLH"
  },
  {
   "name": "Mount Zion Ski Area",
@@ -2669,7 +3335,9 @@
   "lon": -90.1654,
   "state": "MI",
   "osm_type": "way",
-  "osm_id": 1560245613
+  "osm_id": 1560245613,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/63,63/forecast",
+  "office": "MQT"
  },
  {
   "name": "Mountain Creek",
@@ -2677,7 +3345,9 @@
   "lon": -74.5158,
   "state": "",
   "osm_type": "way",
-  "osm_id": 972064114
+  "osm_id": 972064114,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/64,137/forecast",
+  "office": "PHI"
  },
  {
   "name": "Mt Baker",
@@ -2685,7 +3355,9 @@
   "lon": -121.6662,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 19108017
+  "osm_id": 19108017,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/157,123/forecast",
+  "office": "SEW"
  },
  {
   "name": "Mt Brighton",
@@ -2693,7 +3365,9 @@
   "lon": -83.8089,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1057669089
+  "osm_id": 1057669089,
+  "forecast_url": "https://api.weather.gov/gridpoints/DTX/39,41/forecast",
+  "office": "DTX"
  },
  {
   "name": "Mt. Bachelor",
@@ -2701,7 +3375,9 @@
   "lon": -121.6838,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1306486693
+  "osm_id": 1306486693,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/23,40/forecast",
+  "office": "PDT"
  },
  {
   "name": "Mt. Baldy Resort",
@@ -2709,7 +3385,9 @@
   "lon": -117.6137,
   "state": "CA",
   "osm_type": "way",
-  "osm_id": 907508350
+  "osm_id": 907508350,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/52,85/forecast",
+  "office": "SGX"
  },
  {
   "name": "Mt. Holiday",
@@ -2717,7 +3395,9 @@
   "lon": -85.5158,
   "state": "",
   "osm_type": "way",
-  "osm_id": 896064328
+  "osm_id": 896064328,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/32,46/forecast",
+  "office": "APX"
  },
  {
   "name": "Mt. Holly Ski & Snowboard Resort",
@@ -2725,7 +3405,9 @@
   "lon": -83.5644,
   "state": "",
   "osm_type": "way",
-  "osm_id": 278923089
+  "osm_id": 278923089,
+  "forecast_url": "https://api.weather.gov/gridpoints/DTX/46,55/forecast",
+  "office": "DTX"
  },
  {
   "name": "Mt. Hood Meadows Ski Resort",
@@ -2733,7 +3415,9 @@
   "lon": -121.6624,
   "state": "",
   "osm_type": "way",
-  "osm_id": 866496711
+  "osm_id": 866496711,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/144,89/forecast",
+  "office": "PQR"
  },
  {
   "name": "Mt. Hood Skibowl",
@@ -2741,7 +3425,9 @@
   "lon": -121.7727,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1155730256
+  "osm_id": 1155730256,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/140,87/forecast",
+  "office": "PQR"
  },
  {
   "name": "Mt. Itasca",
@@ -2749,7 +3435,9 @@
   "lon": -93.4501,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1459672934
+  "osm_id": 1459672934,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/47,92/forecast",
+  "office": "DLH"
  },
  {
   "name": "Mt. La Crosse",
@@ -2757,7 +3445,9 @@
   "lon": -91.1835,
   "state": "",
   "osm_type": "way",
-  "osm_id": 817289254
+  "osm_id": 817289254,
+  "forecast_url": "https://api.weather.gov/gridpoints/ARX/66,59/forecast",
+  "office": "ARX"
  },
  {
   "name": "Mt. McSauba",
@@ -2765,7 +3455,9 @@
   "lon": -85.246,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1076860555
+  "osm_id": 1076860555,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/39,74/forecast",
+  "office": "APX"
  },
  {
   "name": "Mt. Spokane",
@@ -2773,7 +3465,9 @@
   "lon": -117.1131,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1263733813
+  "osm_id": 1263733813,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/152,101/forecast",
+  "office": "OTX"
  },
  {
   "name": "Mystic Mountain Ski Area",
@@ -2781,7 +3475,9 @@
   "lon": -79.5497,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1220411616
+  "osm_id": 1220411616,
+  "forecast_url": "https://api.weather.gov/gridpoints/PBZ/96,40/forecast",
+  "office": "PBZ"
  },
  {
   "name": "Nappanee Sledding Hill",
@@ -2789,7 +3485,9 @@
   "lon": -85.9868,
   "state": "",
   "osm_type": "way",
-  "osm_id": 623115707
+  "osm_id": 623115707,
+  "forecast_url": "https://api.weather.gov/gridpoints/IWX/39,53/forecast",
+  "office": "IWX"
  },
  {
   "name": "Nara Trails",
@@ -2797,7 +3495,9 @@
   "lon": -88.5204,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1349708539
+  "osm_id": 1349708539,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/116,95/forecast",
+  "office": "MQT"
  },
  {
   "name": "Nashoba Valley Ski Area",
@@ -2805,7 +3505,9 @@
   "lon": -71.449,
   "state": "",
   "osm_type": "way",
-  "osm_id": 215697985
+  "osm_id": 215697985,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/57,107/forecast",
+  "office": "BOX"
  },
  {
   "name": "National Winter Activity Center",
@@ -2813,7 +3515,9 @@
   "lon": -74.4793,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1200712921
+  "osm_id": 1200712921,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/65,138/forecast",
+  "office": "PHI"
  },
  {
   "name": "Newcomb Ski Slope",
@@ -2821,7 +3525,9 @@
   "lon": -74.1756,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 1085254496
+  "osm_id": 1085254496,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/61,28/forecast",
+  "office": "BTV"
  },
  {
   "name": "Nordic Center",
@@ -2829,7 +3535,9 @@
   "lon": -112.379,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1200951349
+  "osm_id": 1200951349,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/108,41/forecast",
+  "office": "PIH"
  },
  {
   "name": "Nordic Heritage Outdoor Center",
@@ -2837,7 +3545,9 @@
   "lon": -67.9288,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1233544805
+  "osm_id": 1233544805,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/75,169/forecast",
+  "office": "CAR"
  },
  {
   "name": "Nordic Mountain",
@@ -2845,7 +3555,9 @@
   "lon": -89.1824,
   "state": "",
   "osm_type": "way",
-  "osm_id": 734699864
+  "osm_id": 734699864,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/41,12/forecast",
+  "office": "GRB"
  },
  {
   "name": "Nordic Trails at Oxbow Beer Garden",
@@ -2853,7 +3565,9 @@
   "lon": -70.4632,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1242192433
+  "osm_id": 1242192433,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/62,78/forecast",
+  "office": "GYX"
  },
  {
   "name": "Norge Ski Club",
@@ -2861,7 +3575,9 @@
   "lon": -88.2061,
   "state": "",
   "osm_type": "way",
-  "osm_id": 147563872
+  "osm_id": 147563872,
+  "forecast_url": "https://api.weather.gov/gridpoints/LOT/55,87/forecast",
+  "office": "LOT"
  },
  {
   "name": "North Corridor Trail",
@@ -2869,7 +3585,9 @@
   "lon": -107.6793,
   "state": "",
   "osm_type": "way",
-  "osm_id": 534437335
+  "osm_id": 534437335,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/121,53/forecast",
+  "office": "GJT"
  },
  {
   "name": "Northeast Slopes",
@@ -2877,7 +3595,9 @@
   "lon": -72.2527,
   "state": "",
   "osm_type": "way",
-  "osm_id": 759657892
+  "osm_id": 759657892,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/123,43/forecast",
+  "office": "BTV"
  },
  {
   "name": "Northern Timber Cruisers Ski Trails",
@@ -2885,7 +3605,9 @@
   "lon": -68.7451,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363106308
+  "osm_id": 1363106308,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/59,116/forecast",
+  "office": "CAR"
  },
  {
   "name": "Northfield Mountain Recreation and Environmental Center",
@@ -2893,7 +3615,9 @@
   "lon": -72.4589,
   "state": "",
   "osm_type": "way",
-  "osm_id": 602224085
+  "osm_id": 602224085,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/23,104/forecast",
+  "office": "BOX"
  },
  {
   "name": "Northland Arboretum",
@@ -2901,7 +3625,9 @@
   "lon": -94.2296,
   "state": "MN",
   "osm_type": "way",
-  "osm_id": 1158802669
+  "osm_id": 1158802669,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/22,48/forecast",
+  "office": "DLH"
  },
  {
   "name": "Northstar at Tahoe Resort",
@@ -2909,7 +3635,9 @@
   "lon": -120.1432,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 7095958
+  "osm_id": 7095958,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/31,96/forecast",
+  "office": "REV"
  },
  {
   "name": "NorthWoods Stewardship Center",
@@ -2917,7 +3645,9 @@
   "lon": -71.959,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363172818
+  "osm_id": 1363172818,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/127,80/forecast",
+  "office": "BTV"
  },
  {
   "name": "Norway Mountain Ski Resort",
@@ -2925,7 +3655,9 @@
   "lon": -87.8676,
   "state": "MI",
   "osm_type": "way",
-  "osm_id": 1057550035
+  "osm_id": 1057550035,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/140,34/forecast",
+  "office": "MQT"
  },
  {
   "name": "Notchview",
@@ -2933,7 +3665,9 @@
   "lon": -73.0259,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 13531099
+  "osm_id": 13531099,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/97,61/forecast",
+  "office": "ALY"
  },
  {
   "name": "Nub's Nob",
@@ -2941,7 +3675,9 @@
   "lon": -84.9042,
   "state": "",
   "osm_type": "way",
-  "osm_id": 997159129
+  "osm_id": 997159129,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/50,81/forecast",
+  "office": "APX"
  },
  {
   "name": "Nutt Hill",
@@ -2949,7 +3685,9 @@
   "lon": -87.9894,
   "state": "",
   "osm_type": "way",
-  "osm_id": 702101323
+  "osm_id": 702101323,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/84,98/forecast",
+  "office": "MKX"
  },
  {
   "name": "Oak Hill Outdoor Center",
@@ -2957,7 +3695,9 @@
   "lon": -72.2592,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363312802
+  "osm_id": 1363312802,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/6,49/forecast",
+  "office": "GYX"
  },
  {
   "name": "Ober Mountain",
@@ -2965,7 +3705,9 @@
   "lon": -83.5614,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1282431650
+  "osm_id": 1282431650,
+  "forecast_url": "https://api.weather.gov/gridpoints/MRX/85,41/forecast",
+  "office": "MRX"
  },
  {
   "name": "Oglebay Ski and Snowboard Area",
@@ -2973,7 +3715,9 @@
   "lon": -80.652,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1246736918
+  "osm_id": 1246736918,
+  "forecast_url": "https://api.weather.gov/gridpoints/PBZ/57,49/forecast",
+  "office": "PBZ"
  },
  {
   "name": "Okemo Mountain",
@@ -2981,7 +3725,9 @@
   "lon": -72.7347,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1236284348
+  "osm_id": 1236284348,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/112,10/forecast",
+  "office": "BTV"
  },
  {
   "name": "Osceola Ski & Sport Resort",
@@ -2989,7 +3735,9 @@
   "lon": -75.6993,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1467326267
+  "osm_id": 1467326267,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/138,89/forecast",
+  "office": "BUF"
  },
  {
   "name": "Osceola Tug Hill XC Center",
@@ -2997,7 +3745,9 @@
   "lon": -75.706,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 1467326241
+  "osm_id": 1467326241,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/138,89/forecast",
+  "office": "BUF"
  },
  {
   "name": "Ossipee Mountain Ski Area (Closed)",
@@ -3005,7 +3755,9 @@
   "lon": -71.3504,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1299638537
+  "osm_id": 1299638537,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/35,56/forecast",
+  "office": "GYX"
  },
  {
   "name": "Palisades Tahoe Alpine Meadows",
@@ -3013,7 +3765,9 @@
   "lon": -120.2376,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 6704136
+  "osm_id": 6704136,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/27,92/forecast",
+  "office": "REV"
  },
  {
   "name": "Palisades Tahoe Olympic Valley",
@@ -3021,7 +3775,9 @@
   "lon": -120.252,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 13336421
+  "osm_id": 13336421,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/89,87/forecast",
+  "office": "STO"
  },
  {
   "name": "Palouse Divide Nordic Ski Area",
@@ -3029,7 +3785,9 @@
   "lon": -116.6589,
   "state": "",
   "osm_type": "way",
-  "osm_id": 871054315
+  "osm_id": 871054315,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/160,58/forecast",
+  "office": "OTX"
  },
  {
   "name": "Parcel 5",
@@ -3037,7 +3795,9 @@
   "lon": -72.3383,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363317836
+  "osm_id": 1363317836,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/123,27/forecast",
+  "office": "BTV"
  },
  {
   "name": "Park City Mountain Resort",
@@ -3045,7 +3805,9 @@
   "lon": -111.5492,
   "state": "",
   "osm_type": "way",
-  "osm_id": 918681867
+  "osm_id": 918681867,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/111,169/forecast",
+  "office": "SLC"
  },
  {
   "name": "Pats Peak",
@@ -3053,7 +3815,9 @@
   "lon": -71.7948,
   "state": "",
   "osm_type": "way",
-  "osm_id": 662615625
+  "osm_id": 662615625,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/26,26/forecast",
+  "office": "GYX"
  },
  {
   "name": "Peek'n Peak Ski Area",
@@ -3061,7 +3825,9 @@
   "lon": -79.7405,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1024235364
+  "osm_id": 1024235364,
+  "forecast_url": "https://api.weather.gov/gridpoints/BUF/11,6/forecast",
+  "office": "BUF"
  },
  {
   "name": "Penobscot River Trails",
@@ -3069,7 +3835,9 @@
   "lon": -68.5995,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 20258785
+  "osm_id": 20258785,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/63,122/forecast",
+  "office": "CAR"
  },
  {
   "name": "Perfect North Slopes",
@@ -3077,7 +3845,9 @@
   "lon": -84.887,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 19915884
+  "osm_id": 19915884,
+  "forecast_url": "https://api.weather.gov/gridpoints/ILN/22,39/forecast",
+  "office": "ILN"
  },
  {
   "name": "Perkinstown Winter Sports Area",
@@ -3085,7 +3855,9 @@
   "lon": -90.6356,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 761354309
+  "osm_id": 761354309,
+  "forecast_url": "https://api.weather.gov/gridpoints/ARX/82,127/forecast",
+  "office": "ARX"
  },
  {
   "name": "Phillips School Forest",
@@ -3093,7 +3865,9 @@
   "lon": -90.3621,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 10565160
+  "osm_id": 10565160,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/149,20/forecast",
+  "office": "DLH"
  },
  {
   "name": "Pico Mountain Resort",
@@ -3101,7 +3875,9 @@
   "lon": -72.8409,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1094586461
+  "osm_id": 1094586461,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/107,21/forecast",
+  "office": "BTV"
  },
  {
   "name": "Pine Hill Ski Club",
@@ -3109,7 +3885,9 @@
   "lon": -71.9286,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363069402
+  "osm_id": 1363069402,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/19,36/forecast",
+  "office": "GYX"
  },
  {
   "name": "Pine Knob Ski & Snowboard Resort",
@@ -3117,7 +3895,9 @@
   "lon": -83.3661,
   "state": "MI",
   "osm_type": "way",
-  "osm_id": 278929769
+  "osm_id": 278929769,
+  "forecast_url": "https://api.weather.gov/gridpoints/DTX/53,52/forecast",
+  "office": "DTX"
  },
  {
   "name": "Pine Mountain Ski Hill",
@@ -3125,7 +3905,9 @@
   "lon": -88.0866,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1043087316
+  "osm_id": 1043087316,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/133,36/forecast",
+  "office": "MQT"
  },
  {
   "name": "Pine Mountain Ski Jump",
@@ -3133,7 +3915,9 @@
   "lon": -88.0901,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1089064583
+  "osm_id": 1089064583,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/132,36/forecast",
+  "office": "MQT"
  },
  {
   "name": "Pine Ridge Ski Area",
@@ -3141,7 +3925,9 @@
   "lon": -72.1044,
   "state": "",
   "osm_type": "way",
-  "osm_id": 29676985
+  "osm_id": 29676985,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/36,97/forecast",
+  "office": "BOX"
  },
  {
   "name": "Pineland Farms",
@@ -3149,7 +3935,9 @@
   "lon": -70.257,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361284830
+  "osm_id": 1361284830,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/70,69/forecast",
+  "office": "GYX"
  },
  {
   "name": "Pineside Sno-Park",
@@ -3157,7 +3945,9 @@
   "lon": -121.5009,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1249722678
+  "osm_id": 1249722678,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/47,133/forecast",
+  "office": "PDT"
  },
  {
   "name": "Pinnacle Ski Club",
@@ -3165,7 +3955,9 @@
   "lon": -69.3885,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362605331
+  "osm_id": 1362605331,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/91,115/forecast",
+  "office": "GYX"
  },
  {
   "name": "Plattekill Mountain Ski Area",
@@ -3173,7 +3965,9 @@
   "lon": -74.6577,
   "state": "",
   "osm_type": "way",
-  "osm_id": 457771644
+  "osm_id": 457771644,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/107,72/forecast",
+  "office": "BGM"
  },
  {
   "name": "Pleasant Mountain",
@@ -3181,7 +3975,9 @@
   "lon": -70.8159,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1228623824
+  "osm_id": 1228623824,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/51,72/forecast",
+  "office": "GYX"
  },
  {
   "name": "Plymouth Notch",
@@ -3189,7 +3985,9 @@
   "lon": -72.7503,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1092913567
+  "osm_id": 1092913567,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/111,16/forecast",
+  "office": "BTV"
  },
  {
   "name": "Pocono Ranch Lands Ski Mountain",
@@ -3197,7 +3995,9 @@
   "lon": -74.9611,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1220663798
+  "osm_id": 1220663798,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/105,19/forecast",
+  "office": "BGM"
  },
  {
   "name": "Pole Creek Nordic Ski Area",
@@ -3205,7 +4005,9 @@
   "lon": -106.9365,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361466924
+  "osm_id": 1361466924,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/172,159/forecast",
+  "office": "RIW"
  },
  {
   "name": "Pomerelle Mountain Resort",
@@ -3213,7 +4015,9 @@
   "lon": -113.6141,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1213960940
+  "osm_id": 1213960940,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/64,28/forecast",
+  "office": "PIH"
  },
  {
   "name": "Porcupine Mountains Winter Sports Complex",
@@ -3221,7 +4025,9 @@
   "lon": -89.6549,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1264696900
+  "osm_id": 1264696900,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/79,80/forecast",
+  "office": "MQT"
  },
  {
   "name": "Powder Mountain Ski Resort",
@@ -3229,7 +4035,9 @@
   "lon": -111.7615,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1124250244
+  "osm_id": 1124250244,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/108,203/forecast",
+  "office": "SLC"
  },
  {
   "name": "Powder Ridge",
@@ -3237,7 +4045,9 @@
   "lon": -94.3079,
   "state": "",
   "osm_type": "way",
-  "osm_id": 859046254
+  "osm_id": 859046254,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/74,89/forecast",
+  "office": "MPX"
  },
  {
   "name": "Powder Ridge Ski Area",
@@ -3245,7 +4055,9 @@
   "lon": -72.7385,
   "state": "",
   "osm_type": "way",
-  "osm_id": 43441045
+  "osm_id": 43441045,
+  "forecast_url": "https://api.weather.gov/gridpoints/OKX/71,84/forecast",
+  "office": "OKX"
  },
  {
   "name": "Powderhorn Ski Area",
@@ -3253,7 +4065,9 @@
   "lon": -108.1536,
   "state": "",
   "osm_type": "way",
-  "osm_id": 460247056
+  "osm_id": 460247056,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/109,100/forecast",
+  "office": "GJT"
  },
  {
   "name": "Powderhouse Hill Ski Area",
@@ -3261,7 +4075,9 @@
   "lon": -70.8021,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1230188313
+  "osm_id": 1230188313,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/58,35/forecast",
+  "office": "GYX"
  },
  {
   "name": "Prohaska Family Memorial Park",
@@ -3269,7 +4085,9 @@
   "lon": -89.5317,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 903256827
+  "osm_id": 903256827,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/28,47/forecast",
+  "office": "GRB"
  },
  {
   "name": "Purgatory Resort",
@@ -3277,7 +4095,9 @@
   "lon": -107.8367,
   "state": "",
   "osm_type": "way",
-  "osm_id": 529997955
+  "osm_id": 529997955,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/114,35/forecast",
+  "office": "GJT"
  },
  {
   "name": "Quarry Road Trails",
@@ -3285,7 +4105,9 @@
   "lon": -69.657,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362707723
+  "osm_id": 1362707723,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/84,104/forecast",
+  "office": "GYX"
  },
  {
   "name": "Quoggy Jo Ski Center",
@@ -3293,7 +4115,9 @@
   "lon": -67.929,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1233544808
+  "osm_id": 1233544808,
+  "forecast_url": "https://api.weather.gov/gridpoints/CAR/76,168/forecast",
+  "office": "CAR"
  },
  {
   "name": "Ragged Mountain Resort",
@@ -3301,7 +4125,9 @@
   "lon": -71.8449,
   "state": "",
   "osm_type": "way",
-  "osm_id": 255716854
+  "osm_id": 255716854,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/21,40/forecast",
+  "office": "GYX"
  },
  {
   "name": "Rangeley Lakes Trails Center",
@@ -3309,7 +4135,9 @@
   "lon": -70.5484,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1230214267
+  "osm_id": 1230214267,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/52,116/forecast",
+  "office": "GYX"
  },
  {
   "name": "Raton Ski Basin (Closed)",
@@ -3317,7 +4145,9 @@
   "lon": -104.3465,
   "state": "",
   "osm_type": "way",
-  "osm_id": 832870240
+  "osm_id": 832870240,
+  "forecast_url": "https://api.weather.gov/gridpoints/PUB/101,8/forecast",
+  "office": "PUB"
  },
  {
   "name": "Red Hill Outing Club",
@@ -3325,7 +4155,9 @@
   "lon": -71.4177,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1219900523
+  "osm_id": 1219900523,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/33,55/forecast",
+  "office": "GYX"
  },
  {
   "name": "Red Lodge Mountain",
@@ -3333,7 +4165,9 @@
   "lon": -109.3556,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1266090145
+  "osm_id": 1266090145,
+  "forecast_url": "https://api.weather.gov/gridpoints/BYZ/72,67/forecast",
+  "office": "BYZ"
  },
  {
   "name": "Reecer Creek Sno-Park",
@@ -3341,7 +4175,9 @@
   "lon": -120.6134,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1455871533
+  "osm_id": 1455871533,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/86,180/forecast",
+  "office": "PDT"
  },
  {
   "name": "Ridge Runner",
@@ -3349,7 +4185,9 @@
   "lon": -74.0265,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1465130028
+  "osm_id": 1465130028,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/61,74/forecast",
+  "office": "ALY"
  },
  {
   "name": "Rikert Outdoor Center",
@@ -3357,7 +4195,9 @@
   "lon": -72.991,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1367387224
+  "osm_id": 1367387224,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/100,34/forecast",
+  "office": "BTV"
  },
  {
   "name": "Rim Nordic Ski Area",
@@ -3365,7 +4205,9 @@
   "lon": -117.0377,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 10534511
+  "osm_id": 10534511,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/72,79/forecast",
+  "office": "SGX"
  },
  {
   "name": "Riverside Golf Course",
@@ -3373,7 +4215,9 @@
   "lon": -70.3158,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1360192990
+  "osm_id": 1360192990,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/70,60/forecast",
+  "office": "GYX"
  },
  {
   "name": "Roberts Farm Preserve",
@@ -3381,7 +4225,9 @@
   "lon": -70.5584,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362603805
+  "osm_id": 1362603805,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/58,81/forecast",
+  "office": "GYX"
  },
  {
   "name": "Rock Point",
@@ -3389,7 +4235,9 @@
   "lon": -73.2408,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363364213
+  "osm_id": 1363364213,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/87,57/forecast",
+  "office": "BTV"
  },
  {
   "name": "Rotarun Ski Area",
@@ -3397,7 +4245,9 @@
   "lon": -114.3654,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1213963139
+  "osm_id": 1213963139,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/47,85/forecast",
+  "office": "PIH"
  },
  {
   "name": "Roundtop Mountain Resort",
@@ -3405,7 +4255,9 @@
   "lon": -76.9287,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 390539624
+  "osm_id": 390539624,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/105,30/forecast",
+  "office": "CTP"
  },
  {
   "name": "Saddleback Mountain",
@@ -3413,7 +4265,9 @@
   "lon": -70.5249,
   "state": "",
   "osm_type": "way",
-  "osm_id": 255571392
+  "osm_id": 255571392,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/53,115/forecast",
+  "office": "GYX"
  },
  {
   "name": "Sahalie Ski Club",
@@ -3421,7 +4275,9 @@
   "lon": -121.4156,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 6447055
+  "osm_id": 6447055,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/152,54/forecast",
+  "office": "SEW"
  },
  {
   "name": "Sandia Peak Ski Area",
@@ -3429,7 +4285,9 @@
   "lon": -106.4232,
   "state": "NM",
   "osm_type": "relation",
-  "osm_id": 14923736
+  "osm_id": 14923736,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/107,125/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Sandia Peak Ski Area SUP",
@@ -3437,7 +4295,9 @@
   "lon": -106.4219,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1548984782
+  "osm_id": 1548984782,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/107,125/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Sapphire Valley Ski Resort",
@@ -3445,7 +4305,9 @@
   "lon": -83.0595,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1247000294
+  "osm_id": 1247000294,
+  "forecast_url": "https://api.weather.gov/gridpoints/GSP/39,53/forecast",
+  "office": "GSP"
  },
  {
   "name": "Saskadena Six",
@@ -3453,7 +4315,9 @@
   "lon": -72.5476,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1079343060
+  "osm_id": 1079343060,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/117,23/forecast",
+  "office": "BTV"
  },
  {
   "name": "Saw Creek Estates Ski Area",
@@ -3461,7 +4325,9 @@
   "lon": -75.0507,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1220661212
+  "osm_id": 1220661212,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/102,17/forecast",
+  "office": "BGM"
  },
  {
   "name": "Schuss Mountain",
@@ -3469,7 +4335,9 @@
   "lon": -85.1363,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1114951741
+  "osm_id": 1114951741,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/44,56/forecast",
+  "office": "APX"
  },
  {
   "name": "Schweitzer Mountain Resort",
@@ -3477,7 +4345,9 @@
   "lon": -116.6181,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1388583977
+  "osm_id": 1388583977,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/171,120/forecast",
+  "office": "OTX"
  },
  {
   "name": "Seacoast Snowpark",
@@ -3485,7 +4355,9 @@
   "lon": -70.4546,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362711579
+  "osm_id": 1362711579,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/64,65/forecast",
+  "office": "GYX"
  },
  {
   "name": "Seven Oaks",
@@ -3493,7 +4365,9 @@
   "lon": -93.9547,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1246300779
+  "osm_id": 1246300779,
+  "forecast_url": "https://api.weather.gov/gridpoints/DMX/62,69/forecast",
+  "office": "DMX"
  },
  {
   "name": "Seven Springs Mountain Resort",
@@ -3501,7 +4375,9 @@
   "lon": -79.3006,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 256580493
+  "osm_id": 256580493,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/24,16/forecast",
+  "office": "CTP"
  },
  {
   "name": "Sewall Woods Conservation Area",
@@ -3509,7 +4385,9 @@
   "lon": -71.2284,
   "state": "",
   "osm_type": "way",
-  "osm_id": 568682599
+  "osm_id": 568682599,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/41,48/forecast",
+  "office": "GYX"
  },
  {
   "name": "Shawnee Mountain",
@@ -3517,7 +4395,9 @@
   "lon": -75.0799,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1223350355
+  "osm_id": 1223350355,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/45,128/forecast",
+  "office": "PHI"
  },
  {
   "name": "Showdown Montana",
@@ -3525,7 +4405,9 @@
   "lon": -110.7068,
   "state": "",
   "osm_type": "way",
-  "osm_id": 837402306
+  "osm_id": 837402306,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/114,111/forecast",
+  "office": "TFX"
  },
  {
   "name": "Sibley Park Sledding Hill",
@@ -3533,7 +4415,9 @@
   "lon": -94.0322,
   "state": "",
   "osm_type": "way",
-  "osm_id": 382073167
+  "osm_id": 382073167,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/83,34/forecast",
+  "office": "MPX"
  },
  {
   "name": "Sierra-at-Tahoe Ski Resort",
@@ -3541,7 +4425,9 @@
   "lon": -120.0758,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 9963336
+  "osm_id": 9963336,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/92,68/forecast",
+  "office": "STO"
  },
  {
   "name": "Silver Mine",
@@ -3549,7 +4435,9 @@
   "lon": -91.5845,
   "state": "",
   "osm_type": "way",
-  "osm_id": 894047832
+  "osm_id": 894047832,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/164,64/forecast",
+  "office": "MPX"
  },
  {
   "name": "Silver Mountain Resort",
@@ -3557,7 +4445,9 @@
   "lon": -116.1314,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1263732068
+  "osm_id": 1263732068,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/180,76/forecast",
+  "office": "OTX"
  },
  {
   "name": "Silverton Mountain",
@@ -3565,7 +4455,9 @@
   "lon": -107.6577,
   "state": "",
   "osm_type": "way",
-  "osm_id": 528964433
+  "osm_id": 528964433,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/121,45/forecast",
+  "office": "GJT"
  },
  {
   "name": "Sipapu Ski and Summer Resort",
@@ -3573,7 +4465,9 @@
   "lon": -105.5528,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 15048417
+  "osm_id": 15048417,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/142,165/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Sitzmark Ski Hill",
@@ -3581,7 +4475,9 @@
   "lon": -119.1609,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361864388
+  "osm_id": 1361864388,
+  "forecast_url": "https://api.weather.gov/gridpoints/OTX/95,156/forecast",
+  "office": "OTX"
  },
  {
   "name": "Skeetawk",
@@ -3589,7 +4485,9 @@
   "lon": -149.2378,
   "state": "",
   "osm_type": "way",
-  "osm_id": 934351305
+  "osm_id": 934351305,
+  "forecast_url": "https://api.weather.gov/gridpoints/AER/154,256/forecast",
+  "office": "AFC"
  },
  {
   "name": "Ski Bluewood",
@@ -3597,7 +4495,9 @@
   "lon": -117.8558,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1458661286
+  "osm_id": 1458661286,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/165,113/forecast",
+  "office": "PDT"
  },
  {
   "name": "Ski Bradford",
@@ -3605,7 +4505,9 @@
   "lon": -71.0572,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1080303154
+  "osm_id": 1080303154,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/68,118/forecast",
+  "office": "BOX"
  },
  {
   "name": "Ski Brule",
@@ -3613,7 +4515,9 @@
   "lon": -88.7057,
   "state": "MI",
   "osm_type": "way",
-  "osm_id": 756340755
+  "osm_id": 756340755,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/112,44/forecast",
+  "office": "MQT"
  },
  {
   "name": "Ski Butternut",
@@ -3621,7 +4525,9 @@
   "lon": -73.3187,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1244085914
+  "osm_id": 1244085914,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/90,44/forecast",
+  "office": "ALY"
  },
  {
   "name": "Ski Cloudcroft",
@@ -3629,7 +4535,9 @@
   "lon": -105.7087,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1030492885
+  "osm_id": 1030492885,
+  "forecast_url": "https://api.weather.gov/gridpoints/EPZ/133,106/forecast",
+  "office": "EPZ"
  },
  {
   "name": "Ski Cooper",
@@ -3637,7 +4545,9 @@
   "lon": -106.2888,
   "state": "",
   "osm_type": "way",
-  "osm_id": 531009606
+  "osm_id": 531009606,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/175,108/forecast",
+  "office": "GJT"
  },
  {
   "name": "Ski Quechee",
@@ -3645,7 +4555,9 @@
   "lon": -72.4449,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1090312348
+  "osm_id": 1090312348,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/120,23/forecast",
+  "office": "BTV"
  },
  {
   "name": "Ski Santa Fe",
@@ -3653,7 +4565,9 @@
   "lon": -105.7898,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 14934032
+  "osm_id": 14934032,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/132,150/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Ski Sawmill Family Resort",
@@ -3661,7 +4575,9 @@
   "lon": -77.2924,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1235201198
+  "osm_id": 1235201198,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/84,92/forecast",
+  "office": "CTP"
  },
  {
   "name": "Ski Sundown",
@@ -3669,7 +4585,9 @@
   "lon": -72.9426,
   "state": "CT",
   "osm_type": "way",
-  "osm_id": 1236288779
+  "osm_id": 1236288779,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/12,69/forecast",
+  "office": "BOX"
  },
  {
   "name": "Skytop\u2019s Ski Hill",
@@ -3677,7 +4595,9 @@
   "lon": -75.235,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1220561371
+  "osm_id": 1220561371,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/39,136/forecast",
+  "office": "PHI"
  },
  {
   "name": "Sledding area",
@@ -3685,7 +4605,9 @@
   "lon": -120.0434,
   "state": "",
   "osm_type": "way",
-  "osm_id": 880473101
+  "osm_id": 880473101,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/90,53/forecast",
+  "office": "STO"
  },
  {
   "name": "Sleeping Giant Winter Sports Area",
@@ -3693,7 +4615,9 @@
   "lon": -109.9438,
   "state": "",
   "osm_type": "way",
-  "osm_id": 908556051
+  "osm_id": 908556051,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/74,182/forecast",
+  "office": "RIW"
  },
  {
   "name": "Sleepy Hollow Inn",
@@ -3701,7 +4625,9 @@
   "lon": -73.0342,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363366559
+  "osm_id": 1363366559,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/95,52/forecast",
+  "office": "BTV"
  },
  {
   "name": "Smith Butte Sno-Park",
@@ -3709,7 +4635,9 @@
   "lon": -121.4542,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1249722682
+  "osm_id": 1249722682,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/49,135/forecast",
+  "office": "PDT"
  },
  {
   "name": "Smugglers' Notch Resort",
@@ -3717,7 +4645,9 @@
   "lon": -72.77,
   "state": "VT",
   "osm_type": "way",
-  "osm_id": 1228354294
+  "osm_id": 1228354294,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/102,63/forecast",
+  "office": "BTV"
  },
  {
   "name": "Snobowl Bike and Ski area",
@@ -3725,7 +4655,9 @@
   "lon": -115.8582,
   "state": "NV",
   "osm_type": "way",
-  "osm_id": 489821517
+  "osm_id": 489821517,
+  "forecast_url": "https://api.weather.gov/gridpoints/LKN/120,135/forecast",
+  "office": "LKN"
  },
  {
   "name": "Snow Creek",
@@ -3733,7 +4665,9 @@
   "lon": -94.969,
   "state": "",
   "osm_type": "way",
-  "osm_id": 442940109
+  "osm_id": 442940109,
+  "forecast_url": "https://api.weather.gov/gridpoints/EAX/30,67/forecast",
+  "office": "EAX"
  },
  {
   "name": "Snow King Mountain",
@@ -3741,7 +4675,9 @@
   "lon": -110.7587,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1076348034
+  "osm_id": 1076348034,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/42,138/forecast",
+  "office": "RIW"
  },
  {
   "name": "Snow Mountain Ranch Nordic Center",
@@ -3749,7 +4685,9 @@
   "lon": -105.9273,
   "state": "CO",
   "osm_type": "way",
-  "osm_id": 460459192
+  "osm_id": 460459192,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/31,75/forecast",
+  "office": "BOU"
  },
  {
   "name": "Snow Play Area",
@@ -3757,7 +4695,9 @@
   "lon": -120.0433,
   "state": "",
   "osm_type": "way",
-  "osm_id": 880473100
+  "osm_id": 880473100,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/90,53/forecast",
+  "office": "STO"
  },
  {
   "name": "Snow Riders",
@@ -3765,7 +4705,9 @@
   "lon": -77.7705,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1468131774
+  "osm_id": 1468131774,
+  "forecast_url": "https://api.weather.gov/gridpoints/LWX/69,87/forecast",
+  "office": "LWX"
  },
  {
   "name": "Snow Snake Ski Resort",
@@ -3773,7 +4715,9 @@
   "lon": -84.7827,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1478893920
+  "osm_id": 1478893920,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRR/67,95/forecast",
+  "office": "GRR"
  },
  {
   "name": "Snow Summit",
@@ -3781,7 +4725,9 @@
   "lon": -116.8917,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1554647623
+  "osm_id": 1554647623,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/77,78/forecast",
+  "office": "SGX"
  },
  {
   "name": "Snow Tubing Area",
@@ -3789,7 +4735,9 @@
   "lon": -76.1537,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1018296170
+  "osm_id": 1018296170,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/55,75/forecast",
+  "office": "BGM"
  },
  {
   "name": "Snow Tubing Park",
@@ -3797,7 +4745,9 @@
   "lon": -71.4543,
   "state": "",
   "osm_type": "way",
-  "osm_id": 215697988
+  "osm_id": 215697988,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/57,107/forecast",
+  "office": "BOX"
  },
  {
   "name": "Snow Valley",
@@ -3805,7 +4755,9 @@
   "lon": -117.0368,
   "state": "",
   "osm_type": "way",
-  "osm_id": 668577806
+  "osm_id": 668577806,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/72,79/forecast",
+  "office": "SGX"
  },
  {
   "name": "Snowbasin Resort",
@@ -3813,7 +4765,9 @@
   "lon": -111.8627,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1201185853
+  "osm_id": 1201185853,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/104,195/forecast",
+  "office": "SLC"
  },
  {
   "name": "Snowbird",
@@ -3821,7 +4775,9 @@
   "lon": -111.6499,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1023308078
+  "osm_id": 1023308078,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/108,166/forecast",
+  "office": "SLC"
  },
  {
   "name": "Snowdrift Snow Tubing Park",
@@ -3829,7 +4785,9 @@
   "lon": -117.0518,
   "state": "",
   "osm_type": "way",
-  "osm_id": 232697275
+  "osm_id": 232697275,
+  "forecast_url": "https://api.weather.gov/gridpoints/SGX/71,79/forecast",
+  "office": "SGX"
  },
  {
   "name": "Snowflake Nordic Ski Center",
@@ -3837,7 +4795,9 @@
   "lon": -92.138,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1240803107
+  "osm_id": 1240803107,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/90,71/forecast",
+  "office": "DLH"
  },
  {
   "name": "Snowflex",
@@ -3845,7 +4805,9 @@
   "lon": -79.1659,
   "state": "",
   "osm_type": "way",
-  "osm_id": 896007563
+  "osm_id": 896007563,
+  "forecast_url": "https://api.weather.gov/gridpoints/RNK/101,76/forecast",
+  "office": "RNK"
  },
  {
   "name": "Snowhaven",
@@ -3853,7 +4815,9 @@
   "lon": -116.0933,
   "state": "",
   "osm_type": "way",
-  "osm_id": 768338653
+  "osm_id": 768338653,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/30,94/forecast",
+  "office": "MSO"
  },
  {
   "name": "SnowKing Sno-Park",
@@ -3861,7 +4825,9 @@
   "lon": -121.4721,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1249722663
+  "osm_id": 1249722663,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/48,134/forecast",
+  "office": "PDT"
  },
  {
   "name": "Snowland Ski Area",
@@ -3869,7 +4835,9 @@
   "lon": -111.3246,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1467296015
+  "osm_id": 1467296015,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/114,124/forecast",
+  "office": "SLC"
  },
  {
   "name": "Snowshoe Mountain",
@@ -3877,7 +4845,9 @@
   "lon": -80.0007,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1244062674
+  "osm_id": 1244062674,
+  "forecast_url": "https://api.weather.gov/gridpoints/RLX/120,76/forecast",
+  "office": "RLX"
  },
  {
   "name": "Snowy Range Ski Area",
@@ -3885,7 +4855,9 @@
   "lon": -106.1781,
   "state": "",
   "osm_type": "way",
-  "osm_id": 391284413
+  "osm_id": 391284413,
+  "forecast_url": "https://api.weather.gov/gridpoints/CYS/64,26/forecast",
+  "office": "CYS"
  },
  {
   "name": "Soldier Hollow",
@@ -3893,7 +4865,9 @@
   "lon": -111.4977,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1243205363
+  "osm_id": 1243205363,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/112,161/forecast",
+  "office": "SLC"
  },
  {
   "name": "Soldier Mountain Ski Area",
@@ -3901,7 +4875,9 @@
   "lon": -114.8412,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1470435942
+  "osm_id": 1470435942,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/178,73/forecast",
+  "office": "BOI"
  },
  {
   "name": "Solitude Mountain Resort",
@@ -3909,7 +4885,9 @@
   "lon": -111.6041,
   "state": "",
   "osm_type": "way",
-  "osm_id": 682230006
+  "osm_id": 682230006,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/109,168/forecast",
+  "office": "SLC"
  },
  {
   "name": "Song Mountain Resort",
@@ -3917,7 +4895,9 @@
   "lon": -76.1617,
   "state": "NY",
   "osm_type": "way",
-  "osm_id": 691521200
+  "osm_id": 691521200,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/54,86/forecast",
+  "office": "BGM"
  },
  {
   "name": "Spidahl Ski Gaard",
@@ -3925,7 +4905,9 @@
   "lon": -95.9376,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1316533227
+  "osm_id": 1316533227,
+  "forecast_url": "https://api.weather.gov/gridpoints/FGF/127,35/forecast",
+  "office": "FGF"
  },
  {
   "name": "Spirit Mountain",
@@ -3933,7 +4915,9 @@
   "lon": -92.2135,
   "state": "MN",
   "osm_type": "way",
-  "osm_id": 1154067051
+  "osm_id": 1154067051,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/88,66/forecast",
+  "office": "DLH"
  },
  {
   "name": "Spring Gulch Trail System",
@@ -3941,7 +4925,9 @@
   "lon": -107.3001,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1357662358
+  "osm_id": 1357662358,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/140,111/forecast",
+  "office": "GJT"
  },
  {
   "name": "Spring Mountain Ski Area",
@@ -3949,7 +4935,9 @@
   "lon": -75.4529,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1223977161
+  "osm_id": 1223977161,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/38,92/forecast",
+  "office": "PHI"
  },
  {
   "name": "Spruce Mountain Ski Slope",
@@ -3957,7 +4945,9 @@
   "lon": -70.2052,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362708308
+  "osm_id": 1362708308,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/67,96/forecast",
+  "office": "GYX"
  },
  {
   "name": "St. Moritz Park",
@@ -3965,7 +4955,9 @@
   "lon": -71.0315,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1358962943
+  "osm_id": 1358962943,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/73,95/forecast",
+  "office": "BOX"
  },
  {
   "name": "Steamboat Gulch Sledding & Tubing Hill",
@@ -3973,7 +4965,9 @@
   "lon": -115.8131,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1433580539
+  "osm_id": 1433580539,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/148,93/forecast",
+  "office": "BOI"
  },
  {
   "name": "Steamboat Ski Resort",
@@ -3981,7 +4975,9 @@
   "lon": -106.7702,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530998526
+  "osm_id": 530998526,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/163,159/forecast",
+  "office": "GJT"
  },
  {
   "name": "Stevens Pass",
@@ -3989,7 +4985,9 @@
   "lon": -121.0893,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1564558952
+  "osm_id": 1564558952,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/165,66/forecast",
+  "office": "SEW"
  },
  {
   "name": "Stoneville Hill Ski Area",
@@ -3997,7 +4995,9 @@
   "lon": -87.7227,
   "state": "MI",
   "osm_type": "way",
-  "osm_id": 1575744677
+  "osm_id": 1575744677,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/143,66/forecast",
+  "office": "MQT"
  },
  {
   "name": "Storrs Hill Ski Area",
@@ -4005,7 +5005,9 @@
   "lon": -72.2521,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1090626629
+  "osm_id": 1090626629,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/7,45/forecast",
+  "office": "GYX"
  },
  {
   "name": "Stowe Mountain Resort",
@@ -4013,7 +5015,9 @@
   "lon": -72.7898,
   "state": "",
   "osm_type": "way",
-  "osm_id": 620836496
+  "osm_id": 620836496,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/102,61/forecast",
+  "office": "BTV"
  },
  {
   "name": "Stratton Mountain Resort",
@@ -4021,7 +5025,9 @@
   "lon": -72.9061,
   "state": "",
   "osm_type": "way",
-  "osm_id": 682228180
+  "osm_id": 682228180,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/97,88/forecast",
+  "office": "ALY"
  },
  {
   "name": "Sugar Bowl Resort",
@@ -4029,7 +5035,9 @@
   "lon": -120.3355,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 10326057
+  "osm_id": 10326057,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/87,92/forecast",
+  "office": "STO"
  },
  {
   "name": "Sugar Mountain Resort",
@@ -4037,7 +5045,9 @@
   "lon": -81.8645,
   "state": "NC",
   "osm_type": "way",
-  "osm_id": 529342856
+  "osm_id": 529342856,
+  "forecast_url": "https://api.weather.gov/gridpoints/GSP/78,101/forecast",
+  "office": "GSP"
  },
  {
   "name": "Sugarbush Resort",
@@ -4045,7 +5055,9 @@
   "lon": -72.9085,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1094579154
+  "osm_id": 1094579154,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/101,43/forecast",
+  "office": "BTV"
  },
  {
   "name": "Sugarloaf",
@@ -4053,7 +5065,9 @@
   "lon": -70.3163,
   "state": "ME",
   "osm_type": "relation",
-  "osm_id": 18484946
+  "osm_id": 18484946,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/59,121/forecast",
+  "office": "GYX"
  },
  {
   "name": "Sugarloaf Outdoor Center",
@@ -4061,7 +5075,9 @@
   "lon": -70.287,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1233552673
+  "osm_id": 1233552673,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/59,122/forecast",
+  "office": "GYX"
  },
  {
   "name": "Suicide Bowl",
@@ -4069,7 +5085,9 @@
   "lon": -87.627,
   "state": "",
   "osm_type": "way",
-  "osm_id": 914166552
+  "osm_id": 914166552,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/146,67/forecast",
+  "office": "MQT"
  },
  {
   "name": "Summit Mountain",
@@ -4077,7 +5095,9 @@
   "lon": -85.1875,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1021916703
+  "osm_id": 1021916703,
+  "forecast_url": "https://api.weather.gov/gridpoints/APX/43,56/forecast",
+  "office": "APX"
  },
  {
   "name": "Summit West",
@@ -4085,7 +5105,9 @@
   "lon": -121.4218,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1499174311
+  "osm_id": 1499174311,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/63,197/forecast",
+  "office": "PDT"
  },
  {
   "name": "Sun Valley - Bald Mountain",
@@ -4093,7 +5115,9 @@
   "lon": -114.3906,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1244099443
+  "osm_id": 1244099443,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/47,93/forecast",
+  "office": "PIH"
  },
  {
   "name": "Sun Valley - Dollar Mountain",
@@ -4101,7 +5125,9 @@
   "lon": -114.3425,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1244098768
+  "osm_id": 1244098768,
+  "forecast_url": "https://api.weather.gov/gridpoints/PIH/49,94/forecast",
+  "office": "PIH"
  },
  {
   "name": "Sunburst Ski Area",
@@ -4109,7 +5135,9 @@
   "lon": -88.2241,
   "state": "",
   "osm_type": "way",
-  "osm_id": 734696805
+  "osm_id": 734696805,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/77,85/forecast",
+  "office": "MKX"
  },
  {
   "name": "Sundance Resort",
@@ -4117,7 +5145,9 @@
   "lon": -111.5784,
   "state": "UT",
   "osm_type": "node",
-  "osm_id": 9283850704
+  "osm_id": 9283850704,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/109,157/forecast",
+  "office": "SLC"
  },
  {
   "name": "Sunday River",
@@ -4125,7 +5155,9 @@
   "lon": -70.878,
   "state": "ME",
   "osm_type": "relation",
-  "osm_id": 14637842
+  "osm_id": 14637842,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/45,91/forecast",
+  "office": "GYX"
  },
  {
   "name": "Sundown Mountain Resort",
@@ -4133,7 +5165,9 @@
   "lon": -90.8231,
   "state": "",
   "osm_type": "way",
-  "osm_id": 834317212
+  "osm_id": 834317212,
+  "forecast_url": "https://api.weather.gov/gridpoints/DVN/58,112/forecast",
+  "office": "DVN"
  },
  {
   "name": "Sunlight Mountain Resort",
@@ -4141,7 +5175,9 @@
   "lon": -107.3395,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530530657
+  "osm_id": 530530657,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/139,113/forecast",
+  "office": "GJT"
  },
  {
   "name": "Tahoe Donner Downhill Ski Area",
@@ -4149,7 +5185,9 @@
   "lon": -120.2636,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 10906075
+  "osm_id": 10906075,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/28,101/forecast",
+  "office": "REV"
  },
  {
   "name": "Tamarack Cross-Country Ski Center",
@@ -4157,7 +5195,9 @@
   "lon": -119.0069,
   "state": "",
   "osm_type": "node",
-  "osm_id": 8500720747
+  "osm_id": 8500720747,
+  "forecast_url": "https://api.weather.gov/gridpoints/REV/57,16/forecast",
+  "office": "REV"
  },
  {
   "name": "Tamarack Resort",
@@ -4165,7 +5205,9 @@
   "lon": -116.1404,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1232164006
+  "osm_id": 1232164006,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOI/143,135/forecast",
+  "office": "BOI"
  },
  {
   "name": "Taos Ski Valley",
@@ -4173,7 +5215,9 @@
   "lon": -105.4509,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 13573224
+  "osm_id": 13573224,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/147,184/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Telluride Ski Area",
@@ -4181,7 +5225,9 @@
   "lon": -107.8397,
   "state": "",
   "osm_type": "way",
-  "osm_id": 528965906
+  "osm_id": 528965906,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/115,48/forecast",
+  "office": "GJT"
  },
  {
   "name": "Tenney Mountain Resort",
@@ -4189,7 +5235,9 @@
   "lon": -71.7687,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1230198090
+  "osm_id": 1230198090,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/22,53/forecast",
+  "office": "GYX"
  },
  {
   "name": "Terrain Park",
@@ -4197,7 +5245,9 @@
   "lon": -105.8,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1148110137
+  "osm_id": 1148110137,
+  "forecast_url": "https://api.weather.gov/gridpoints/ABQ/132,150/forecast",
+  "office": "ABQ"
  },
  {
   "name": "Terry Peak Ski Area",
@@ -4205,7 +5255,9 @@
   "lon": -103.8319,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1214147821
+  "osm_id": 1214147821,
+  "forecast_url": "https://api.weather.gov/gridpoints/UNR/78,71/forecast",
+  "office": "UNR"
  },
  {
   "name": "Teton Pass Ski Resort",
@@ -4213,7 +5265,9 @@
   "lon": -112.8114,
   "state": "MT",
   "osm_type": "way",
-  "osm_id": 1256292826
+  "osm_id": 1256292826,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/53,171/forecast",
+  "office": "TFX"
  },
  {
   "name": "The Backside",
@@ -4221,7 +5275,9 @@
   "lon": -120.0647,
   "state": "",
   "osm_type": "node",
-  "osm_id": 1110783315
+  "osm_id": 1110783315,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/92,68/forecast",
+  "office": "STO"
  },
  {
   "name": "The Hermitage Club at Haystack Mountain",
@@ -4229,7 +5285,9 @@
   "lon": -72.9009,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1107767240
+  "osm_id": 1107767240,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/98,80/forecast",
+  "office": "ALY"
  },
  {
   "name": "The Hideout",
@@ -4237,7 +5295,9 @@
   "lon": -75.3576,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1220415879
+  "osm_id": 1220415879,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/89,29/forecast",
+  "office": "BGM"
  },
  {
   "name": "The Homestead Ski Area",
@@ -4245,7 +5305,9 @@
   "lon": -79.8194,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1242402506
+  "osm_id": 1242402506,
+  "forecast_url": "https://api.weather.gov/gridpoints/RNK/75,102/forecast",
+  "office": "RNK"
  },
  {
   "name": "The Mountain Top at Grand Geneva Resort & Spa",
@@ -4253,7 +5315,9 @@
   "lon": -88.3881,
   "state": "",
   "osm_type": "way",
-  "osm_id": 601919996
+  "osm_id": 601919996,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/73,44/forecast",
+  "office": "MKX"
  },
  {
   "name": "The Nordic Center at Edson Hill",
@@ -4261,7 +5325,9 @@
   "lon": -72.7346,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1236682092
+  "osm_id": 1236682092,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/104,60/forecast",
+  "office": "BTV"
  },
  {
   "name": "The Pike Glades",
@@ -4269,7 +5335,9 @@
   "lon": -71.9722,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1151991843
+  "osm_id": 1151991843,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/13,64/forecast",
+  "office": "GYX"
  },
  {
   "name": "The Vermont Tech Rope Tow",
@@ -4277,7 +5345,9 @@
   "lon": -72.6111,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1091263535
+  "osm_id": 1091263535,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/112,35/forecast",
+  "office": "BTV"
  },
  {
   "name": "Three Summits",
@@ -4285,7 +5355,9 @@
   "lon": -121.4116,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361868120
+  "osm_id": 1361868120,
+  "forecast_url": "https://api.weather.gov/gridpoints/PDT/63,196/forecast",
+  "office": "PDT"
  },
  {
   "name": "Thrill Hills",
@@ -4293,7 +5365,9 @@
   "lon": -97.9385,
   "state": "ND",
   "osm_type": "way",
-  "osm_id": 497195316
+  "osm_id": 497195316,
+  "forecast_url": "https://api.weather.gov/gridpoints/FGF/62,41/forecast",
+  "office": "FGF"
  },
  {
   "name": "Timber Creek Base Area",
@@ -4301,7 +5375,9 @@
   "lon": -120.0741,
   "state": "",
   "osm_type": "node",
-  "osm_id": 1110843577
+  "osm_id": 1110843577,
+  "forecast_url": "https://api.weather.gov/gridpoints/STO/91,64/forecast",
+  "office": "STO"
  },
  {
   "name": "Timber Ridge",
@@ -4309,7 +5385,9 @@
   "lon": -72.7373,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1092381874
+  "osm_id": 1092381874,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/102,93/forecast",
+  "office": "ALY"
  },
  {
   "name": "Timberline Lodge Ski Area",
@@ -4317,7 +5395,9 @@
   "lon": -121.7141,
   "state": "",
   "osm_type": "way",
-  "osm_id": 679189584
+  "osm_id": 679189584,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/142,89/forecast",
+  "office": "PQR"
  },
  {
   "name": "Timberline Mountain",
@@ -4325,7 +5405,9 @@
   "lon": -79.3976,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1010719780
+  "osm_id": 1010719780,
+  "forecast_url": "https://api.weather.gov/gridpoints/PBZ/105,5/forecast",
+  "office": "PBZ"
  },
  {
   "name": "Titcomb Mountain",
@@ -4333,7 +5415,9 @@
   "lon": -70.1717,
   "state": "ME",
   "osm_type": "way",
-  "osm_id": 315562165
+  "osm_id": 315562165,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/67,104/forecast",
+  "office": "GYX"
  },
  {
   "name": "Titus Mountain",
@@ -4341,7 +5425,9 @@
   "lon": -74.24,
   "state": "",
   "osm_type": "way",
-  "osm_id": 691518491
+  "osm_id": 691518491,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/53,64/forecast",
+  "office": "BTV"
  },
  {
   "name": "Tolkien Trails",
@@ -4349,7 +5435,9 @@
   "lon": -88.5577,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1349708542
+  "osm_id": 1349708542,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/114,95/forecast",
+  "office": "MQT"
  },
  {
   "name": "Top of the Pines",
@@ -4357,7 +5445,9 @@
   "lon": -107.7898,
   "state": "",
   "osm_type": "way",
-  "osm_id": 534437343
+  "osm_id": 534437343,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/118,56/forecast",
+  "office": "GJT"
  },
  {
   "name": "Trapp Family Lodge",
@@ -4365,7 +5455,9 @@
   "lon": -72.757,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363367352
+  "osm_id": 1363367352,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/104,59/forecast",
+  "office": "BTV"
  },
  {
   "name": "Trollhaugen Ski Area",
@@ -4373,7 +5465,9 @@
   "lon": -92.6197,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 584094054
+  "osm_id": 584094054,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/129,90/forecast",
+  "office": "MPX"
  },
  {
   "name": "Tubing Hill",
@@ -4381,7 +5475,9 @@
   "lon": -121.9123,
   "state": "",
   "osm_type": "way",
-  "osm_id": 552663110
+  "osm_id": 552663110,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/142,120/forecast",
+  "office": "PQR"
  },
  {
   "name": "Tuckerman Ravine",
@@ -4389,7 +5485,9 @@
   "lon": -71.2807,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1361274255
+  "osm_id": 1361274255,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/34,79/forecast",
+  "office": "GYX"
  },
  {
   "name": "Turner Mountain Ski Area",
@@ -4397,7 +5495,9 @@
   "lon": -115.643,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1373582640
+  "osm_id": 1373582640,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/65,221/forecast",
+  "office": "MSO"
  },
  {
   "name": "Tussey Mountain",
@@ -4405,7 +5505,9 @@
   "lon": -77.7521,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 48782596
+  "osm_id": 48782596,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/73,56/forecast",
+  "office": "CTP"
  },
  {
   "name": "Twin Farms Ski Hill",
@@ -4413,7 +5515,9 @@
   "lon": -72.5852,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1091013834
+  "osm_id": 1091013834,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/115,25/forecast",
+  "office": "BTV"
  },
  {
   "name": "Tyrol Basin Ski And Snowboard Area",
@@ -4421,7 +5525,9 @@
   "lon": -89.7844,
   "state": "",
   "osm_type": "way",
-  "osm_id": 304469711
+  "osm_id": 304469711,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/25,62/forecast",
+  "office": "MKX"
  },
  {
   "name": "Upper Trails",
@@ -4429,7 +5535,9 @@
   "lon": -88.5554,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1349708543
+  "osm_id": 1349708543,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/114,95/forecast",
+  "office": "MQT"
  },
  {
   "name": "Utah Olympic Park",
@@ -4437,7 +5545,9 @@
   "lon": -111.5646,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1266097009
+  "osm_id": 1266097009,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/111,172/forecast",
+  "office": "SLC"
  },
  {
   "name": "Vail",
@@ -4445,7 +5555,9 @@
   "lon": -106.3472,
   "state": "",
   "osm_type": "way",
-  "osm_id": 531009607
+  "osm_id": 531009607,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/174,119/forecast",
+  "office": "GJT"
  },
  {
   "name": "Veterans Memorial Ski Area",
@@ -4453,7 +5565,9 @@
   "lon": -71.6912,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363084977
+  "osm_id": 1363084977,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/27,39/forecast",
+  "office": "GYX"
  },
  {
   "name": "Victor Constant Ski Area",
@@ -4461,7 +5575,9 @@
   "lon": -73.9819,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1214590684
+  "osm_id": 1214590684,
+  "forecast_url": "https://api.weather.gov/gridpoints/OKX/29,73/forecast",
+  "office": "OKX"
  },
  {
   "name": "Villa Olivia",
@@ -4469,7 +5585,9 @@
   "lon": -88.221,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1231945516
+  "osm_id": 1231945516,
+  "forecast_url": "https://api.weather.gov/gridpoints/LOT/55,78/forecast",
+  "office": "LOT"
  },
  {
   "name": "Villa Roma Ski Area",
@@ -4477,7 +5595,9 @@
   "lon": -74.9711,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1222878706
+  "osm_id": 1222878706,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/100,46/forecast",
+  "office": "BGM"
  },
  {
   "name": "Vinegar Hill",
@@ -4485,7 +5605,9 @@
   "lon": -107.6688,
   "state": "",
   "osm_type": "way",
-  "osm_id": 529980944
+  "osm_id": 529980944,
+  "forecast_url": "https://api.weather.gov/gridpoints/GJT/122,52/forecast",
+  "office": "GJT"
  },
  {
   "name": "Voodoo Mountain",
@@ -4493,7 +5615,9 @@
   "lon": -88.0262,
   "state": "",
   "osm_type": "way",
-  "osm_id": 797077959
+  "osm_id": 797077959,
+  "forecast_url": "https://api.weather.gov/gridpoints/MQT/131,112/forecast",
+  "office": "MQT"
  },
  {
   "name": "Warner Canyon Ski Area",
@@ -4501,7 +5625,9 @@
   "lon": -120.2975,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1151090250
+  "osm_id": 1151090250,
+  "forecast_url": "https://api.weather.gov/gridpoints/MFR/190,52/forecast",
+  "office": "MFR"
  },
  {
   "name": "Wasatch Peaks Ranch",
@@ -4509,7 +5635,9 @@
   "lon": -111.83,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1274871384
+  "osm_id": 1274871384,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/104,190/forecast",
+  "office": "SLC"
  },
  {
   "name": "Waterville Valley Resort",
@@ -4517,7 +5645,9 @@
   "lon": -71.537,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1362922705
+  "osm_id": 1362922705,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/28,64/forecast",
+  "office": "GYX"
  },
  {
   "name": "Waterville Valley Resort Nordic",
@@ -4525,7 +5655,9 @@
   "lon": -71.4992,
   "state": "",
   "osm_type": "way",
-  "osm_id": 334259462
+  "osm_id": 334259462,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/29,64/forecast",
+  "office": "GYX"
  },
  {
   "name": "Welch Village",
@@ -4533,7 +5665,9 @@
   "lon": -92.7302,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1227143650
+  "osm_id": 1227143650,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/126,53/forecast",
+  "office": "MPX"
  },
  {
   "name": "West Mountain Ski Resort",
@@ -4541,7 +5675,9 @@
   "lon": -73.7341,
   "state": "",
   "osm_type": "way",
-  "osm_id": 256455529
+  "osm_id": 256455529,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/68,92/forecast",
+  "office": "ALY"
  },
  {
   "name": "Whaleback Mountain",
@@ -4549,7 +5685,9 @@
   "lon": -72.183,
   "state": "NH",
   "osm_type": "way",
-  "osm_id": 252782489
+  "osm_id": 252782489,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/9,44/forecast",
+  "office": "GYX"
  },
  {
   "name": "White Pass Ski Area",
@@ -4557,7 +5695,9 @@
   "lon": -121.397,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1254864194
+  "osm_id": 1254864194,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/145,16/forecast",
+  "office": "SEW"
  },
  {
   "name": "White Pine",
@@ -4565,7 +5705,9 @@
   "lon": -109.7519,
   "state": "",
   "osm_type": "way",
-  "osm_id": 654073584
+  "osm_id": 654073584,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/73,112/forecast",
+  "office": "RIW"
  },
  {
   "name": "Whitecap Mountain",
@@ -4573,7 +5715,9 @@
   "lon": -90.4036,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1340416269
+  "osm_id": 1340416269,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/147,52/forecast",
+  "office": "DLH"
  },
  {
   "name": "Whiteface Mountain Ski Center",
@@ -4581,7 +5725,9 @@
   "lon": -73.8794,
   "state": "",
   "osm_type": "way",
-  "osm_id": 428125408
+  "osm_id": 428125408,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/67,48/forecast",
+  "office": "BTV"
  },
  {
   "name": "Whitefish Mountain Resort",
@@ -4589,7 +5735,9 @@
   "lon": -114.347,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1388573249
+  "osm_id": 1388573249,
+  "forecast_url": "https://api.weather.gov/gridpoints/MSO/105,209/forecast",
+  "office": "MSO"
  },
  {
   "name": "Whitetail Resort",
@@ -4597,7 +5745,9 @@
   "lon": -77.9374,
   "state": "",
   "osm_type": "way",
-  "osm_id": 893138900
+  "osm_id": 893138900,
+  "forecast_url": "https://api.weather.gov/gridpoints/CTP/72,9/forecast",
+  "office": "CTP"
  },
  {
   "name": "Wild Chutes Snow Tubing",
@@ -4605,7 +5755,9 @@
   "lon": -92.7029,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1240327160
+  "osm_id": 1240327160,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/127,96/forecast",
+  "office": "MPX"
  },
  {
   "name": "Wild Mountain",
@@ -4613,7 +5765,9 @@
   "lon": -92.7084,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1240327159
+  "osm_id": 1240327159,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/126,96/forecast",
+  "office": "MPX"
  },
  {
   "name": "Wildcat Mountain",
@@ -4621,7 +5775,9 @@
   "lon": -71.2334,
   "state": "",
   "osm_type": "way",
-  "osm_id": 251260219
+  "osm_id": 251260219,
+  "forecast_url": "https://api.weather.gov/gridpoints/GYX/35,79/forecast",
+  "office": "GYX"
  },
  {
   "name": "Wilderness Lodge",
@@ -4629,7 +5785,9 @@
   "lon": -79.7648,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1024920824
+  "osm_id": 1024920824,
+  "forecast_url": "https://api.weather.gov/gridpoints/CLE/146,98/forecast",
+  "office": "CLE"
  },
  {
   "name": "Willamette Pass",
@@ -4637,7 +5795,9 @@
   "lon": -122.0235,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1278124828
+  "osm_id": 1278124828,
+  "forecast_url": "https://api.weather.gov/gridpoints/PQR/116,12/forecast",
+  "office": "PQR"
  },
  {
   "name": "Willard Mountain",
@@ -4645,7 +5805,9 @@
   "lon": -73.5199,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1366775255
+  "osm_id": 1366775255,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/77,81/forecast",
+  "office": "ALY"
  },
  {
   "name": "Willoughby State Forest",
@@ -4653,7 +5815,9 @@
   "lon": -72.0421,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1363305382
+  "osm_id": 1363305382,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/125,74/forecast",
+  "office": "BTV"
  },
  {
   "name": "Willow Park Nordic Ski Trails",
@@ -4661,7 +5825,9 @@
   "lon": -107.2308,
   "state": "",
   "osm_type": "way",
-  "osm_id": 654341983
+  "osm_id": 654341983,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/163,159/forecast",
+  "office": "RIW"
  },
  {
   "name": "Wilmot Mountain",
@@ -4669,7 +5835,9 @@
   "lon": -88.1921,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1183389371
+  "osm_id": 1183389371,
+  "forecast_url": "https://api.weather.gov/gridpoints/MKX/80,40/forecast",
+  "office": "MKX"
  },
  {
   "name": "Windham Mountain Club",
@@ -4677,7 +5845,9 @@
   "lon": -74.2564,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 14336718
+  "osm_id": 14336718,
+  "forecast_url": "https://api.weather.gov/gridpoints/ALY/58,44/forecast",
+  "office": "ALY"
  },
  {
   "name": "Winding Trails Recreation Area",
@@ -4685,7 +5855,9 @@
   "lon": -72.8487,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 12742436
+  "osm_id": 12742436,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/16,63/forecast",
+  "office": "BOX"
  },
  {
   "name": "WinMan Nordic Ski Trails",
@@ -4693,7 +5865,9 @@
   "lon": -89.8598,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1285879914
+  "osm_id": 1285879914,
+  "forecast_url": "https://api.weather.gov/gridpoints/GRB/15,108/forecast",
+  "office": "GRB"
  },
  {
   "name": "Winter Park Resort",
@@ -4701,7 +5875,9 @@
   "lon": -105.7826,
   "state": "",
   "osm_type": "way",
-  "osm_id": 460246666
+  "osm_id": 460246666,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOU/36,70/forecast",
+  "office": "BOU"
  },
  {
   "name": "Wintergreen Ski and Hiking Trail",
@@ -4709,7 +5885,9 @@
   "lon": -90.3216,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1265218054
+  "osm_id": 1265218054,
+  "forecast_url": "https://api.weather.gov/gridpoints/DLH/150,29/forecast",
+  "office": "DLH"
  },
  {
   "name": "Wintergreen Ski Resort",
@@ -4717,7 +5895,9 @@
   "lon": -78.9399,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1023791593
+  "osm_id": 1023791593,
+  "forecast_url": "https://api.weather.gov/gridpoints/LWX/35,19/forecast",
+  "office": "LWX"
  },
  {
   "name": "Winterplace Ski Resort",
@@ -4725,7 +5905,9 @@
   "lon": -81.1182,
   "state": "WV",
   "osm_type": "way",
-  "osm_id": 1243345428
+  "osm_id": 1243345428,
+  "forecast_url": "https://api.weather.gov/gridpoints/RLX/84,35/forecast",
+  "office": "RLX"
  },
  {
   "name": "Wisp Resort",
@@ -4733,7 +5915,9 @@
   "lon": -79.3754,
   "state": "MD",
   "osm_type": "way",
-  "osm_id": 980981935
+  "osm_id": 980981935,
+  "forecast_url": "https://api.weather.gov/gridpoints/LWX/12,91/forecast",
+  "office": "LWX"
  },
  {
   "name": "Wissahickon Ski Club",
@@ -4741,7 +5925,9 @@
   "lon": -75.275,
   "state": "PA",
   "osm_type": "way",
-  "osm_id": 224699161
+  "osm_id": 224699161,
+  "forecast_url": "https://api.weather.gov/gridpoints/PHI/45,84/forecast",
+  "office": "PHI"
  },
  {
   "name": "Wolf Creek Ski Area",
@@ -4749,7 +5935,9 @@
   "lon": -106.784,
   "state": "",
   "osm_type": "way",
-  "osm_id": 530503256
+  "osm_id": 530503256,
+  "forecast_url": "https://api.weather.gov/gridpoints/PUB/16,35/forecast",
+  "office": "PUB"
  },
  {
   "name": "Wood River Valley Ski Touring Park",
@@ -4757,7 +5945,9 @@
   "lon": -109.1069,
   "state": "",
   "osm_type": "way",
-  "osm_id": 654311986
+  "osm_id": 654311986,
+  "forecast_url": "https://api.weather.gov/gridpoints/RIW/99,153/forecast",
+  "office": "RIW"
  },
  {
   "name": "Woods Valley",
@@ -4765,7 +5955,9 @@
   "lon": -75.3802,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1420235319
+  "osm_id": 1420235319,
+  "forecast_url": "https://api.weather.gov/gridpoints/BGM/76,114/forecast",
+  "office": "BGM"
  },
  {
   "name": "Woodstock Nordic Center",
@@ -4773,7 +5965,9 @@
   "lon": -72.5111,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 16843653
+  "osm_id": 16843653,
+  "forecast_url": "https://api.weather.gov/gridpoints/BTV/118,20/forecast",
+  "office": "BTV"
  },
  {
   "name": "Woodward",
@@ -4781,7 +5975,9 @@
   "lon": -111.5823,
   "state": "",
   "osm_type": "way",
-  "osm_id": 837687072
+  "osm_id": 837687072,
+  "forecast_url": "https://api.weather.gov/gridpoints/SLC/111,174/forecast",
+  "office": "SLC"
  },
  {
   "name": "WoodWind Park",
@@ -4789,7 +5985,9 @@
   "lon": -91.8023,
   "state": "WI",
   "osm_type": "way",
-  "osm_id": 660570897
+  "osm_id": 660570897,
+  "forecast_url": "https://api.weather.gov/gridpoints/MPX/157,77/forecast",
+  "office": "MPX"
  },
  {
   "name": "Yawgoo Valley Ski Area & Water Park",
@@ -4797,7 +5995,9 @@
   "lon": -71.5294,
   "state": "",
   "osm_type": "relation",
-  "osm_id": 11805074
+  "osm_id": 11805074,
+  "forecast_url": "https://api.weather.gov/gridpoints/BOX/62,60/forecast",
+  "office": "BOX"
  },
  {
   "name": "Yellowstone Club",
@@ -4805,6 +6005,8 @@
   "lon": -111.4317,
   "state": "",
   "osm_type": "way",
-  "osm_id": 1461424414
+  "osm_id": 1461424414,
+  "forecast_url": "https://api.weather.gov/gridpoints/TFX/81,39/forecast",
+  "office": "TFX"
  }
 ]
