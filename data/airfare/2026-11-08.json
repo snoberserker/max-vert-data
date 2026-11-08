@@ -1,0 +1,94 @@
+{
+ "collectedAt": "2026-11-08T01:06:35.966023+00:00",
+ "source": "Kayak public route pages (indicative cheapest fares)",
+ "attribution": "Prices are indicative; search on Kayak for current fares.",
+ "routes": [
+  {
+   "origin": "SFO",
+   "destination": "SLC",
+   "cheapest_usd": 124,
+   "carrier": "Frontier",
+   "price_month": "january",
+   "deep_link": "https://www.kayak.com/flight-routes/SFO-SLC/"
+  },
+  {
+   "origin": "SFO",
+   "destination": "DEN",
+   "cheapest_usd": 93,
+   "carrier": "Frontier",
+   "price_month": "january",
+   "deep_link": "https://www.kayak.com/flight-routes/SFO-DEN/"
+  },
+  {
+   "origin": "SFO",
+   "destination": "SEA",
+   "cheapest_usd": 79,
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/SFO-SEA/"
+  },
+  {
+   "origin": "LAX",
+   "destination": "SLC",
+   "cheapest_usd": 90,
+   "carrier": "Frontier",
+   "price_month": "november",
+   "deep_link": "https://www.kayak.com/flight-routes/LAX-SLC/"
+  },
+  {
+   "origin": "LAX",
+   "destination": "DEN",
+   "cheapest_usd": 67,
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/LAX-DEN/"
+  },
+  {
+   "origin": "LAX",
+   "destination": "SEA",
+   "cheapest_usd": 85,
+   "carrier": "Frontier",
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/LAX-SEA/"
+  },
+  {
+   "origin": "LAX",
+   "destination": "YVR",
+   "cheapest_usd": 101,
+   "carrier": "Flair Airlines",
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/LAX-YVR/"
+  },
+  {
+   "origin": "DEN",
+   "destination": "SLC",
+   "cheapest_usd": 68,
+   "carrier": "Frontier",
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/DEN-SLC/"
+  },
+  {
+   "origin": "DEN",
+   "destination": "SEA",
+   "cheapest_usd": 110,
+   "carrier": "Frontier",
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/DEN-SEA/"
+  },
+  {
+   "origin": "SEA",
+   "destination": "YVR",
+   "cheapest_usd": 123,
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/SEA-YVR/"
+  },
+  {
+   "origin": "SEA",
+   "destination": "DEN",
+   "cheapest_usd": 86,
+   "carrier": "Frontier",
+   "price_month": "december",
+   "deep_link": "https://www.kayak.com/flight-routes/SEA-DEN/"
+  }
+ ],
+ "ok": 11,
+ "requested": 13
+}
