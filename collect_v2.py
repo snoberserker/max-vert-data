@@ -9,7 +9,7 @@ Modes:
 
 All sources public domain / ODbL. OpenSnow is featured, never scraped.
 """
-import json, os, sys, time, urllib.parse, urllib.request
+import gzip, json, os, sys, time, urllib.parse, urllib.request
 from datetime import date, datetime, timedelta, timezone
 
 REPO = os.path.dirname(os.path.abspath(__file__))
@@ -78,25 +78,44 @@ def collect_snow_all(batch_size=80):
     json.dump(out, open(os.path.join(DATA, "snowpack-all", "latest.json"), "w"), indent=1)
     return out
 
+def _hourly_key_fields(p):
+    return {"startTime": p.get("startTime"), "endTime": p.get("endTime"),
+            "tempF": p.get("temperature"), "windSpeed": p.get("windSpeed"),
+            "windDir": p.get("windDirection"),
+            "pop": (p.get("probabilityOfPrecipitation") or {}).get("value"),
+            "short": p.get("shortForecast")}
+
 def collect_resort_forecast(delay=0.3):
     resorts = json.load(open(os.path.join(REPO, "resorts.json")))
+    now = datetime.now(timezone.utc)
     out = {"date": date.today().isoformat(),
-           "collectedAt": datetime.now(timezone.utc).isoformat(),
+           "collectedAt": now.isoformat(),
            "requested": len(resorts), "ok": 0, "resorts": []}
     for r in resorts:
         try:
             url = r.get("forecast_url")
+            hourly_url = None
             if not url:  # fallback: two-step points lookup
                 meta = get(f"https://api.weather.gov/points/{r['lat']},{r['lon']}")
                 url = meta["properties"]["forecast"]
+                hourly_url = meta["properties"].get("forecastHourly")
+            else:
+                hourly_url = url + "/hourly" if url.endswith("/forecast") else None
             f = get(url)
-            periods = []
-            for p in f["properties"]["periods"][:4]:
-                periods.append({"name": p["name"], "tempF": p["temperature"],
-                                "pop": (p.get("probabilityOfPrecipitation") or {}).get("value"),
-                                "short": p.get("shortForecast")})
-            out["resorts"].append({"name": r["name"], "lat": r["lat"], "lon": r["lon"],
-                                   "office": f["properties"].get("cwa"), "periods": periods})
+            props = f["properties"]
+            elev = props.get("elevation")
+            rec = {"name": r["name"], "lat": r["lat"], "lon": r["lon"],
+                   "office": props.get("cwa"),
+                   "elevation_ft": elev.get("value") if isinstance(elev, dict) else elev,
+                   "updated": props.get("updateTime"),
+                   "periods": props.get("periods", [])}
+            if hourly_url:
+                try:
+                    h = get(hourly_url)
+                    rec["hourly"] = [_hourly_key_fields(p) for p in h["properties"].get("periods", [])[:48]]
+                except Exception:
+                    rec["hourlyError"] = "fetch failed"
+            out["resorts"].append(rec)
             out["ok"] += 1
         except Exception as e:
             out["resorts"].append({"name": r["name"], "lat": r["lat"], "lon": r["lon"],
@@ -105,8 +124,18 @@ def collect_resort_forecast(delay=0.3):
         if len(out["resorts"]) % 100 == 0:
             print(f"  ... {len(out['resorts'])}/{len(resorts)}", flush=True)
     os.makedirs(os.path.join(DATA, "resort-forecast"), exist_ok=True)
+    stamp = now.strftime("%H%M")
+    series_dir = os.path.join(DATA, "resort-forecast", "series")
+    os.makedirs(series_dir, exist_ok=True)
     json.dump(out, open(os.path.join(DATA, "resort-forecast", f"{out['date']}.json"), "w"), indent=1)
     json.dump(out, open(os.path.join(DATA, "resort-forecast", "latest.json"), "w"), indent=1)
+    with gzip.open(os.path.join(series_dir, f"{out['date']}T{stamp}.json.gz"), "wt") as f:
+        json.dump(out, f, indent=1)
+    # prune series files older than 30 days
+    cutoff = (date.today() - timedelta(days=30)).isoformat()
+    for fn in os.listdir(series_dir):
+        if fn < cutoff:
+            os.remove(os.path.join(series_dir, fn))
     return out
 
 if __name__ == "__main__":
