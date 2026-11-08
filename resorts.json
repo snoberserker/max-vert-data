@@ -1,0 +1,4810 @@
+[
+ {
+  "name": "49 North Nordic Center",
+  "lat": 48.3014,
+  "lon": -117.5513,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1460647091
+ },
+ {
+  "name": "49\u00b0 North Mountain Resort",
+  "lat": 48.2935,
+  "lon": -117.5615,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 884007908
+ },
+ {
+  "name": "Abenaki Ski Area",
+  "lat": 43.6036,
+  "lon": -71.2288,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1038072653
+ },
+ {
+  "name": "Active Backwoods Retreat Ski Trails",
+  "lat": 46.4159,
+  "lon": -90.1489,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 48946399
+ },
+ {
+  "name": "Adventure Center",
+  "lat": 33.8107,
+  "lon": -116.6409,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 383728494
+ },
+ {
+  "name": "Afterhours Ski Trails",
+  "lat": 46.54,
+  "lon": -91.6005,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 15880266
+ },
+ {
+  "name": "Afton Alps",
+  "lat": 44.8532,
+  "lon": -92.7857,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 543987749
+ },
+ {
+  "name": "Alpental",
+  "lat": 47.4409,
+  "lon": -121.4343,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 6855067
+ },
+ {
+  "name": "Alpental Backcountry",
+  "lat": 47.4485,
+  "lon": -121.4447,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 6855066
+ },
+ {
+  "name": "Alpine Valley",
+  "lat": 41.5284,
+  "lon": -81.2613,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1432101063
+ },
+ {
+  "name": "Alpine Valley Resort",
+  "lat": 42.7321,
+  "lon": -88.4268,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 758644690
+ },
+ {
+  "name": "Alpine Valley Ski Area",
+  "lat": 42.6531,
+  "lon": -83.5233,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 278930064
+ },
+ {
+  "name": "Alta Ski Area",
+  "lat": 40.5832,
+  "lon": -111.6245,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1023308077
+ },
+ {
+  "name": "Alyeska Resort",
+  "lat": 60.962,
+  "lon": -149.0846,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 934351306
+ },
+ {
+  "name": "Andes Tower Hills",
+  "lat": 45.8505,
+  "lon": -95.6207,
+  "state": "MN",
+  "osm_type": "way",
+  "osm_id": 313781036
+ },
+ {
+  "name": "Angel Fire Resort",
+  "lat": 36.3867,
+  "lon": -105.2723,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1119742983
+ },
+ {
+  "name": "Antelope Butte",
+  "lat": 44.6054,
+  "lon": -107.5121,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1554646670
+ },
+ {
+  "name": "Anthony Lakes Mountain Resort",
+  "lat": 44.9595,
+  "lon": -118.2391,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 826310580
+ },
+ {
+  "name": "Appalachian Mountain Ski Area",
+  "lat": 36.1738,
+  "lon": -81.6629,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1311333299
+ },
+ {
+  "name": "Appleton Farms",
+  "lat": 42.6477,
+  "lon": -70.8558,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 16327340
+ },
+ {
+  "name": "Arapahoe Basin",
+  "lat": 39.6279,
+  "lon": -105.8744,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 461239598
+ },
+ {
+  "name": "Arctic Valley Ski Area",
+  "lat": 61.246,
+  "lon": -149.5204,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 10517367
+ },
+ {
+  "name": "Arizona Snow Bowl",
+  "lat": 35.3283,
+  "lon": -111.6998,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 956148607
+ },
+ {
+  "name": "Aroostook State Park",
+  "lat": 46.6064,
+  "lon": -68.0033,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363822201
+ },
+ {
+  "name": "Arrowhead Recreation Area",
+  "lat": 43.3603,
+  "lon": -72.3312,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1366702103
+ },
+ {
+  "name": "Ascutney Outdoors",
+  "lat": 43.4627,
+  "lon": -72.4636,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1366784190
+ },
+ {
+  "name": "Aspen Highlands",
+  "lat": 39.1569,
+  "lon": -106.8628,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530531926
+ },
+ {
+  "name": "Aspen Mountain",
+  "lat": 39.1652,
+  "lon": -106.8194,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530531925
+ },
+ {
+  "name": "Aspen Snowmass",
+  "lat": 39.1859,
+  "lon": -106.9495,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1144096092
+ },
+ {
+  "name": "Atkisson Sno-Park",
+  "lat": 45.9603,
+  "lon": -121.6157,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1249724927
+ },
+ {
+  "name": "Attitash Mountain Resort",
+  "lat": 44.0742,
+  "lon": -71.2361,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 256024127
+ },
+ {
+  "name": "Ausblick Ski Hill",
+  "lat": 43.1345,
+  "lon": -88.2648,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 2625112370
+ },
+ {
+  "name": "Avalanche Safety Training Area",
+  "lat": 47.4452,
+  "lon": -121.4229,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 885692374
+ },
+ {
+  "name": "Badger Pass Ski Area",
+  "lat": 37.6588,
+  "lon": -119.6633,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 44043541
+ },
+ {
+  "name": "Badlands Snow Park",
+  "lat": 44.9733,
+  "lon": -92.6416,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 963326847
+ },
+ {
+  "name": "Baithole Trails",
+  "lat": 45.6445,
+  "lon": -68.7751,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1234574650
+ },
+ {
+  "name": "Baker Mountain Ski Area",
+  "lat": 45.0869,
+  "lon": -69.9092,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 379477862
+ },
+ {
+  "name": "Bald Mountain Ski Area",
+  "lat": 46.5695,
+  "lon": -115.8708,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 923545035
+ },
+ {
+  "name": "Bear Basin Nordic Center",
+  "lat": 44.9446,
+  "lon": -116.1482,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 882093832
+ },
+ {
+  "name": "Bear Canyon",
+  "lat": 45.6039,
+  "lon": -110.9236,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1213966697
+ },
+ {
+  "name": "Bear Creek Mountain Resort Ski Slopes",
+  "lat": 40.4747,
+  "lon": -75.6298,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 281594168
+ },
+ {
+  "name": "Bear Notch Ski Touring Center",
+  "lat": 44.0731,
+  "lon": -71.2905,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1360714249
+ },
+ {
+  "name": "Bear Valley",
+  "lat": 38.4837,
+  "lon": -120.0533,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 16792393
+ },
+ {
+  "name": "Bear Valley Adventure Company",
+  "lat": 38.4487,
+  "lon": -120.0461,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 477982773
+ },
+ {
+  "name": "Beartooth Basin Summer Ski Area",
+  "lat": 44.9772,
+  "lon": -109.4353,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1213945638
+ },
+ {
+  "name": "Beaver Creek Nordic Ski Area",
+  "lat": 42.5528,
+  "lon": -108.7053,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 666180090
+ },
+ {
+  "name": "Beaver Creek Resort",
+  "lat": 39.599,
+  "lon": -106.5368,
+  "state": "CO",
+  "osm_type": "way",
+  "osm_id": 531009608
+ },
+ {
+  "name": "Beaver Meadow XC Skiing",
+  "lat": 43.2594,
+  "lon": -71.5662,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1152922340
+ },
+ {
+  "name": "Beaver Mountain",
+  "lat": 41.9724,
+  "lon": -111.552,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1070694657
+ },
+ {
+  "name": "Beech Mountain Ski Resort",
+  "lat": 36.1914,
+  "lon": -81.8805,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1311339559
+ },
+ {
+  "name": "Belleayre Mountain Ski Center",
+  "lat": 42.1303,
+  "lon": -74.5022,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 6373343
+ },
+ {
+  "name": "Bellows Falls Ski Tow",
+  "lat": 43.1285,
+  "lon": -72.4546,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1367310450
+ },
+ {
+  "name": "Berkshire East Ski Resort",
+  "lat": 42.6133,
+  "lon": -72.8719,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 256781770
+ },
+ {
+  "name": "Biathlon Range",
+  "lat": 39.9775,
+  "lon": -105.9278,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 356040885
+ },
+ {
+  "name": "Biathlon Range Boundaries",
+  "lat": 47.1921,
+  "lon": -113.4671,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1224536212
+ },
+ {
+  "name": "Big Bear Mountain Resort",
+  "lat": 34.2198,
+  "lon": -116.8596,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 682224991
+ },
+ {
+  "name": "Big Bear Ski Resort",
+  "lat": 41.5248,
+  "lon": -75.0199,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 392376125
+ },
+ {
+  "name": "Big Bear Snow Play",
+  "lat": 34.2584,
+  "lon": -116.8671,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 329813045
+ },
+ {
+  "name": "Big Boulder Ski Resort Area",
+  "lat": 41.0486,
+  "lon": -75.6013,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 390166745
+ },
+ {
+  "name": "Big Hill Nordic",
+  "lat": 44.4954,
+  "lon": -114.3624,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1411939523
+ },
+ {
+  "name": "Big Moose Mountain Ski Area",
+  "lat": 45.4981,
+  "lon": -69.7057,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 379478843
+ },
+ {
+  "name": "Big Powderhorn Mountain Resort",
+  "lat": 46.5062,
+  "lon": -90.0936,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 473859024
+ },
+ {
+  "name": "Big Rock Mountain",
+  "lat": 46.524,
+  "lon": -67.8218,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 255071260
+ },
+ {
+  "name": "Big Sky Resort",
+  "lat": 45.2809,
+  "lon": -111.4107,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1254863688
+ },
+ {
+  "name": "Big Snow American Dream",
+  "lat": 40.8104,
+  "lon": -74.0704,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 755762044
+ },
+ {
+  "name": "Bigfork Community Nordic Center",
+  "lat": 48.1451,
+  "lon": -113.9973,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1354098284
+ },
+ {
+  "name": "Birch Hill Biathlon",
+  "lat": 64.8671,
+  "lon": -147.6365,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 933399260
+ },
+ {
+  "name": "Birch Hill Recreation Area",
+  "lat": 64.8695,
+  "lon": -147.6468,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 933399252
+ },
+ {
+  "name": "Birch Hill Ski and Snowboard Area",
+  "lat": 64.8609,
+  "lon": -147.626,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 933399437
+ },
+ {
+  "name": "Bittersweet",
+  "lat": 42.4649,
+  "lon": -85.761,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1249475098
+ },
+ {
+  "name": "Black Mountain",
+  "lat": 44.1723,
+  "lon": -71.165,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1154306823
+ },
+ {
+  "name": "Black Mountain of Maine",
+  "lat": 44.5802,
+  "lon": -70.6201,
+  "state": "ME",
+  "osm_type": "relation",
+  "osm_id": 19733493
+ },
+ {
+  "name": "Black River Basin",
+  "lat": 46.5027,
+  "lon": -90.0029,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 473859023
+ },
+ {
+  "name": "Blackhawk Ski Club",
+  "lat": 43.0854,
+  "lon": -89.5688,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 277483452
+ },
+ {
+  "name": "Blacktail Mountain Ski Area",
+  "lat": 48.0229,
+  "lon": -114.3744,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1335354188
+ },
+ {
+  "name": "Blackwater Nordic Club",
+  "lat": 43.2349,
+  "lon": -71.7259,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1462273571
+ },
+ {
+  "name": "Blizzard Mountain",
+  "lat": 38.8044,
+  "lon": -120.0835,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 1110783217
+ },
+ {
+  "name": "Blue Knob",
+  "lat": 40.2929,
+  "lon": -78.5577,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1221894855
+ },
+ {
+  "name": "Blue Mountain Resort",
+  "lat": 40.8162,
+  "lon": -75.5126,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 390536570
+ },
+ {
+  "name": "Bluewood Ski Area",
+  "lat": 46.0798,
+  "lon": -117.8518,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 186084312
+ },
+ {
+  "name": "Bogus Basin Mountain Recreation Area",
+  "lat": 43.7701,
+  "lon": -116.0924,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1470441271
+ },
+ {
+  "name": "Bolton Valley Resort",
+  "lat": 44.4176,
+  "lon": -72.8502,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 905237707
+ },
+ {
+  "name": "Boston Mills Ski Resort",
+  "lat": 41.2642,
+  "lon": -81.5656,
+  "state": "OH",
+  "osm_type": "way",
+  "osm_id": 452323654
+ },
+ {
+  "name": "Bousquet Mountain",
+  "lat": 42.4153,
+  "lon": -73.2801,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1278125600
+ },
+ {
+  "name": "Boyce Park Ski Area",
+  "lat": 40.4597,
+  "lon": -79.7489,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 360578768
+ },
+ {
+  "name": "Boyne Highlands Resort",
+  "lat": 45.4771,
+  "lon": -84.9399,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 997160539
+ },
+ {
+  "name": "Boyne Mountain",
+  "lat": 45.1653,
+  "lon": -84.9465,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1351013953
+ },
+ {
+  "name": "Brandywine Ski Resort",
+  "lat": 41.2846,
+  "lon": -81.5556,
+  "state": "OH",
+  "osm_type": "way",
+  "osm_id": 391698033
+ },
+ {
+  "name": "Brantling Ski Slopes",
+  "lat": 43.1488,
+  "lon": -77.0672,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 910275239
+ },
+ {
+  "name": "Brattleboro Ski Hill",
+  "lat": 42.8466,
+  "lon": -72.5858,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1367080701
+ },
+ {
+  "name": "Breckenridge Resort",
+  "lat": 39.4749,
+  "lon": -106.081,
+  "state": "CO",
+  "osm_type": "way",
+  "osm_id": 531005985
+ },
+ {
+  "name": "Bretton Woods Ski Area",
+  "lat": 44.2497,
+  "lon": -71.4673,
+  "state": "NH",
+  "osm_type": "way",
+  "osm_id": 334259249
+ },
+ {
+  "name": "Brian Head Resort",
+  "lat": 37.6911,
+  "lon": -112.847,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1230308747
+ },
+ {
+  "name": "Bridger Bowl",
+  "lat": 45.8163,
+  "lon": -110.9122,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1228627171
+ },
+ {
+  "name": "Brighton Resort",
+  "lat": 40.5921,
+  "lon": -111.5804,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 682230007
+ },
+ {
+  "name": "Bristol Mountain Ski Resort",
+  "lat": 42.7426,
+  "lon": -77.4136,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 320434895
+ },
+ {
+  "name": "Bromley Mountain Ski Resort;Bromley Mountain",
+  "lat": 43.2206,
+  "lon": -72.9378,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1096045891
+ },
+ {
+  "name": "Bruce Mound Winter Sports Area",
+  "lat": 44.4446,
+  "lon": -90.7914,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 613145242
+ },
+ {
+  "name": "Brundage Mountain",
+  "lat": 45.0013,
+  "lon": -116.1437,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1472725361
+ },
+ {
+  "name": "Brush Creek Cross-Country Ski Trail System",
+  "lat": 41.3384,
+  "lon": -106.4976,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 655243251
+ },
+ {
+  "name": "Bryce Resort",
+  "lat": 38.8144,
+  "lon": -78.7659,
+  "state": "VA",
+  "osm_type": "way",
+  "osm_id": 1010720455
+ },
+ {
+  "name": "Buck Hill",
+  "lat": 44.7237,
+  "lon": -93.2856,
+  "state": "MN",
+  "osm_type": "way",
+  "osm_id": 1344641638
+ },
+ {
+  "name": "Buckskin Hills Ski + Tubing Hill",
+  "lat": 40.479,
+  "lon": -109.4315,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1213948650
+ },
+ {
+  "name": "Buena Vista Ski Area",
+  "lat": 47.6585,
+  "lon": -94.8771,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 561579818
+ },
+ {
+  "name": "Buffalo Ski Club",
+  "lat": 42.6775,
+  "lon": -78.696,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1026073030
+ },
+ {
+  "name": "Bunny Hill",
+  "lat": 41.9197,
+  "lon": -87.6468,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 293299187
+ },
+ {
+  "name": "Burke Mountain Resort",
+  "lat": 44.5805,
+  "lon": -71.9009,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1094524069
+ },
+ {
+  "name": "Buttermilk",
+  "lat": 39.1928,
+  "lon": -106.87,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530538581
+ },
+ {
+  "name": "Caberfae Peaks",
+  "lat": 44.2422,
+  "lon": -85.7176,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1241940633
+ },
+ {
+  "name": "Camden Snow Bowl",
+  "lat": 44.2138,
+  "lon": -69.1415,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1366642639
+ },
+ {
+  "name": "Camel's Hump Nordic Ski Area",
+  "lat": 44.3265,
+  "lon": -72.934,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363368307
+ },
+ {
+  "name": "Camelback Mountain Resort",
+  "lat": 41.0489,
+  "lon": -75.3521,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 52067284
+ },
+ {
+  "name": "Camp 10 Ski n Snowboard",
+  "lat": 45.549,
+  "lon": -89.5045,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 1258231242
+ },
+ {
+  "name": "Campgaw Mountain Ski Area",
+  "lat": 41.0598,
+  "lon": -74.1975,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 39834766
+ },
+ {
+  "name": "Campton Mountain",
+  "lat": 43.8664,
+  "lon": -71.6098,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362711736
+ },
+ {
+  "name": "Canaan Valley Ski Resort",
+  "lat": 39.0061,
+  "lon": -79.4366,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 908172888
+ },
+ {
+  "name": "Cannon Mountain",
+  "lat": 44.1689,
+  "lon": -71.7007,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 334259037
+ },
+ {
+  "name": "Cannonsburg Ski Area",
+  "lat": 43.0516,
+  "lon": -85.5032,
+  "state": "MI",
+  "osm_type": "way",
+  "osm_id": 524527169
+ },
+ {
+  "name": "Caribou Medow",
+  "lat": 39.9366,
+  "lon": -105.5818,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1350826545
+ },
+ {
+  "name": "Carter's XC Ski",
+  "lat": 44.4681,
+  "lon": -70.7803,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362834254
+ },
+ {
+  "name": "Cascade Mountain",
+  "lat": 43.5003,
+  "lon": -89.5129,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 552426422
+ },
+ {
+  "name": "Casper Nordic Center",
+  "lat": 42.7428,
+  "lon": -106.3053,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 664507547
+ },
+ {
+  "name": "Castle hill",
+  "lat": 39.3844,
+  "lon": -104.8858,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1443055846
+ },
+ {
+  "name": "Cataloochee Ski Area",
+  "lat": 35.5592,
+  "lon": -83.0908,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1311290835
+ },
+ {
+  "name": "Catamount Mountain Resort",
+  "lat": 42.1659,
+  "lon": -73.4771,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1176086204
+ },
+ {
+  "name": "CAVOC Trails",
+  "lat": 45.6258,
+  "lon": -89.3471,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 17011203
+ },
+ {
+  "name": "Cedar Pass",
+  "lat": 41.5546,
+  "lon": -120.266,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 908288937
+ },
+ {
+  "name": "Chapman Hill Recreation Area",
+  "lat": 37.2823,
+  "lon": -107.8681,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530501892
+ },
+ {
+  "name": "Cherry Peak Ski Area",
+  "lat": 41.9227,
+  "lon": -111.7535,
+  "state": "UT",
+  "osm_type": "way",
+  "osm_id": 1275118072
+ },
+ {
+  "name": "Chester Bowl",
+  "lat": 46.8123,
+  "lon": -92.0959,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1489470471
+ },
+ {
+  "name": "Chestnut Mountain Resort",
+  "lat": 42.3173,
+  "lon": -90.3977,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 867570853
+ },
+ {
+  "name": "Chimney Park Nordic Trails",
+  "lat": 41.0684,
+  "lon": -106.0935,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 668350382
+ },
+ {
+  "name": "China Peak Mountain Resort",
+  "lat": 37.2262,
+  "lon": -119.1568,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1162245573
+ },
+ {
+  "name": "Chipmunk Ski Hill",
+  "lat": 44.4695,
+  "lon": -114.3219,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 917828473
+ },
+ {
+  "name": "Chiwawa Sno-Park",
+  "lat": 47.8111,
+  "lon": -120.674,
+  "state": "WA",
+  "osm_type": "way",
+  "osm_id": 1157604112
+ },
+ {
+  "name": "Christie Mountain Ski Area",
+  "lat": 45.508,
+  "lon": -91.3843,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 415878204
+ },
+ {
+  "name": "Christmas Mountain",
+  "lat": 43.6074,
+  "lon": -89.8627,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 909097500
+ },
+ {
+  "name": "Cimarron Start House",
+  "lat": 39.4538,
+  "lon": -106.0719,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 470098262
+ },
+ {
+  "name": "Cloudmont Ski Hill",
+  "lat": 34.5344,
+  "lon": -85.6014,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1246749803
+ },
+ {
+  "name": "Cochran's Ski Area",
+  "lat": 44.393,
+  "lon": -72.9818,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 492412302
+ },
+ {
+  "name": "Coffee Mill Ski & Snowboard Resort",
+  "lat": 44.3602,
+  "lon": -92.0437,
+  "state": "MN",
+  "osm_type": "way",
+  "osm_id": 734596223
+ },
+ {
+  "name": "Competition Trails",
+  "lat": 47.1081,
+  "lon": -88.5434,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1349708541
+ },
+ {
+  "name": "Copper Falls State Park Winter Trails",
+  "lat": 46.3625,
+  "lon": -90.6485,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361224846
+ },
+ {
+  "name": "Copper Mountain",
+  "lat": 39.4775,
+  "lon": -106.163,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 531005986
+ },
+ {
+  "name": "Copper Peak Ski Jump Park",
+  "lat": 46.6001,
+  "lon": -90.089,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 958972227
+ },
+ {
+  "name": "Coppervale Ski Area",
+  "lat": 40.3454,
+  "lon": -120.904,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 9634898296
+ },
+ {
+  "name": "Cottonwood Butte Ski Hill",
+  "lat": 46.0733,
+  "lon": -116.4574,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 767347917
+ },
+ {
+  "name": "Cranmore Mountain Resort",
+  "lat": 44.0608,
+  "lon": -71.0989,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 334089267
+ },
+ {
+  "name": "Cranmore Tubing Park",
+  "lat": 44.0541,
+  "lon": -71.1094,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1017192437
+ },
+ {
+  "name": "Cranor Hill Municipal Ski Hill",
+  "lat": 38.5849,
+  "lon": -106.8959,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530520630
+ },
+ {
+  "name": "Crested Butte Mountain Resort",
+  "lat": 38.897,
+  "lon": -106.9432,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530521512
+ },
+ {
+  "name": "Crested Butte Nordic",
+  "lat": 38.8805,
+  "lon": -106.9899,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 7632286
+ },
+ {
+  "name": "Cross Country Ski Headquarters Trails",
+  "lat": 44.4718,
+  "lon": -84.6564,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 937917198
+ },
+ {
+  "name": "Crotched Mountain Ski & Ride",
+  "lat": 43.0088,
+  "lon": -71.8788,
+  "state": "NH",
+  "osm_type": "relation",
+  "osm_id": 18511194
+ },
+ {
+  "name": "Crystal Mountain",
+  "lat": 44.524,
+  "lon": -85.9968,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1155757094
+ },
+ {
+  "name": "Cuchara Mountain Resort",
+  "lat": 37.3425,
+  "lon": -105.1314,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1212155021
+ },
+ {
+  "name": "Dartmouth Skiway",
+  "lat": 43.7852,
+  "lon": -72.0964,
+  "state": "NH",
+  "osm_type": "relation",
+  "osm_id": 15475391
+ },
+ {
+  "name": "Dave Wood Winter Recreation Area",
+  "lat": 38.2993,
+  "lon": -107.9735,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1000114820
+ },
+ {
+  "name": "Deer Hollow Non-Motorized Winter Recreation Area",
+  "lat": 37.5389,
+  "lon": -112.7921,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1225048334
+ },
+ {
+  "name": "Deer Valley Resort",
+  "lat": 40.6114,
+  "lon": -111.4823,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 682241434
+ },
+ {
+  "name": "Detroit Mountain",
+  "lat": 46.8152,
+  "lon": -95.784,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1246948337
+ },
+ {
+  "name": "Devil's Head Ski Area",
+  "lat": 43.4217,
+  "lon": -89.6276,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 302670313
+ },
+ {
+  "name": "Diamond Peak",
+  "lat": 39.2547,
+  "lon": -119.914,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 467831000
+ },
+ {
+  "name": "Discovery Ski Area",
+  "lat": 46.2649,
+  "lon": -113.2515,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1263735248
+ },
+ {
+  "name": "Dodge Ridge Ski Area",
+  "lat": 38.1911,
+  "lon": -119.9387,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 242382005
+ },
+ {
+  "name": "Dry Hill Ski Area",
+  "lat": 43.9298,
+  "lon": -75.9023,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 679909874
+ },
+ {
+  "name": "Durango Nordic Center",
+  "lat": 37.6413,
+  "lon": -107.8045,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 529997954
+ },
+ {
+  "name": "Dutch Henry Ski Hill",
+  "lat": 39.2377,
+  "lon": -106.304,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1495620324
+ },
+ {
+  "name": "Eagle Point Resort",
+  "lat": 38.3226,
+  "lon": -112.3819,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1117705886
+ },
+ {
+  "name": "Eagle Rock Ski Resort",
+  "lat": 40.9267,
+  "lon": -76.1066,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 390167295
+ },
+ {
+  "name": "Eaglecrest Ski Area",
+  "lat": 58.2678,
+  "lon": -134.5114,
+  "state": "AK",
+  "osm_type": "way",
+  "osm_id": 1010412985
+ },
+ {
+  "name": "Eastman Cross Country",
+  "lat": 43.5065,
+  "lon": -72.1128,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363087011
+ },
+ {
+  "name": "Echo Mountain",
+  "lat": 39.6855,
+  "lon": -105.5204,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530998534
+ },
+ {
+  "name": "Echo Valley Ski Area",
+  "lat": 47.9375,
+  "lon": -120.058,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1017418156
+ },
+ {
+  "name": "Eldora",
+  "lat": 39.9413,
+  "lon": -105.5934,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 427517284
+ },
+ {
+  "name": "Elk Mountain Ski Resort",
+  "lat": 41.7197,
+  "lon": -75.5583,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 422321232
+ },
+ {
+  "name": "Erie Skeet Club",
+  "lat": 42.0331,
+  "lon": -80.1563,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 987977823
+ },
+ {
+  "name": "Fahnestock Winter Park",
+  "lat": 41.4594,
+  "lon": -73.8281,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1472723234
+ },
+ {
+  "name": "Ferguson Ridge Ski Area",
+  "lat": 45.2787,
+  "lon": -117.1138,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 871519195
+ },
+ {
+  "name": "Fish Creek Meadows Nordic Park n Ski",
+  "lat": 45.8484,
+  "lon": -116.0977,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 875359993
+ },
+ {
+  "name": "Flambeau Hills Trails",
+  "lat": 45.8068,
+  "lon": -90.7187,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1359863204
+ },
+ {
+  "name": "Forbush Corner Nordic Cross Country Skiing Center",
+  "lat": 44.7784,
+  "lon": -84.705,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1009742339
+ },
+ {
+  "name": "Four Corner Snow Park",
+  "lat": 45.178,
+  "lon": -118.6077,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1555175941
+ },
+ {
+  "name": "Four Seasons Trail Association",
+  "lat": 47.3426,
+  "lon": -68.3211,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1233538168
+ },
+ {
+  "name": "Fox Hill Ski Area",
+  "lat": 43.3747,
+  "lon": -88.252,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 828173278
+ },
+ {
+  "name": "Franconia Village XC Ski Center",
+  "lat": 44.1932,
+  "lon": -71.7402,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363129372
+ },
+ {
+  "name": "Frost Fire Park",
+  "lat": 48.9111,
+  "lon": -98.0668,
+  "state": "ND",
+  "osm_type": "way",
+  "osm_id": 656372511
+ },
+ {
+  "name": "Giants Ridge Resort",
+  "lat": 47.5713,
+  "lon": -92.3141,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1314867881
+ },
+ {
+  "name": "Gladstone Ski Hill",
+  "lat": 45.8605,
+  "lon": -87.0366,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1084305228
+ },
+ {
+  "name": "Goat Meadow Snow Play Area",
+  "lat": 37.4908,
+  "lon": -119.6246,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1381803330
+ },
+ {
+  "name": "Gore Mountain",
+  "lat": 43.6827,
+  "lon": -74.0189,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1238042221
+ },
+ {
+  "name": "Granby Ranch",
+  "lat": 40.0302,
+  "lon": -105.9028,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1266097397
+ },
+ {
+  "name": "Grand Lake Nordic Center",
+  "lat": 40.2474,
+  "lon": -105.8605,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1312498328
+ },
+ {
+  "name": "Grand Targhee Resort",
+  "lat": 43.7849,
+  "lon": -110.9426,
+  "state": "WY",
+  "osm_type": "way",
+  "osm_id": 952802401
+ },
+ {
+  "name": "Granite Gorge Ski Area",
+  "lat": 42.9689,
+  "lon": -72.2126,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 450395267
+ },
+ {
+  "name": "Granite Peak Ski Area",
+  "lat": 44.9264,
+  "lon": -89.6851,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 317142448
+ },
+ {
+  "name": "Great Bear Recreation Park",
+  "lat": 43.5776,
+  "lon": -96.6643,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1214114449
+ },
+ {
+  "name": "Great Brook Ski Touring Center",
+  "lat": 42.5568,
+  "lon": -71.3417,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1230108780
+ },
+ {
+  "name": "Great Divide Ski Area",
+  "lat": 46.7515,
+  "lon": -112.3259,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 147037315
+ },
+ {
+  "name": "Great Glen Trails",
+  "lat": 44.294,
+  "lon": -71.2244,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361269903
+ },
+ {
+  "name": "Greek Peak Mountain Resort",
+  "lat": 42.5024,
+  "lon": -76.1391,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 691521201
+ },
+ {
+  "name": "Green Mountain",
+  "lat": 41.1367,
+  "lon": -106.9013,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1213942855
+ },
+ {
+  "name": "Green Woodlands",
+  "lat": 43.7828,
+  "lon": -71.9883,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363573788
+ },
+ {
+  "name": "Gunstock Recreation Area",
+  "lat": 43.535,
+  "lon": -71.3677,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 47798396
+ },
+ {
+  "name": "Happy Jack Winter Trails",
+  "lat": 41.2429,
+  "lon": -105.4187,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 668348061
+ },
+ {
+  "name": "Hard'Ack Ski Area",
+  "lat": 44.8157,
+  "lon": -73.0673,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 759625771
+ },
+ {
+  "name": "Harrington Hill",
+  "lat": 43.8351,
+  "lon": -72.3711,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1105825771
+ },
+ {
+  "name": "Hasbrouck Ranch Nordic Trails",
+  "lat": 44.406,
+  "lon": -116.0213,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1125761974
+ },
+ {
+  "name": "Hatley Pointe",
+  "lat": 35.951,
+  "lon": -82.5102,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1126110799
+ },
+ {
+  "name": "Hawksnest Snow Tubing",
+  "lat": 36.1442,
+  "lon": -81.8241,
+  "state": "NC",
+  "osm_type": "way",
+  "osm_id": 907926156
+ },
+ {
+  "name": "Heavenly Hill",
+  "lat": 42.2583,
+  "lon": -71.0239,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1474579830
+ },
+ {
+  "name": "Heavenly Mountain Resort",
+  "lat": 38.9404,
+  "lon": -119.912,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 12152028
+ },
+ {
+  "name": "Heiliger Huegel Ski Club",
+  "lat": 43.2527,
+  "lon": -88.3128,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 1416767720
+ },
+ {
+  "name": "Hermon Mountain",
+  "lat": 44.7796,
+  "lon": -68.9597,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362710453
+ },
+ {
+  "name": "Hesperus Ski Area",
+  "lat": 37.297,
+  "lon": -108.0572,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530498773
+ },
+ {
+  "name": "Hickory Ski Center",
+  "lat": 43.4744,
+  "lon": -73.8168,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 2622353354
+ },
+ {
+  "name": "Hidden Valley",
+  "lat": 38.5361,
+  "lon": -90.6543,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 990531013
+ },
+ {
+  "name": "Hidden Valley Resort",
+  "lat": 40.0588,
+  "lon": -79.2519,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 398100052
+ },
+ {
+  "name": "Hillberg Ski Area",
+  "lat": 61.2745,
+  "lon": -149.8167,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 974189591
+ },
+ {
+  "name": "Hilltop Ski Area",
+  "lat": 61.141,
+  "lon": -149.739,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 839939642
+ },
+ {
+  "name": "Hoedown Hill",
+  "lat": 40.4542,
+  "lon": -104.9295,
+  "state": "CO",
+  "osm_type": "way",
+  "osm_id": 1443608615
+ },
+ {
+  "name": "Hogadon Basin Ski Area",
+  "lat": 42.7466,
+  "lon": -106.3411,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 664509572
+ },
+ {
+  "name": "Holiday Valley",
+  "lat": 42.2572,
+  "lon": -78.6771,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 136858703
+ },
+ {
+  "name": "Holimont",
+  "lat": 42.27,
+  "lon": -78.6862,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 691516993
+ },
+ {
+  "name": "Holy Cross Trail",
+  "lat": 45.812,
+  "lon": -90.3855,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1265218791
+ },
+ {
+  "name": "Homestake Lodge & Ski Area",
+  "lat": 45.9026,
+  "lon": -112.3872,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1219679745
+ },
+ {
+  "name": "Homewood Ski Area",
+  "lat": 39.0774,
+  "lon": -120.1734,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 8391726
+ },
+ {
+  "name": "Homewood Snowcat Adventures",
+  "lat": 39.0728,
+  "lon": -120.1857,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 599019465
+ },
+ {
+  "name": "Hoodoo Ski Area",
+  "lat": 44.4041,
+  "lon": -121.8809,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1260579139
+ },
+ {
+  "name": "Horseshoe Prairie Nordic Ski Area",
+  "lat": 45.7106,
+  "lon": -118.0483,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 875327042
+ },
+ {
+  "name": "Howelson Hill Ski Area",
+  "lat": 40.4818,
+  "lon": -106.8387,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530989200
+ },
+ {
+  "name": "Huff Hills Ski Resort",
+  "lat": 46.6256,
+  "lon": -100.7262,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 846739537
+ },
+ {
+  "name": "Hunt Hollow Ski Club",
+  "lat": 42.6428,
+  "lon": -77.4825,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 1303060558
+ },
+ {
+  "name": "Hurricane Ridge Ski Area",
+  "lat": 47.9702,
+  "lon": -123.4952,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 8011579486
+ },
+ {
+  "name": "Hyland Hills Ski Area",
+  "lat": 44.8434,
+  "lon": -93.3648,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 956685533
+ },
+ {
+  "name": "Hyland Ski & Snowboard Area Ski Jump",
+  "lat": 44.8525,
+  "lon": -93.3651,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 195173716
+ },
+ {
+  "name": "Icicle River Ski & Snowshoe Area",
+  "lat": 47.5534,
+  "lon": -120.6736,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1240319850
+ },
+ {
+  "name": "Inland Woods and Trails",
+  "lat": 44.3879,
+  "lon": -70.7897,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1197168541
+ },
+ {
+  "name": "Intervale Center",
+  "lat": 44.5011,
+  "lon": -73.2119,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363366218
+ },
+ {
+  "name": "Ironton Park Cross-Country Ski Area",
+  "lat": 37.9369,
+  "lon": -107.6759,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 534417305
+ },
+ {
+  "name": "Jack Frost Mountain Resort",
+  "lat": 41.1106,
+  "lon": -75.652,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 390163427
+ },
+ {
+  "name": "Jackson Creek Summit",
+  "lat": 46.5034,
+  "lon": -89.9731,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 473859022
+ },
+ {
+  "name": "Jackson Hole Mountain Resort",
+  "lat": 43.5958,
+  "lon": -110.8497,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1074335726
+ },
+ {
+  "name": "Jay Peak Resort",
+  "lat": 44.9358,
+  "lon": -72.5114,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1094522661
+ },
+ {
+  "name": "Jiminy Peak Resort",
+  "lat": 42.5488,
+  "lon": -73.2858,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1021872776
+ },
+ {
+  "name": "Johnsville Historic Ski Bowl",
+  "lat": 39.7663,
+  "lon": -120.7,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 8014687017
+ },
+ {
+  "name": "Jug Mountain Ranch Winter Trails",
+  "lat": 44.838,
+  "lon": -116.0193,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1125750315
+ },
+ {
+  "name": "June Mountain",
+  "lat": 37.755,
+  "lon": -119.0752,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 14100275
+ },
+ {
+  "name": "Kanc Recreation Area",
+  "lat": 44.0536,
+  "lon": -71.6627,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 759661881
+ },
+ {
+  "name": "Katahdin Woods and Waters National Monument",
+  "lat": 46.0636,
+  "lon": -68.7581,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 16875921
+ },
+ {
+  "name": "Kelly Canyon Ski Resort",
+  "lat": 43.6391,
+  "lon": -111.6226,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 375130755
+ },
+ {
+  "name": "Kendall Mountain Recreation Area",
+  "lat": 37.8116,
+  "lon": -107.6555,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 528962955
+ },
+ {
+  "name": "Keystone",
+  "lat": 39.572,
+  "lon": -105.9334,
+  "state": "CO",
+  "osm_type": "way",
+  "osm_id": 531000583
+ },
+ {
+  "name": "Killington Resort",
+  "lat": 43.6112,
+  "lon": -72.7884,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1228774360
+ },
+ {
+  "name": "King Pine",
+  "lat": 43.8658,
+  "lon": -71.0868,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363577242
+ },
+ {
+  "name": "Kirkwood Mountain Resort",
+  "lat": 38.6757,
+  "lon": -120.0659,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 319472357
+ },
+ {
+  "name": "Kissing Bridge",
+  "lat": 42.5998,
+  "lon": -78.6587,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1026091819
+ },
+ {
+  "name": "Korkki Nordic Ski Center",
+  "lat": 46.976,
+  "lon": -91.8721,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1240803734
+ },
+ {
+  "name": "Ktaadn Resort XC Trails",
+  "lat": 45.7188,
+  "lon": -68.8086,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1243192412
+ },
+ {
+  "name": "Labrador Mountain",
+  "lat": 42.7391,
+  "lon": -76.0367,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 691521199
+ },
+ {
+  "name": "Lake City Ski Hill",
+  "lat": 38.0105,
+  "lon": -107.3137,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 529976653
+ },
+ {
+  "name": "Lapland Lake Nordic Vacation Center",
+  "lat": 43.2575,
+  "lon": -74.3273,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 89894651
+ },
+ {
+  "name": "Laurel Mountain Ski Resort",
+  "lat": 40.1668,
+  "lon": -79.1693,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1026204281
+ },
+ {
+  "name": "Leavenworth Ski Hill",
+  "lat": 47.6142,
+  "lon": -120.6695,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 15657891
+ },
+ {
+  "name": "Lee Canyon",
+  "lat": 36.3004,
+  "lon": -115.6799,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1257430570
+ },
+ {
+  "name": "Lee's Ski Hill",
+  "lat": 38.0189,
+  "lon": -107.6689,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 528965905
+ },
+ {
+  "name": "Leland Snowplay",
+  "lat": 38.2316,
+  "lon": -119.9773,
+  "state": "CA",
+  "osm_type": "way",
+  "osm_id": 582377669
+ },
+ {
+  "name": "Leo Jerome Martin Memorial Golf Course",
+  "lat": 42.3322,
+  "lon": -71.2651,
+  "state": "MA",
+  "osm_type": "way",
+  "osm_id": 123170496
+ },
+ {
+  "name": "Liberty Mountain Resort",
+  "lat": 39.7608,
+  "lon": -77.3708,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 390274626
+ },
+ {
+  "name": "Lily Lake Winter Non-Motorized Area",
+  "lat": 40.8864,
+  "lon": -110.8075,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 18480375
+ },
+ {
+  "name": "Lily Lake Winter Recreation Area",
+  "lat": 40.878,
+  "lon": -110.8018,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 18480402
+ },
+ {
+  "name": "Little Boho Mountain",
+  "lat": 47.3841,
+  "lon": -88.0244,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 19733016
+ },
+ {
+  "name": "Little Ski Hill",
+  "lat": 44.9283,
+  "lon": -116.161,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 767350052
+ },
+ {
+  "name": "Little Switzerland Ski Hill",
+  "lat": 43.3372,
+  "lon": -88.2774,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 534284011
+ },
+ {
+  "name": "Locust Lake Village Ski Hill",
+  "lat": 41.1426,
+  "lon": -75.5599,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1220179031
+ },
+ {
+  "name": "Lookout Pass",
+  "lat": 47.4511,
+  "lon": -115.7204,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1225427361
+ },
+ {
+  "name": "Loon Mountain Resort",
+  "lat": 44.045,
+  "lon": -71.6396,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 334246239
+ },
+ {
+  "name": "Lost Trail",
+  "lat": 45.6945,
+  "lon": -113.957,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1290903952
+ },
+ {
+  "name": "Lost Valley Ski Area",
+  "lat": 44.1397,
+  "lon": -70.2844,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 860486037
+ },
+ {
+  "name": "Loup Loup Ski Bowl",
+  "lat": 48.3917,
+  "lon": -119.9183,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 266484152
+ },
+ {
+  "name": "Loveland Basin Ski Area",
+  "lat": 39.6784,
+  "lon": -105.9106,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 184326673
+ },
+ {
+  "name": "Loveland Valley Ski Area",
+  "lat": 39.6817,
+  "lon": -105.8797,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 184326663
+ },
+ {
+  "name": "Lower Trails",
+  "lat": 47.1027,
+  "lon": -88.5297,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1349708540
+ },
+ {
+  "name": "Lutsen Mountains",
+  "lat": 47.6572,
+  "lon": -90.7201,
+  "state": "MN",
+  "osm_type": "relation",
+  "osm_id": 20342475
+ },
+ {
+  "name": "Lyndon Outing Club",
+  "lat": 44.5322,
+  "lon": -71.9837,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 759623390
+ },
+ {
+  "name": "Mackey Skate Park",
+  "lat": 43.1541,
+  "lon": -70.6744,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1458594842
+ },
+ {
+  "name": "Mad River Glen",
+  "lat": 44.1975,
+  "lon": -72.9245,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1094318196
+ },
+ {
+  "name": "Mad River Mountain",
+  "lat": 40.3155,
+  "lon": -83.6759,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1263732880
+ },
+ {
+  "name": "Magic Mountain Resort",
+  "lat": 42.1864,
+  "lon": -114.2849,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 859506501
+ },
+ {
+  "name": "Magic Mountain Ski Area",
+  "lat": 43.1955,
+  "lon": -72.7659,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 452295412
+ },
+ {
+  "name": "Maine Huts and Trails",
+  "lat": 45.2189,
+  "lon": -70.1643,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1233552674
+ },
+ {
+  "name": "Mammoth Mountain",
+  "lat": 37.6393,
+  "lon": -119.0209,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 682231907
+ },
+ {
+  "name": "Maple Ski Ridge",
+  "lat": 42.8158,
+  "lon": -74.033,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 1367181096
+ },
+ {
+  "name": "Marlboro Nordic Ski Club",
+  "lat": 42.8432,
+  "lon": -72.7243,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1367078842
+ },
+ {
+  "name": "Massanutten Resort Ski Area",
+  "lat": 38.3987,
+  "lon": -78.7603,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 543145559
+ },
+ {
+  "name": "McCall Activity Barn",
+  "lat": 44.8669,
+  "lon": -116.1185,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 880047742
+ },
+ {
+  "name": "McCauley Mountain Ski Area",
+  "lat": 43.6957,
+  "lon": -74.9618,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 1085935982
+ },
+ {
+  "name": "McIntyre Ski Area",
+  "lat": 43.0056,
+  "lon": -71.4408,
+  "state": "NH",
+  "osm_type": "way",
+  "osm_id": 361561697
+ },
+ {
+  "name": "Meacham Divide Nordic Area",
+  "lat": 45.456,
+  "lon": -118.3075,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 875318001
+ },
+ {
+  "name": "Meadowlark Ski Area",
+  "lat": 44.1609,
+  "lon": -107.2179,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1554646926
+ },
+ {
+  "name": "MECCA Trails",
+  "lat": 46.1402,
+  "lon": -90.0783,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1359352091
+ },
+ {
+  "name": "Meequon Sledding Hill",
+  "lat": 43.2609,
+  "lon": -87.9897,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 722095938
+ },
+ {
+  "name": "Methow Trails",
+  "lat": 48.5274,
+  "lon": -120.3306,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1312614889
+ },
+ {
+  "name": "Middlebury College Snow Bowl",
+  "lat": 43.9329,
+  "lon": -72.9548,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 32644222
+ },
+ {
+  "name": "Milan Hill State Park",
+  "lat": 44.5726,
+  "lon": -71.2256,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361282835
+ },
+ {
+  "name": "Miller Mesa Nordic",
+  "lat": 38.0863,
+  "lon": -107.7785,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 534441752
+ },
+ {
+  "name": "Minocqua Winter Park",
+  "lat": 45.8296,
+  "lon": -89.8883,
+  "state": "WI",
+  "osm_type": "relation",
+  "osm_id": 10438213
+ },
+ {
+  "name": "Mission Ridge",
+  "lat": 47.2832,
+  "lon": -120.4095,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 15657511
+ },
+ {
+  "name": "Mohawk Mountain Ski Area",
+  "lat": 41.8357,
+  "lon": -73.3111,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 68519530
+ },
+ {
+  "name": "Monarch Mountain",
+  "lat": 38.5141,
+  "lon": -106.3428,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 308152532
+ },
+ {
+  "name": "Mont du Lac",
+  "lat": 46.6501,
+  "lon": -92.2838,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1314378058
+ },
+ {
+  "name": "Mont Ripley Ski Area",
+  "lat": 47.1303,
+  "lon": -88.5601,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 19733089
+ },
+ {
+  "name": "Montage Mountain Ski Area",
+  "lat": 41.3533,
+  "lon": -75.6587,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 45096232
+ },
+ {
+  "name": "Montana Snowbowl",
+  "lat": 47.0228,
+  "lon": -114.0067,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1335348646
+ },
+ {
+  "name": "Moose Mountain Ski Resort",
+  "lat": 64.9446,
+  "lon": -147.9756,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 938362715
+ },
+ {
+  "name": "Mount Abram",
+  "lat": 44.376,
+  "lon": -70.711,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 415176032
+ },
+ {
+  "name": "Mount Ashwabay Ski & Recreation Area",
+  "lat": 46.7779,
+  "lon": -90.8962,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 788041949
+ },
+ {
+  "name": "Mount Bohemia",
+  "lat": 47.3901,
+  "lon": -88.0105,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 19375326
+ },
+ {
+  "name": "Mount Eyak Ski Area",
+  "lat": 60.5519,
+  "lon": -145.7409,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1010406137
+ },
+ {
+  "name": "Mount Greylock Ski Club",
+  "lat": 42.6324,
+  "lon": -73.2141,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 29785325
+ },
+ {
+  "name": "Mount Jefferson Ski Area",
+  "lat": 45.3546,
+  "lon": -68.2821,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362606945
+ },
+ {
+  "name": "Mount Kato Ski Area",
+  "lat": 44.1314,
+  "lon": -94.0366,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 713467426
+ },
+ {
+  "name": "Mount Peter",
+  "lat": 41.2475,
+  "lon": -74.2947,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 2622480705
+ },
+ {
+  "name": "Mount Pinos Winter Sports Area",
+  "lat": 34.812,
+  "lon": -119.1264,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 2829056
+ },
+ {
+  "name": "Mount Pisgah Ski Center",
+  "lat": 44.3438,
+  "lon": -74.1264,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1464128439
+ },
+ {
+  "name": "Mount Pleasant of Edinboro",
+  "lat": 41.851,
+  "lon": -80.075,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 860101380
+ },
+ {
+  "name": "Mount Prospect Ski Tow",
+  "lat": 44.456,
+  "lon": -71.574,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 957400619
+ },
+ {
+  "name": "Mount Rose Ski Tahoe",
+  "lat": 39.3192,
+  "lon": -119.8832,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 534160668
+ },
+ {
+  "name": "Mount Ski Gull",
+  "lat": 46.4457,
+  "lon": -94.3786,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 931477309
+ },
+ {
+  "name": "Mount Snow",
+  "lat": 42.9613,
+  "lon": -72.907,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 860260235
+ },
+ {
+  "name": "Mount Southington Ski Area",
+  "lat": 41.5814,
+  "lon": -72.9291,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 390809151
+ },
+ {
+  "name": "Mount Sunapee",
+  "lat": 43.3258,
+  "lon": -72.0745,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1230199887
+ },
+ {
+  "name": "Mount Telemark Village",
+  "lat": 46.1889,
+  "lon": -91.2484,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 736369773
+ },
+ {
+  "name": "Mount Zion Ski Area",
+  "lat": 46.4755,
+  "lon": -90.1654,
+  "state": "MI",
+  "osm_type": "way",
+  "osm_id": 1560245613
+ },
+ {
+  "name": "Mountain Creek",
+  "lat": 41.1775,
+  "lon": -74.5158,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 972064114
+ },
+ {
+  "name": "Mt Baker",
+  "lat": 48.8555,
+  "lon": -121.6662,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 19108017
+ },
+ {
+  "name": "Mt Brighton",
+  "lat": 42.5394,
+  "lon": -83.8089,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1057669089
+ },
+ {
+  "name": "Mt. Bachelor",
+  "lat": 43.9884,
+  "lon": -121.6838,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1306486693
+ },
+ {
+  "name": "Mt. Baldy Resort",
+  "lat": 34.2735,
+  "lon": -117.6137,
+  "state": "CA",
+  "osm_type": "way",
+  "osm_id": 907508350
+ },
+ {
+  "name": "Mt. Holiday",
+  "lat": 44.7419,
+  "lon": -85.5158,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 896064328
+ },
+ {
+  "name": "Mt. Holly Ski & Snowboard Resort",
+  "lat": 42.8295,
+  "lon": -83.5644,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 278923089
+ },
+ {
+  "name": "Mt. Hood Meadows Ski Resort",
+  "lat": 45.3407,
+  "lon": -121.6624,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 866496711
+ },
+ {
+  "name": "Mt. Hood Skibowl",
+  "lat": 45.2943,
+  "lon": -121.7727,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1155730256
+ },
+ {
+  "name": "Mt. Itasca",
+  "lat": 47.2834,
+  "lon": -93.4501,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1459672934
+ },
+ {
+  "name": "Mt. La Crosse",
+  "lat": 43.7447,
+  "lon": -91.1835,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 817289254
+ },
+ {
+  "name": "Mt. McSauba",
+  "lat": 45.3349,
+  "lon": -85.246,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1076860555
+ },
+ {
+  "name": "Mt. Spokane",
+  "lat": 47.9279,
+  "lon": -117.1131,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1263733813
+ },
+ {
+  "name": "Mystic Mountain Ski Area",
+  "lat": 39.8142,
+  "lon": -79.5497,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1220411616
+ },
+ {
+  "name": "Nappanee Sledding Hill",
+  "lat": 41.4508,
+  "lon": -85.9868,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 623115707
+ },
+ {
+  "name": "Nara Trails",
+  "lat": 47.1024,
+  "lon": -88.5204,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1349708539
+ },
+ {
+  "name": "Nashoba Valley Ski Area",
+  "lat": 42.5437,
+  "lon": -71.449,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 215697985
+ },
+ {
+  "name": "National Winter Activity Center",
+  "lat": 41.1845,
+  "lon": -74.4793,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1200712921
+ },
+ {
+  "name": "Newcomb Ski Slope",
+  "lat": 43.9601,
+  "lon": -74.1756,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 1085254496
+ },
+ {
+  "name": "Nordic Center",
+  "lat": 42.7213,
+  "lon": -112.379,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1200951349
+ },
+ {
+  "name": "Nordic Heritage Outdoor Center",
+  "lat": 46.7319,
+  "lon": -67.9288,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1233544805
+ },
+ {
+  "name": "Nordic Mountain",
+  "lat": 44.1203,
+  "lon": -89.1824,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 734699864
+ },
+ {
+  "name": "Nordic Trails at Oxbow Beer Garden",
+  "lat": 44.1258,
+  "lon": -70.4632,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1242192433
+ },
+ {
+  "name": "Norge Ski Club",
+  "lat": 42.202,
+  "lon": -88.2061,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 147563872
+ },
+ {
+  "name": "North Corridor Trail",
+  "lat": 38.0379,
+  "lon": -107.6793,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 534437335
+ },
+ {
+  "name": "Northeast Slopes",
+  "lat": 44.0713,
+  "lon": -72.2527,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 759657892
+ },
+ {
+  "name": "Northern Timber Cruisers Ski Trails",
+  "lat": 45.6972,
+  "lon": -68.7451,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363106308
+ },
+ {
+  "name": "Northfield Mountain Recreation and Environmental Center",
+  "lat": 42.6099,
+  "lon": -72.4589,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 602224085
+ },
+ {
+  "name": "Northland Arboretum",
+  "lat": 46.3692,
+  "lon": -94.2296,
+  "state": "MN",
+  "osm_type": "way",
+  "osm_id": 1158802669
+ },
+ {
+  "name": "Northstar at Tahoe Resort",
+  "lat": 39.2576,
+  "lon": -120.1432,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 7095958
+ },
+ {
+  "name": "NorthWoods Stewardship Center",
+  "lat": 44.8374,
+  "lon": -71.959,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363172818
+ },
+ {
+  "name": "Norway Mountain Ski Resort",
+  "lat": 45.7914,
+  "lon": -87.8676,
+  "state": "MI",
+  "osm_type": "way",
+  "osm_id": 1057550035
+ },
+ {
+  "name": "Notchview",
+  "lat": 42.5212,
+  "lon": -73.0259,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 13531099
+ },
+ {
+  "name": "Nub's Nob",
+  "lat": 45.4678,
+  "lon": -84.9042,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 997159129
+ },
+ {
+  "name": "Nutt Hill",
+  "lat": 43.7508,
+  "lon": -87.9894,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 702101323
+ },
+ {
+  "name": "Oak Hill Outdoor Center",
+  "lat": 43.7221,
+  "lon": -72.2592,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363312802
+ },
+ {
+  "name": "Ober Mountain",
+  "lat": 35.7014,
+  "lon": -83.5614,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1282431650
+ },
+ {
+  "name": "Oglebay Ski and Snowboard Area",
+  "lat": 40.1094,
+  "lon": -80.652,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1246736918
+ },
+ {
+  "name": "Okemo Mountain",
+  "lat": 43.4075,
+  "lon": -72.7347,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1236284348
+ },
+ {
+  "name": "Osceola Ski & Sport Resort",
+  "lat": 43.5037,
+  "lon": -75.6993,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1467326267
+ },
+ {
+  "name": "Osceola Tug Hill XC Center",
+  "lat": 43.4998,
+  "lon": -75.706,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 1467326241
+ },
+ {
+  "name": "Ossipee Mountain Ski Area (Closed)",
+  "lat": 43.7593,
+  "lon": -71.3504,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1299638537
+ },
+ {
+  "name": "Palisades Tahoe Alpine Meadows",
+  "lat": 39.1519,
+  "lon": -120.2376,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 6704136
+ },
+ {
+  "name": "Palisades Tahoe Olympic Valley",
+  "lat": 39.1926,
+  "lon": -120.252,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 13336421
+ },
+ {
+  "name": "Palouse Divide Nordic Ski Area",
+  "lat": 47.0648,
+  "lon": -116.6589,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 871054315
+ },
+ {
+  "name": "Parcel 5",
+  "lat": 43.7404,
+  "lon": -72.3383,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363317836
+ },
+ {
+  "name": "Park City Mountain Resort",
+  "lat": 40.6542,
+  "lon": -111.5492,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 918681867
+ },
+ {
+  "name": "Pats Peak",
+  "lat": 43.1568,
+  "lon": -71.7948,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 662615625
+ },
+ {
+  "name": "Peek'n Peak Ski Area",
+  "lat": 42.0637,
+  "lon": -79.7405,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1024235364
+ },
+ {
+  "name": "Penobscot River Trails",
+  "lat": 45.8083,
+  "lon": -68.5995,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 20258785
+ },
+ {
+  "name": "Perfect North Slopes",
+  "lat": 39.1473,
+  "lon": -84.887,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 19915884
+ },
+ {
+  "name": "Perkinstown Winter Sports Area",
+  "lat": 45.183,
+  "lon": -90.6356,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 761354309
+ },
+ {
+  "name": "Phillips School Forest",
+  "lat": 45.7105,
+  "lon": -90.3621,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 10565160
+ },
+ {
+  "name": "Pico Mountain Resort",
+  "lat": 43.6518,
+  "lon": -72.8409,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1094586461
+ },
+ {
+  "name": "Pine Hill Ski Club",
+  "lat": 43.4013,
+  "lon": -71.9286,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363069402
+ },
+ {
+  "name": "Pine Knob Ski & Snowboard Resort",
+  "lat": 42.745,
+  "lon": -83.3661,
+  "state": "MI",
+  "osm_type": "way",
+  "osm_id": 278929769
+ },
+ {
+  "name": "Pine Mountain Ski Hill",
+  "lat": 45.8376,
+  "lon": -88.0866,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1043087316
+ },
+ {
+  "name": "Pine Mountain Ski Jump",
+  "lat": 45.837,
+  "lon": -88.0901,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1089064583
+ },
+ {
+  "name": "Pine Ridge Ski Area",
+  "lat": 42.4006,
+  "lon": -72.1044,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 29676985
+ },
+ {
+  "name": "Pineland Farms",
+  "lat": 43.9052,
+  "lon": -70.257,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361284830
+ },
+ {
+  "name": "Pineside Sno-Park",
+  "lat": 46.0488,
+  "lon": -121.5009,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1249722678
+ },
+ {
+  "name": "Pinnacle Ski Club",
+  "lat": 44.7956,
+  "lon": -69.3885,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362605331
+ },
+ {
+  "name": "Plattekill Mountain Ski Area",
+  "lat": 42.287,
+  "lon": -74.6577,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 457771644
+ },
+ {
+  "name": "Pleasant Mountain",
+  "lat": 44.0529,
+  "lon": -70.8159,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1228623824
+ },
+ {
+  "name": "Plymouth Notch",
+  "lat": 43.5314,
+  "lon": -72.7503,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1092913567
+ },
+ {
+  "name": "Pocono Ranch Lands Ski Mountain",
+  "lat": 41.1635,
+  "lon": -74.9611,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1220663798
+ },
+ {
+  "name": "Pole Creek Nordic Ski Area",
+  "lat": 44.2072,
+  "lon": -106.9365,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361466924
+ },
+ {
+  "name": "Pomerelle Mountain Resort",
+  "lat": 42.3138,
+  "lon": -113.6141,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1213960940
+ },
+ {
+  "name": "Porcupine Mountains Winter Sports Complex",
+  "lat": 46.8149,
+  "lon": -89.6549,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1264696900
+ },
+ {
+  "name": "Powder Mountain Ski Resort",
+  "lat": 41.3787,
+  "lon": -111.7615,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1124250244
+ },
+ {
+  "name": "Powder Ridge",
+  "lat": 45.3441,
+  "lon": -94.3079,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 859046254
+ },
+ {
+  "name": "Powder Ridge Ski Area",
+  "lat": 41.5025,
+  "lon": -72.7385,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 43441045
+ },
+ {
+  "name": "Powderhorn Ski Area",
+  "lat": 39.0604,
+  "lon": -108.1536,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 460247056
+ },
+ {
+  "name": "Powderhouse Hill Ski Area",
+  "lat": 43.2361,
+  "lon": -70.8021,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1230188313
+ },
+ {
+  "name": "Prohaska Family Memorial Park",
+  "lat": 44.891,
+  "lon": -89.5317,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 903256827
+ },
+ {
+  "name": "Purgatory Resort",
+  "lat": 37.6249,
+  "lon": -107.8367,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 529997955
+ },
+ {
+  "name": "Quarry Road Trails",
+  "lat": 44.582,
+  "lon": -69.657,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362707723
+ },
+ {
+  "name": "Quoggy Jo Ski Center",
+  "lat": 46.724,
+  "lon": -67.929,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1233544808
+ },
+ {
+  "name": "Ragged Mountain Resort",
+  "lat": 43.4789,
+  "lon": -71.8449,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 255716854
+ },
+ {
+  "name": "Rangeley Lakes Trails Center",
+  "lat": 44.9635,
+  "lon": -70.5484,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1230214267
+ },
+ {
+  "name": "Raton Ski Basin (Closed)",
+  "lat": 37.0041,
+  "lon": -104.3465,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 832870240
+ },
+ {
+  "name": "Red Hill Outing Club",
+  "lat": 43.7486,
+  "lon": -71.4177,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1219900523
+ },
+ {
+  "name": "Red Lodge Mountain",
+  "lat": 45.19,
+  "lon": -109.3556,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1266090145
+ },
+ {
+  "name": "Reecer Creek Sno-Park",
+  "lat": 47.1586,
+  "lon": -120.6134,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1455871533
+ },
+ {
+  "name": "Ridge Runner",
+  "lat": 42.9203,
+  "lon": -74.0265,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1465130028
+ },
+ {
+  "name": "Rikert Outdoor Center",
+  "lat": 43.9657,
+  "lon": -72.991,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1367387224
+ },
+ {
+  "name": "Rim Nordic Ski Area",
+  "lat": 34.2286,
+  "lon": -117.0377,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 10534511
+ },
+ {
+  "name": "Riverside Golf Course",
+  "lat": 43.7134,
+  "lon": -70.3158,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1360192990
+ },
+ {
+  "name": "Roberts Farm Preserve",
+  "lat": 44.2086,
+  "lon": -70.5584,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362603805
+ },
+ {
+  "name": "Rock Point",
+  "lat": 44.4973,
+  "lon": -73.2408,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363364213
+ },
+ {
+  "name": "Rotarun Ski Area",
+  "lat": 43.495,
+  "lon": -114.3654,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1213963139
+ },
+ {
+  "name": "Roundtop Mountain Resort",
+  "lat": 40.1082,
+  "lon": -76.9287,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 390539624
+ },
+ {
+  "name": "Saddleback Mountain",
+  "lat": 44.9433,
+  "lon": -70.5249,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 255571392
+ },
+ {
+  "name": "Sahalie Ski Club",
+  "lat": 47.4316,
+  "lon": -121.4156,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 6447055
+ },
+ {
+  "name": "Sandia Peak Ski Area",
+  "lat": 35.2015,
+  "lon": -106.4232,
+  "state": "NM",
+  "osm_type": "relation",
+  "osm_id": 14923736
+ },
+ {
+  "name": "Sandia Peak Ski Area SUP",
+  "lat": 35.2026,
+  "lon": -106.4219,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1548984782
+ },
+ {
+  "name": "Sapphire Valley Ski Resort",
+  "lat": 35.1225,
+  "lon": -83.0595,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1247000294
+ },
+ {
+  "name": "Saskadena Six",
+  "lat": 43.6627,
+  "lon": -72.5476,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1079343060
+ },
+ {
+  "name": "Saw Creek Estates Ski Area",
+  "lat": 41.1269,
+  "lon": -75.0507,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1220661212
+ },
+ {
+  "name": "Schuss Mountain",
+  "lat": 44.9439,
+  "lon": -85.1363,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1114951741
+ },
+ {
+  "name": "Schweitzer Mountain Resort",
+  "lat": 48.3781,
+  "lon": -116.6181,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1388583977
+ },
+ {
+  "name": "Seacoast Snowpark",
+  "lat": 43.8528,
+  "lon": -70.4546,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362711579
+ },
+ {
+  "name": "Seven Oaks",
+  "lat": 42.0298,
+  "lon": -93.9547,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1246300779
+ },
+ {
+  "name": "Seven Springs Mountain Resort",
+  "lat": 40.021,
+  "lon": -79.3006,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 256580493
+ },
+ {
+  "name": "Sewall Woods Conservation Area",
+  "lat": 43.5816,
+  "lon": -71.2284,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 568682599
+ },
+ {
+  "name": "Shawnee Mountain",
+  "lat": 41.0352,
+  "lon": -75.0799,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1223350355
+ },
+ {
+  "name": "Showdown Montana",
+  "lat": 46.8345,
+  "lon": -110.7068,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 837402306
+ },
+ {
+  "name": "Sibley Park Sledding Hill",
+  "lat": 44.1631,
+  "lon": -94.0322,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 382073167
+ },
+ {
+  "name": "Sierra-at-Tahoe Ski Resort",
+  "lat": 38.7961,
+  "lon": -120.0758,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 9963336
+ },
+ {
+  "name": "Silver Mine",
+  "lat": 44.773,
+  "lon": -91.5845,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 894047832
+ },
+ {
+  "name": "Silver Mountain Resort",
+  "lat": 47.5129,
+  "lon": -116.1314,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1263732068
+ },
+ {
+  "name": "Silverton Mountain",
+  "lat": 37.8748,
+  "lon": -107.6577,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 528964433
+ },
+ {
+  "name": "Sipapu Ski and Summer Resort",
+  "lat": 36.1495,
+  "lon": -105.5528,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 15048417
+ },
+ {
+  "name": "Sitzmark Ski Hill",
+  "lat": 48.8632,
+  "lon": -119.1609,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361864388
+ },
+ {
+  "name": "Skeetawk",
+  "lat": 61.7434,
+  "lon": -149.2378,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 934351305
+ },
+ {
+  "name": "Ski Bluewood",
+  "lat": 46.0761,
+  "lon": -117.8558,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1458661286
+ },
+ {
+  "name": "Ski Bradford",
+  "lat": 42.7434,
+  "lon": -71.0572,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1080303154
+ },
+ {
+  "name": "Ski Brule",
+  "lat": 46.0285,
+  "lon": -88.7057,
+  "state": "MI",
+  "osm_type": "way",
+  "osm_id": 756340755
+ },
+ {
+  "name": "Ski Butternut",
+  "lat": 42.179,
+  "lon": -73.3187,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1244085914
+ },
+ {
+  "name": "Ski Cloudcroft",
+  "lat": 32.9494,
+  "lon": -105.7087,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1030492885
+ },
+ {
+  "name": "Ski Cooper",
+  "lat": 39.3545,
+  "lon": -106.2888,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 531009606
+ },
+ {
+  "name": "Ski Quechee",
+  "lat": 43.6604,
+  "lon": -72.4449,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1090312348
+ },
+ {
+  "name": "Ski Santa Fe",
+  "lat": 35.7912,
+  "lon": -105.7898,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 14934032
+ },
+ {
+  "name": "Ski Sawmill Family Resort",
+  "lat": 41.5174,
+  "lon": -77.2924,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1235201198
+ },
+ {
+  "name": "Ski Sundown",
+  "lat": 41.883,
+  "lon": -72.9426,
+  "state": "CT",
+  "osm_type": "way",
+  "osm_id": 1236288779
+ },
+ {
+  "name": "Skytop\u2019s Ski Hill",
+  "lat": 41.24,
+  "lon": -75.235,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1220561371
+ },
+ {
+  "name": "Sledding area",
+  "lat": 38.4585,
+  "lon": -120.0434,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 880473101
+ },
+ {
+  "name": "Sleeping Giant Winter Sports Area",
+  "lat": 44.4904,
+  "lon": -109.9438,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 908556051
+ },
+ {
+  "name": "Sleepy Hollow Inn",
+  "lat": 44.3524,
+  "lon": -73.0342,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363366559
+ },
+ {
+  "name": "Smith Butte Sno-Park",
+  "lat": 46.0789,
+  "lon": -121.4542,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1249722682
+ },
+ {
+  "name": "Smugglers' Notch Resort",
+  "lat": 44.5732,
+  "lon": -72.77,
+  "state": "VT",
+  "osm_type": "way",
+  "osm_id": 1228354294
+ },
+ {
+  "name": "Snobowl Bike and Ski area",
+  "lat": 40.9091,
+  "lon": -115.8582,
+  "state": "NV",
+  "osm_type": "way",
+  "osm_id": 489821517
+ },
+ {
+  "name": "Snow Creek",
+  "lat": 39.4654,
+  "lon": -94.969,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 442940109
+ },
+ {
+  "name": "Snow King Mountain",
+  "lat": 43.4656,
+  "lon": -110.7587,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1076348034
+ },
+ {
+  "name": "Snow Mountain Ranch Nordic Center",
+  "lat": 39.9838,
+  "lon": -105.9273,
+  "state": "CO",
+  "osm_type": "way",
+  "osm_id": 460459192
+ },
+ {
+  "name": "Snow Play Area",
+  "lat": 38.4591,
+  "lon": -120.0433,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 880473100
+ },
+ {
+  "name": "Snow Riders",
+  "lat": 39.3154,
+  "lon": -77.7705,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1468131774
+ },
+ {
+  "name": "Snow Snake Ski Resort",
+  "lat": 43.9588,
+  "lon": -84.7827,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1478893920
+ },
+ {
+  "name": "Snow Summit",
+  "lat": 34.2284,
+  "lon": -116.8917,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1554647623
+ },
+ {
+  "name": "Snow Tubing Area",
+  "lat": 42.5082,
+  "lon": -76.1537,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1018296170
+ },
+ {
+  "name": "Snow Tubing Park",
+  "lat": 42.5416,
+  "lon": -71.4543,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 215697988
+ },
+ {
+  "name": "Snow Valley",
+  "lat": 34.2134,
+  "lon": -117.0368,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 668577806
+ },
+ {
+  "name": "Snowbasin Resort",
+  "lat": 41.2004,
+  "lon": -111.8627,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1201185853
+ },
+ {
+  "name": "Snowbird",
+  "lat": 40.5679,
+  "lon": -111.6499,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1023308078
+ },
+ {
+  "name": "Snowdrift Snow Tubing Park",
+  "lat": 34.2197,
+  "lon": -117.0518,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 232697275
+ },
+ {
+  "name": "Snowflake Nordic Ski Center",
+  "lat": 46.832,
+  "lon": -92.138,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1240803107
+ },
+ {
+  "name": "Snowflex",
+  "lat": 37.3528,
+  "lon": -79.1659,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 896007563
+ },
+ {
+  "name": "Snowhaven",
+  "lat": 45.8677,
+  "lon": -116.0933,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 768338653
+ },
+ {
+  "name": "SnowKing Sno-Park",
+  "lat": 46.0544,
+  "lon": -121.4721,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1249722663
+ },
+ {
+  "name": "Snowland Ski Area",
+  "lat": 39.6747,
+  "lon": -111.3246,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1467296015
+ },
+ {
+  "name": "Snowshoe Mountain",
+  "lat": 38.4123,
+  "lon": -80.0007,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1244062674
+ },
+ {
+  "name": "Snowy Range Ski Area",
+  "lat": 41.3383,
+  "lon": -106.1781,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 391284413
+ },
+ {
+  "name": "Soldier Hollow",
+  "lat": 40.4765,
+  "lon": -111.4977,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1243205363
+ },
+ {
+  "name": "Soldier Mountain Ski Area",
+  "lat": 43.4898,
+  "lon": -114.8412,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1470435942
+ },
+ {
+  "name": "Solitude Mountain Resort",
+  "lat": 40.6133,
+  "lon": -111.6041,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 682230006
+ },
+ {
+  "name": "Song Mountain Resort",
+  "lat": 42.7708,
+  "lon": -76.1617,
+  "state": "NY",
+  "osm_type": "way",
+  "osm_id": 691521200
+ },
+ {
+  "name": "Spidahl Ski Gaard",
+  "lat": 46.4218,
+  "lon": -95.9376,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1316533227
+ },
+ {
+  "name": "Spirit Mountain",
+  "lat": 46.7177,
+  "lon": -92.2135,
+  "state": "MN",
+  "osm_type": "way",
+  "osm_id": 1154067051
+ },
+ {
+  "name": "Spring Gulch Trail System",
+  "lat": 39.3576,
+  "lon": -107.3001,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1357662358
+ },
+ {
+  "name": "Spring Mountain Ski Area",
+  "lat": 40.2707,
+  "lon": -75.4529,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1223977161
+ },
+ {
+  "name": "Spruce Mountain Ski Slope",
+  "lat": 44.4773,
+  "lon": -70.2052,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362708308
+ },
+ {
+  "name": "St. Moritz Park",
+  "lat": 42.2338,
+  "lon": -71.0315,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1358962943
+ },
+ {
+  "name": "Steamboat Gulch Sledding & Tubing Hill",
+  "lat": 43.818,
+  "lon": -115.8131,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1433580539
+ },
+ {
+  "name": "Steamboat Ski Resort",
+  "lat": 40.456,
+  "lon": -106.7702,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530998526
+ },
+ {
+  "name": "Stevens Pass",
+  "lat": 47.7355,
+  "lon": -121.0893,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1564558952
+ },
+ {
+  "name": "Stoneville Hill Ski Area",
+  "lat": 46.462,
+  "lon": -87.7227,
+  "state": "MI",
+  "osm_type": "way",
+  "osm_id": 1575744677
+ },
+ {
+  "name": "Storrs Hill Ski Area",
+  "lat": 43.6339,
+  "lon": -72.2521,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1090626629
+ },
+ {
+  "name": "Stowe Mountain Resort",
+  "lat": 44.5298,
+  "lon": -72.7898,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 620836496
+ },
+ {
+  "name": "Stratton Mountain Resort",
+  "lat": 43.1021,
+  "lon": -72.9061,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 682228180
+ },
+ {
+  "name": "Sugar Bowl Resort",
+  "lat": 39.3006,
+  "lon": -120.3355,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 10326057
+ },
+ {
+  "name": "Sugar Mountain Resort",
+  "lat": 36.1277,
+  "lon": -81.8645,
+  "state": "NC",
+  "osm_type": "way",
+  "osm_id": 529342856
+ },
+ {
+  "name": "Sugarbush Resort",
+  "lat": 44.1527,
+  "lon": -72.9085,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1094579154
+ },
+ {
+  "name": "Sugarloaf",
+  "lat": 45.0496,
+  "lon": -70.3163,
+  "state": "ME",
+  "osm_type": "relation",
+  "osm_id": 18484946
+ },
+ {
+  "name": "Sugarloaf Outdoor Center",
+  "lat": 45.0693,
+  "lon": -70.287,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1233552673
+ },
+ {
+  "name": "Suicide Bowl",
+  "lat": 46.4821,
+  "lon": -87.627,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 914166552
+ },
+ {
+  "name": "Summit Mountain",
+  "lat": 44.9471,
+  "lon": -85.1875,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1021916703
+ },
+ {
+  "name": "Summit West",
+  "lat": 47.4208,
+  "lon": -121.4218,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1499174311
+ },
+ {
+  "name": "Sun Valley - Bald Mountain",
+  "lat": 43.6612,
+  "lon": -114.3906,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1244099443
+ },
+ {
+  "name": "Sun Valley - Dollar Mountain",
+  "lat": 43.6822,
+  "lon": -114.3425,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1244098768
+ },
+ {
+  "name": "Sunburst Ski Area",
+  "lat": 43.4954,
+  "lon": -88.2241,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 734696805
+ },
+ {
+  "name": "Sundance Resort",
+  "lat": 40.3914,
+  "lon": -111.5784,
+  "state": "UT",
+  "osm_type": "node",
+  "osm_id": 9283850704
+ },
+ {
+  "name": "Sunday River",
+  "lat": 44.4718,
+  "lon": -70.878,
+  "state": "ME",
+  "osm_type": "relation",
+  "osm_id": 14637842
+ },
+ {
+  "name": "Sundown Mountain Resort",
+  "lat": 42.5165,
+  "lon": -90.8231,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 834317212
+ },
+ {
+  "name": "Sunlight Mountain Resort",
+  "lat": 39.3913,
+  "lon": -107.3395,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530530657
+ },
+ {
+  "name": "Tahoe Donner Downhill Ski Area",
+  "lat": 39.3509,
+  "lon": -120.2636,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 10906075
+ },
+ {
+  "name": "Tamarack Cross-Country Ski Center",
+  "lat": 37.6182,
+  "lon": -119.0069,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 8500720747
+ },
+ {
+  "name": "Tamarack Resort",
+  "lat": 44.6824,
+  "lon": -116.1404,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1232164006
+ },
+ {
+  "name": "Taos Ski Valley",
+  "lat": 36.579,
+  "lon": -105.4509,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 13573224
+ },
+ {
+  "name": "Telluride Ski Area",
+  "lat": 37.9118,
+  "lon": -107.8397,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 528965906
+ },
+ {
+  "name": "Tenney Mountain Resort",
+  "lat": 43.745,
+  "lon": -71.7687,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1230198090
+ },
+ {
+  "name": "Terrain Park",
+  "lat": 35.7924,
+  "lon": -105.8,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1148110137
+ },
+ {
+  "name": "Terry Peak Ski Area",
+  "lat": 44.3329,
+  "lon": -103.8319,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1214147821
+ },
+ {
+  "name": "Teton Pass Ski Resort",
+  "lat": 47.9306,
+  "lon": -112.8114,
+  "state": "MT",
+  "osm_type": "way",
+  "osm_id": 1256292826
+ },
+ {
+  "name": "The Backside",
+  "lat": 38.791,
+  "lon": -120.0647,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 1110783315
+ },
+ {
+  "name": "The Hermitage Club at Haystack Mountain",
+  "lat": 42.9237,
+  "lon": -72.9009,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1107767240
+ },
+ {
+  "name": "The Hideout",
+  "lat": 41.431,
+  "lon": -75.3576,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1220415879
+ },
+ {
+  "name": "The Homestead Ski Area",
+  "lat": 37.9949,
+  "lon": -79.8194,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1242402506
+ },
+ {
+  "name": "The Mountain Top at Grand Geneva Resort & Spa",
+  "lat": 42.6114,
+  "lon": -88.3881,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 601919996
+ },
+ {
+  "name": "The Nordic Center at Edson Hill",
+  "lat": 44.508,
+  "lon": -72.7346,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1236682092
+ },
+ {
+  "name": "The Pike Glades",
+  "lat": 44.014,
+  "lon": -71.9722,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1151991843
+ },
+ {
+  "name": "The Vermont Tech Rope Tow",
+  "lat": 43.9368,
+  "lon": -72.6111,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1091263535
+ },
+ {
+  "name": "Three Summits",
+  "lat": 47.4035,
+  "lon": -121.4116,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361868120
+ },
+ {
+  "name": "Thrill Hills",
+  "lat": 46.5316,
+  "lon": -97.9385,
+  "state": "ND",
+  "osm_type": "way",
+  "osm_id": 497195316
+ },
+ {
+  "name": "Timber Creek Base Area",
+  "lat": 38.6895,
+  "lon": -120.0741,
+  "state": "",
+  "osm_type": "node",
+  "osm_id": 1110843577
+ },
+ {
+  "name": "Timber Ridge",
+  "lat": 43.1915,
+  "lon": -72.7373,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1092381874
+ },
+ {
+  "name": "Timberline Lodge Ski Area",
+  "lat": 45.3369,
+  "lon": -121.7141,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 679189584
+ },
+ {
+  "name": "Timberline Mountain",
+  "lat": 39.0368,
+  "lon": -79.3976,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1010719780
+ },
+ {
+  "name": "Titcomb Mountain",
+  "lat": 44.6484,
+  "lon": -70.1717,
+  "state": "ME",
+  "osm_type": "way",
+  "osm_id": 315562165
+ },
+ {
+  "name": "Titus Mountain",
+  "lat": 44.7541,
+  "lon": -74.24,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 691518491
+ },
+ {
+  "name": "Tolkien Trails",
+  "lat": 47.1015,
+  "lon": -88.5577,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1349708542
+ },
+ {
+  "name": "Top of the Pines",
+  "lat": 38.1084,
+  "lon": -107.7898,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 534437343
+ },
+ {
+  "name": "Trapp Family Lodge",
+  "lat": 44.4729,
+  "lon": -72.757,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363367352
+ },
+ {
+  "name": "Trollhaugen Ski Area",
+  "lat": 45.3499,
+  "lon": -92.6197,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 584094054
+ },
+ {
+  "name": "Tubing Hill",
+  "lat": 45.9878,
+  "lon": -121.9123,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 552663110
+ },
+ {
+  "name": "Tuckerman Ravine",
+  "lat": 44.2607,
+  "lon": -71.2807,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1361274255
+ },
+ {
+  "name": "Turner Mountain Ski Area",
+  "lat": 48.6063,
+  "lon": -115.643,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1373582640
+ },
+ {
+  "name": "Tussey Mountain",
+  "lat": 40.7685,
+  "lon": -77.7521,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 48782596
+ },
+ {
+  "name": "Twin Farms Ski Hill",
+  "lat": 43.723,
+  "lon": -72.5852,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1091013834
+ },
+ {
+  "name": "Tyrol Basin Ski And Snowboard Area",
+  "lat": 43.0461,
+  "lon": -89.7844,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 304469711
+ },
+ {
+  "name": "Upper Trails",
+  "lat": 47.1062,
+  "lon": -88.5554,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1349708543
+ },
+ {
+  "name": "Utah Olympic Park",
+  "lat": 40.7076,
+  "lon": -111.5646,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1266097009
+ },
+ {
+  "name": "Vail",
+  "lat": 39.6003,
+  "lon": -106.3472,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 531009607
+ },
+ {
+  "name": "Veterans Memorial Ski Area",
+  "lat": 43.443,
+  "lon": -71.6912,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363084977
+ },
+ {
+  "name": "Victor Constant Ski Area",
+  "lat": 41.393,
+  "lon": -73.9819,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1214590684
+ },
+ {
+  "name": "Villa Olivia",
+  "lat": 42.0128,
+  "lon": -88.221,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1231945516
+ },
+ {
+  "name": "Villa Roma Ski Area",
+  "lat": 41.7633,
+  "lon": -74.9711,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1222878706
+ },
+ {
+  "name": "Vinegar Hill",
+  "lat": 38.022,
+  "lon": -107.6688,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 529980944
+ },
+ {
+  "name": "Voodoo Mountain",
+  "lat": 47.4561,
+  "lon": -88.0262,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 797077959
+ },
+ {
+  "name": "Warner Canyon Ski Area",
+  "lat": 42.2332,
+  "lon": -120.2975,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1151090250
+ },
+ {
+  "name": "Wasatch Peaks Ranch",
+  "lat": 41.0968,
+  "lon": -111.83,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1274871384
+ },
+ {
+  "name": "Waterville Valley Resort",
+  "lat": 43.9605,
+  "lon": -71.537,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1362922705
+ },
+ {
+  "name": "Waterville Valley Resort Nordic",
+  "lat": 43.9586,
+  "lon": -71.4992,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 334259462
+ },
+ {
+  "name": "Welch Village",
+  "lat": 44.5547,
+  "lon": -92.7302,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1227143650
+ },
+ {
+  "name": "West Mountain Ski Resort",
+  "lat": 43.2893,
+  "lon": -73.7341,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 256455529
+ },
+ {
+  "name": "Whaleback Mountain",
+  "lat": 43.5987,
+  "lon": -72.183,
+  "state": "NH",
+  "osm_type": "way",
+  "osm_id": 252782489
+ },
+ {
+  "name": "White Pass Ski Area",
+  "lat": 46.6216,
+  "lon": -121.397,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1254864194
+ },
+ {
+  "name": "White Pine",
+  "lat": 42.9733,
+  "lon": -109.7519,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 654073584
+ },
+ {
+  "name": "Whitecap Mountain",
+  "lat": 46.4044,
+  "lon": -90.4036,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1340416269
+ },
+ {
+  "name": "Whiteface Mountain Ski Center",
+  "lat": 44.3748,
+  "lon": -73.8794,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 428125408
+ },
+ {
+  "name": "Whitefish Mountain Resort",
+  "lat": 48.4938,
+  "lon": -114.347,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1388573249
+ },
+ {
+  "name": "Whitetail Resort",
+  "lat": 39.7428,
+  "lon": -77.9374,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 893138900
+ },
+ {
+  "name": "Wild Chutes Snow Tubing",
+  "lat": 45.4829,
+  "lon": -92.7029,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1240327160
+ },
+ {
+  "name": "Wild Mountain",
+  "lat": 45.4884,
+  "lon": -92.7084,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1240327159
+ },
+ {
+  "name": "Wildcat Mountain",
+  "lat": 44.2574,
+  "lon": -71.2334,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 251260219
+ },
+ {
+  "name": "Wilderness Lodge",
+  "lat": 42.0588,
+  "lon": -79.7648,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1024920824
+ },
+ {
+  "name": "Willamette Pass",
+  "lat": 43.6073,
+  "lon": -122.0235,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1278124828
+ },
+ {
+  "name": "Willard Mountain",
+  "lat": 43.0213,
+  "lon": -73.5199,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1366775255
+ },
+ {
+  "name": "Willoughby State Forest",
+  "lat": 44.7106,
+  "lon": -72.0421,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1363305382
+ },
+ {
+  "name": "Willow Park Nordic Ski Trails",
+  "lat": 44.1892,
+  "lon": -107.2308,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 654341983
+ },
+ {
+  "name": "Wilmot Mountain",
+  "lat": 42.4998,
+  "lon": -88.1921,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1183389371
+ },
+ {
+  "name": "Windham Mountain Club",
+  "lat": 42.2939,
+  "lon": -74.2564,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 14336718
+ },
+ {
+  "name": "Winding Trails Recreation Area",
+  "lat": 41.7521,
+  "lon": -72.8487,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 12742436
+ },
+ {
+  "name": "WinMan Nordic Ski Trails",
+  "lat": 46.185,
+  "lon": -89.8598,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1285879914
+ },
+ {
+  "name": "Winter Park Resort",
+  "lat": 39.8713,
+  "lon": -105.7826,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 460246666
+ },
+ {
+  "name": "Wintergreen Ski and Hiking Trail",
+  "lat": 45.8975,
+  "lon": -90.3216,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1265218054
+ },
+ {
+  "name": "Wintergreen Ski Resort",
+  "lat": 37.9178,
+  "lon": -78.9399,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1023791593
+ },
+ {
+  "name": "Winterplace Ski Resort",
+  "lat": 37.5967,
+  "lon": -81.1182,
+  "state": "WV",
+  "osm_type": "way",
+  "osm_id": 1243345428
+ },
+ {
+  "name": "Wisp Resort",
+  "lat": 39.5503,
+  "lon": -79.3754,
+  "state": "MD",
+  "osm_type": "way",
+  "osm_id": 980981935
+ },
+ {
+  "name": "Wissahickon Ski Club",
+  "lat": 40.0745,
+  "lon": -75.275,
+  "state": "PA",
+  "osm_type": "way",
+  "osm_id": 224699161
+ },
+ {
+  "name": "Wolf Creek Ski Area",
+  "lat": 37.464,
+  "lon": -106.784,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 530503256
+ },
+ {
+  "name": "Wood River Valley Ski Touring Park",
+  "lat": 43.9207,
+  "lon": -109.1069,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 654311986
+ },
+ {
+  "name": "Woods Valley",
+  "lat": 43.2993,
+  "lon": -75.3802,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1420235319
+ },
+ {
+  "name": "Woodstock Nordic Center",
+  "lat": 43.6084,
+  "lon": -72.5111,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 16843653
+ },
+ {
+  "name": "Woodward",
+  "lat": 40.752,
+  "lon": -111.5823,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 837687072
+ },
+ {
+  "name": "WoodWind Park",
+  "lat": 45.0633,
+  "lon": -91.8023,
+  "state": "WI",
+  "osm_type": "way",
+  "osm_id": 660570897
+ },
+ {
+  "name": "Yawgoo Valley Ski Area & Water Park",
+  "lat": 41.5175,
+  "lon": -71.5294,
+  "state": "",
+  "osm_type": "relation",
+  "osm_id": 11805074
+ },
+ {
+  "name": "Yellowstone Club",
+  "lat": 45.239,
+  "lon": -111.4317,
+  "state": "",
+  "osm_type": "way",
+  "osm_id": 1461424414
+ }
+]
