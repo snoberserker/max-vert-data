@@ -2,16 +2,9 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-08T14:23:54.303397+00:00",
- "activeEvents": 13,
+ "collectedAt": "2026-11-09T11:31:01.410130+00:00",
+ "activeEvents": 12,
  "events": [
-  {
-   "id": "CDOT-36246924630EB",
-   "type": "roadReports",
-   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70. </p> </div>",
-   "icon": "tg_closure"
-  },
   {
    "id": "CDOT-36057055825BOTH",
    "type": "roadReports",
@@ -20,17 +13,17 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36247060217WB",
-   "type": "roadReports",
-   "headline": "US 6 westbound: Two right lanes closed, due to a crash.",
-   "description": "<div data-test-desc-type='roadReports'><p> At CO 121/Wadsworth Boulevard (Lakewood) at Mile Point 280.85. Two right lanes are closed due to a crash. </p> </div>",
-   "icon": "tg_lane_closure"
+   "id": "COSEG-522808",
+   "type": "roadClosures",
+   "headline": "Gunnison County Road 12: Seasonal Closure.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 9 mph are expected. </p> </div>",
+   "icon": "tg_closure"
   },
   {
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 26 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -44,7 +37,7 @@
    "id": "CDOT-36062929137SB",
    "type": "roadClosures",
    "headline": "I-25 northbound: Entrance ramp closed, due to bridge maintenance operations.",
-   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from I-270 E. The entrance ramp is closed due to bridge maintenance operations. Until tomorrow at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 6, 10:00PM - November 9, 6:00AM <br/></strong> </p> </p> <p><i>Comment:</i> Detours - Eastbound US 36 traffic entering northbound I-25 will turn left onto N. Federal Boulevard (US Highway 287), turn right onto West 120th Avenue (CO Highway 128), and turn left to enter northbound I-25. Questions? 720-440-2192 - or - codot.gov/projects/i270us36bridgemaintenance </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from I-270 E. The entrance ramp is closed due to bridge maintenance operations. Until today at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 6, 10:00PM - November 9, 6:00AM <br/></strong> </p> </p> <p><i>Comment:</i> Detours - Eastbound US 36 traffic entering northbound I-25 will turn left onto N. Federal Boulevard (US Highway 287), turn right onto West 120th Avenue (CO Highway 128), and turn left to enter northbound I-25. Questions? 720-440-2192 - or - codot.gov/projects/i270us36bridgemaintenance </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -55,24 +48,17 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36246924630EB",
-   "type": "roadClosures",
-   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70. </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
    "id": "CDOT-36062929103EB",
    "type": "roadClosures",
    "headline": "US 36 eastbound: Road closed, due to bridge maintenance operations.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Pecos Street and I-70; Airpark Road from Mile Point 57 to Mile Point 57.4. Road closed expect delays due to bridge maintenance operations. Until tomorrow at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 6, 10:00PM - November 9, 6:00AM <br/></strong> </p> </p> <p><i>Comment:</i> Detours - Eastbound US 36 and I-270 traffic will exit onto southbound I-25, then use the right two lanes to take exit 214A, and merge onto eastbound Interstate 70. Eastbound US 36 traffic entering northbound I-25 will turn left onto N. Federal Boulevard (US Highway 287), turn right onto West 120th Avenue (CO Highway 128), and turn left to enter northbound I-25. Questions? 720-440-2192 - or - codot.gov/projects/i270us36bridgemaintenance </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Pecos Street and I-70; Airpark Road from Mile Point 57 to Mile Point 57.4. Road closed expect delays due to bridge maintenance operations. Until today at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 6, 10:00PM - November 9, 6:00AM <br/></strong> </p> </p> <p><i>Comment:</i> Detours - Eastbound US 36 and I-270 traffic will exit onto southbound I-25, then use the right two lanes to take exit 214A, and merge onto eastbound Interstate 70. Eastbound US 36 traffic entering northbound I-25 will turn left onto N. Federal Boulevard (US Highway 287), turn right onto West 120th Avenue (CO Highway 128), and turn left to enter northbound I-25. Questions? 720-440-2192 - or - codot.gov/projects/i270us36bridgemaintenance </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "COSEG-585450",
    "type": "roadClosures",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 14 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 15 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -83,17 +69,24 @@
    "icon": "tg_closure"
   },
   {
+   "id": "COSEG-522808",
+   "type": "winterDriving",
+   "headline": "Gunnison County Road 12: Seasonal Closure.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 9 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 26 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
    "id": "COSEG-585450",
    "type": "winterDriving",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 14 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 15 mph are expected. </p> </div>",
    "icon": "driving_snow"
   }
  ]
