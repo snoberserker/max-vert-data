@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-09T11:30:39.993726+00:00",
+  "collectedAt": "2026-11-09T14:15:52.343019+00:00",
   "date": "2026-11-09",
   "points": [
     {
@@ -9,19 +9,13 @@
       "office": "HNX",
       "periods": [
         {
-          "name": "Overnight",
-          "pop": 0,
-          "short": "Mostly Clear",
-          "tempF": 33
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "pop": 0,
           "short": "Mostly Sunny",
           "tempF": 47
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "pop": 0,
           "short": "Partly Cloudy",
           "tempF": 31
@@ -67,6 +61,12 @@
           "pop": 8,
           "short": "Mostly Sunny",
           "tempF": 38
+        },
+        {
+          "name": "Friday Night",
+          "pop": 8,
+          "short": "Partly Cloudy",
+          "tempF": 27
         }
       ]
     },
@@ -77,19 +77,13 @@
       "office": "BOU",
       "periods": [
         {
-          "name": "Overnight",
-          "pop": 0,
-          "short": "Clear",
-          "tempF": 26
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "pop": 0,
           "short": "Sunny",
           "tempF": 57
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "pop": 0,
           "short": "Mostly Clear",
           "tempF": 26
@@ -135,6 +129,12 @@
           "pop": 1,
           "short": "Sunny",
           "tempF": 55
+        },
+        {
+          "name": "Friday Night",
+          "pop": 2,
+          "short": "Partly Cloudy",
+          "tempF": 25
         }
       ]
     },
@@ -145,19 +145,13 @@
       "office": "SLC",
       "periods": [
         {
-          "name": "Overnight",
-          "pop": 0,
-          "short": "Mostly Cloudy",
-          "tempF": 35
-        },
-        {
-          "name": "Monday",
+          "name": "Today",
           "pop": 0,
           "short": "Mostly Sunny",
           "tempF": 47
         },
         {
-          "name": "Monday Night",
+          "name": "Tonight",
           "pop": 0,
           "short": "Mostly Cloudy",
           "tempF": 33
@@ -203,6 +197,12 @@
           "pop": 5,
           "short": "Mostly Sunny",
           "tempF": 45
+        },
+        {
+          "name": "Friday Night",
+          "pop": 8,
+          "short": "Partly Cloudy",
+          "tempF": 33
         }
       ]
     },
@@ -214,7 +214,7 @@
       "periods": [
         {
           "name": "Today",
-          "pop": 70,
+          "pop": 65,
           "short": "Rain Showers Likely then Chance Rain And Snow Showers",
           "tempF": 40
         },
