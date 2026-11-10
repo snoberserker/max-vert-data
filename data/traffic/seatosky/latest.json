@@ -2,8 +2,8 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-09T14:16:58.469107+00:00",
- "activeEvents": 3,
+ "collectedAt": "2026-11-10T11:30:52.362382+00:00",
+ "activeEvents": 6,
  "events": [
   {
    "id": "drivebc.ca/RIDE-103726",
@@ -30,6 +30,33 @@
    "headline": "CONSTRUCTION",
    "description": "Road maintenance from Highway 99, At Nordic Drive and 500m West of Nordic Drive to In Whistler. Starting Tue Oct 13 until Thu Dec 31. From 6:00 AM to 7:00 PM PDT, every day. Single lane alternating traffic. Last update: October 15th, 2026 at 12:56pm PDT. Fuel management and reduction for community wildfire risk reduction.",
    "updated": "2026-10-15T12:56:55-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-105937",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Construction work from Highway 99, In Whistler and 200m North of Alpha Lake Rd to In Whistler and At Alpha Lake Road. Starting 8:00 AM PCT on Monday November 16, 2026 until 4:00 PM PCT on Monday November 16, 2026. Shoulder closed. Last update: November 9th, 2026 at 2:21pm PCT. Work taking place on Alpha Lake Rd. Watch for work vehicles entering and exiting the highway.",
+   "updated": "2026-11-09T14:21:30-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-105923",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Shoulder maintenance from Highway 99, exit to Furry Creek Dr to Britannia Beach FSR. Starting 7:30 AM PCT on Thursday November 12, 2026 until 5:30 PM PCT on Thursday November 12, 2026. Right lane blocked. Last update: November 9th, 2026 at 10:45am PCT.",
+   "updated": "2026-11-09T10:45:49-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-105998",
+   "type": "INCIDENT",
+   "severity": "MAJOR",
+   "headline": "INCIDENT",
+   "description": "Rocks on road from Highway 99, In Whistler and At Crazy Canuck Drive to In Whistler and Green Lake Lookout. Closed. Last update: November 10th, 2026 at 4:13am PCT. Next update: November 10th, 2026 at 7:30am PCT.",
+   "updated": "2026-11-10T04:13:23-07:00",
    "status": "ACTIVE"
   }
  ]

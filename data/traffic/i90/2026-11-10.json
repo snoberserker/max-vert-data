@@ -1,0 +1,57 @@
+{
+ "corridor": "i90",
+ "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
+ "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
+ "collectedAt": "2026-11-10T11:30:59.496321+00:00",
+ "activeEvents": 6,
+ "events": [
+  {
+   "type": "alert",
+   "headline": "Westbound Interstate 90 is open to two lanes at milepost 174, at Hansen Road just west of Moses Lake, while eastbound I-90 is open to one lane from Aug. 24 until January of 2027. Eastbound travelers heading north or south of Hansen Road must use Exit 169 at Hiawatha Road. Westbound travelers heading north may use exit 174. Travelers heading south must use exit 169 and follow the South Frontage Road detour.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1787614222200
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 ramps to northbound and southbound I-405 will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794004177507
+  },
+  {
+   "type": "alert",
+   "headline": "The westbound Winchester rest area on I90 at milepost 161.83 will be closed for maintenance until further notice.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1792466870430
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 on-ramp from East Mercer Way will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794003867827
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 on-ramp from Bellevue Way Southeast will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794003917053
+  },
+  {
+   "type": "alert",
+   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 5 a.m., starting <br/>the night of Monday, Nov. 9 to the morning of Friday, Nov. 13. A signed detour will be in place.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794007037703
+  }
+ ]
+}

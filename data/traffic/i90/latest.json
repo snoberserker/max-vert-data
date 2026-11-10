@@ -2,8 +2,8 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-09T14:17:05.771405+00:00",
- "activeEvents": 7,
+ "collectedAt": "2026-11-10T11:30:59.496321+00:00",
+ "activeEvents": 6,
  "events": [
   {
    "type": "alert",
@@ -44,14 +44,6 @@
    "direction": "Eastbound",
    "closed": 0,
    "updated": 1794003917053
-  },
-  {
-   "type": "alert",
-   "headline": "From 7 p.m. to 5 a.m. Sunday nights through Friday mornings from Sunday, Oct. 18, to Monday morning, Nov. 9, crews will close the Snoqualmie Parkway on-ramp to westbound I-90 and the eastbound I-90 off-ramp to westbound SR 18.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1792163600123
   },
   {
    "type": "alert",
