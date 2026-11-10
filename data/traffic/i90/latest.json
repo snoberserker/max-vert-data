@@ -2,7 +2,7 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-10T11:30:59.496321+00:00",
+ "collectedAt": "2026-11-10T14:17:07.365114+00:00",
  "activeEvents": 6,
  "events": [
   {
@@ -23,19 +23,19 @@
   },
   {
    "type": "alert",
-   "headline": "The westbound Winchester rest area on I90 at milepost 161.83 will be closed for maintenance until further notice.",
-   "road": "I-90",
-   "direction": "Westbound",
-   "closed": 0,
-   "updated": 1792466870430
-  },
-  {
-   "type": "alert",
    "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 on-ramp from East Mercer Way will close for construction. Signed detours will be available.",
    "road": "I-90",
    "direction": "Eastbound",
    "closed": 0,
    "updated": 1794003867827
+  },
+  {
+   "type": "alert",
+   "headline": "The westbound Winchester rest area on I90 at milepost 161.83 will be closed for maintenance until further notice.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1792466870430
   },
   {
    "type": "alert",
