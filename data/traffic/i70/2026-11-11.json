@@ -2,9 +2,23 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-11T11:31:04.106124+00:00",
- "activeEvents": 12,
+ "collectedAt": "2026-11-11T14:16:48.348446+00:00",
+ "activeEvents": 15,
  "events": [
+  {
+   "id": "CDOT-36305750653SB",
+   "type": "roadReports",
+   "headline": "I-25 southbound: Three left lanes closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> At Exit 220: Thornton Parkway (Thornton) at Mile Point 219.85. Three left lanes are closed due to a crash. </p> </div>",
+   "icon": "tg_lane_closure"
+  },
+  {
+   "id": "CDOT-36305712893SB",
+   "type": "roadReports",
+   "headline": "I-25 southbound: Right lane closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 153: Interquest Parkway and Exit 151: Briargate Parkway (near Colorado Springs) at Mile Point 152. The right lane is closed due to a crash. </p> <p><i>Comment:</i> Watch for emergency responders blocking the right lane. Use caution. </p> </div>",
+   "icon": "tg_lane_closure"
+  },
   {
    "id": "CDOT-36057055825BOTH",
    "type": "roadReports",
@@ -13,10 +27,17 @@
    "icon": "tg_closure"
   },
   {
+   "id": "CDOT-36305911324EB",
+   "type": "roadReports",
+   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70.\n\n</p> </div>",
+   "icon": "tg_closure"
+  },
+  {
    "id": "COSEG-522808",
    "type": "roadClosures",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 7 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 10 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -62,17 +83,17 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36274617254EB",
+   "id": "CDOT-36305911324EB",
    "type": "roadClosures",
-   "headline": "I-70 eastbound: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Exit 243: Hidden Valley (Idaho Springs) from Mile Point 241 to Mile Point 243. Road closed expect delays due to road construction. Until today at about 5:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 10, 9:00PM - November 11, 5:00AM <br/></strong> </p> </p> <p><i>Comment:</i> For questions, contact the project at cdot_floydhillproject@state.co.us or call 720-994-2368.\n\nDetour: Eastbound I-70 motorists should use the eastbound I-70 off-ramp to Idaho Springs (Exit 241), and then travel east on County Road 314 to access eastbound I-70 at Hidden Valley/Central City Parkway (Exit 243). </p> </div>",
+   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70.\n\n</p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "COSEG-522808",
    "type": "winterDriving",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 7 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 10 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
