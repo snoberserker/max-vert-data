@@ -2,23 +2,9 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-10T14:17:06.493542+00:00",
+ "collectedAt": "2026-11-11T11:31:04.106124+00:00",
  "activeEvents": 12,
  "events": [
-  {
-   "id": "CDOT-36285996308EB",
-   "type": "roadReports",
-   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70.\n\n</p> </div>",
-   "icon": "tg_closure"
-  },
-  {
-   "id": "CDOT-36286173650SB",
-   "type": "roadReports",
-   "headline": "I-225 southbound: Three right lanes closed, due to a crash.",
-   "description": "<div data-test-desc-type='roadReports'><p> At CO 83; Parker Road (Aurora) at Mile Point 4. Three right lanes are closed due to a crash. </p> </div>",
-   "icon": "tg_lane_closure"
-  },
   {
    "id": "CDOT-36057055825BOTH",
    "type": "roadReports",
@@ -27,18 +13,25 @@
    "icon": "tg_closure"
   },
   {
-   "id": "COSEG-522846",
+   "id": "COSEG-522808",
    "type": "roadClosures",
-   "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 26 mph are expected. </p> </div>",
+   "headline": "Gunnison County Road 12: Seasonal Closure.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 7 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36285996308EB",
+   "id": "COSEG-522846",
    "type": "roadClosures",
-   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70.\n\n</p> </div>",
+   "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 32 mph are expected. </p> </div>",
    "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36292331250SB",
+   "type": "roadClosures",
+   "headline": "US 285 southbound: Road closed, due to roadwork.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between Albion Street and Downing Street (Cherry Hills Village) from Mile Point 262.69 to Mile Point 260.92. Road closed due to roadwork. <span style='font-weight:bold;'> Starting tomorrow at 7:30AM MST until tomorrow at about 3:30PM MST.</span> </p> <p><i>Comment:</i> This is a full closure of EB Hampden from Downing Street to Colorado Blvd to accommodate the funeral procession for the fallen Lakewood Police officer. </p> </div>",
+   "icon": "icon-scheduled-event-12-fill-solid"
   },
   {
    "id": "CDOT-36189442426BOTH",
@@ -58,7 +51,7 @@
    "id": "COSEG-585450",
    "type": "roadClosures",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 18 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 15 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -72,21 +65,28 @@
    "id": "CDOT-36274617254EB",
    "type": "roadClosures",
    "headline": "I-70 eastbound: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between CO 103 and Exit 243: Hidden Valley (Idaho Springs) from Mile Point 241 to Mile Point 243. Road closed due to road construction. <span style='font-weight:bold;'> Starting today at 9:00PM MST until tomorrow at about 5:00AM MST.</span> </p> <p><i>Comment:</i> For questions, contact the project at cdot_floydhillproject@state.co.us or call 720-994-2368.\n\nDetour: Eastbound I-70 motorists should use the eastbound I-70 off-ramp to Idaho Springs (Exit 241), and then travel east on County Road 314 to access eastbound I-70 at Hidden Valley/Central City Parkway (Exit 243). </p> </div>",
-   "icon": "icon-scheduled-event-10-fill-solid"
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Exit 243: Hidden Valley (Idaho Springs) from Mile Point 241 to Mile Point 243. Road closed expect delays due to road construction. Until today at about 5:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 10, 9:00PM - November 11, 5:00AM <br/></strong> </p> </p> <p><i>Comment:</i> For questions, contact the project at cdot_floydhillproject@state.co.us or call 720-994-2368.\n\nDetour: Eastbound I-70 motorists should use the eastbound I-70 off-ramp to Idaho Springs (Exit 241), and then travel east on County Road 314 to access eastbound I-70 at Hidden Valley/Central City Parkway (Exit 243). </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "COSEG-522808",
+   "type": "winterDriving",
+   "headline": "Gunnison County Road 12: Seasonal Closure.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 7 mph are expected. </p> </div>",
+   "icon": "driving_snow"
   },
   {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 26 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 32 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
    "id": "COSEG-585450",
    "type": "winterDriving",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 18 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 15 mph are expected. </p> </div>",
    "icon": "driving_snow"
   }
  ]

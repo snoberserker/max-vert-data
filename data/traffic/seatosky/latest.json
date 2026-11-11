@@ -2,8 +2,8 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-10T14:16:59.912542+00:00",
- "activeEvents": 5,
+ "collectedAt": "2026-11-11T11:30:57.523755+00:00",
+ "activeEvents": 6,
  "events": [
   {
    "id": "drivebc.ca/RIDE-103726",
@@ -30,6 +30,15 @@
    "headline": "CONSTRUCTION",
    "description": "Road maintenance from Highway 99, At Nordic Drive and 500m West of Nordic Drive to In Whistler. Starting Tue Oct 13 until Thu Dec 31. From 6:00 AM to 7:00 PM PDT, every day. Single lane alternating traffic. Last update: October 15th, 2026 at 12:56pm PDT. Fuel management and reduction for community wildfire risk reduction.",
    "updated": "2026-10-15T12:56:55-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-106118",
+   "type": "CONSTRUCTION",
+   "severity": "MAJOR",
+   "headline": "CONSTRUCTION",
+   "description": "Tree pruning from Highway 99, In West Vancouver and Exit 2 to In West Vancouver and Pasco Road/Horseshoe Bay Drive. Starting 8:00 AM PCT on Tuesday November 17, 2026 until 4:00 PM PCT on Wednesday November 18, 2026. Road closure. Last update: November 10th, 2026 at 9:31pm PCT. Hazard tree removal 8AM-4PM on Tuesday and Wednesday. Detour via Horseshoe Bay Drive.",
+   "updated": "2026-11-10T21:31:18-07:00",
    "status": "ACTIVE"
   },
   {
