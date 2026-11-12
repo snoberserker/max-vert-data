@@ -2,9 +2,16 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-12T11:30:58.147774+00:00",
+ "collectedAt": "2026-11-12T14:16:46.363660+00:00",
  "activeEvents": 10,
  "events": [
+  {
+   "id": "CDOT-36325616125NB",
+   "type": "roadReports",
+   "headline": "I-25 northbound: Left lane closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 212A-B: Speer Boulevard and Exit 212C: 20th Street (Denver) at Mile Point 212.1. The left lane is closed due to a crash. </p> </div>",
+   "icon": "tg_lane_closure"
+  },
   {
    "id": "CDOT-36057055825BOTH",
    "type": "roadReports",
@@ -23,7 +30,7 @@
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 25 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 22 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -31,20 +38,13 @@
    "type": "roadClosures",
    "headline": "US 285 southbound: Road closed, due to roadwork.",
    "description": "<div data-test-desc-type='roadWork'><p> Between Albion Street and Downing Street (Cherry Hills Village) from Mile Point 262.69 to Mile Point 260.92. Road closed due to roadwork. <span style='font-weight:bold;'> Starting today at 7:30AM MST until today at about 3:30PM MST.</span> </p> <p><i>Comment:</i> This is a full closure of EB Hampden from Downing Street to Colorado Blvd to accommodate the funeral procession for the fallen Lakewood Police officer. </p> </div>",
-   "icon": "icon-scheduled-event-12-fill-solid"
+   "icon": "tg_closure"
   },
   {
    "id": "CDOT-36189442426BOTH",
    "type": "roadClosures",
    "headline": "CO 52 in both directions: Road closed, due to road construction.",
    "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until Saturday, at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 8, 12:00AM - November 14, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through the 3rd week of November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street). </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
-   "id": "CDOT-36322114438EB",
-   "type": "roadClosures",
-   "headline": "I-70 eastbound: Exit ramp closed, due to occupied truck ramp.",
-   "description": "<div data-test-desc-type='roadReports'><p> At Exit ramp to Runaway Truck Ramp Mile Point 257. The exit ramp is closed due to occupied truck ramp. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -72,7 +72,7 @@
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 25 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 22 mph are expected. </p> </div>",
    "icon": "driving_snow"
   }
  ]

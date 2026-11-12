@@ -2,7 +2,7 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-12T11:30:58.595404+00:00",
+ "collectedAt": "2026-11-12T14:16:46.868839+00:00",
  "activeEvents": 6,
  "events": [
   {
