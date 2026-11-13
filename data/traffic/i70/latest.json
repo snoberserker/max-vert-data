@@ -2,15 +2,22 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-12T14:16:46.363660+00:00",
- "activeEvents": 10,
+ "collectedAt": "2026-11-13T11:31:05.883369+00:00",
+ "activeEvents": 20,
  "events": [
   {
-   "id": "CDOT-36325616125NB",
+   "id": "CDOT-36338939067SB",
    "type": "roadReports",
-   "headline": "I-25 northbound: Left lane closed, due to a crash.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 212A-B: Speer Boulevard and Exit 212C: 20th Street (Denver) at Mile Point 212.1. The left lane is closed due to a crash. </p> </div>",
-   "icon": "tg_lane_closure"
+   "headline": "I-25 southbound: Road closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 195: County Line Road and C-470; E-470 (Lone Tree) at Mile Point 194.5. Road closed expect delays due to a crash. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36326400974EB",
+   "type": "roadReports",
+   "headline": "I-70 eastbound: Road closed, due to road maintenance operations, detour in place, slower speeds advised.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 49: Grand Mesa and Exit 62: US 6; De Beque (6 miles east of the Palisade area) at Mile Point 50. Road closed expect delays due to road maintenance operations. Detour in place. Slower speeds are advised. </p> </div>",
+   "icon": "tg_closure"
   },
   {
    "id": "CDOT-36057055825BOTH",
@@ -20,38 +27,87 @@
    "icon": "tg_closure"
   },
   {
-   "id": "COSEG-522808",
-   "type": "roadClosures",
-   "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 7 mph are expected. </p> </div>",
+   "id": "CDOT-36337659428EB",
+   "type": "roadReports",
+   "headline": "I-70 eastbound: Lane(s) reopened to traffic.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 228: Georgetown and US 40 (Georgetown) at Mile Point 228. Lane(s) have reopened to traffic. </p> </div>",
+   "icon": "tg_info"
+  },
+  {
+   "id": "CDOT-36340033357SB",
+   "type": "roadReports",
+   "headline": "US 285 southbound: Road closed, due to a crash, slower speeds advised.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 8/Morrison Road and Parmalee Gulch Road (Morrison) at Mile Point 247. Road closed expect delays due to a crash. Slower speeds are advised. </p> </div>",
    "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36338939067SB",
+   "type": "roadClosures",
+   "headline": "I-25 southbound: Road closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 195: County Line Road and C-470; E-470 (Lone Tree) at Mile Point 194.5. Road closed expect delays due to a crash. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36327330486WB",
+   "type": "roadClosures",
+   "headline": "CO 52 westbound: Road closed, due to road construction.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting Tuesday at 8:30AM MST until Tuesday, at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
+   "icon": "icon-scheduled-event-17-fill-solid"
   },
   {
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Clear skies. Wind gusts of up to 22 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36292331250SB",
+   "id": "CDOT-36327330373WB",
    "type": "roadClosures",
-   "headline": "US 285 southbound: Road closed, due to roadwork.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between Albion Street and Downing Street (Cherry Hills Village) from Mile Point 262.69 to Mile Point 260.92. Road closed due to roadwork. <span style='font-weight:bold;'> Starting today at 7:30AM MST until today at about 3:30PM MST.</span> </p> <p><i>Comment:</i> This is a full closure of EB Hampden from Downing Street to Colorado Blvd to accommodate the funeral procession for the fallen Lakewood Police officer. </p> </div>",
+   "headline": "CO 52 westbound: Road closed, due to road construction.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting November 18, 2026 at 8:30AM MST until November 18, 2026 at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
+   "icon": "icon-scheduled-event-18-fill-solid"
+  },
+  {
+   "id": "CDOT-36326400974EB",
+   "type": "roadClosures",
+   "headline": "I-70 eastbound: Road closed, due to road maintenance operations, detour in place, slower speeds advised.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 49: Grand Mesa and Exit 62: US 6; De Beque (6 miles east of the Palisade area) at Mile Point 50. Road closed expect delays due to road maintenance operations. Detour in place. Slower speeds are advised. </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "CDOT-36189442426BOTH",
    "type": "roadClosures",
    "headline": "CO 52 in both directions: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until Saturday, at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 8, 12:00AM - November 14, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through the 3rd week of November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street). </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until tomorrow at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 8, 12:00AM - November 14, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through the 3rd week of November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street). </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "CDOT-35509265116BOTH",
    "type": "roadClosures",
-   "headline": "I-70 Business in both directions: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 340 and US 50 (near Grand Junction) from Mile Point 1.04 to Mile Point 0.97. Road closed expect delays due to road construction. Until November 20, 2026 at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; October 26, 7:01AM - November 20, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> FULL CLOSURE OF 4TH STREET. BUSINESS ACCESS OPEN ON 3RD STREET. </p> </div>",
+   "headline": "CO 42 in both directions: Road closed, due to road construction.",
+   "description": "<div data-test-desc-type='roadReports'><p> At 104th Street (Louisville) at Mile Point 0.97. Road closed expect delays due to road construction. Until November 25, 2026 at about 5:00PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 12, 7:01AM - November 25, 5:00PM <br/></strong> </p> </p> <p><i>Comment:</i> FULL CLOSURE OF 4TH STREET. BUSINESS ACCESS OPEN ON 3RD STREET. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36338144797SB",
+   "type": "roadClosures",
+   "headline": "I-225 southbound: Road closed, due to roadwork.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between Iliff Avenue (Aurora) and Exit 1B: Yosemite Street (near Denver) from Mile Point 4 to Mile Point 3. Road closed due to roadwork. <span style='font-weight:bold;'> Starting Monday at 8:00PM MST until Tuesday, at about 6:00AM MST.</span> </p> <p><i>Comment:</i> More project information is available at 720-924-7462 or i25essentialwallrepairs@gmail.com.\n</p> </div>",
+   "icon": "icon-scheduled-event-16-fill-solid"
+  },
+  {
+   "id": "CDOT-36327330535BOTH",
+   "type": "roadClosures",
+   "headline": "CO 52 in both directions: Road closed, due to road construction.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed due to road construction. <span style='font-weight:bold;'> Starting Sunday at 12:00AM MST until November 21, 2026 at about 11:59PM MST.</span> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through late November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street).\nProject email: publicinfo5280+Hudson@gmail.com </p> </div>",
+   "icon": "icon-scheduled-event-15-fill-solid"
+  },
+  {
+   "id": "COSEG-585450",
+   "type": "roadClosures",
+   "headline": "CO 82: Seasonal Closure.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 17 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -62,17 +118,31 @@
    "icon": "tg_closure"
   },
   {
-   "id": "COSEG-522808",
-   "type": "winterDriving",
-   "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 7 mph are expected. </p> </div>",
-   "icon": "driving_snow"
+   "id": "CDOT-36340033357SB",
+   "type": "roadClosures",
+   "headline": "US 285 southbound: Road closed, due to a crash, slower speeds advised.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 8/Morrison Road and Parmalee Gulch Road (Morrison) at Mile Point 247. Road closed expect delays due to a crash. Slower speeds are advised. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36327330465WB",
+   "type": "roadClosures",
+   "headline": "CO 52 westbound: Road closed, due to road construction.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting Monday at 8:30AM MST until Monday, at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
+   "icon": "icon-scheduled-event-16-fill-solid"
   },
   {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 22 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-585450",
+   "type": "winterDriving",
+   "headline": "CO 82: Seasonal Closure.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 17 mph are expected. </p> </div>",
    "icon": "driving_snow"
   }
  ]

@@ -2,8 +2,8 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-12T14:16:39.636445+00:00",
- "activeEvents": 6,
+ "collectedAt": "2026-11-13T11:30:59.194818+00:00",
+ "activeEvents": 5,
  "events": [
   {
    "id": "drivebc.ca/RIDE-103726",
@@ -48,15 +48,6 @@
    "headline": "CONSTRUCTION",
    "description": "Construction work from Highway 99, In Whistler and 200m North of Alpha Lake Rd to In Whistler and At Alpha Lake Road. Starting 8:00 AM PCT on Monday November 16, 2026 until 4:00 PM PCT on Monday November 16, 2026. Shoulder closed. Last update: November 9th, 2026 at 2:21pm PCT. Work taking place on Alpha Lake Rd. Watch for work vehicles entering and exiting the highway.",
    "updated": "2026-11-09T14:21:30-07:00",
-   "status": "ACTIVE"
-  },
-  {
-   "id": "drivebc.ca/RIDE-105923",
-   "type": "CONSTRUCTION",
-   "severity": "MINOR",
-   "headline": "CONSTRUCTION",
-   "description": "Shoulder maintenance from Highway 99, exit to Furry Creek Dr to Britannia Beach FSR. Starting 7:30 AM PCT on Thursday November 12, 2026 until 5:30 PM PCT on Thursday November 12, 2026. Right lane blocked. Last update: November 9th, 2026 at 10:45am PCT.",
-   "updated": "2026-11-09T10:45:49-07:00",
    "status": "ACTIVE"
   }
  ]
