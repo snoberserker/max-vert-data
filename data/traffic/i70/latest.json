@@ -2,49 +2,21 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-13T14:17:07.650182+00:00",
- "activeEvents": 19,
+ "collectedAt": "2026-11-14T11:31:16.079003+00:00",
+ "activeEvents": 25,
  "events": [
   {
-   "id": "CDOT-36343969184WB",
+   "id": "CDOT-36357129080",
    "type": "roadReports",
-   "headline": "I-70 westbound: Incident cleared.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 256: Lookout Mountain and Exit 254: US 40; Genesee (Genesee) at Mile Point 255. An earlier incident has cleared. </p> </div>",
-   "icon": "tg_info"
-  },
-  {
-   "id": "CDOT-36344548810EB",
-   "type": "roadReports",
-   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70. </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
-   "id": "CDOT-36326400974EB",
-   "type": "roadReports",
-   "headline": "I-70 eastbound: Road closed, due to road maintenance operations, detour in place, slower speeds advised.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 49: Grand Mesa and Exit 62: US 6; De Beque (6 miles east of the Palisade area) at Mile Point 50. Road closed expect delays due to road maintenance operations. Detour in place. Slower speeds are advised. </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
-   "id": "CDOT-36344786417WB",
-   "type": "roadReports",
-   "headline": "I-76 westbound: Left lane closed, due to a crash.",
-   "description": "<div data-test-desc-type='roadReports'><p> At 88th Avenue (Commerce City) at Mile Point 10.45. The left lane is closed due to a crash. </p> </div>",
-   "icon": "tg_lane_closure"
+   "headline": "Traffic impacts: Lincoln County and Elbert County.",
+   "description": "<div data-test-desc-type='roadReports'><p> Lincoln County and Elbert County. Traffic impacts. </p> <p><i>Comment:</i> Fog and poor visibility </p> </div>",
+   "icon": "tg_warning"
   },
   {
    "id": "CDOT-36057055825BOTH",
    "type": "roadReports",
    "headline": "CO 82 in both directions: Road closed, due to safety concerns.",
    "description": "<div data-test-desc-type='roadReports'><p> Between County Road 23 (8 miles east of the Aspen area) and Carlton Tunnel Road (11 miles west of the Twin Lakes area) from Mile Point 51.4 to Mile Point 68.5. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Independence Pass Closed for the season </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
-   "id": "CDOT-36344548810EB",
-   "type": "roadClosures",
-   "headline": "I-70 eastbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Due to sun glare, a detour is in place. Use exit 244 to US 6, then US 40 back to Eastbound I-70. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -55,31 +27,45 @@
    "icon": "icon-scheduled-event-17-fill-solid"
   },
   {
+   "id": "COSEG-522808",
+   "type": "roadClosures",
+   "headline": "Gunnison County Road 12: Seasonal Closure.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Expect Light Snow Showers.  Likelihood of Light Rain Showers. Expect up to 1 inches of new snow accumulation. Wind gusts of up to 10 mph are expected. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Chance of Light Snow. Expect up to a trace of new snow accumulation. Wind gusts of up to 17 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "CDOT-36327330373WB",
    "type": "roadClosures",
    "headline": "CO 52 westbound: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting November 18, 2026 at 8:30AM MST until November 18, 2026 at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
+   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting Wednesday at 8:30AM MST until Wednesday, at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
    "icon": "icon-scheduled-event-18-fill-solid"
   },
   {
-   "id": "CDOT-36326400974EB",
+   "id": "CDOT-36351539855SB",
    "type": "roadClosures",
-   "headline": "I-70 eastbound: Road closed, due to road maintenance operations, detour in place, slower speeds advised.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 49: Grand Mesa and Exit 62: US 6; De Beque (6 miles east of the Palisade area) at Mile Point 50. Road closed expect delays due to road maintenance operations. Detour in place. Slower speeds are advised. </p> </div>",
+   "headline": "I-25 southbound: Road closed, due to roadwork.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between C-470; E-470 and Exit 192: RidgeGate Parkway (Lone Tree) from Mile Point 193.2 to Mile Point 192.2. Road closed due to roadwork. <span style='font-weight:bold;'> Starting Wednesday at 11:01PM MST until November 19, 2026 at about 6:00AM MST.</span> </p> <p><i>Comment:</i> FULL SB I-25 CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
+   "icon": "icon-scheduled-event-18-fill-solid"
+  },
+  {
+   "id": "CDOT-36355852029NB",
+   "type": "roadClosures",
+   "headline": "I-70 westbound: Entrance ramp closed, due to bridge maintenance operations.",
+   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from I-225 N. The entrance ramp is closed due to bridge maintenance operations. Until Monday, at about 4:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 13, 8:00PM - November 16, 4:00AM <br/></strong> </p> </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "CDOT-36189442426BOTH",
    "type": "roadClosures",
    "headline": "CO 52 in both directions: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until tomorrow at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 8, 12:00AM - November 14, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through the 3rd week of November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street). </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until today at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 8, 12:00AM - November 14, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through the 3rd week of November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street). </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -88,6 +74,13 @@
    "headline": "CO 42 in both directions: Road closed, due to road construction.",
    "description": "<div data-test-desc-type='roadReports'><p> At 104th Street (Louisville) at Mile Point 0.97. Road closed expect delays due to road construction. Until November 25, 2026 at about 5:00PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 12, 7:01AM - November 25, 5:00PM <br/></strong> </p> </p> <p><i>Comment:</i> FULL CLOSURE OF 4TH STREET. BUSINESS ACCESS OPEN ON 3RD STREET. </p> </div>",
    "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36351539833NB",
+   "type": "roadClosures",
+   "headline": "I-25 northbound: Road closed, due to roadwork.",
+   "description": "<div data-test-desc-type='roadWork'><p> Between Exit 192: RidgeGate Parkway and C-470; E-470 (Lone Tree) from Mile Point 192.1 to Mile Point 193. Road closed due to roadwork. <span style='font-weight:bold;'> Starting November 19, 2026 at 10:01PM MST until November 20, 2026 at about 5:00AM MST.</span> </p> <p><i>Comment:</i> FULL NB CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
+   "icon": "icon-scheduled-event-19-fill-solid"
   },
   {
    "id": "CDOT-36338144797SB",
@@ -100,14 +93,14 @@
    "id": "CDOT-36327330535BOTH",
    "type": "roadClosures",
    "headline": "CO 52 in both directions: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed due to road construction. <span style='font-weight:bold;'> Starting Sunday at 12:00AM MST until November 21, 2026 at about 11:59PM MST.</span> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through late November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street).\nProject email: publicinfo5280+Hudson@gmail.com </p> </div>",
+   "description": "<div data-test-desc-type='roadWork'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed due to road construction. <span style='font-weight:bold;'> Starting tomorrow at 12:00AM MST until November 21, 2026 at about 11:59PM MST.</span> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through late November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street).\nProject email: publicinfo5280+Hudson@gmail.com </p> </div>",
    "icon": "icon-scheduled-event-15-fill-solid"
   },
   {
    "id": "COSEG-585450",
    "type": "roadClosures",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 17 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Likelihood of Light Snow Showers. Expect up to a trace of new snow accumulation. Wind gusts of up to 11 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -125,18 +118,67 @@
    "icon": "icon-scheduled-event-16-fill-solid"
   },
   {
+   "id": "COSEG-522892",
+   "type": "winterDriving",
+   "headline": "US 24: Poor visibility and fog.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Colorado Springs-Limon'><p> Between I-25 (Colorado Springs) and I-70; US 40 (near Limon) from Mile Point 303.8 to Mile Point 380.5. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Chance of Light Rain. Chance of Light Rain Showers. Wind gusts of up to 34 mph are expected. </p> </div>",
+   "icon": "driving_visibility"
+  },
+  {
+   "id": "COSEG-522808",
+   "type": "winterDriving",
+   "headline": "Gunnison County Road 12: Seasonal Closure.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Expect Light Snow Showers.  Likelihood of Light Rain Showers. Expect up to 1 inches of new snow accumulation. Wind gusts of up to 10 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-587334",
+   "type": "winterDriving",
+   "headline": "I-70: Wet.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Utah-Grand Junction Grand Junction-Palisade-Rifle'><p> Between Utah State Line (12 miles west of the Loma area) and Exit 90: CO 13; Rifle (Rifle) from Mile Point 0 to Mile Point 90.2. <span data-test-desc-phrase='50-9'> Wet</span>. </p> <p data-test-desc-ndfd> Likelihood of Light Rain Showers. Wind gusts of up to 15 mph are expected. </p> </div>",
+   "icon": "driving_wet"
+  },
+  {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Chance of Light Snow. Expect up to a trace of new snow accumulation. Wind gusts of up to 17 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-587023",
+   "type": "winterDriving",
+   "headline": "CO 141: Wet.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Unaweep Canyon'><p> Between 4.40 Road and US 50 (49 to 93 miles north of the Naturita area) from Mile Point 110.7 to Mile Point 154.1. <span data-test-desc-phrase='50-9'> Wet</span>. </p> <p data-test-desc-ndfd> Likelihood of Light Snow Showers.  Likelihood of Light Rain Showers. Wind gusts of up to 27 mph are expected. </p> </div>",
+   "icon": "driving_wet"
+  },
+  {
+   "id": "COSEG-522920",
+   "type": "winterDriving",
+   "headline": "CO 139: Wet in areas.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Douglas Pass'><p> Between Hay Canyon Road (26 miles north of the Loma area) and Little Foundation Creek Road (31 miles south of the Rangely area) from Mile Point 31 to Mile Point 39.1. <span data-test-desc-phrase='50-10'> Wet in areas</span>. </p> <p data-test-desc-ndfd> Likelihood of Light Snow Showers.  Likelihood of Light Rain Showers. Wind gusts of up to 20 mph are expected. </p> </div>",
+   "icon": "driving_wet"
   },
   {
    "id": "COSEG-585450",
    "type": "winterDriving",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 17 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Likelihood of Light Snow Showers. Expect up to a trace of new snow accumulation. Wind gusts of up to 11 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522936",
+   "type": "winterDriving",
+   "headline": "CO 64: Wet and rain.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Rangely'><p> Between US 40; Stegosaurus Freeway (Dinosaur) and CO 13 (51 miles east of the Rangely area) from Mile Point 0 to Mile Point 73.7. <span data-test-desc-phrase='50-22'> Wet and rain</span>. </p> <p data-test-desc-ndfd> Chance of Light Rain Showers. Wind gusts of up to 12 mph are expected. </p> </div>",
+   "icon": "driving_wet"
+  },
+  {
+   "id": "COSEG-522937",
+   "type": "winterDriving",
+   "headline": "CO 65: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Grand Mesa'><p> Between CO 92 (near Orchard City) and CO 330 (39 miles north of the Cedaredge area) from Mile Point 0 to Mile Point 51.2. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Expect Moderate Snow Showers.  Likelihood of Light Rain Showers. Expect up to 3.5 inches of new snow accumulation. Wind gusts of up to 13 mph are expected. </p> </div>",
+   "icon": "driving_icy"
   }
  ]
 }

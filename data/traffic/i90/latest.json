@@ -2,8 +2,8 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-13T14:17:08.065867+00:00",
- "activeEvents": 6,
+ "collectedAt": "2026-11-14T11:31:16.802121+00:00",
+ "activeEvents": 9,
  "events": [
   {
    "type": "alert",
@@ -20,6 +20,14 @@
    "direction": "Eastbound",
    "closed": 0,
    "updated": 1794004177507
+  },
+  {
+   "type": "alert",
+   "headline": "Shoulder Closure on I-90 eastbound near MP Marker 273 beginning at 7:00 am on November 13, 2026 until about 10:00 am. for silt removal.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794523494533
   },
   {
    "type": "alert",
@@ -44,6 +52,22 @@
    "direction": "Eastbound",
    "closed": 0,
    "updated": 1794003917053
+  },
+  {
+   "type": "alert",
+   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed overnight from 9 p.m. \u2013 8 a.m., <br/>starting the night of Saturday, Nov. 14 to the morning of Sunday, Nov. 15. A signed detour will be in <br/>place",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794269867030
+  },
+  {
+   "type": "alert",
+   "headline": "Single right lane closure on I-90 eastbound at milepost 270.6 near SR 904 beginning at 8:30 pm on November 13, 2026 until about 3:00 am on November 14, 2026 for concrete barrier replacement. Speed limit reduced to 55 MPH.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794523779937
   },
   {
    "type": "alert",

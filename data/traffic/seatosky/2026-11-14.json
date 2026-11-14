@@ -1,0 +1,63 @@
+{
+ "corridor": "seatosky",
+ "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
+ "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
+ "collectedAt": "2026-11-14T11:31:09.072412+00:00",
+ "activeEvents": 6,
+ "events": [
+  {
+   "id": "drivebc.ca/RIDE-103726",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Tree pruning from Highway 99, In Whistler, At Lorimer Road and Soo Valley Road. Starting Fri Oct 9 until Mon Nov 30. Single lane alternating traffic. Shoulder closed. Last update: October 15th, 2026 at 12:37pm PDT. Tree trimming for BC Hydro power lines.",
+   "updated": "2026-10-15T12:37:16-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-106118",
+   "type": "CONSTRUCTION",
+   "severity": "MAJOR",
+   "headline": "CONSTRUCTION",
+   "description": "Tree pruning from Highway 99, In West Vancouver and Exit 2 to In West Vancouver and Pasco Road/Horseshoe Bay Drive. Starting 8:00 AM PCT on Tuesday November 17, 2026 until 4:00 PM PCT on Wednesday November 18, 2026. From 8:00 AM to 4:00 PM PCT, Tuesday and Wednesday. Road closure. Detour in effect. Last update: November 13th, 2026 at 1:26pm PCT. Hazard tree removal. Detour via Horseshoe Bay Drive.",
+   "updated": "2026-11-13T13:26:19-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-105618",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Utility work at Highway 99, In Lions Bay and 154m South of Kelvin Grove Way Underpass. Starting 9:00 AM PCT on Tuesday November 24, 2026 until 3:00 PM PCT on Tuesday November 24, 2026. Last update: November 6th, 2026 at 2:42pm PCT. Work on right shoulder. Watch for traffic control.",
+   "updated": "2026-11-06T14:42:58-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-103722",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Road maintenance from Highway 99, At Nordic Drive and 500m West of Nordic Drive to In Whistler. Starting Tue Oct 13 until Thu Dec 31. From 6:00 AM to 7:00 PM PDT, every day. Single lane alternating traffic. Last update: October 15th, 2026 at 12:56pm PDT. Fuel management and reduction for community wildfire risk reduction.",
+   "updated": "2026-10-15T12:56:55-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-105937",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Construction work from Highway 99, In Whistler and 200m North of Alpha Lake Rd to In Whistler and At Alpha Lake Road. Starting 8:00 AM PCT on Monday November 16, 2026 until 4:00 PM PCT on Monday November 16, 2026. Shoulder closed. Last update: November 9th, 2026 at 2:21pm PCT. Work taking place on Alpha Lake Rd. Watch for work vehicles entering and exiting the highway.",
+   "updated": "2026-11-09T14:21:30-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-106471",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Tree pruning from Highway 99, In West Vancouver to In West Vancouver. Starting 9:00 PM PCT on Monday November 16, 2026 until 5:00 AM PCT on Thursday November 19, 2026. From 9:00 PM to 5:00 AM PCT the next day, Monday to Wednesday. Right lane closed. Expect minor delays. Last update: November 13th, 2026 at 12:47pm PCT. Crews working N/B and S/B along Taylor Way for tree removal.",
+   "updated": "2026-11-13T12:47:42-07:00",
+   "status": "ACTIVE"
+  }
+ ]
+}
