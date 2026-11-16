@@ -2,8 +2,8 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-16T11:31:17.586599+00:00",
- "activeEvents": 8,
+ "collectedAt": "2026-11-16T14:17:01.403954+00:00",
+ "activeEvents": 5,
  "events": [
   {
    "type": "alert",
@@ -12,14 +12,6 @@
    "direction": "Both Directions",
    "closed": 0,
    "updated": 1787614222200
-  },
-  {
-   "type": "alert",
-   "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 ramps to northbound and southbound I-405 will close for construction. Signed detours will be available.",
-   "road": "I-90",
-   "direction": "Eastbound",
-   "closed": 0,
-   "updated": 1794004177507
   },
   {
    "type": "alert",
@@ -36,22 +28,6 @@
    "direction": "Westbound",
    "closed": 0,
    "updated": 1792466870430
-  },
-  {
-   "type": "alert",
-   "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 on-ramp from East Mercer Way will close for construction. Signed detours will be available.",
-   "road": "I-90",
-   "direction": "Eastbound",
-   "closed": 0,
-   "updated": 1794003867827
-  },
-  {
-   "type": "alert",
-   "headline": "From 9 p.m. to 5 a.m. nightly Sunday night, Nov. 8, through Monday morning, Nov. 16, the eastbound I-90 on-ramp from Bellevue Way Southeast will close for construction. Signed detours will be available.",
-   "road": "I-90",
-   "direction": "Eastbound",
-   "closed": 0,
-   "updated": 1794003917053
   },
   {
    "type": "alert",
