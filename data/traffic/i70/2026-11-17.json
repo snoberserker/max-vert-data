@@ -2,28 +2,14 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-17T11:31:23.217139+00:00",
- "activeEvents": 19,
+ "collectedAt": "2026-11-17T14:17:38.203828+00:00",
+ "activeEvents": 23,
  "events": [
   {
-   "id": "CDOT-36421397032SB",
+   "id": "CDOT-36423474137EB",
    "type": "roadReports",
-   "headline": "I-25 southbound: Entrance ramp closed, due to police activity.",
-   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from US 285 W. The entrance ramp is closed due to police activity. </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
-   "id": "CDOT-36421252575BOTH",
-   "type": "roadReports",
-   "headline": "I-25 in both directions: Roadway reopened to traffic.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Hampden and Exit 202: Yale Avenue (Denver) at Mile Point 202. The roadway is reopened to traffic. </p> </div>",
-   "icon": "tg_info"
-  },
-  {
-   "id": "CDOT-36421335335NB",
-   "type": "roadReports",
-   "headline": "I-25 northbound: Roadway reopened to traffic.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between I-225 and US 285; CO 30 (Denver) at Mile Point 200. The roadway is reopened to traffic. </p> </div>",
+   "headline": "I-70 eastbound: Roadway reopened to traffic.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. The roadway is reopened to traffic. </p> </div>",
    "icon": "tg_info"
   },
   {
@@ -34,31 +20,38 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36421397032SB",
-   "type": "roadClosures",
-   "headline": "I-25 southbound: Entrance ramp closed, due to police activity.",
-   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from US 285 W. The entrance ramp is closed due to police activity. </p> </div>",
-   "icon": "tg_closure"
+   "id": "CDOT-36423419342WB",
+   "type": "roadReports",
+   "headline": "I-70 westbound: Left lane closed, due to rocks on the road.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 123: Shoshone and Exit 121: Grizzly Creek (2 miles east of the No Name area) at Mile Point 122. The left lane is closed due to rocks on the road. </p> <p><i>Comment:</i> Rocks on Road, left lane blocked, expect delays </p> </div>",
+   "icon": "tg_lane_closure"
+  },
+  {
+   "id": "CDOT-36423385245WB",
+   "type": "roadReports",
+   "headline": "I-70 westbound: Lane(s) reopened to traffic.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 35/Quebec Street; Northfield Quebec Street and Exit 277: Dahlia Street (Denver) at Mile Point 277.05. Lane(s) have reopened to traffic. </p> </div>",
+   "icon": "tg_info"
   },
   {
    "id": "CDOT-36327330486WB",
    "type": "roadClosures",
    "headline": "CO 52 westbound: Road closed, due to road construction.",
    "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting today at 8:30AM MST until today at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
-   "icon": "icon-scheduled-event-17-fill-solid"
+   "icon": "tg_closure"
   },
   {
    "id": "COSEG-522808",
    "type": "roadClosures",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 20 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 26 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 25 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -90,13 +83,6 @@
    "icon": "icon-scheduled-event-19-fill-solid"
   },
   {
-   "id": "CDOT-36338144797SB",
-   "type": "roadClosures",
-   "headline": "I-225 southbound: Road closed, due to roadwork.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Iliff Avenue (Aurora) and Exit 1B: Yosemite Street (near Denver) from Mile Point 4 to Mile Point 3. Road closed expect delays due to roadwork. Until today at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 16, 8:00PM - November 17, 6:00AM <br/></strong> </p> </p> <p><i>Comment:</i> More project information is available at 720-924-7462 or i25essentialwallrepairs@gmail.com.\n</p> </div>",
-   "icon": "tg_closure"
-  },
-  {
    "id": "CDOT-36327330535BOTH",
    "type": "roadClosures",
    "headline": "CO 52 in both directions: Road closed, due to road construction.",
@@ -107,7 +93,7 @@
    "id": "COSEG-585450",
    "type": "roadClosures",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 28 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -121,22 +107,64 @@
    "id": "COSEG-522808",
    "type": "winterDriving",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 20 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522843",
+   "type": "winterDriving",
+   "headline": "US 85: Poor visibility and fog.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Brighton-Greeley'><p> Between Bromley Lane (Brighton) and US 34 (Greeley) from Mile Point 234.1 to Mile Point 265.8. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 7 mph are expected. </p> </div>",
+   "icon": "driving_visibility"
   },
   {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 26 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 25 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-587955",
+   "type": "winterDriving",
+   "headline": "I-25: Poor visibility and fog.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='CO 7-Ft. Collins'><p> Between E-470 (Thornton) and Exit 271: Mountain Vista Drive (Fort Collins) from Mile Point 229.1 to Mile Point 269.6. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 10 mph are expected. </p> </div>",
+   "icon": "driving_visibility"
+  },
+  {
+   "id": "COSEG-587736",
+   "type": "winterDriving",
+   "headline": "I-76: Poor visibility and fog.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Brighton-Ft. Morgan'><p> Between CO 2/Colorado Boulevard; Sable Boulevard (Brighton) and Barlow Road (Fort Morgan) from Mile Point 18 to Mile Point 80.2. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 10 mph are expected. </p> </div>",
+   "icon": "driving_visibility"
+  },
+  {
+   "id": "COSEG-522795",
+   "type": "winterDriving",
+   "headline": "CO 7: Poor visibility and fog.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='US 287 to I-76'><p> Between US 287; Emma Street and the end of CO 7 from Mile Point 61.9 to Mile Point 81.8. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 7 mph are expected. </p> </div>",
+   "icon": "driving_visibility"
   },
   {
    "id": "COSEG-585450",
    "type": "winterDriving",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 28 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522937",
+   "type": "winterDriving",
+   "headline": "CO 65: Icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Grand Mesa'><p> Between CO 92 (near Orchard City) and CO 330 (39 miles north of the Cedaredge area) from Mile Point 0 to Mile Point 51.2. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Slight chance of Light Snow Showers. Expect up to a trace of new snow accumulation. Wind gusts of up to 32 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-587842",
+   "type": "winterDriving",
+   "headline": "I-25: Poor visibility and fog.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Lincoln Ave-CO 7'><p> Between Exit 193: Lincoln Avenue (Lone Tree) and CO 7 (Thornton) from Mile Point 193.1 to Mile Point 229.1. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 15 mph are expected. </p> </div>",
+   "icon": "driving_visibility"
   }
  ]
 }
