@@ -2,8 +2,8 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-16T14:17:01.403954+00:00",
- "activeEvents": 5,
+ "collectedAt": "2026-11-17T11:31:23.876043+00:00",
+ "activeEvents": 6,
  "events": [
   {
    "type": "alert",
@@ -12,6 +12,14 @@
    "direction": "Both Directions",
    "closed": 0,
    "updated": 1787614222200
+  },
+  {
+   "type": "alert",
+   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 5 a.m., starting the night of Sunday, Nov. 15 to the morning of Tuesday, Nov. 24. A signed detour will be in place.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794855213157
   },
   {
    "type": "alert",
