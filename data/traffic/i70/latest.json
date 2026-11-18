@@ -2,14 +2,21 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-17T14:17:38.203828+00:00",
- "activeEvents": 23,
+ "collectedAt": "2026-11-18T11:31:23.706858+00:00",
+ "activeEvents": 51,
  "events": [
   {
-   "id": "CDOT-36423474137EB",
+   "id": "CDOT-36440754134WB",
    "type": "roadReports",
-   "headline": "I-70 eastbound: Roadway reopened to traffic.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. The roadway is reopened to traffic. </p> </div>",
+   "headline": "I-70 westbound: Lane(s) reopened to traffic.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 216: US 6; Loveland Pass and CO 9 (5 miles east of the Dillon area) at Mile Point 212. Lane(s) have reopened to traffic. </p> </div>",
+   "icon": "tg_info"
+  },
+  {
+   "id": "CDOT-36440767800WB",
+   "type": "roadReports",
+   "headline": "I-70 westbound: Roadway reopened to traffic.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 216: US 6; Loveland Pass and CO 9 (5 to 8 miles east of the Dillon area) from Mile Point 215 to Mile Point 212. The roadway is reopened to traffic. </p> </div>",
    "icon": "tg_info"
   },
   {
@@ -20,52 +27,59 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36423419342WB",
-   "type": "roadReports",
-   "headline": "I-70 westbound: Left lane closed, due to rocks on the road.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 123: Shoshone and Exit 121: Grizzly Creek (2 miles east of the No Name area) at Mile Point 122. The left lane is closed due to rocks on the road. </p> <p><i>Comment:</i> Rocks on Road, left lane blocked, expect delays </p> </div>",
-   "icon": "tg_lane_closure"
-  },
-  {
-   "id": "CDOT-36423385245WB",
-   "type": "roadReports",
-   "headline": "I-70 westbound: Lane(s) reopened to traffic.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 35/Quebec Street; Northfield Quebec Street and Exit 277: Dahlia Street (Denver) at Mile Point 277.05. Lane(s) have reopened to traffic. </p> </div>",
-   "icon": "tg_info"
-  },
-  {
-   "id": "CDOT-36327330486WB",
+   "id": "COSEG-588027",
    "type": "roadClosures",
-   "headline": "CO 52 westbound: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting today at 8:30AM MST until today at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
+   "headline": "CO 82: Seasonal Closure.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 35 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "COSEG-522808",
    "type": "roadClosures",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 19 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 25 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly clear. Wind gusts of up to 58 mph are expected. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36327330535BOTH",
+   "type": "roadClosures",
+   "headline": "CO 52 in both directions: Road closed, due to road construction.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until Saturday, at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 15, 12:00AM - November 21, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through late November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street).\nProject email: publicinfo5280+Hudson@gmail.com </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
+   "id": "CDOT-36057055825BOTH",
+   "type": "roadClosures",
+   "headline": "CO 82 in both directions: Road closed, due to safety concerns.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between County Road 23 (8 miles east of the Aspen area) and Carlton Tunnel Road (11 miles west of the Twin Lakes area) from Mile Point 51.4 to Mile Point 68.5. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Independence Pass Closed for the season </p> </div>",
    "icon": "tg_closure"
   },
   {
    "id": "CDOT-36327330373WB",
    "type": "roadClosures",
    "headline": "CO 52 westbound: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting tomorrow at 8:30AM MST until tomorrow at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
+   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting today at 8:30AM MST until today at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
    "icon": "icon-scheduled-event-18-fill-solid"
+  },
+  {
+   "id": "CDOT-36427625766EB",
+   "type": "roadClosures",
+   "headline": "I-70 eastbound: Road closed, due to road maintenance operations.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 284: Pena Boulevard and Exit 285: Airport Boulevard (Aurora) at Mile Point 283.5. Road closed expect delays due to road maintenance operations. Until today at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 17, 10:00PM - November 18, 6:00AM <br/></strong> </p> </p> </div>",
+   "icon": "tg_closure"
   },
   {
    "id": "CDOT-36351539855SB",
    "type": "roadClosures",
    "headline": "I-25 southbound: Road closed, due to roadwork.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between C-470; E-470 and Exit 192: RidgeGate Parkway (Lone Tree) from Mile Point 193.2 to Mile Point 192.2. Road closed due to roadwork. <span style='font-weight:bold;'> Starting tomorrow at 11:01PM MST until Thursday, at about 6:00AM MST.</span> </p> <p><i>Comment:</i> FULL SB I-25 CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
+   "description": "<div data-test-desc-type='roadWork'><p> Between C-470; E-470 and Exit 192: RidgeGate Parkway (Lone Tree) from Mile Point 193.2 to Mile Point 192.2. Road closed due to roadwork. <span style='font-weight:bold;'> Starting today at 11:01PM MST until tomorrow at about 6:00AM MST.</span> </p> <p><i>Comment:</i> FULL SB I-25 CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
    "icon": "icon-scheduled-event-18-fill-solid"
   },
   {
@@ -79,92 +93,274 @@
    "id": "CDOT-36351539833NB",
    "type": "roadClosures",
    "headline": "I-25 northbound: Road closed, due to roadwork.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between Exit 192: RidgeGate Parkway and C-470; E-470 (Lone Tree) from Mile Point 192.1 to Mile Point 193. Road closed due to roadwork. <span style='font-weight:bold;'> Starting Thursday at 10:01PM MST until Friday, at about 5:00AM MST.</span> </p> <p><i>Comment:</i> FULL NB CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
+   "description": "<div data-test-desc-type='roadWork'><p> Between Exit 192: RidgeGate Parkway and C-470; E-470 (Lone Tree) from Mile Point 192.1 to Mile Point 193. Road closed due to roadwork. <span style='font-weight:bold;'> Starting tomorrow at 10:01PM MST until Friday, at about 5:00AM MST.</span> </p> <p><i>Comment:</i> FULL NB CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
    "icon": "icon-scheduled-event-19-fill-solid"
   },
   {
-   "id": "CDOT-36327330535BOTH",
-   "type": "roadClosures",
-   "headline": "CO 52 in both directions: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Hudson Drive and Holly Street (Hudson) from Mile Point 29.52 to Mile Point 30.05. Road closed expect delays due to road construction. Until Saturday, at about 11:59PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 15, 12:00AM - November 21, 11:59PM <br/></strong> </p> </p> <p><i>Comment:</i> Full closure of Main Street (CO 52) between I-76 Frontage Road and Holly Street in Hudson through late November for revitalization work. Detour using I-76 Frontage Road and County Road 51. Local access to town via County Road 47, County Road 10, and County Road 45 (Beech Street).\nProject email: publicinfo5280+Hudson@gmail.com </p> </div>",
-   "icon": "tg_closure"
+   "id": "COSEG-588010",
+   "type": "winterDriving",
+   "headline": "US 40: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kremmling-Granby'><p> Between CO 134 (5 miles west of the Kremmling area) and Mesa Street (Granby) from Mile Point 178.7 to Mile Point 211.6. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 32 mph are expected. </p> </div>",
+   "icon": "driving_icy"
   },
   {
-   "id": "COSEG-585450",
-   "type": "roadClosures",
+   "id": "COSEG-588011",
+   "type": "winterDriving",
+   "headline": "US 40: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Granby-Winter Park'><p> Between US 34 (Granby) and Lakota Trail (Winter Park) from Mile Point 211.6 to Mile Point 231.5. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 29 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588012",
+   "type": "winterDriving",
+   "headline": "CO 119: Icy spots, Snow, Wet.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Blackhawk-Central City Area'><p> Between US 6 (3 miles south of the Central City area) and Rollinsville Road (Nederland) from Mile Point 0 to Mile Point 25.1. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-7'> Snow</span>. <span data-test-desc-phrase='50-9'> Wet</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 57 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-522880",
+   "type": "winterDriving",
+   "headline": "COS 1/Pikes Peak Highway: Icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Pikes Peak Highway'><p> Between Forest Service Road 334 (Cascade-Chipita Park) and Pikes Peak (12 miles north of the Cascade-Chipita Park area) from Mile Point 0.9 to Mile Point 18.2. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 50 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588001",
+   "type": "winterDriving",
+   "headline": "I-70: Wet in areas with icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Eagle-Vail'><p> Between Exit 140: US 6; Gypsum (near Eagle) and Exit 180: East Vail (Vail) from Mile Point 145.8 to Mile Point 176.2. <span data-test-desc-phrase='50-44'> Wet in areas with icy spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 20 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588003",
+   "type": "winterDriving",
+   "headline": "I-70: Snow with icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Eisenhower/Johnson tunnels-Georgetown'><p> Between CO 9 (5 miles east of the Dillon area) and Exit 228: Georgetown (near Georgetown) from Mile Point 212.5 to Mile Point 226.9. <span data-test-desc-phrase='50-19'> Snow with icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 50 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-588004",
+   "type": "winterDriving",
+   "headline": "I-70: Wet in areas.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Georgetown-Idaho Springs'><p> Between Exit 226: Silver Plume (near Georgetown) and Exit 239: I-70 Business; Idaho Springs (near Idaho Springs) from Mile Point 226.9 to Mile Point 238.7. <span data-test-desc-phrase='50-10'> Wet in areas</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 53 mph are expected. </p> </div>",
+   "icon": "driving_wet"
+  },
+  {
+   "id": "COSEG-588005",
+   "type": "winterDriving",
+   "headline": "US 24: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Ute Pass/Wilkerson Pass-Woodland Park'><p> Between Linderman Avenue (Buena Vista) and Midland Avenue (Woodland Park) from Mile Point 210.8 to Mile Point 285. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 44 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-522866",
+   "type": "winterDriving",
+   "headline": "CO 67: High wind, Dry.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Cripple Creek-Divide'><p> Between Golden Avenue (Cripple Creek) and US 24 (near Divide) from Mile Point 52.3 to Mile Point 69.7. <span data-test-desc-phrase='50-2'> High wind</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 40 mph are expected. </p> </div>",
+   "icon": "driving_wind"
+  },
+  {
+   "id": "COSEG-522867",
+   "type": "winterDriving",
+   "headline": "CO 67: High wind, Dry.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Woodland Park-Deckers'><p> Between US 24 (Woodland Park) and Y Camp Road (7 miles north of the Westcreek area) from Mile Point 76.9 to Mile Point 100. <span data-test-desc-phrase='50-2'> High wind</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 48 mph are expected. </p> </div>",
+   "icon": "driving_wind"
+  },
+  {
+   "id": "COSEG-522873",
+   "type": "winterDriving",
+   "headline": "CO 9: Icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Hoosier Pass - Frisco'><p> Between 3rd Street (near Fairplay) and I-70 (near Frisco) from Mile Point 66.6 to Mile Point 97.2. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 43 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588025",
+   "type": "winterDriving",
+   "headline": "CO 82: Wet in areas.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Basalt-Glenwood Springs'><p> Between I-70; I-70 (Glenwood Springs) and CO 133 (near Carbondale) from Mile Point 0 to Mile Point 11.5. <span data-test-desc-phrase='50-10'> Wet in areas</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 25 mph are expected. </p> </div>",
+   "icon": "driving_wet"
+  },
+  {
+   "id": "COSEG-588026",
+   "type": "winterDriving",
+   "headline": "CO 82: Icy spots, Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Aspen-Basalt'><p> Between Satank Road (near Carbondale) and Riverside Drive (Aspen) from Mile Point 11.5 to Mile Point 41.9. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 19 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588027",
+   "type": "winterDriving",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Partly cloudy. Wind gusts of up to 28 mph are expected. </p> </div>",
-   "icon": "tg_closure"
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 35 mph are expected. </p> </div>",
+   "icon": "driving_snow"
   },
   {
-   "id": "CDOT-36057055825BOTH",
-   "type": "roadClosures",
-   "headline": "CO 82 in both directions: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between County Road 23 (8 miles east of the Aspen area) and Carlton Tunnel Road (11 miles west of the Twin Lakes area) from Mile Point 51.4 to Mile Point 68.5. Road closed expect delays due to safety concerns. </p> <p><i>Comment:</i> Independence Pass Closed for the season </p> </div>",
-   "icon": "tg_closure"
+   "id": "COSEG-587590",
+   "type": "winterDriving",
+   "headline": "US 40: Snow with icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='I-70 to Winter Park (Berthoud Pass)'><p> Between Moffat Road (Winter Park) and Exit 232: I-70; Empire Junction (near Downieville-Lawson-Dumont) from Mile Point 231.5 to Mile Point 258.3. <span data-test-desc-phrase='50-19'> Snow with icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 55 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-588114",
+   "type": "winterDriving",
+   "headline": "I-70: Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Vail-Vail Pass'><p> Between Exit 176: Vail (Vail) and Exit 190: Vail Pass Summit (2 miles west of the Copper Mountain area) from Mile Point 176.2 to Mile Point 188.3. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 26 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-588115",
+   "type": "winterDriving",
+   "headline": "I-70: Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Vail Pass-Copper Mtn'><p> Between Exit 180: East Vail and Exit 195: Copper Mountain (2 miles west of the Copper Mountain area) from Mile Point 188.3 to Mile Point 194.3. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 30 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-588101",
+   "type": "winterDriving",
+   "headline": "I-70: Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Copper Mtn-Silverthorne'><p> Between Exit 190: Vail Pass Summit (Copper Mountain) and Exit 205: US 6; Silverthorne (near Frisco) from Mile Point 194.3 to Mile Point 203.7. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 34 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522792",
+   "type": "winterDriving",
+   "headline": "CO 67: High wind, Dry.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Rampart Range Rd-Sedalia'><p> Between Rampart Range Road and US 85 from Mile Point 117.3 to Mile Point 127.4. <span data-test-desc-phrase='50-2'> High wind</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 40 mph are expected. </p> </div>",
+   "icon": "driving_wind"
+  },
+  {
+   "id": "COSEG-522920",
+   "type": "winterDriving",
+   "headline": "CO 139: Icy spots, Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Douglas Pass'><p> Between Hay Canyon Road (26 miles north of the Loma area) and Little Foundation Creek Road (31 miles south of the Rangely area) from Mile Point 31 to Mile Point 39.1. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-522917",
+   "type": "winterDriving",
+   "headline": "CO 133: Icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='McClure Pass'><p> Between CO 92 (Hotchkiss) and Roaring Fork River (near Carbondale) from Mile Point 0 to Mile Point 68.9. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 24 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-522918",
+   "type": "winterDriving",
+   "headline": "CO 134: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Gore Pass'><p> Between CO 131 and US 40 from Mile Point 0 to Mile Point 27.2. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 33 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-522916",
+   "type": "winterDriving",
+   "headline": "CO 131: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Wolcott-Steamboat Springs'><p> Between I-70; US 6 (Wolcott) and US 40 (16 miles north of the Oak Creek area) from Mile Point 0.1 to Mile Point 68.7. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 29 mph are expected. </p> </div>",
+   "icon": "driving_icy"
   },
   {
    "id": "COSEG-522808",
    "type": "winterDriving",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 21 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 19 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
-   "id": "COSEG-522843",
+   "id": "COSEG-587453",
    "type": "winterDriving",
-   "headline": "US 85: Poor visibility and fog.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Brighton-Greeley'><p> Between Bromley Lane (Brighton) and US 34 (Greeley) from Mile Point 234.1 to Mile Point 265.8. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 7 mph are expected. </p> </div>",
-   "icon": "driving_visibility"
+   "headline": "US 36: High wind, Dry.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Watkins-Byers-Last Chance'><p> Between I-70; Airpark Road (near Aurora) and County Road L (32 miles east of the Byers area) from Mile Point 76.4 to Mile Point 135.8. <span data-test-desc-phrase='50-2'> High wind</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 27 mph are expected. </p> </div>",
+   "icon": "driving_wind"
   },
   {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 25 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 58 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
-   "id": "COSEG-587955",
+   "id": "COSEG-587882",
    "type": "winterDriving",
-   "headline": "I-25: Poor visibility and fog.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='CO 7-Ft. Collins'><p> Between E-470 (Thornton) and Exit 271: Mountain Vista Drive (Fort Collins) from Mile Point 229.1 to Mile Point 269.6. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 10 mph are expected. </p> </div>",
-   "icon": "driving_visibility"
-  },
-  {
-   "id": "COSEG-587736",
-   "type": "winterDriving",
-   "headline": "I-76: Poor visibility and fog.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Brighton-Ft. Morgan'><p> Between CO 2/Colorado Boulevard; Sable Boulevard (Brighton) and Barlow Road (Fort Morgan) from Mile Point 18 to Mile Point 80.2. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 10 mph are expected. </p> </div>",
-   "icon": "driving_visibility"
-  },
-  {
-   "id": "COSEG-522795",
-   "type": "winterDriving",
-   "headline": "CO 7: Poor visibility and fog.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='US 287 to I-76'><p> Between US 287; Emma Street and the end of CO 7 from Mile Point 61.9 to Mile Point 81.8. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 7 mph are expected. </p> </div>",
-   "icon": "driving_visibility"
-  },
-  {
-   "id": "COSEG-585450",
-   "type": "winterDriving",
-   "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 28 mph are expected. </p> </div>",
+   "headline": "I-70: Snow with icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Silverthorne-Eisenhower/Johnson tunnels'><p> Between Exit 203: East Frisco (near Frisco) and Exit 216: US 6; Loveland Pass (5 miles east of the Dillon area) from Mile Point 203.7 to Mile Point 212.5. <span data-test-desc-phrase='50-19'> Snow with icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 27 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522943",
+   "type": "winterDriving",
+   "headline": "CO 91: Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Fremont Pass'><p> Between US 24 (Leadville North) and I-70 (near Copper Mountain) from Mile Point 0 to Mile Point 22.6. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 35 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522941",
+   "type": "winterDriving",
+   "headline": "CO 9: Icy spots, Snow, Icy bridges.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Silverthorne-Kremmling'><p> Between US 6; I-70 (Silverthorne) and US 40 (Kremmling) from Mile Point 101.6 to Mile Point 138.9. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-7'> Snow</span>. <span data-test-desc-phrase='50-27'> Icy bridges</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 32 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-522936",
+   "type": "winterDriving",
+   "headline": "CO 64: Icy spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Rangely'><p> Between US 40; Stegosaurus Freeway (Dinosaur) and CO 13 (51 miles east of the Rangely area) from Mile Point 0 to Mile Point 73.7. <span data-test-desc-phrase='50-13'> Icy spots</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 27 mph are expected. </p> </div>",
+   "icon": "driving_icy"
   },
   {
    "id": "COSEG-522937",
    "type": "winterDriving",
    "headline": "CO 65: Icy and snow packed spots.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Grand Mesa'><p> Between CO 92 (near Orchard City) and CO 330 (39 miles north of the Cedaredge area) from Mile Point 0 to Mile Point 51.2. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Slight chance of Light Snow Showers. Expect up to a trace of new snow accumulation. Wind gusts of up to 32 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Grand Mesa'><p> Between CO 92 (near Orchard City) and CO 330 (39 miles north of the Cedaredge area) from Mile Point 0 to Mile Point 51.2. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Mostly clear. Expect up to a trace of new snow accumulation. Wind gusts of up to 13 mph are expected. </p> </div>",
    "icon": "driving_icy"
   },
   {
-   "id": "COSEG-587842",
+   "id": "COSEG-587866",
    "type": "winterDriving",
-   "headline": "I-25: Poor visibility and fog.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Lincoln Ave-CO 7'><p> Between Exit 193: Lincoln Avenue (Lone Tree) and CO 7 (Thornton) from Mile Point 193.1 to Mile Point 229.1. <span data-test-desc-phrase='50-41'> Poor visibility and fog</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 15 mph are expected. </p> </div>",
-   "icon": "driving_visibility"
+   "headline": "US 24: Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Buena Vista-Leadville-Tennessee Pass- Battle Mtn'><p> Between US 6; I-70 (near Minturn) and Pine Street (Buena Vista) from Mile Point 143.4 to Mile Point 210.8. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 28 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-586963",
+   "type": "winterDriving",
+   "headline": "US 6: Snow with icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Loveland Pass'><p> Between Montezuma Road and I-70; Loveland Pass (1 to 11 miles east of the Keystone area) from Mile Point 219.9 to Mile Point 229.9. <span data-test-desc-phrase='50-19'> Snow with icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Wind gusts of up to 44 mph are expected. </p> </div>",
+   "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-586962",
+   "type": "winterDriving",
+   "headline": "US 6: Icy, Snow.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Silverthorne to Arapahoe Basin'><p> Between Exit 205: I-70; CO 9; Silverthorne (Silverthorne) and Mile Point 222 (1 mile east of the Keystone area) from Mile Point 208.7 to Mile Point 219.9. <span data-test-desc-phrase='50-12'> Icy</span>. <span data-test-desc-phrase='50-7'> Snow</span>. </p> <p data-test-desc-ndfd> Partly cloudy. Expect up to a trace of new snow accumulation. Wind gusts of up to 32 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588092",
+   "type": "winterDriving",
+   "headline": "CO 83: High wind, Dry.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='N. Powers Blvd-El Paso CL-Franktown'><p> Between the start of CO 83 (Colorado Springs) and Stage Road (Franktown) from Mile Point 20.4 to Mile Point 51.4. <span data-test-desc-phrase='50-2'> High wind</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 38 mph are expected. </p> </div>",
+   "icon": "driving_wind"
+  },
+  {
+   "id": "COSEG-588059",
+   "type": "winterDriving",
+   "headline": "US 285: Icy spots, Snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Antero Jct-Fairplay-Jefferson (South Park)'><p> Between US 24 (20 miles south of the Fairplay area) and Forest Service Road 56 (15 miles north of the Fairplay area) from Mile Point 161.8 to Mile Point 199. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-15'> Snow packed spots</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 40 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588062",
+   "type": "winterDriving",
+   "headline": "US 285: Icy spots, Snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Grant-Bailey-Pine Jct'><p> Between North Fork Road and Glen Drive (7 to 23 miles south of the Aspen Park area) from Mile Point 213.1 to Mile Point 229. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-15'> Snow packed spots</span>. </p> <p data-test-desc-ndfd> Clear skies. Wind gusts of up to 47 mph are expected. </p> </div>",
+   "icon": "driving_icy"
+  },
+  {
+   "id": "COSEG-588060",
+   "type": "winterDriving",
+   "headline": "US 285: Icy spots, Snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kenosha Pass'><p> Between Willard Street (15 miles north of the Fairplay area) and River Street (23 miles south of the Aspen Park area) from Mile Point 199 to Mile Point 213.1. <span data-test-desc-phrase='50-13'> Icy spots</span>. <span data-test-desc-phrase='50-15'> Snow packed spots</span>. </p> <p data-test-desc-ndfd> Mostly clear. Wind gusts of up to 35 mph are expected. </p> </div>",
+   "icon": "driving_icy"
   }
  ]
 }

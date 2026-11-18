@@ -2,8 +2,8 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-17T14:17:31.419559+00:00",
- "activeEvents": 6,
+ "collectedAt": "2026-11-18T11:31:16.494635+00:00",
+ "activeEvents": 7,
  "events": [
   {
    "id": "drivebc.ca/RIDE-103726",
@@ -48,6 +48,15 @@
    "headline": "CONSTRUCTION",
    "description": "Road maintenance from Highway 99, At Nordic Drive and 500m West of Nordic Drive to In Whistler. Starting Tue Oct 13 until Thu Dec 31. From 6:00 AM to 7:00 PM PDT, every day. Single lane alternating traffic. Last update: October 15th, 2026 at 12:56pm PDT. Fuel management and reduction for community wildfire risk reduction.",
    "updated": "2026-10-15T12:56:55-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-106956",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Road maintenance at Highway 99, In Whistler. Starting 7:30 AM PCT on Wednesday November 18, 2026 until 5:30 PM PCT on Wednesday November 18, 2026. Right lane closed. Last update: November 17th, 2026 at 3:21pm PCT.",
+   "updated": "2026-11-17T15:21:18-07:00",
    "status": "ACTIVE"
   },
   {
