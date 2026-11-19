@@ -2,8 +2,8 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-19T11:31:13.325361+00:00",
- "activeEvents": 5,
+ "collectedAt": "2026-11-19T14:21:01.216690+00:00",
+ "activeEvents": 4,
  "events": [
   {
    "id": "drivebc.ca/RIDE-103726",
@@ -39,15 +39,6 @@
    "headline": "CONSTRUCTION",
    "description": "Road maintenance from Highway 99, At Nordic Drive and 500m West of Nordic Drive to In Whistler. Starting Tue Oct 13 until Thu Dec 31. From 6:00 AM to 7:00 PM PDT, every day. Single lane alternating traffic. Last update: October 15th, 2026 at 12:56pm PDT. Fuel management and reduction for community wildfire risk reduction.",
    "updated": "2026-10-15T12:56:55-07:00",
-   "status": "ACTIVE"
-  },
-  {
-   "id": "drivebc.ca/RIDE-106471",
-   "type": "CONSTRUCTION",
-   "severity": "MINOR",
-   "headline": "CONSTRUCTION",
-   "description": "Tree pruning from Highway 99, In West Vancouver to In West Vancouver. Starting 9:00 PM PCT on Monday November 16, 2026 until 5:00 AM PCT on Thursday November 19, 2026. From 9:00 PM to 5:00 AM PCT the next day, Monday to Wednesday. Right lane closed. Expect minor delays. Last update: November 13th, 2026 at 12:47pm PCT. Crews working N/B and S/B along Taylor Way for tree removal.",
-   "updated": "2026-11-13T12:47:42-07:00",
    "status": "ACTIVE"
   }
  ]

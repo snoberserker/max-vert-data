@@ -2,7 +2,7 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-19T11:31:20.579523+00:00",
+ "collectedAt": "2026-11-19T14:21:08.554736+00:00",
  "activeEvents": 9,
  "events": [
   {
@@ -23,19 +23,19 @@
   },
   {
    "type": "alert",
-   "headline": "From 9 p.m. and 5 a.m. nightly, Wednesday, Nov. 18, through Saturday morning, Nov. 21, the westbound I-90 on-ramps to northbound and southbound I-405 will close for construction. Signed detours will be available.",
-   "road": "I-90",
-   "direction": "Westbound",
-   "closed": 0,
-   "updated": 1794953682917
-  },
-  {
-   "type": "alert",
    "headline": "From 9 p.m. Saturday, Nov. 21, to 8 p.m. Sunday, Nov. 22, westbound I-90 will reduce to one lane near Lakemont Boulevard Southeast. The westbound off-ramp to Lakemont Boulevard Southeast also will close during the same time. Signed detours will be in place for the ramp closure.<br/><br/>This work will support a shift on westbound I-90 back into its original configuration.",
    "road": "I-90",
    "direction": "Westbound",
    "closed": 0,
    "updated": 1795043210790
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. and 5 a.m. nightly, Wednesday, Nov. 18, through Saturday morning, Nov. 21, the westbound I-90 on-ramps to northbound and southbound I-405 will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1794953682917
   },
   {
    "type": "alert",

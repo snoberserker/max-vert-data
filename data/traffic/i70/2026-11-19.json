@@ -2,16 +2,9 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-19T11:31:20.027693+00:00",
- "activeEvents": 22,
+ "collectedAt": "2026-11-19T14:21:07.894917+00:00",
+ "activeEvents": 19,
  "events": [
-  {
-   "id": "CDOT-36459622629WB",
-   "type": "roadReports",
-   "headline": "I-70 westbound: Road closed, due to a crash.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 295: I-70 Business North and Exit 292: US 36; Airpark Road (near Aurora) at Mile Point 298. Road closed expect delays due to a crash. </p> </div>",
-   "icon": "tg_closure"
-  },
   {
    "id": "CDOT-36057055825BOTH",
    "type": "roadReports",
@@ -20,25 +13,25 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36460073988WB",
+   "id": "CDOT-36462095598EB",
    "type": "roadReports",
-   "headline": "I-70 westbound: Right lane closed, due to police activity.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between C-470 and Exit 259: Morrison Road (near Lakewood) at Mile Point 259. The right lane is closed due to police activity. </p> </div>",
-   "icon": "tg_lane_closure"
+   "headline": "I-70 eastbound: Crash cleared.",
+   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from I-70 E. An earlier crash has been cleared. </p> </div>",
+   "icon": "tg_info"
   },
   {
-   "id": "CDOT-36460230250WB",
+   "id": "CDOT-36462815826WB",
    "type": "roadReports",
-   "headline": "I-70 westbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> At Exit 299: Manila Road (near Watkins) at Mile Point 299.35. Road closed expect delays due to safety concerns. </p> </div>",
-   "icon": "tg_closure"
+   "headline": "I-70 westbound: Crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> At Exit 243: Hidden Valley (Idaho Springs) at Mile Point 243. Crash expect delays. </p> </div>",
+   "icon": "tg_warning"
   },
   {
-   "id": "CDOT-36459622629WB",
-   "type": "roadClosures",
-   "headline": "I-70 westbound: Road closed, due to a crash.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 295: I-70 Business North and Exit 292: US 36; Airpark Road (near Aurora) at Mile Point 298. Road closed expect delays due to a crash. </p> </div>",
-   "icon": "tg_closure"
+   "id": "CDOT-36462700107EB",
+   "type": "roadReports",
+   "headline": "I-70 eastbound: Roadway reopened to traffic.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Exit 243: Hidden Valley and Exit 244: US 6 (near Floyd Hill) at Mile Point 244. The roadway is reopened to traffic. </p> </div>",
+   "icon": "tg_info"
   },
   {
    "id": "CDOT-36451253564WB",
@@ -72,7 +65,7 @@
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 28 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 22 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -90,18 +83,11 @@
    "icon": "tg_closure"
   },
   {
-   "id": "CDOT-36351539855SB",
-   "type": "roadClosures",
-   "headline": "I-25 southbound: Road closed, due to roadwork.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between C-470; E-470 and Exit 192: RidgeGate Parkway (Lone Tree) from Mile Point 193.2 to Mile Point 192.2. Road closed expect delays due to roadwork. Until today at about 6:00AM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 18, 11:01PM - November 19, 6:00AM <br/></strong> </p> </p> <p><i>Comment:</i> FULL SB I-25 CLOSURE WITH DETOUR ROUTE IN PLACE </p> </div>",
-   "icon": "tg_closure"
-  },
-  {
    "id": "CDOT-36451186173WB",
    "type": "roadClosures",
    "headline": "CO 52 westbound: Road closed, due to road construction.",
    "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting today at 8:30AM MST until today at about 5:00PM MST.</span> </p> <p><i>Comment:</i> Bridge paving, daily westbound CO 52 full closure, eastbound CO 52 remains open </p> </div>",
-   "icon": "icon-scheduled-event-19-fill-solid"
+   "icon": "tg_closure"
   },
   {
    "id": "CDOT-36451250880WB",
@@ -109,13 +95,6 @@
    "headline": "CO 52 westbound: Road closed, due to road construction.",
    "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting Monday at 8:30AM MST until Monday, at about 5:00PM MST.</span> </p> </div>",
    "icon": "icon-scheduled-event-23-fill-solid"
-  },
-  {
-   "id": "CDOT-36460230250WB",
-   "type": "roadClosures",
-   "headline": "I-70 westbound: Road closed, due to safety concerns.",
-   "description": "<div data-test-desc-type='roadReports'><p> At Exit 299: Manila Road (near Watkins) at Mile Point 299.35. Road closed expect delays due to safety concerns. </p> </div>",
-   "icon": "tg_closure"
   },
   {
    "id": "CDOT-35509265116BOTH",
@@ -149,14 +128,14 @@
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 28 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 22 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
    "id": "COSEG-522943",
    "type": "winterDriving",
-   "headline": "CO 91: Icy and snow packed, Dry.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Fremont Pass'><p> Between US 24 (Leadville North) and I-70 (near Copper Mountain) from Mile Point 0 to Mile Point 22.6. <span data-test-desc-phrase='50-20'> Icy and snow packed</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 19 mph are expected. </p> </div>",
+   "headline": "CO 91: Icy and snow packed spots, Dry.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Fremont Pass'><p> Between US 24 (Leadville North) and I-70 (near Copper Mountain) from Mile Point 0 to Mile Point 22.6. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. <span data-test-desc-phrase='50-17'> Dry</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 24 mph are expected. </p> </div>",
    "icon": "driving_icy"
   }
  ]
