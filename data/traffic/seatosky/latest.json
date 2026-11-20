@@ -2,8 +2,8 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-19T14:21:01.216690+00:00",
- "activeEvents": 4,
+ "collectedAt": "2026-11-20T11:34:43.752269+00:00",
+ "activeEvents": 3,
  "events": [
   {
    "id": "drivebc.ca/RIDE-103726",
@@ -12,15 +12,6 @@
    "headline": "CONSTRUCTION",
    "description": "Tree pruning from Highway 99, In Whistler, At Lorimer Road and Soo Valley Road. Starting Fri Oct 9 until Mon Nov 30. Single lane alternating traffic. Shoulder closed. Last update: October 15th, 2026 at 12:37pm PDT. Tree trimming for BC Hydro power lines.",
    "updated": "2026-10-15T12:37:16-07:00",
-   "status": "ACTIVE"
-  },
-  {
-   "id": "drivebc.ca/RIDE-107105",
-   "type": "CONSTRUCTION",
-   "severity": "MINOR",
-   "headline": "CONSTRUCTION",
-   "description": "Shoulder maintenance at Highway 99. Starting 7:30 AM PCT on Thursday November 19, 2026 until 5:30 PM PCT on Thursday November 19, 2026. Right lane closed. Last update: November 18th, 2026 at 3:27pm PCT.",
-   "updated": "2026-11-18T15:27:07-07:00",
    "status": "ACTIVE"
   },
   {
