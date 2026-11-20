@@ -1,0 +1,30 @@
+name: Collect Canadian ski forecasts
+
+on:
+  schedule:
+    - cron: '24 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: canada-ski-forecasts
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: python3 collect_canada_forecast.py
+      - name: Publish forecast snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/canada-forecast/latest.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh Canadian resort forecasts"
+          git pull --rebase origin main
+          git push origin HEAD:main

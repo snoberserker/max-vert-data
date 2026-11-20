@@ -6,6 +6,7 @@ Daily and weekly skiing/snowboarding data feeds for maxvert.com.
 
 - **USDA NRCS AWDB REST API** (public domain, no key): SNOTEL snowpack — snow-water-equivalent (WTEQ) and snow depth (SNWD) — for 7 resort-adjacent stations across CA, UT, CO, WA, OR. Daily.
 - **NWS api.weather.gov** (public domain, no key): 7-day point forecasts for marquee resorts. Daily.
+- **Environment and Climate Change Canada** Citypage Weather (public, no key): forecasts from the nearest reporting community within 60 km of a Canadian resort in the Max Vert catalog. Every six hours.
 - **Google search interest** for "skiing" / "snowboarding" via pytrends. Weekly.
 - **OpenSnow is featured, not scraped**: their API is not openly available; the site links to and features OpenSnow content instead.
 - **Travelpayouts Data API** (free affiliate token, no per-call fee): indicative airfares. Not Kayak. See below.
@@ -15,6 +16,7 @@ Daily and weekly skiing/snowboarding data feeds for maxvert.com.
 - `data/snowpack/YYYY-MM-DD.json` — daily snapshot per station (latest + 45-day series)
 - `data/latest.json` — most recent daily snapshot (what the site renders)
 - `data/forecast/YYYY-MM-DD.json` — resort point forecasts
+- `data/canada-forecast/latest.json` — most recent Canadian resort forecasts, keyed by resort ID
 - `data/trends/history.jsonl` — weekly search-interest history (appended)
 - `stations.json`, `forecast_points.json` — curated station/point config
 
@@ -22,6 +24,7 @@ Daily and weekly skiing/snowboarding data feeds for maxvert.com.
 
 ```bash
 python3 collect.py daily    # SNOTEL + NWS snapshots
+python3 collect_canada_forecast.py  # ECCC forecast snapshot
 python3 collect.py weekly   # search-interest trends (needs pytrends)
 ```
 
