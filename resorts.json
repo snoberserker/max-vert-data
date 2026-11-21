@@ -1543,11 +1543,21 @@
   "name": "Crystal Mountain",
   "lat": 44.524,
   "lon": -85.9968,
-  "state": "",
+  "state": "MI",
   "osm_type": "way",
   "osm_id": 1155757094,
   "forecast_url": "https://api.weather.gov/gridpoints/APX/17,34/forecast",
   "office": "APX"
+ },
+ {
+  "name": "Crystal Mountain",
+  "lat": 46.9328,
+  "lon": -121.4956,
+  "state": "WA",
+  "osm_type": "relation",
+  "osm_id": 11518092,
+  "forecast_url": "https://api.weather.gov/gridpoints/SEW/145,31/forecast",
+  "office": "SEW"
  },
  {
   "name": "Cuchara Mountain Resort",
