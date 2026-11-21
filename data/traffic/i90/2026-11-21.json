@@ -1,0 +1,97 @@
+{
+ "corridor": "i90",
+ "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
+ "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
+ "collectedAt": "2026-11-21T11:31:20.506351+00:00",
+ "activeEvents": 11,
+ "events": [
+  {
+   "type": "alert",
+   "headline": "Travelers will experience single-lane closures 24/7 on I-90 at Hansen Rd. in Moses Lake (milepost 174) through February 2027. Eastbound travelers heading north or south of Hansen Road must use Exit 169 at Hiawatha Road. Westbound travelers heading north may use exit 174. Travelers heading south must use exit 169 and follow the South Frontage Road detour.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795188755163
+  },
+  {
+   "type": "alert",
+   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 5 a.m., starting the night of Sunday, Nov. 15 to the morning of Tuesday, Nov. 24. A signed detour will be in place.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794855213157
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly Wednesday, Nov. 18, through Sunday morning, Nov. 22, and Monday and Tuesday nights, Nov. 23-24, the eastbound I-90 off-ramp to 142nd Place Southeast will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1795206879100
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. Saturday, Nov. 21, to 8 p.m. Sunday, Nov. 22, westbound I-90 will reduce to one lane near Lakemont Boulevard Southeast. The westbound off-ramp to Lakemont Boulevard Southeast also will close during the same time. Signed detours will be in place for the ramp closure.<br/><br/>This work will support a shift on westbound I-90 back into its original configuration.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795043210790
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly Wednesday, Nov. 18, through Sunday morning, Nov. 22, and Monday and Tuesday nights, Nov. 23-24, the 148th Avenue Southeast on-ramp to westbound I-90 will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795207092953
+  },
+  {
+   "type": "alert",
+   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 8 a.m., starting the night of Saturday, Nov. 21 to the morning of Tuesday, Nov. 24. A signed detour will be in place.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794855312257
+  },
+  {
+   "type": "alert",
+   "headline": "The westbound Winchester rest area on I90 at milepost 161.83 will be closed for maintenance until further notice.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1792466870430
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly on Monday and Tuesday nights, Nov. 23-24, the westbound I-90 on-ramp from 142nd Place Southeast will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795207298860
+  },
+  {
+   "type": "alert",
+   "headline": "The westbound I-90 HOV lane will remain closed near Lakemont Boulevard Southeast for up to a year starting Monday, Nov. 23, to support bridge construction on eastbound I-90. Three lanes of westbound I-90 will remain open through the area.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795206223367
+  },
+  {
+   "type": "alert",
+   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 7 a.m., starting the night of Friday, Nov. 20 to the morning of Tuesday, Nov. 24. A signed detour will be in place.",
+   "road": "I-90",
+   "direction": "Eastbound",
+   "closed": 0,
+   "updated": 1794855266060
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. Sunday, Nov. 22, to 5 a.m. Monday, Nov. 23, westbound I-90 will reduce to one lane near 17th Avenue NW. Intermittent rolling slowdowns also are planned during these hours. Delays are likely through the work zone during these hours. <br/><br/>Contractor crews will shift westbound I-90 back into its original configuration in this area during the nightly lane closure.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795043394693
+  }
+ ]
+}
