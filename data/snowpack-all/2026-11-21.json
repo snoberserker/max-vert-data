@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "collectedAt": "2026-11-21T14:19:22.883415+00:00",
+ "collectedAt": "2026-11-21T22:46:08.116234+00:00",
  "stationsRequested": 976,
  "stationsReporting": 972,
  "stations": [
@@ -7281,8 +7281,8 @@
    "lat": 38.99927,
    "lon": -120.13139,
    "elevation_ft": 7560.0,
-   "swe_in": 4.1,
-   "snwd_in": 30
+   "swe_in": 4.4,
+   "snwd_in": 32
   },
   {
    "triplet": "725:MT:SNTL",
