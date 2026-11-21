@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "collectedAt": "2026-11-21T21:30:06.998919+00:00",
+ "collectedAt": "2026-11-21T22:12:05.247341+00:00",
  "requested": 602,
  "ok": 602,
  "resorts": [
@@ -45721,15 +45721,6 @@
    ],
    "hourly": [
     {
-     "startTime": "2026-11-21T15:00:00-05:00",
-     "endTime": "2026-11-21T16:00:00-05:00",
-     "tempF": 64,
-     "windSpeed": "7 mph",
-     "windDir": "S",
-     "pop": 0,
-     "short": "Mostly Sunny"
-    },
-    {
      "startTime": "2026-11-21T16:00:00-05:00",
      "endTime": "2026-11-21T17:00:00-05:00",
      "tempF": 61,
@@ -46147,6 +46138,15 @@
      "startTime": "2026-11-23T14:00:00-05:00",
      "endTime": "2026-11-23T15:00:00-05:00",
      "tempF": 66,
+     "windSpeed": "10 mph",
+     "windDir": "NW",
+     "pop": 0,
+     "short": "Mostly Sunny"
+    },
+    {
+     "startTime": "2026-11-23T15:00:00-05:00",
+     "endTime": "2026-11-23T16:00:00-05:00",
+     "tempF": 64,
      "windSpeed": "10 mph",
      "windDir": "NW",
      "pop": 0,
@@ -58501,24 +58501,6 @@
    ],
    "hourly": [
     {
-     "startTime": "2026-11-21T15:00:00-05:00",
-     "endTime": "2026-11-21T16:00:00-05:00",
-     "tempF": 62,
-     "windSpeed": "7 mph",
-     "windDir": "S",
-     "pop": 0,
-     "short": "Sunny"
-    },
-    {
-     "startTime": "2026-11-21T16:00:00-05:00",
-     "endTime": "2026-11-21T17:00:00-05:00",
-     "tempF": 60,
-     "windSpeed": "6 mph",
-     "windDir": "S",
-     "pop": 0,
-     "short": "Sunny"
-    },
-    {
      "startTime": "2026-11-21T17:00:00-05:00",
      "endTime": "2026-11-21T18:00:00-05:00",
      "tempF": 57,
@@ -58928,6 +58910,24 @@
      "endTime": "2026-11-23T15:00:00-05:00",
      "tempF": 47,
      "windSpeed": "10 mph",
+     "windDir": "NW",
+     "pop": 0,
+     "short": "Mostly Sunny"
+    },
+    {
+     "startTime": "2026-11-23T15:00:00-05:00",
+     "endTime": "2026-11-23T16:00:00-05:00",
+     "tempF": 46,
+     "windSpeed": "10 mph",
+     "windDir": "NW",
+     "pop": 0,
+     "short": "Mostly Sunny"
+    },
+    {
+     "startTime": "2026-11-23T16:00:00-05:00",
+     "endTime": "2026-11-23T17:00:00-05:00",
+     "tempF": 45,
+     "windSpeed": "9 mph",
      "windDir": "NW",
      "pop": 0,
      "short": "Mostly Sunny"
@@ -166421,15 +166421,6 @@
    ],
    "hourly": [
     {
-     "startTime": "2026-11-21T13:00:00-08:00",
-     "endTime": "2026-11-21T14:00:00-08:00",
-     "tempF": 28,
-     "windSpeed": "0 mph",
-     "windDir": "",
-     "pop": 6,
-     "short": "Mostly Cloudy"
-    },
-    {
      "startTime": "2026-11-21T14:00:00-08:00",
      "endTime": "2026-11-21T15:00:00-08:00",
      "tempF": 29,
@@ -166848,6 +166839,15 @@
      "endTime": "2026-11-23T13:00:00-08:00",
      "tempF": 29,
      "windSpeed": "9 mph",
+     "windDir": "S",
+     "pop": 77,
+     "short": "Light Snow"
+    },
+    {
+     "startTime": "2026-11-23T13:00:00-08:00",
+     "endTime": "2026-11-23T14:00:00-08:00",
+     "tempF": 30,
+     "windSpeed": "2 mph",
      "windDir": "S",
      "pop": 77,
      "short": "Light Snow"
@@ -317380,12 +317380,12 @@
    "lon": -105.5528,
    "office": null,
    "elevation_ft": 2560.0152,
-   "updated": "2026-11-21T18:31:08+00:00",
+   "updated": "2026-11-21T21:15:32+00:00",
    "periods": [
     {
      "number": 1,
      "name": "This Afternoon",
-     "startTime": "2026-11-21T12:00:00-07:00",
+     "startTime": "2026-11-21T15:00:00-07:00",
      "endTime": "2026-11-21T18:00:00-07:00",
      "isDaytime": true,
      "temperature": 36,
@@ -317393,13 +317393,13 @@
      "temperatureTrend": null,
      "probabilityOfPrecipitation": {
       "unitCode": "wmoUnit:percent",
-      "value": 70
+      "value": 56
      },
-     "windSpeed": "10 to 15 mph",
+     "windSpeed": "15 mph",
      "windDirection": "W",
-     "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
+     "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
      "shortForecast": "Snow Showers Likely",
-     "detailedForecast": "Snow showers likely before 5pm. Partly sunny. High near 36, with temperatures falling to around 25 in the afternoon. West wind 10 to 15 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 3 inches possible."
+     "detailedForecast": "Snow showers likely before 5pm. Mostly sunny. High near 36, with temperatures falling to around 25 in the afternoon. West wind around 15 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 3 inches possible."
     },
     {
      "number": 2,
