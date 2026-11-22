@@ -1,8 +1,8 @@
 #!/bin/bash
 # Max Vert nightly snow collector — Cloud Run Job entrypoint.
-# Shallow-clones repo fresh at runtime, runs snow-all (SNOTEL) + daily v1 +
-# traffic + airfare, commits data/, pushes to GitHub.
-# snow-all failure fails the job (alerts fire); traffic/airfare/daily are
+# Runs snow-all (SNOTEL) + daily v1 + traffic + airfare, commits data/ to
+# GitHub AND uploads to the GCS feed bucket (dual-write).
+# snow-all and the GCS upload are fatal (alerts fire); the side-feeds are
 # non-fatal so a broken side-feed never blocks the SNOTEL snapshot.
 set -euo pipefail
 cd /work
@@ -26,3 +26,5 @@ else
   git push
   echo "PUSHED"
 fi
+python3 cloud/gcs_upload.py data
+echo "GCS-OK"

@@ -1,7 +1,8 @@
 #!/bin/bash
 # Max Vert weather collector — Cloud Run Job entrypoint.
 # Shallow-clones the repo fresh at runtime (so resorts.json is always current),
-# runs the resort-forecast collector, commits data/, pushes to GitHub.
+# runs the resort-forecast collector, commits data/ to GitHub AND uploads it to
+# the GCS feed bucket (dual-write; git remains the rollback source of truth).
 set -euo pipefail
 cd /work
 git clone --depth 1 "https://x-access-token:${GITHUB_TOKEN}@github.com/snoberserker/max-vert-data.git" repo
@@ -17,3 +18,5 @@ else
   git push
   echo "PUSHED"
 fi
+python3 cloud/gcs_upload.py data
+echo "GCS-OK"
