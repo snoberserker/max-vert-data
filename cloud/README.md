@@ -2,8 +2,21 @@
 
 The two high-frequency data collectors no longer run on the local agent sandbox.
 They run as Cloud Run Jobs in project `max-vert` (us-central1), triggered by
-Cloud Scheduler. Data lands in this repo's `data/` via git push from the job;
-the site reads `raw.githubusercontent.com/snoberserker/max-vert-data/main/data/<feed>/latest.json`.
+Cloud Scheduler.
+
+**Storage: GCS is authoritative.** Data is published to the public bucket
+`gs://max-vert-data-feeds` (us-central1, uniform bucket-level access, public
+read via allUsers objectViewer). Consumers read
+`https://storage.googleapis.com/max-vert-data-feeds/<feed>/latest.json`.
+`latest.json` objects are written with `cache-control: max-age=300`; everything
+else `max-age=3600`. The full repo `data/` history was backfilled to the
+bucket on 2026-11-21 (~254 MB).
+
+**Git is a mirror, not the store.** Each run also commits `data/` to GitHub
+(`[cloud-run]` commits from `maxvert-cloud-collector`) with a rebase-retry
+loop; a failed push after 3 retries is a WARN, not a failure — GCS upload is
+the authoritative publish. This dual-write is the rollback path: if GCS needs
+to be backed out, the git raw URLs still work.
 
 ## Jobs
 
@@ -16,7 +29,7 @@ Failure semantics for the snow job: snow-all is fatal (nonzero exit → failure
 alert); daily/traffic/airfare are non-fatal. Airfare is skipped entirely unless
 the env var `TRAVELPAYOUTS_TOKEN` is set (not configured as of 2026-11-21).
 
-Both jobs are 1 vCPU / 512 MiB / 15–30 min timeout / 1 retry. Collectors are
+Both jobs are 1 vCPU / 1 GiB / 15–30 min timeout / 1 retry. (512 MiB OOM-killed git commit once the data tree grew past ~250 MB — do not go back below 1 GiB.) Collectors are
 network-bound, so cost tracks CPU-seconds: roughly $1/month per 0.25 vCPU at
 these cadences (~$5–8/month total for both).
 
@@ -27,9 +40,12 @@ these cadences (~$5–8/month total for both).
 
 Both entrypoints shallow-clone this repo fresh at runtime (so `resorts.json`,
 `snotel_stations.json`, and any collector changes take effect without an image
-rebuild), run the collectors, then `git add data && git commit && git push` as
-`maxvert-cloud-collector <agent@maxvert.dev>`, commit messages ending in
-`[cloud-run]`. The GitHub token comes from Secret Manager secret
+rebuild), run the collectors, commit `data/` to GitHub as
+`maxvert-cloud-collector <agent@maxvert.dev>` (messages ending in `[cloud-run]`,
+rebase-retry on race), then upload all of `data/` to the bucket via
+`cloud/gcs_upload.py` (needs `google-cloud-storage`, baked into both images;
+`GCS_BUCKET=max-vert-data-feeds` set on the jobs). The upload prints
+`UPLOADED <n> objects` and is fatal — a failed upload fails the run. The GitHub token comes from Secret Manager secret
 `max-vert-data-github-token` (env var `GITHUB_TOKEN`), never baked into the
 image or echoed.
 
@@ -66,8 +82,8 @@ secret). Data pushes use the same GitHub token the local agent uses.
 
 Cloud Monitoring (built-in, project `max-vert`):
 
-- Log-based metrics `maxvert_weather_ok` (successful run: `PUSHED` or
-  "No data changes" from either job) and `maxvert_weather_fail`
+- Log-based metrics `maxvert_weather_ok` (successful run: `UPLOADED`, `PUSHED`
+  or "No data changes" from either job) and `maxvert_weather_fail`
   (severity>=ERROR from either job). When adding a new cloud collector, widen
   both metric filters with another `OR resource.labels.job_name="..."`.
 - Two alert policies on those metrics, both routing to the email notification
@@ -77,9 +93,9 @@ Cloud Monitoring (built-in, project `max-vert`):
     catches the scheduler-stop-firing case that a failure-only alert misses
 
 Belt-and-suspenders: a local Hermes cron (`maxvert-weather-deadman`, every 2h
-at :40) checks GitHub for stale commits — weather `[cloud-run]` commit must be
-<3h old, `Snow data` commit <26h old — and pings the owner's chat only when
-stale, silent when healthy.
+at :40) plain-HTTP-checks the bucket — `resort-forecast/latest.json`
+collectedAt <3h old, `snowpack-all/latest.json` <26h old — and pings the
+owner's chat only when stale, silent when healthy.
 
 ## Local jobs retired
 
