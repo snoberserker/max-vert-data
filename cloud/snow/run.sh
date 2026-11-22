@@ -23,8 +23,17 @@ if git diff --cached --quiet; then
   echo "No data changes; nothing to commit."
 else
   git commit -m "Snow data $(date -u +%FT%TZ) [cloud-run]"
-  git push
-  echo "PUSHED"
+  pushed=0
+  for i in 1 2 3; do
+    if git push 2>/dev/null; then pushed=1; echo "PUSHED"; break; fi
+    echo "push rejected; rebasing onto latest main"
+    git fetch --depth 1 origin main
+    git rebase FETCH_HEAD || git rebase --abort
+    sleep 5
+  done
+  if [ "$pushed" = 0 ]; then
+    echo "WARN: git push failed after retries (git mirror stale; GCS upload is authoritative)"
+  fi
 fi
 python3 cloud/gcs_upload.py data
 echo "GCS-OK"

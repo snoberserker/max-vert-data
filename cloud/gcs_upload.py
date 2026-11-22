@@ -21,7 +21,8 @@ def main():
             blob_path = os.path.relpath(local, root)
             ttl = 300 if fn == "latest.json" else 3600
             blob = bucket.blob(blob_path)
-            blob.upload_from_filename(local, cache_control=f"public, max-age={ttl}")
+            blob.cache_control = f"public, max-age={ttl}"
+            blob.upload_from_filename(local)
             n += 1
     print(f"UPLOADED {n} objects to gs://{bucket_name}")
 
