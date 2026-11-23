@@ -2,9 +2,16 @@
  "corridor": "i70",
  "label": "I-70 Denver \u2192 Grand Junction (Summit County ski corridor)",
  "source": "CDOT api-511x-co.carsprogram.org (no auth)",
- "collectedAt": "2026-11-23T11:31:04.684596+00:00",
- "activeEvents": 12,
+ "collectedAt": "2026-11-23T14:18:33.301060+00:00",
+ "activeEvents": 16,
  "events": [
+  {
+   "id": "CDOT-36540519356NB",
+   "type": "roadReports",
+   "headline": "I-225 southbound: Entrance ramp closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from CO 83 S. The entrance ramp is closed due to a crash. </p> </div>",
+   "icon": "tg_closure"
+  },
   {
    "id": "CDOT-20653903231BOTH",
    "type": "roadReports",
@@ -13,11 +20,25 @@
    "icon": "tg_closure"
   },
   {
+   "id": "CDOT-36540535074BOTH",
+   "type": "roadReports",
+   "headline": "US 285 in both directions: Incident cleared.",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Mooredale Road and Old Stagecoach Road (16 miles south of the Aspen Park area) at Mile Point 220.2. An earlier incident has cleared. </p> </div>",
+   "icon": "tg_info"
+  },
+  {
+   "id": "CDOT-36540519356NB",
+   "type": "roadClosures",
+   "headline": "I-225 southbound: Entrance ramp closed, due to a crash.",
+   "description": "<div data-test-desc-type='roadReports'><p> At Entrance ramp from CO 83 S. The entrance ramp is closed due to a crash. </p> </div>",
+   "icon": "tg_closure"
+  },
+  {
    "id": "CDOT-36473401583WB",
    "type": "roadClosures",
    "headline": "CO 52 westbound: Road closed, due to road construction.",
-   "description": "<div data-test-desc-type='roadWork'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed due to road construction. <span style='font-weight:bold;'> Starting today at 7:00AM MST until today at about 5:00PM MST.</span> </p> </div>",
-   "icon": "icon-scheduled-event-23-fill-solid"
+   "description": "<div data-test-desc-type='roadReports'><p> Between US 85 and County Road 23 (Fort Lupton) from Mile Point 19.9 to Mile Point 19.7. Road closed expect delays due to road construction. Until today at about 5:00PM MST. <p>Full schedule below:<br/> <strong>&nbsp;&nbsp;&nbsp;&nbsp;&bull; November 23, 7:00AM - November 23, 5:00PM <br/></strong> </p> </p> </div>",
+   "icon": "tg_closure"
   },
   {
    "id": "CDOT-36464779408BOTH",
@@ -30,7 +51,7 @@
    "id": "COSEG-522808",
    "type": "roadClosures",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Chance of Light Snow Showers. Expect up to a trace of new snow accumulation. Wind gusts of up to 14 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Numerous Light Snow Showers. Expect up to 1.5 inches of new snow accumulation. Wind gusts of up to 15 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -44,7 +65,7 @@
    "id": "COSEG-522846",
    "type": "roadClosures",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Mostly cloudy. Wind gusts of up to 19 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Slight chance of Light Snow Showers. Expect up to 0.5 inches of new snow accumulation. Wind gusts of up to 13 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -58,7 +79,7 @@
    "id": "COSEG-589046",
    "type": "roadClosures",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Slight chance of Light Snow Showers. Wind gusts of up to 14 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='roadReports'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. Seasonal Closure. </p> <p data-test-desc-ndfd><i>Forecast Weather (next 6 hours):</i> Numerous Light Snow Showers. Expect up to 0.5 inches of new snow accumulation. Wind gusts of up to 14 mph are expected. </p> </div>",
    "icon": "tg_closure"
   },
   {
@@ -72,21 +93,28 @@
    "id": "COSEG-522808",
    "type": "winterDriving",
    "headline": "Gunnison County Road 12: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Chance of Light Snow Showers. Expect up to a trace of new snow accumulation. Wind gusts of up to 14 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Kebler Pass'><p> Between CO 133 and the end of Gunnison County Road 12 from Mile Point 0.3 to Mile Point 31. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Numerous Light Snow Showers. Expect up to 1.5 inches of new snow accumulation. Wind gusts of up to 15 mph are expected. </p> </div>",
    "icon": "driving_snow"
   },
   {
    "id": "COSEG-522846",
    "type": "winterDriving",
    "headline": "CO 5/Mount Blue Sky Road: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Mostly cloudy. Wind gusts of up to 19 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Mt. Evans'><p> Between CO 103 and Mount Blue Sky from Mile Point 0 to Mile Point 14.9. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Slight chance of Light Snow Showers. Expect up to 0.5 inches of new snow accumulation. Wind gusts of up to 13 mph are expected. </p> </div>",
    "icon": "driving_snow"
+  },
+  {
+   "id": "COSEG-522937",
+   "type": "winterDriving",
+   "headline": "CO 65: Icy and snow packed spots.",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Grand Mesa'><p> Between CO 92 (near Orchard City) and CO 330 (39 miles north of the Cedaredge area) from Mile Point 0 to Mile Point 51.2. <span data-test-desc-phrase='50-18'> Icy and snow packed spots</span>. </p> <p data-test-desc-ndfd> Numerous Light Snow Showers. Numerous Light Rain Showers. Expect up to 1.5 inches of new snow accumulation. Wind gusts of up to 13 mph are expected. </p> </div>",
+   "icon": "driving_icy"
   },
   {
    "id": "COSEG-589046",
    "type": "winterDriving",
    "headline": "CO 82: Seasonal Closure.",
-   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Slight chance of Light Snow Showers. Wind gusts of up to 14 mph are expected. </p> </div>",
+   "description": "<div data-test-desc-type='winterDriving' data-test-desc-segments='Independence Pass'><p> Between Benedict Drive (Aspen) and Carlton Tunnel Road (13 miles west of the Twin Lakes area) from Mile Point 41.9 to Mile Point 67.4. <span data-test-desc-phrase='50-48'> Seasonal Closure</span>. </p> <p data-test-desc-ndfd> Numerous Light Snow Showers. Expect up to 0.5 inches of new snow accumulation. Wind gusts of up to 14 mph are expected. </p> </div>",
    "icon": "driving_snow"
   }
  ]

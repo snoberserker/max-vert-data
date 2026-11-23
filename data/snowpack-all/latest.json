@@ -1,8 +1,8 @@
 {
- "date": "2026-11-22",
- "collectedAt": "2026-11-22T14:17:23.088201+00:00",
+ "date": "2026-11-23",
+ "collectedAt": "2026-11-23T14:18:03.650013+00:00",
  "stationsRequested": 976,
- "stationsReporting": 972,
+ "stationsReporting": 967,
  "stations": [
   {
    "triplet": "1000:OR:SNTL",
@@ -11,8 +11,8 @@
    "lat": 42.87007,
    "lon": -122.16518,
    "elevation_ft": 6020.0,
-   "swe_in": 2.6,
-   "snwd_in": 12
+   "swe_in": 2.8,
+   "snwd_in": 14
   },
   {
    "triplet": "1001:AK:SNTL",
@@ -31,8 +31,8 @@
    "lat": 59.74521,
    "lon": -151.25839,
    "elevation_ft": 1350.0,
-   "swe_in": 2.0,
-   "snwd_in": 12
+   "swe_in": 1.9,
+   "snwd_in": 10
   },
   {
    "triplet": "1005:CO:SNTL",
@@ -41,7 +41,7 @@
    "lat": 37.6148,
    "lon": -105.37322,
    "elevation_ft": 10720.0,
-   "swe_in": 1.1,
+   "swe_in": 1.3,
    "snwd_in": 4
   },
   {
@@ -61,7 +61,7 @@
    "lat": 46.91348,
    "lon": -110.8536,
    "elevation_ft": 7420.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 5
   },
   {
@@ -82,7 +82,7 @@
    "lon": -120.94917,
    "elevation_ft": 6190.0,
    "swe_in": 1.4,
-   "snwd_in": 3
+   "snwd_in": 2
   },
   {
    "triplet": "1011:WA:SNTL",
@@ -91,7 +91,7 @@
    "lat": 48.82441,
    "lon": -121.92947,
    "elevation_ft": 4940.0,
-   "swe_in": 1.7,
+   "swe_in": 1.8,
    "snwd_in": 1
   },
   {
@@ -101,8 +101,8 @@
    "lat": 46.1638,
    "lon": -122.18402,
    "elevation_ft": 4440.0,
-   "swe_in": 2.7,
-   "snwd_in": 6
+   "swe_in": 3.1,
+   "snwd_in": 11
   },
   {
    "triplet": "1013:UT:SNTL",
@@ -141,8 +141,8 @@
    "lat": 44.78835,
    "lon": -116.08878,
    "elevation_ft": 4890.0,
-   "swe_in": 0.3,
-   "snwd_in": 1
+   "swe_in": 0.2,
+   "snwd_in": 2
   },
   {
    "triplet": "1017:NM:SNTL",
@@ -201,7 +201,7 @@
    "lat": 33.40682,
    "lon": -105.79467,
    "elevation_ft": 10250.0,
-   "swe_in": 0.1,
+   "swe_in": 0.2,
    "snwd_in": 2
   },
   {
@@ -211,18 +211,8 @@
    "lat": 61.37727,
    "lon": -148.99917,
    "elevation_ft": 2010.0,
-   "swe_in": 1.6,
-   "snwd_in": 13
-  },
-  {
-   "triplet": "1036:AK:SNTL",
-   "name": "Johnsons Camp",
-   "state": "AK",
-   "lat": 64.5646,
-   "lon": -164.29257,
-   "elevation_ft": 10.0,
-   "swe_in": null,
-   "snwd_in": 0
+   "swe_in": 1.7,
+   "snwd_in": 12
   },
   {
    "triplet": "1037:AK:SNTL",
@@ -251,7 +241,7 @@
    "lat": 39.60231,
    "lon": -106.544,
    "elevation_ft": 9500.0,
-   "swe_in": 0.2,
+   "swe_in": 0.3,
    "snwd_in": 6
   },
   {
@@ -281,8 +271,8 @@
    "lat": 48.86133,
    "lon": -118.39843,
    "elevation_ft": 4680.0,
-   "swe_in": 0.2,
-   "snwd_in": 0
+   "swe_in": 0.4,
+   "snwd_in": 1
   },
   {
    "triplet": "1044:OR:SNTL",
@@ -291,7 +281,7 @@
    "lat": 43.22718,
    "lon": -122.42537,
    "elevation_ft": 3240.0,
-   "swe_in": 0.2,
+   "swe_in": 0.5,
    "snwd_in": 0
   },
   {
@@ -342,7 +332,7 @@
    "lon": -119.9597,
    "elevation_ft": 8050.0,
    "swe_in": 7.0,
-   "snwd_in": 36
+   "snwd_in": 35
   },
   {
    "triplet": "1050:CA:SNTL",
@@ -352,7 +342,7 @@
    "lon": -119.88732,
    "elevation_ft": 8580.0,
    "swe_in": 3.7,
-   "snwd_in": 28
+   "snwd_in": 25
   },
   {
    "triplet": "1051:CA:SNTL",
@@ -362,7 +352,7 @@
    "lon": -119.8942,
    "elevation_ft": 8180.0,
    "swe_in": 5.5,
-   "snwd_in": 34
+   "snwd_in": 31
   },
   {
    "triplet": "1052:CA:SNTL",
@@ -372,7 +362,7 @@
    "lon": -119.53522,
    "elevation_ft": 9360.0,
    "swe_in": 4.7,
-   "snwd_in": 30
+   "snwd_in": 26
   },
   {
    "triplet": "1053:ID:SNTL",
@@ -381,8 +371,8 @@
    "lat": 48.72263,
    "lon": -116.46312,
    "elevation_ft": 3540.0,
-   "swe_in": 0.1,
-   "snwd_in": 0
+   "swe_in": 0.2,
+   "snwd_in": 1
   },
   {
    "triplet": "1054:UT:SNTL",
@@ -411,7 +401,7 @@
    "lat": 41.35891,
    "lon": -111.48749,
    "elevation_ft": 8200.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 10
   },
   {
@@ -431,8 +421,8 @@
    "lat": 37.47051,
    "lon": -106.5379,
    "elevation_ft": 11620.0,
-   "swe_in": 5.0,
-   "snwd_in": 15
+   "swe_in": 4.8,
+   "snwd_in": 16
   },
   {
    "triplet": "1059:CO:SNTL",
@@ -441,7 +431,7 @@
    "lat": 38.16273,
    "lon": -106.5988,
    "elevation_ft": 10020.0,
-   "swe_in": 0.3,
+   "swe_in": 0.2,
    "snwd_in": 0
   },
   {
@@ -462,7 +452,7 @@
    "lon": -107.00948,
    "elevation_ft": 9100.0,
    "swe_in": 0.6,
-   "snwd_in": 0
+   "snwd_in": 1
   },
   {
    "triplet": "1062:AK:SNTL",
@@ -471,8 +461,8 @@
    "lat": 59.8608,
    "lon": -151.31494,
    "elevation_ft": 1650.0,
-   "swe_in": 2.8,
-   "snwd_in": 12
+   "swe_in": null,
+   "snwd_in": 10
   },
   {
    "triplet": "1064:AK:SNTL",
@@ -482,7 +472,7 @@
    "lon": -150.75698,
    "elevation_ft": 2330.0,
    "swe_in": null,
-   "snwd_in": 23
+   "snwd_in": 22
   },
   {
    "triplet": "1065:UT:SNTL",
@@ -491,8 +481,8 @@
    "lat": 37.49617,
    "lon": -113.94235,
    "elevation_ft": 6790.0,
-   "swe_in": 1.5,
-   "snwd_in": 10
+   "swe_in": 1.1,
+   "snwd_in": 8
   },
   {
    "triplet": "1066:UT:SNTL",
@@ -502,7 +492,7 @@
    "lon": -113.45988,
    "elevation_ft": 8320.0,
    "swe_in": 2.9,
-   "snwd_in": 13
+   "snwd_in": 12
   },
   {
    "triplet": "1067:CA:SNTL",
@@ -512,7 +502,7 @@
    "lon": -120.0022,
    "elevation_ft": 8360.0,
    "swe_in": 7.4,
-   "snwd_in": 37
+   "snwd_in": 35
   },
   {
    "triplet": "1068:WA:SNTL",
@@ -542,7 +532,7 @@
    "lon": -149.68345,
    "elevation_ft": 1910.0,
    "swe_in": 2.3,
-   "snwd_in": 17
+   "snwd_in": 15
   },
   {
    "triplet": "1071:AK:SNTL",
@@ -561,7 +551,7 @@
    "lat": 63.53667,
    "lon": -150.98593,
    "elevation_ft": 1590.0,
-   "swe_in": 1.8,
+   "swe_in": 1.9,
    "snwd_in": 5
   },
   {
@@ -591,7 +581,7 @@
    "lat": 42.78637,
    "lon": -121.97715,
    "elevation_ft": 5400.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 9
   },
   {
@@ -601,8 +591,8 @@
    "lat": 45.9821,
    "lon": -117.94883,
    "elevation_ft": 5580.0,
-   "swe_in": 1.6,
-   "snwd_in": 8
+   "swe_in": 2.0,
+   "snwd_in": 11
   },
   {
    "triplet": "1080:WA:SNTL",
@@ -612,7 +602,7 @@
    "lon": -121.19717,
    "elevation_ft": 5850.0,
    "swe_in": 3.4,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "1081:ID:SNTL",
@@ -621,8 +611,8 @@
    "lat": 47.85583,
    "lon": -117.03667,
    "elevation_ft": 4210.0,
-   "swe_in": 0.5,
-   "snwd_in": 1
+   "swe_in": 0.9,
+   "snwd_in": 2
   },
   {
    "triplet": "1082:WY:SNTL",
@@ -631,8 +621,8 @@
    "lat": 43.77933,
    "lon": -110.92783,
    "elevation_ft": 9260.0,
-   "swe_in": 4.0,
-   "snwd_in": 22
+   "swe_in": 3.9,
+   "snwd_in": 23
   },
   {
    "triplet": "1083:NM:SNTL",
@@ -661,8 +651,8 @@
    "lat": 46.86956,
    "lon": -121.53434,
    "elevation_ft": 5260.0,
-   "swe_in": 0.6,
-   "snwd_in": 1
+   "swe_in": 0.7,
+   "snwd_in": null
   },
   {
    "triplet": "1089:AK:SNTL",
@@ -712,7 +702,7 @@
    "lon": -142.04919,
    "elevation_ft": 3320.0,
    "swe_in": 1.1,
-   "snwd_in": 6
+   "snwd_in": 5
   },
   {
    "triplet": "1094:AK:SNTL",
@@ -751,7 +741,7 @@
    "lat": 39.67712,
    "lon": -110.43395,
    "elevation_ft": 8720.0,
-   "swe_in": 2.9,
+   "swe_in": 3.0,
    "snwd_in": 14
   },
   {
@@ -761,7 +751,7 @@
    "lat": 41.86425,
    "lon": -111.50603,
    "elevation_ft": 8610.0,
-   "swe_in": 2.3,
+   "swe_in": 2.4,
    "snwd_in": 18
   },
   {
@@ -782,7 +772,7 @@
    "lon": -106.36805,
    "elevation_ft": 10420.0,
    "swe_in": 2.7,
-   "snwd_in": 10
+   "snwd_in": 11
   },
   {
    "triplet": "1101:CO:SNTL",
@@ -812,7 +802,7 @@
    "lon": -149.08858,
    "elevation_ft": 1500.0,
    "swe_in": 6.4,
-   "snwd_in": 33
+   "snwd_in": 29
   },
   {
    "triplet": "1104:WA:SNTL",
@@ -831,7 +821,7 @@
    "lat": 45.50381,
    "lon": -110.08019,
    "elevation_ft": 6310.0,
-   "swe_in": 0.3,
+   "swe_in": 0.4,
    "snwd_in": 4
   },
   {
@@ -841,8 +831,8 @@
    "lat": 47.7086,
    "lon": -123.45747,
    "elevation_ft": 4850.0,
-   "swe_in": 0.9,
-   "snwd_in": 5
+   "swe_in": 1.3,
+   "snwd_in": 9
   },
   {
    "triplet": "1109:WA:SNTL",
@@ -851,8 +841,8 @@
    "lat": 45.90362,
    "lon": -122.21633,
    "elevation_ft": 2510.0,
-   "swe_in": 0.0,
-   "snwd_in": 0
+   "swe_in": 0.4,
+   "snwd_in": 3
   },
   {
    "triplet": "1110:NV:SNTL",
@@ -862,7 +852,7 @@
    "lon": -115.62972,
    "elevation_ft": 7840.0,
    "swe_in": 1.7,
-   "snwd_in": 8
+   "snwd_in": 7
   },
   {
    "triplet": "1111:NV:SNTL",
@@ -921,7 +911,7 @@
    "lat": 40.5502,
    "lon": -110.3529,
    "elevation_ft": 8430.0,
-   "swe_in": 1.8,
+   "swe_in": 1.9,
    "snwd_in": 10
   },
   {
@@ -931,7 +921,7 @@
    "lat": 40.83868,
    "lon": -110.00527,
    "elevation_ft": 10240.0,
-   "swe_in": 4.8,
+   "swe_in": 5.0,
    "snwd_in": 29
   },
   {
@@ -991,7 +981,7 @@
    "lat": 40.51154,
    "lon": -105.7654,
    "elevation_ft": 9980.0,
-   "swe_in": 0.0,
+   "swe_in": null,
    "snwd_in": 3
   },
   {
@@ -1001,7 +991,7 @@
    "lat": 37.96627,
    "lon": -106.55857,
    "elevation_ft": 11110.0,
-   "swe_in": 0.2,
+   "swe_in": 0.1,
    "snwd_in": 1
   },
   {
@@ -1021,8 +1011,8 @@
    "lat": 47.46061,
    "lon": -123.41219,
    "elevation_ft": 3380.0,
-   "swe_in": 0.8,
-   "snwd_in": 5
+   "swe_in": 2.0,
+   "snwd_in": 14
   },
   {
    "triplet": "1127:AZ:SNTL",
@@ -1041,7 +1031,7 @@
    "lat": 38.2856,
    "lon": -106.37085,
    "elevation_ft": 11490.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 7
   },
   {
@@ -1051,7 +1041,7 @@
    "lat": 45.99077,
    "lon": -120.80768,
    "elevation_ft": 5320.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 7
   },
   {
@@ -1101,7 +1091,7 @@
    "lat": 40.98492,
    "lon": -110.85075,
    "elevation_ft": 7900.0,
-   "swe_in": 0.1,
+   "swe_in": 0.2,
    "snwd_in": 6
   },
   {
@@ -1111,8 +1101,8 @@
    "lat": 41.3187,
    "lon": -116.3408,
    "elevation_ft": 7700.0,
-   "swe_in": 2.7,
-   "snwd_in": 16
+   "swe_in": 2.8,
+   "snwd_in": 15
   },
   {
    "triplet": "1137:NV:SNTL",
@@ -1122,7 +1112,7 @@
    "lon": -115.9834,
    "elevation_ft": 7890.0,
    "swe_in": 2.0,
-   "snwd_in": 11
+   "snwd_in": 10
   },
   {
    "triplet": "1138:NM:SNTL",
@@ -1181,7 +1171,7 @@
    "lat": 36.32671,
    "lon": -109.05702,
    "elevation_ft": 9240.0,
-   "swe_in": 0.1,
+   "swe_in": 0.0,
    "snwd_in": 0
   },
   {
@@ -1191,7 +1181,7 @@
    "lat": 47.98317,
    "lon": -114.35443,
    "elevation_ft": 5660.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 9
   },
   {
@@ -1211,8 +1201,8 @@
    "lat": 39.3485,
    "lon": -112.192,
    "elevation_ft": 7840.0,
-   "swe_in": 1.3,
-   "snwd_in": 10
+   "swe_in": 1.2,
+   "snwd_in": 9
   },
   {
    "triplet": "1147:NV:SNTL",
@@ -1222,7 +1212,7 @@
    "lon": -114.31021,
    "elevation_ft": 10070.0,
    "swe_in": 4.8,
-   "snwd_in": 23
+   "snwd_in": 22
   },
   {
    "triplet": "1148:UT:SNTL",
@@ -1231,8 +1221,8 @@
    "lat": 37.70463,
    "lon": -112.65037,
    "elevation_ft": 8300.0,
-   "swe_in": 1.4,
-   "snwd_in": 9
+   "swe_in": 1.2,
+   "snwd_in": 8
   },
   {
    "triplet": "1149:UT:SNTL",
@@ -1251,7 +1241,7 @@
    "lat": 39.5579,
    "lon": -114.62762,
    "elevation_ft": 7740.0,
-   "swe_in": 1.3,
+   "swe_in": 0.2,
    "snwd_in": 8
   },
   {
@@ -1281,7 +1271,7 @@
    "lat": 37.86943,
    "lon": -109.44717,
    "elevation_ft": 8920.0,
-   "swe_in": 3.0,
+   "swe_in": 2.4,
    "snwd_in": 8
   },
   {
@@ -1291,8 +1281,8 @@
    "lat": 37.67994,
    "lon": -112.85674,
    "elevation_ft": 10040.0,
-   "swe_in": 6.3,
-   "snwd_in": 35
+   "swe_in": 6.2,
+   "snwd_in": 32
   },
   {
    "triplet": "1155:NV:SNTL",
@@ -1301,8 +1291,8 @@
    "lat": 39.46138,
    "lon": -114.64863,
    "elevation_ft": 7530.0,
-   "swe_in": 1.1,
-   "snwd_in": 7
+   "swe_in": 1.0,
+   "snwd_in": 6
   },
   {
    "triplet": "1156:UT:SNTL",
@@ -1312,7 +1302,7 @@
    "lon": -112.00779,
    "elevation_ft": 9230.0,
    "swe_in": 1.8,
-   "snwd_in": 11
+   "snwd_in": 9
   },
   {
    "triplet": "1158:OR:SNTL",
@@ -1331,7 +1321,7 @@
    "lat": 48.9516,
    "lon": -118.9864,
    "elevation_ft": 5380.0,
-   "swe_in": 0.2,
+   "swe_in": 0.4,
    "snwd_in": 0
   },
   {
@@ -1361,7 +1351,7 @@
    "lat": 40.95814,
    "lon": -110.5828,
    "elevation_ft": 8880.0,
-   "swe_in": 1.0,
+   "swe_in": 1.2,
    "snwd_in": 3
   },
   {
@@ -1371,7 +1361,7 @@
    "lat": 40.88472,
    "lon": -110.54056,
    "elevation_ft": 9360.0,
-   "swe_in": 0.5,
+   "swe_in": 0.6,
    "snwd_in": 3
   },
   {
@@ -1381,7 +1371,7 @@
    "lat": 40.47733,
    "lon": -111.04469,
    "elevation_ft": 9770.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 18
   },
   {
@@ -1401,8 +1391,8 @@
    "lat": 44.3253,
    "lon": -122.0938,
    "elevation_ft": 4720.0,
-   "swe_in": 0.8,
-   "snwd_in": 4
+   "swe_in": 1.0,
+   "snwd_in": 7
   },
   {
    "triplet": "1167:OR:SNTL",
@@ -1441,8 +1431,8 @@
    "lat": 36.40869,
    "lon": -105.33038,
    "elevation_ft": 9330.0,
-   "swe_in": 0.6,
-   "snwd_in": 2
+   "swe_in": 0.3,
+   "snwd_in": 1
   },
   {
    "triplet": "1171:WA:SNTL",
@@ -1451,8 +1441,8 @@
    "lat": 48.07471,
    "lon": -120.84989,
    "elevation_ft": 2890.0,
-   "swe_in": 0.2,
-   "snwd_in": 1
+   "swe_in": 0.4,
+   "snwd_in": 4
   },
   {
    "triplet": "1172:NM:SNTL",
@@ -1471,8 +1461,8 @@
    "lat": 36.00469,
    "lon": -106.54805,
    "elevation_ft": 10100.0,
-   "swe_in": 0.9,
-   "snwd_in": 2
+   "swe_in": 0.8,
+   "snwd_in": 1
   },
   {
    "triplet": "1175:AK:SNTL",
@@ -1481,7 +1471,7 @@
    "lat": 67.9297,
    "lon": -162.2906,
    "elevation_ft": 300.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 6
   },
   {
@@ -1541,7 +1531,7 @@
    "lat": 37.78968,
    "lon": -108.18376,
    "elevation_ft": 11580.0,
-   "swe_in": 7.2,
+   "swe_in": 7.3,
    "snwd_in": 29
   },
   {
@@ -1591,7 +1581,7 @@
    "lat": 47.85562,
    "lon": -114.75841,
    "elevation_ft": 5130.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 5
   },
   {
@@ -1611,7 +1601,7 @@
    "lat": 40.84456,
    "lon": -110.66068,
    "elevation_ft": 9630.0,
-   "swe_in": 2.0,
+   "swe_in": 2.2,
    "snwd_in": 13
   },
   {
@@ -1631,7 +1621,7 @@
    "lat": 41.48953,
    "lon": -118.99663,
    "elevation_ft": 7600.0,
-   "swe_in": 2.8,
+   "swe_in": 2.9,
    "snwd_in": 15
   },
   {
@@ -1661,7 +1651,7 @@
    "lat": 37.74797,
    "lon": -112.77495,
    "elevation_ft": 8680.0,
-   "swe_in": 1.0,
+   "swe_in": 0.9,
    "snwd_in": 3
   },
   {
@@ -1682,7 +1672,7 @@
    "lon": -115.2798,
    "elevation_ft": 9200.0,
    "swe_in": null,
-   "snwd_in": 25
+   "snwd_in": 21
   },
   {
    "triplet": "1200:NV:SNTLT",
@@ -1722,7 +1712,7 @@
    "lon": -115.4464,
    "elevation_ft": 7640.0,
    "swe_in": null,
-   "snwd_in": 6
+   "snwd_in": 5
   },
   {
    "triplet": "1204:NV:SNTL",
@@ -1752,7 +1742,7 @@
    "lon": -116.80332,
    "elevation_ft": 6630.0,
    "swe_in": null,
-   "snwd_in": 17
+   "snwd_in": 15
   },
   {
    "triplet": "1207:NV:SNTL",
@@ -1772,7 +1762,7 @@
    "lon": -116.98044,
    "elevation_ft": 7410.0,
    "swe_in": null,
-   "snwd_in": 14
+   "snwd_in": 13
   },
   {
    "triplet": "1209:NV:SNTL",
@@ -1792,7 +1782,7 @@
    "lon": -114.89977,
    "elevation_ft": 9310.0,
    "swe_in": null,
-   "snwd_in": 31
+   "snwd_in": 28
   },
   {
    "triplet": "1211:NV:SNTL",
@@ -1802,7 +1792,7 @@
    "lon": -115.03243,
    "elevation_ft": 7380.0,
    "swe_in": null,
-   "snwd_in": 4
+   "snwd_in": null
   },
   {
    "triplet": "1212:AZ:SNTL",
@@ -1822,7 +1812,7 @@
    "lon": -115.37922,
    "elevation_ft": 7370.0,
    "swe_in": null,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "1214:UT:SNTL",
@@ -1861,7 +1851,7 @@
    "lat": 39.49667,
    "lon": -111.72508,
    "elevation_ft": 7190.0,
-   "swe_in": 0.5,
+   "swe_in": 0.4,
    "snwd_in": 4
   },
   {
@@ -1882,7 +1872,7 @@
    "lon": -120.22522,
    "elevation_ft": 6640.0,
    "swe_in": null,
-   "snwd_in": 5
+   "snwd_in": 4
   },
   {
    "triplet": "1220:OR:SNTLT",
@@ -1892,7 +1882,7 @@
    "lon": -120.24747,
    "elevation_ft": 6360.0,
    "swe_in": null,
-   "snwd_in": 4
+   "snwd_in": 5
   },
   {
    "triplet": "1221:UT:SNTL",
@@ -1901,7 +1891,7 @@
    "lat": 39.32019,
    "lon": -111.48827,
    "elevation_ft": 8800.0,
-   "swe_in": 1.6,
+   "swe_in": 1.7,
    "snwd_in": 10
   },
   {
@@ -1922,7 +1912,7 @@
    "lon": -111.35971,
    "elevation_ft": 7360.0,
    "swe_in": 1.0,
-   "snwd_in": 7
+   "snwd_in": 6
   },
   {
    "triplet": "1224:UT:SNTL",
@@ -1961,7 +1951,7 @@
    "lat": 39.4155,
    "lon": -111.2491,
    "elevation_ft": 8600.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 9
   },
   {
@@ -1971,7 +1961,7 @@
    "lat": 39.13233,
    "lon": -111.35685,
    "elevation_ft": 9330.0,
-   "swe_in": 2.9,
+   "swe_in": 3.0,
    "snwd_in": 14
   },
   {
@@ -1982,7 +1972,7 @@
    "lon": -117.08631,
    "elevation_ft": 6250.0,
    "swe_in": null,
-   "snwd_in": 8
+   "snwd_in": 9
   },
   {
    "triplet": "1230:OR:SNTLT",
@@ -2001,8 +1991,8 @@
    "lat": 45.98797,
    "lon": -120.67734,
    "elevation_ft": 3960.0,
-   "swe_in": 1.1,
-   "snwd_in": 8
+   "swe_in": 1.2,
+   "snwd_in": 7
   },
   {
    "triplet": "1235:NV:SNTLT",
@@ -2021,7 +2011,7 @@
    "lat": 39.65795,
    "lon": -110.37906,
    "elevation_ft": 8210.0,
-   "swe_in": 1.5,
+   "swe_in": 1.6,
    "snwd_in": 10
   },
   {
@@ -2032,7 +2022,7 @@
    "lon": -118.76583,
    "elevation_ft": 6640.0,
    "swe_in": null,
-   "snwd_in": 6
+   "snwd_in": 4
   },
   {
    "triplet": "1238:OR:SNTLT",
@@ -2042,7 +2032,7 @@
    "lon": -118.24008,
    "elevation_ft": 7890.0,
    "swe_in": null,
-   "snwd_in": 15
+   "snwd_in": 14
   },
   {
    "triplet": "1240:NV:SNTLT",
@@ -2102,7 +2092,7 @@
    "lon": -118.22668,
    "elevation_ft": 7160.0,
    "swe_in": null,
-   "snwd_in": 14
+   "snwd_in": 13
   },
   {
    "triplet": "1246:OR:SNTLT",
@@ -2121,8 +2111,8 @@
    "lat": 39.74104,
    "lon": -113.98262,
    "elevation_ft": 9110.0,
-   "swe_in": 4.5,
-   "snwd_in": 22
+   "swe_in": 4.4,
+   "snwd_in": 20
   },
   {
    "triplet": "1248:UT:SNTL",
@@ -2131,7 +2121,7 @@
    "lat": 37.59711,
    "lon": -112.92949,
    "elevation_ft": 8050.0,
-   "swe_in": 2.6,
+   "swe_in": 2.4,
    "snwd_in": 14
   },
   {
@@ -2152,7 +2142,7 @@
    "lon": -118.3195,
    "elevation_ft": 7400.0,
    "swe_in": null,
-   "snwd_in": 16
+   "snwd_in": 14
   },
   {
    "triplet": "1251:CO:SNTL",
@@ -2191,8 +2181,8 @@
    "lat": 48.19253,
    "lon": -118.45715,
    "elevation_ft": 4500.0,
-   "swe_in": 0.2,
-   "snwd_in": 2
+   "swe_in": 0.4,
+   "snwd_in": 1
   },
   {
    "triplet": "1257:WA:SNTL",
@@ -2201,7 +2191,7 @@
    "lat": 46.64336,
    "lon": -121.83044,
    "elevation_ft": 3770.0,
-   "swe_in": 0.2,
+   "swe_in": 0.4,
    "snwd_in": 0
   },
   {
@@ -2221,7 +2211,7 @@
    "lat": 48.58526,
    "lon": -119.86624,
    "elevation_ft": 4470.0,
-   "swe_in": 0.2,
+   "swe_in": 0.3,
    "snwd_in": 0
   },
   {
@@ -2231,7 +2221,7 @@
    "lat": 64.75793,
    "lon": -147.21823,
    "elevation_ft": 500.0,
-   "swe_in": 1.0,
+   "swe_in": 0.9,
    "snwd_in": 3
   },
   {
@@ -2251,7 +2241,7 @@
    "lat": 41.58008,
    "lon": -115.9364,
    "elevation_ft": 6790.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 3
   },
   {
@@ -2261,7 +2251,7 @@
    "lat": 46.32318,
    "lon": -121.94219,
    "elevation_ft": 4450.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 4
   },
   {
@@ -2291,7 +2281,7 @@
    "lat": 61.7493,
    "lon": -150.89199,
    "elevation_ft": 170.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 6
   },
   {
@@ -2312,7 +2302,7 @@
    "lon": -110.7933,
    "elevation_ft": 9210.0,
    "swe_in": 2.2,
-   "snwd_in": 7
+   "snwd_in": 8
   },
   {
    "triplet": "1270:AK:SNTL",
@@ -2321,7 +2311,7 @@
    "lat": 58.69652,
    "lon": -134.86448,
    "elevation_ft": 2100.0,
-   "swe_in": 0.2,
+   "swe_in": 0.3,
    "snwd_in": 0
   },
   {
@@ -2331,7 +2321,7 @@
    "lat": 33.97121,
    "lon": -109.76531,
    "elevation_ft": 8290.0,
-   "swe_in": 0.4,
+   "swe_in": 0.5,
    "snwd_in": 0
   },
   {
@@ -2352,7 +2342,7 @@
    "lon": -120.60912,
    "elevation_ft": 5720.0,
    "swe_in": null,
-   "snwd_in": 2
+   "snwd_in": 1
   },
   {
    "triplet": "1274:OR:SNTLT",
@@ -2362,7 +2352,7 @@
    "lon": -120.78508,
    "elevation_ft": 5950.0,
    "swe_in": null,
-   "snwd_in": 5
+   "snwd_in": 3
   },
   {
    "triplet": "1275:AK:SNTL",
@@ -2382,7 +2372,7 @@
    "lon": -120.60805,
    "elevation_ft": 7220.0,
    "swe_in": 1.7,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "1278:UT:SNTL",
@@ -2391,7 +2381,7 @@
    "lat": 38.94569,
    "lon": -112.15349,
    "elevation_ft": 9320.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 12
   },
   {
@@ -2441,8 +2431,8 @@
    "lat": 45.36526,
    "lon": -113.71834,
    "elevation_ft": 8600.0,
-   "swe_in": 1.9,
-   "snwd_in": 12
+   "swe_in": 2.2,
+   "snwd_in": 15
   },
   {
    "triplet": "1287:MT:SNTL",
@@ -2451,7 +2441,7 @@
    "lat": 44.77665,
    "lon": -113.12217,
    "elevation_ft": 8750.0,
-   "swe_in": 3.4,
+   "swe_in": 3.5,
    "snwd_in": 17
   },
   {
@@ -2462,7 +2452,7 @@
    "lon": -117.48167,
    "elevation_ft": 5440.0,
    "swe_in": null,
-   "snwd_in": 9
+   "snwd_in": 10
   },
   {
    "triplet": "1289:OR:SNTLT",
@@ -2472,7 +2462,7 @@
    "lon": -118.78565,
    "elevation_ft": 5380.0,
    "swe_in": null,
-   "snwd_in": 11
+   "snwd_in": 9
   },
   {
    "triplet": "1290:ID:SNTLT",
@@ -2482,7 +2472,7 @@
    "lon": -116.84653,
    "elevation_ft": 6600.0,
    "swe_in": null,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "1291:OR:SNTLT",
@@ -2522,7 +2512,7 @@
    "lon": -116.43665,
    "elevation_ft": 5850.0,
    "swe_in": null,
-   "snwd_in": 8
+   "snwd_in": 7
   },
   {
    "triplet": "1295:ID:SNTLT",
@@ -2542,7 +2532,7 @@
    "lon": -117.5483,
    "elevation_ft": 6520.0,
    "swe_in": null,
-   "snwd_in": 11
+   "snwd_in": 10
   },
   {
    "triplet": "1297:NV:SNTLT",
@@ -2552,7 +2542,7 @@
    "lon": -117.33968,
    "elevation_ft": 6260.0,
    "swe_in": null,
-   "snwd_in": 10
+   "snwd_in": null
   },
   {
    "triplet": "1298:OR:SNTLT",
@@ -2632,7 +2622,7 @@
    "lon": -113.71931,
    "elevation_ft": 6380.0,
    "swe_in": 0.6,
-   "snwd_in": 4
+   "snwd_in": 3
   },
   {
    "triplet": "1306:ID:SNTL",
@@ -2641,7 +2631,7 @@
    "lat": 43.51762,
    "lon": -114.80214,
    "elevation_ft": 6780.0,
-   "swe_in": 0.8,
+   "swe_in": 1.1,
    "snwd_in": 7
   },
   {
@@ -2651,7 +2641,7 @@
    "lat": 36.54099,
    "lon": -105.35944,
    "elevation_ft": 10990.0,
-   "swe_in": 0.8,
+   "swe_in": 1.0,
    "snwd_in": 3
   },
   {
@@ -2671,8 +2661,8 @@
    "lat": 38.67101,
    "lon": -112.3305,
    "elevation_ft": 8600.0,
-   "swe_in": 2.0,
-   "snwd_in": 11
+   "swe_in": 2.1,
+   "snwd_in": 10
   },
   {
    "triplet": "1310:NV:SNTL",
@@ -2681,7 +2671,7 @@
    "lat": 40.59965,
    "lon": -115.37902,
    "elevation_ft": 8990.0,
-   "swe_in": 4.3,
+   "swe_in": 4.0,
    "snwd_in": 21
   },
   {
@@ -2691,7 +2681,7 @@
    "lat": 48.68005,
    "lon": -114.66365,
    "elevation_ft": 6200.0,
-   "swe_in": 4.1,
+   "swe_in": 4.3,
    "snwd_in": 18
   },
   {
@@ -2701,8 +2691,8 @@
    "lat": 48.06224,
    "lon": -115.69748,
    "elevation_ft": 5700.0,
-   "swe_in": 1.8,
-   "snwd_in": 8
+   "swe_in": 2.1,
+   "snwd_in": 10
   },
   {
    "triplet": "1313:AK:SNTLT",
@@ -2721,8 +2711,8 @@
    "lat": 45.35265,
    "lon": -121.53,
    "elevation_ft": 5970.0,
-   "swe_in": 1.3,
-   "snwd_in": 5
+   "swe_in": 1.4,
+   "snwd_in": null
   },
   {
    "triplet": "1316:MT:SNTL",
@@ -2742,7 +2732,7 @@
    "lon": -119.45124,
    "elevation_ft": 8220.0,
    "swe_in": 2.9,
-   "snwd_in": 21
+   "snwd_in": 18
   },
   {
    "triplet": "1318:AK:SNTL",
@@ -2772,7 +2762,7 @@
    "lon": -118.325,
    "elevation_ft": 4720.0,
    "swe_in": null,
-   "snwd_in": 8
+   "snwd_in": 6
   },
   {
    "triplet": "1321:UT:SNTL",
@@ -2831,7 +2821,7 @@
    "lat": 39.00074,
    "lon": -106.83912,
    "elevation_ft": 11510.0,
-   "swe_in": 4.7,
+   "swe_in": 4.8,
    "snwd_in": 22
   },
   {
@@ -2852,7 +2842,7 @@
    "lon": -149.12755,
    "elevation_ft": 3370.0,
    "swe_in": null,
-   "snwd_in": 64
+   "snwd_in": 58
   },
   {
    "triplet": "1329:AK:SNTLT",
@@ -2862,7 +2852,7 @@
    "lon": -149.4152,
    "elevation_ft": 2030.0,
    "swe_in": null,
-   "snwd_in": 51
+   "snwd_in": 47
   },
   {
    "triplet": "1330:AK:SNTL",
@@ -2892,7 +2882,7 @@
    "lon": -149.82331,
    "elevation_ft": 170.0,
    "swe_in": 0.7,
-   "snwd_in": 6
+   "snwd_in": 4
   },
   {
    "triplet": "1333:OR:SNTLT",
@@ -2922,7 +2912,7 @@
    "lon": -120.1093,
    "elevation_ft": 6890.0,
    "swe_in": null,
-   "snwd_in": 12
+   "snwd_in": 10
   },
   {
    "triplet": "1337:OR:SNTLT",
@@ -2942,7 +2932,7 @@
    "lon": -120.88255,
    "elevation_ft": 4550.0,
    "swe_in": 0.9,
-   "snwd_in": 2
+   "snwd_in": 3
   },
   {
    "triplet": "1340:OR:SNTLT",
@@ -2951,16 +2941,6 @@
    "lat": 44.28005,
    "lon": -119.73648,
    "elevation_ft": 4820.0,
-   "swe_in": null,
-   "snwd_in": 2
-  },
-  {
-   "triplet": "1341:WA:SNTLT",
-   "name": "Buck Mountain",
-   "state": "WA",
-   "lat": 48.42909,
-   "lon": -119.85225,
-   "elevation_ft": 5290.0,
    "swe_in": null,
    "snwd_in": 1
   },
@@ -2981,7 +2961,7 @@
    "lat": 37.88929,
    "lon": -107.84484,
    "elevation_ft": 11290.0,
-   "swe_in": 6.0,
+   "swe_in": 6.1,
    "snwd_in": 28
   },
   {
@@ -3002,7 +2982,7 @@
    "lon": -158.58324,
    "elevation_ft": 190.0,
    "swe_in": null,
-   "snwd_in": 4
+   "snwd_in": 3
   },
   {
    "triplet": "1347:ID:SNTL",
@@ -3021,7 +3001,7 @@
    "lat": 41.99513,
    "lon": -112.16119,
    "elevation_ft": 6690.0,
-   "swe_in": 2.7,
+   "swe_in": 2.8,
    "snwd_in": 15
   },
   {
@@ -3052,7 +3032,7 @@
    "lon": -120.75101,
    "elevation_ft": 6800.0,
    "swe_in": null,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "1352:OR:SNTLT",
@@ -3062,7 +3042,7 @@
    "lon": -120.6282,
    "elevation_ft": 5500.0,
    "swe_in": null,
-   "snwd_in": 3
+   "snwd_in": 2
   },
   {
    "triplet": "1353:WA:SNTLT",
@@ -3081,8 +3061,8 @@
    "lat": 45.13426,
    "lon": -114.06693,
    "elevation_ft": 8580.0,
-   "swe_in": 2.4,
-   "snwd_in": 13
+   "swe_in": 2.6,
+   "snwd_in": 15
   },
   {
    "triplet": "1355:ID:SNTLT",
@@ -3102,7 +3082,7 @@
    "lon": -116.83552,
    "elevation_ft": 2370.0,
    "swe_in": null,
-   "snwd_in": 0
+   "snwd_in": 1
   },
   {
    "triplet": "1357:AK:SNTL",
@@ -3152,7 +3132,7 @@
    "lon": -106.64964,
    "elevation_ft": 10430.0,
    "swe_in": null,
-   "snwd_in": 10
+   "snwd_in": 11
   },
   {
    "triplet": "1362:AK:SNTL",
@@ -3192,7 +3172,7 @@
    "lon": -149.12926,
    "elevation_ft": 590.0,
    "swe_in": null,
-   "snwd_in": 5
+   "snwd_in": 4
   },
   {
    "triplet": "2065:AK:SNTL",
@@ -3211,8 +3191,8 @@
    "lat": 63.32529,
    "lon": -143.03834,
    "elevation_ft": 1640.0,
-   "swe_in": 1.7,
-   "snwd_in": 8
+   "swe_in": 1.8,
+   "snwd_in": 7
   },
   {
    "triplet": "2081:AK:SNTL",
@@ -3232,7 +3212,7 @@
    "lon": -117.62069,
    "elevation_ft": 7190.0,
    "swe_in": 0.8,
-   "snwd_in": 6
+   "snwd_in": 5
   },
   {
    "triplet": "2210:AK:SNTL",
@@ -3242,7 +3222,7 @@
    "lon": -156.64113,
    "elevation_ft": 220.0,
    "swe_in": null,
-   "snwd_in": 11
+   "snwd_in": 10
   },
   {
    "triplet": "301:CA:SNTL",
@@ -3282,7 +3262,7 @@
    "lon": -119.25392,
    "elevation_ft": 5770.0,
    "swe_in": 0.5,
-   "snwd_in": 2
+   "snwd_in": 1
   },
   {
    "triplet": "306:ID:SNTL",
@@ -3291,8 +3271,8 @@
    "lat": 43.7569,
    "lon": -115.23907,
    "elevation_ft": 7570.0,
-   "swe_in": 1.9,
-   "snwd_in": 14
+   "swe_in": 2.1,
+   "snwd_in": 13
   },
   {
    "triplet": "307:MT:SNTL",
@@ -3301,7 +3281,7 @@
    "lat": 48.13091,
    "lon": -113.02311,
    "elevation_ft": 6870.0,
-   "swe_in": 0.8,
+   "swe_in": 1.0,
    "snwd_in": 7
   },
   {
@@ -3321,7 +3301,7 @@
    "lat": 44.80061,
    "lon": -107.84428,
    "elevation_ft": 9360.0,
-   "swe_in": 2.9,
+   "swe_in": 3.0,
    "snwd_in": 18
   },
   {
@@ -3341,8 +3321,8 @@
    "lat": 48.5712,
    "lon": -115.44573,
    "elevation_ft": 5580.0,
-   "swe_in": 0.7,
-   "snwd_in": 2
+   "swe_in": 0.8,
+   "snwd_in": 3
   },
   {
    "triplet": "312:ID:SNTL",
@@ -3351,8 +3331,8 @@
    "lat": 44.30342,
    "lon": -115.23447,
    "elevation_ft": 7040.0,
-   "swe_in": 1.2,
-   "snwd_in": 7
+   "swe_in": 1.4,
+   "snwd_in": 9
   },
   {
    "triplet": "313:MT:SNTL",
@@ -3361,7 +3341,7 @@
    "lat": 46.09713,
    "lon": -113.13038,
    "elevation_ft": 8250.0,
-   "swe_in": 2.1,
+   "swe_in": 2.2,
    "snwd_in": 12
   },
   {
@@ -3381,7 +3361,7 @@
    "lat": 45.79737,
    "lon": -112.52047,
    "elevation_ft": 7120.0,
-   "swe_in": 2.1,
+   "swe_in": 2.2,
    "snwd_in": 9
   },
   {
@@ -3421,7 +3401,7 @@
    "lat": 44.95222,
    "lon": -116.14293,
    "elevation_ft": 5350.0,
-   "swe_in": 0.6,
+   "swe_in": 0.8,
    "snwd_in": 5
   },
   {
@@ -3431,8 +3411,8 @@
    "lat": 43.74367,
    "lon": -113.93797,
    "elevation_ft": 7920.0,
-   "swe_in": 2.0,
-   "snwd_in": 12
+   "swe_in": 1.9,
+   "snwd_in": 10
   },
   {
    "triplet": "321:NV:SNTL",
@@ -3441,7 +3421,7 @@
    "lat": 41.83391,
    "lon": -115.45278,
    "elevation_ft": 8090.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 13
   },
   {
@@ -3461,8 +3441,8 @@
    "lat": 48.30583,
    "lon": -116.07444,
    "elevation_ft": 5460.0,
-   "swe_in": 2.1,
-   "snwd_in": 8
+   "swe_in": 2.4,
+   "snwd_in": 10
   },
   {
    "triplet": "324:ID:SNTL",
@@ -3471,8 +3451,8 @@
    "lat": 44.60533,
    "lon": -116.98097,
    "elevation_ft": 6170.0,
-   "swe_in": 2.3,
-   "snwd_in": 14
+   "swe_in": 2.5,
+   "snwd_in": 15
   },
   {
    "triplet": "325:WY:SNTL",
@@ -3481,7 +3461,7 @@
    "lat": 43.88743,
    "lon": -107.06135,
    "elevation_ft": 8200.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 9
   },
   {
@@ -3491,8 +3471,8 @@
    "lat": 44.94307,
    "lon": -109.56743,
    "elevation_ft": 9360.0,
-   "swe_in": 2.0,
-   "snwd_in": 10
+   "swe_in": 2.2,
+   "snwd_in": 11
   },
   {
    "triplet": "327:CO:SNTL",
@@ -3501,7 +3481,7 @@
    "lat": 37.71433,
    "lon": -107.5124,
    "elevation_ft": 11580.0,
-   "swe_in": 14.1,
+   "swe_in": 14.2,
    "snwd_in": 43
   },
   {
@@ -3511,8 +3491,8 @@
    "lat": 44.94966,
    "lon": -111.35852,
    "elevation_ft": 7820.0,
-   "swe_in": 1.9,
-   "snwd_in": 10
+   "swe_in": 2.1,
+   "snwd_in": 11
   },
   {
    "triplet": "329:UT:SNTL",
@@ -3572,7 +3552,7 @@
    "lon": -114.62278,
    "elevation_ft": 9350.0,
    "swe_in": 5.6,
-   "snwd_in": 30
+   "snwd_in": 29
   },
   {
    "triplet": "335:CO:SNTL",
@@ -3602,7 +3582,7 @@
    "lon": -117.11506,
    "elevation_ft": 8710.0,
    "swe_in": 4.5,
-   "snwd_in": 22
+   "snwd_in": 21
   },
   {
    "triplet": "338:ID:SNTL",
@@ -3611,8 +3591,8 @@
    "lat": 44.62621,
    "lon": -115.79561,
    "elevation_ft": 6550.0,
-   "swe_in": 1.6,
-   "snwd_in": 11
+   "swe_in": 1.7,
+   "snwd_in": 12
   },
   {
    "triplet": "339:UT:SNTL",
@@ -3631,8 +3611,8 @@
    "lat": 39.455,
    "lon": -119.9422,
    "elevation_ft": 8240.0,
-   "swe_in": 4.4,
-   "snwd_in": 31
+   "swe_in": 4.5,
+   "snwd_in": 27
   },
   {
    "triplet": "341:OR:SNTL",
@@ -3641,7 +3621,7 @@
    "lat": 42.05257,
    "lon": -122.85487,
    "elevation_ft": 6060.0,
-   "swe_in": 1.2,
+   "swe_in": null,
    "snwd_in": 11
   },
   {
@@ -3662,7 +3642,7 @@
    "lon": -123.34393,
    "elevation_ft": 5130.0,
    "swe_in": 1.4,
-   "snwd_in": 5
+   "snwd_in": 3
   },
   {
    "triplet": "344:OR:SNTL",
@@ -3671,8 +3651,8 @@
    "lat": 42.40717,
    "lon": -122.26617,
    "elevation_ft": 5280.0,
-   "swe_in": 0.9,
-   "snwd_in": 3
+   "swe_in": 1.1,
+   "snwd_in": 4
   },
   {
    "triplet": "345:CO:SNTL",
@@ -3691,7 +3671,7 @@
    "lat": 47.68386,
    "lon": -113.99895,
    "elevation_ft": 4880.0,
-   "swe_in": 1.8,
+   "swe_in": 1.9,
    "snwd_in": 14
   },
   {
@@ -3701,7 +3681,7 @@
    "lat": 44.50832,
    "lon": -111.12803,
    "elevation_ft": 8160.0,
-   "swe_in": 3.7,
+   "swe_in": 3.8,
    "snwd_in": 19
   },
   {
@@ -3711,8 +3691,8 @@
    "lat": 38.6799,
    "lon": -111.59765,
    "elevation_ft": 9420.0,
-   "swe_in": 1.9,
-   "snwd_in": 13
+   "swe_in": 2.0,
+   "snwd_in": 12
   },
   {
    "triplet": "349:MT:SNTL",
@@ -3721,7 +3701,7 @@
    "lat": 46.414,
    "lon": -113.43095,
    "elevation_ft": 7170.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 5
   },
   {
@@ -3741,8 +3721,8 @@
    "lat": 45.4287,
    "lon": -121.85605,
    "elevation_ft": 3660.0,
-   "swe_in": 0.2,
-   "snwd_in": 1
+   "swe_in": 0.4,
+   "snwd_in": 3
   },
   {
    "triplet": "352:WA:SNTL",
@@ -3761,7 +3741,7 @@
    "lat": 42.96413,
    "lon": -110.60992,
    "elevation_ft": 8880.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 10
   },
   {
@@ -3792,7 +3772,7 @@
    "lon": -119.92455,
    "elevation_ft": 8060.0,
    "swe_in": 5.4,
-   "snwd_in": 30
+   "snwd_in": 28
   },
   {
    "triplet": "358:WY:SNTL",
@@ -3802,7 +3782,7 @@
    "lon": -107.5811,
    "elevation_ft": 9340.0,
    "swe_in": 1.1,
-   "snwd_in": 5
+   "snwd_in": null
   },
   {
    "triplet": "359:ID:SNTL",
@@ -3821,7 +3801,7 @@
    "lat": 46.5596,
    "lon": -111.28973,
    "elevation_ft": 7890.0,
-   "swe_in": 2.1,
+   "swe_in": 2.2,
    "snwd_in": 12
   },
   {
@@ -3831,7 +3811,7 @@
    "lat": 44.83052,
    "lon": -118.18787,
    "elevation_ft": 5850.0,
-   "swe_in": 2.0,
+   "swe_in": 2.1,
    "snwd_in": 11
   },
   {
@@ -3861,7 +3841,7 @@
    "lat": 38.50809,
    "lon": -112.01856,
    "elevation_ft": 9850.0,
-   "swe_in": 1.9,
+   "swe_in": 1.8,
    "snwd_in": 10
   },
   {
@@ -3871,7 +3851,7 @@
    "lat": 45.89107,
    "lon": -110.93851,
    "elevation_ft": 7370.0,
-   "swe_in": 1.6,
+   "swe_in": 1.7,
    "snwd_in": 13
   },
   {
@@ -3901,7 +3881,7 @@
    "lat": 40.58102,
    "lon": -110.58587,
    "elevation_ft": 10570.0,
-   "swe_in": 7.4,
+   "swe_in": 7.3,
    "snwd_in": 36
   },
   {
@@ -3921,8 +3901,8 @@
    "lat": 45.04315,
    "lon": -116.13253,
    "elevation_ft": 6280.0,
-   "swe_in": 2.0,
-   "snwd_in": 11
+   "swe_in": 2.2,
+   "snwd_in": 13
   },
   {
    "triplet": "371:UT:SNTL",
@@ -3931,7 +3911,7 @@
    "lat": 39.134,
    "lon": -111.43722,
    "elevation_ft": 9410.0,
-   "swe_in": 1.7,
+   "swe_in": 1.8,
    "snwd_in": 11
   },
   {
@@ -3941,8 +3921,8 @@
    "lat": 41.75067,
    "lon": -117.53182,
    "elevation_ft": 6920.0,
-   "swe_in": 2.4,
-   "snwd_in": 18
+   "swe_in": 2.5,
+   "snwd_in": 16
   },
   {
    "triplet": "374:UT:SNTL",
@@ -3962,7 +3942,7 @@
    "lon": -121.33058,
    "elevation_ft": 4600.0,
    "swe_in": 0.7,
-   "snwd_in": 1
+   "snwd_in": 4
   },
   {
    "triplet": "376:WA:SNTL",
@@ -3971,8 +3951,8 @@
    "lat": 48.68688,
    "lon": -117.17633,
    "elevation_ft": 5020.0,
-   "swe_in": 1.9,
-   "snwd_in": 4
+   "swe_in": 2.1,
+   "snwd_in": 6
   },
   {
    "triplet": "377:WY:SNTL",
@@ -3991,8 +3971,8 @@
    "lat": 39.87504,
    "lon": -107.59902,
    "elevation_ft": 9290.0,
-   "swe_in": 1.5,
-   "snwd_in": 4
+   "swe_in": 1.6,
+   "snwd_in": 5
   },
   {
    "triplet": "379:WY:SNTL",
@@ -4001,7 +3981,7 @@
    "lat": 43.69733,
    "lon": -109.67021,
    "elevation_ft": 8760.0,
-   "swe_in": 0.3,
+   "swe_in": 0.4,
    "snwd_in": 0
   },
   {
@@ -4011,7 +3991,7 @@
    "lat": 38.89435,
    "lon": -106.95327,
    "elevation_ft": 10190.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 8
   },
   {
@@ -4021,8 +4001,8 @@
    "lat": 45.8838,
    "lon": -113.32553,
    "elevation_ft": 6410.0,
-   "swe_in": 0.6,
-   "snwd_in": 5
+   "swe_in": 0.7,
+   "snwd_in": 6
   },
   {
    "triplet": "382:ID:SNTL",
@@ -4031,8 +4011,8 @@
    "lat": 43.26548,
    "lon": -115.3453,
    "elevation_ft": 5720.0,
-   "swe_in": 1.7,
-   "snwd_in": 9
+   "swe_in": 1.9,
+   "snwd_in": 11
   },
   {
    "triplet": "383:UT:SNTL",
@@ -4041,8 +4021,8 @@
    "lat": 37.81333,
    "lon": -109.48723,
    "elevation_ft": 8840.0,
-   "swe_in": 2.2,
-   "snwd_in": 5
+   "swe_in": 2.1,
+   "snwd_in": 4
   },
   {
    "triplet": "384:WY:SNTL",
@@ -4051,7 +4031,7 @@
    "lat": 44.71961,
    "lon": -110.51084,
    "elevation_ft": 7870.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 5
   },
   {
@@ -4061,8 +4041,8 @@
    "lat": 44.96192,
    "lon": -111.29403,
    "elevation_ft": 9200.0,
-   "swe_in": 4.3,
-   "snwd_in": 25
+   "swe_in": 4.5,
+   "snwd_in": 26
   },
   {
    "triplet": "387:CO:SNTL",
@@ -4081,8 +4061,8 @@
    "lat": 43.59042,
    "lon": -122.0601,
    "elevation_ft": 5100.0,
-   "swe_in": 0.6,
-   "snwd_in": 2
+   "swe_in": 0.8,
+   "snwd_in": 5
   },
   {
    "triplet": "389:WY:SNTL",
@@ -4102,7 +4082,7 @@
    "lon": -112.74093,
    "elevation_ft": 9600.0,
    "swe_in": 2.6,
-   "snwd_in": 25
+   "snwd_in": 22
   },
   {
    "triplet": "391:CA:SNTL",
@@ -4111,7 +4091,7 @@
    "lat": 41.58216,
    "lon": -120.30253,
    "elevation_ft": 7060.0,
-   "swe_in": 0.1,
+   "swe_in": null,
    "snwd_in": 6
   },
   {
@@ -4121,7 +4101,7 @@
    "lat": 40.85464,
    "lon": -111.04765,
    "elevation_ft": 9160.0,
-   "swe_in": 1.8,
+   "swe_in": 1.9,
    "snwd_in": 13
   },
   {
@@ -4151,8 +4131,8 @@
    "lat": 43.22625,
    "lon": -121.80662,
    "elevation_ft": 4850.0,
-   "swe_in": 0.8,
-   "snwd_in": 3
+   "swe_in": 0.9,
+   "snwd_in": 6
   },
   {
    "triplet": "396:UT:SNTL",
@@ -4161,7 +4141,7 @@
    "lat": 40.77458,
    "lon": -110.0105,
    "elevation_ft": 10490.0,
-   "swe_in": 5.9,
+   "swe_in": 6.0,
    "snwd_in": 38
   },
   {
@@ -4191,7 +4171,7 @@
    "lat": 39.89275,
    "lon": -111.25154,
    "elevation_ft": 7850.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 10
   },
   {
@@ -4241,8 +4221,8 @@
    "lat": 42.53305,
    "lon": -122.17683,
    "elevation_ft": 5940.0,
-   "swe_in": 0.9,
-   "snwd_in": 3
+   "swe_in": 1.0,
+   "snwd_in": 5
   },
   {
    "triplet": "407:MT:SNTL",
@@ -4251,7 +4231,7 @@
    "lat": 45.19405,
    "lon": -109.34548,
    "elevation_ft": 7910.0,
-   "swe_in": 0.4,
+   "swe_in": 0.5,
    "snwd_in": 4
   },
   {
@@ -4271,7 +4251,7 @@
    "lat": 38.41819,
    "lon": -108.38313,
    "elevation_ft": 9160.0,
-   "swe_in": 1.8,
+   "swe_in": 1.7,
    "snwd_in": 6
   },
   {
@@ -4291,8 +4271,8 @@
    "lat": 46.76361,
    "lon": -115.29528,
    "elevation_ft": 6320.0,
-   "swe_in": 1.5,
-   "snwd_in": 8
+   "swe_in": 1.7,
+   "snwd_in": 10
   },
   {
    "triplet": "412:CO:SNTL",
@@ -4311,7 +4291,7 @@
    "lat": 47.05678,
    "lon": -112.595,
    "elevation_ft": 5200.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 4
   },
   {
@@ -4321,8 +4301,8 @@
    "lat": 47.08158,
    "lon": -112.72955,
    "elevation_ft": 6980.0,
-   "swe_in": 0.7,
-   "snwd_in": 6
+   "swe_in": 0.9,
+   "snwd_in": 7
   },
   {
    "triplet": "415:CO:SNTL",
@@ -4361,7 +4341,7 @@
    "lat": 47.01872,
    "lon": -121.46464,
    "elevation_ft": 5810.0,
-   "swe_in": 0.8,
+   "swe_in": 0.9,
    "snwd_in": 6
   },
   {
@@ -4391,8 +4371,8 @@
    "lat": 45.19107,
    "lon": -118.55015,
    "elevation_ft": 4840.0,
-   "swe_in": 0.1,
-   "snwd_in": 1
+   "swe_in": 0.0,
+   "snwd_in": 2
   },
   {
    "triplet": "423:ID:SNTL",
@@ -4411,7 +4391,7 @@
    "lat": 44.437,
    "lon": -111.99384,
    "elevation_ft": 6870.0,
-   "swe_in": 1.4,
+   "swe_in": 1.6,
    "snwd_in": 10
   },
   {
@@ -4421,8 +4401,8 @@
    "lat": 46.56394,
    "lon": -115.28903,
    "elevation_ft": 5960.0,
-   "swe_in": 2.3,
-   "snwd_in": 14
+   "swe_in": 2.6,
+   "snwd_in": 16
   },
   {
    "triplet": "426:CO:SNTL",
@@ -4441,7 +4421,7 @@
    "lat": 46.78936,
    "lon": -109.51202,
    "elevation_ft": 6130.0,
-   "swe_in": 1.3,
+   "swe_in": 1.5,
    "snwd_in": 9
   },
   {
@@ -4451,8 +4431,8 @@
    "lat": 39.32565,
    "lon": -120.36807,
    "elevation_ft": 6890.0,
-   "swe_in": 6.2,
-   "snwd_in": 44
+   "swe_in": 6.3,
+   "snwd_in": 40
   },
   {
    "triplet": "429:AK:SNTL",
@@ -4471,7 +4451,7 @@
    "lat": 37.20939,
    "lon": -105.19988,
    "elevation_ft": 10560.0,
-   "swe_in": 1.6,
+   "swe_in": 1.7,
    "snwd_in": 8
   },
   {
@@ -4482,7 +4462,7 @@
    "lon": -106.45275,
    "elevation_ft": 10030.0,
    "swe_in": 2.8,
-   "snwd_in": 12
+   "snwd_in": 13
   },
   {
    "triplet": "432:UT:SNTL",
@@ -4491,7 +4471,7 @@
    "lat": 40.35747,
    "lon": -111.08993,
    "elevation_ft": 7920.0,
-   "swe_in": 1.8,
+   "swe_in": 2.0,
    "snwd_in": 11
   },
   {
@@ -4511,8 +4491,8 @@
    "lat": 44.52147,
    "lon": -122.08718,
    "elevation_ft": 3690.0,
-   "swe_in": 0.3,
-   "snwd_in": 0
+   "swe_in": 0.4,
+   "snwd_in": 1
   },
   {
    "triplet": "435:UT:SNTL",
@@ -4531,7 +4511,7 @@
    "lat": 45.17368,
    "lon": -113.5846,
    "elevation_ft": 8930.0,
-   "swe_in": 3.5,
+   "swe_in": 3.7,
    "snwd_in": 20
   },
   {
@@ -4552,7 +4532,7 @@
    "lon": -105.77018,
    "elevation_ft": 10240.0,
    "swe_in": 1.5,
-   "snwd_in": 6
+   "snwd_in": 5
   },
   {
    "triplet": "439:ID:SNTL",
@@ -4561,8 +4541,8 @@
    "lat": 44.54492,
    "lon": -115.56386,
    "elevation_ft": 6990.0,
-   "swe_in": 2.1,
-   "snwd_in": 14
+   "swe_in": 2.5,
+   "snwd_in": 16
   },
   {
    "triplet": "440:OR:SNTL",
@@ -4572,7 +4552,7 @@
    "lon": -119.93012,
    "elevation_ft": 5850.0,
    "swe_in": 1.0,
-   "snwd_in": 8
+   "snwd_in": 7
   },
   {
    "triplet": "442:OR:SNTL",
@@ -4581,8 +4561,8 @@
    "lat": 43.18787,
    "lon": -122.14003,
    "elevation_ft": 5280.0,
-   "swe_in": 0.5,
-   "snwd_in": 1
+   "swe_in": 0.7,
+   "snwd_in": 3
   },
   {
    "triplet": "443:NV:SNTL",
@@ -4611,8 +4591,8 @@
    "lat": 41.96737,
    "lon": -118.18934,
    "elevation_ft": 6260.0,
-   "swe_in": 1.6,
-   "snwd_in": 10
+   "swe_in": 1.5,
+   "snwd_in": 9
   },
   {
    "triplet": "446:CA:SNTL",
@@ -4622,7 +4602,7 @@
    "lon": -120.18033,
    "elevation_ft": 7370.0,
    "swe_in": 2.2,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "448:MT:SNTL",
@@ -4631,8 +4611,8 @@
    "lat": 44.79317,
    "lon": -112.05645,
    "elevation_ft": 7770.0,
-   "swe_in": 1.7,
-   "snwd_in": 6
+   "swe_in": 1.8,
+   "snwd_in": 7
   },
   {
    "triplet": "449:WY:SNTL",
@@ -4651,8 +4631,8 @@
    "lat": 43.6025,
    "lon": -114.67417,
    "elevation_ft": 8390.0,
-   "swe_in": 3.5,
-   "snwd_in": 20
+   "swe_in": 3.6,
+   "snwd_in": 19
   },
   {
    "triplet": "451:WY:SNTL",
@@ -4661,7 +4641,7 @@
    "lat": 44.57462,
    "lon": -107.29537,
    "elevation_ft": 8890.0,
-   "swe_in": 0.4,
+   "swe_in": null,
    "snwd_in": 10
   },
   {
@@ -4671,7 +4651,7 @@
    "lat": 38.2084,
    "lon": -111.47412,
    "elevation_ft": 9800.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 8
   },
   {
@@ -4742,7 +4722,7 @@
    "lon": -110.2023,
    "elevation_ft": 8010.0,
    "swe_in": 0.7,
-   "snwd_in": 5
+   "snwd_in": 6
   },
   {
    "triplet": "461:UT:SNTL",
@@ -4762,7 +4742,7 @@
    "lon": -119.80468,
    "elevation_ft": 8660.0,
    "swe_in": 9.8,
-   "snwd_in": 47
+   "snwd_in": 44
   },
   {
    "triplet": "463:CA:SNTL",
@@ -4801,8 +4781,8 @@
    "lat": 46.83998,
    "lon": -116.12233,
    "elevation_ft": 5680.0,
-   "swe_in": 0.7,
-   "snwd_in": 3
+   "swe_in": 0.9,
+   "snwd_in": 5
   },
   {
    "triplet": "467:CO:SNTL",
@@ -4811,7 +4791,7 @@
    "lat": 40.84758,
    "lon": -106.96861,
    "elevation_ft": 8710.0,
-   "swe_in": 0.7,
+   "swe_in": 0.8,
    "snwd_in": 1
   },
   {
@@ -4821,7 +4801,7 @@
    "lat": 43.00657,
    "lon": -109.75893,
    "elevation_ft": 9410.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 11
   },
   {
@@ -4831,7 +4811,7 @@
    "lat": 48.43412,
    "lon": -113.93725,
    "elevation_ft": 4340.0,
-   "swe_in": 0.5,
+   "swe_in": 0.6,
    "snwd_in": 5
   },
   {
@@ -4841,7 +4821,7 @@
    "lat": 45.55808,
    "lon": -118.45385,
    "elevation_ft": 3790.0,
-   "swe_in": 0.3,
+   "swe_in": 0.4,
    "snwd_in": 0
   },
   {
@@ -4861,7 +4841,7 @@
    "lat": 44.65258,
    "lon": -109.78422,
    "elevation_ft": 9030.0,
-   "swe_in": 1.9,
+   "swe_in": 2.0,
    "snwd_in": 15
   },
   {
@@ -4872,7 +4852,7 @@
    "lon": -120.0545,
    "elevation_ft": 6250.0,
    "swe_in": 2.4,
-   "snwd_in": 12
+   "snwd_in": 11
   },
   {
    "triplet": "474:UT:SNTL",
@@ -4901,7 +4881,7 @@
    "lat": 41.82098,
    "lon": -116.10153,
    "elevation_ft": 7040.0,
-   "swe_in": 2.3,
+   "swe_in": 2.4,
    "snwd_in": 15
   },
   {
@@ -4921,8 +4901,8 @@
    "lat": 47.53565,
    "lon": -121.08553,
    "elevation_ft": 3440.0,
-   "swe_in": 0.1,
-   "snwd_in": 2
+   "swe_in": 0.2,
+   "snwd_in": 3
   },
   {
    "triplet": "479:OR:SNTL",
@@ -4931,8 +4911,8 @@
    "lat": 42.3801,
    "lon": -122.34943,
    "elevation_ft": 4660.0,
-   "swe_in": 0.3,
-   "snwd_in": 1
+   "swe_in": 0.5,
+   "snwd_in": 2
   },
   {
    "triplet": "480:MT:SNTL",
@@ -4941,7 +4921,7 @@
    "lat": 45.06235,
    "lon": -109.94488,
    "elevation_ft": 9110.0,
-   "swe_in": 2.4,
+   "swe_in": 2.5,
    "snwd_in": 14
   },
   {
@@ -4952,7 +4932,7 @@
    "lon": -110.46721,
    "elevation_ft": 10920.0,
    "swe_in": 5.6,
-   "snwd_in": 32
+   "snwd_in": 29
   },
   {
    "triplet": "482:MT:SNTL",
@@ -4961,8 +4941,8 @@
    "lat": 48.80225,
    "lon": -113.85713,
    "elevation_ft": 6280.0,
-   "swe_in": 3.3,
-   "snwd_in": 15
+   "swe_in": 3.5,
+   "snwd_in": 17
   },
   {
    "triplet": "483:OR:SNTL",
@@ -4971,7 +4951,7 @@
    "lat": 42.43933,
    "lon": -122.2288,
    "elevation_ft": 5970.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 8
   },
   {
@@ -4991,7 +4971,7 @@
    "lat": 39.38014,
    "lon": -106.19784,
    "elevation_ft": 11310.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 9
   },
   {
@@ -5011,7 +4991,7 @@
    "lat": 46.43545,
    "lon": -112.19277,
    "elevation_ft": 6520.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 9
   },
   {
@@ -5021,8 +5001,8 @@
    "lat": 35.07356,
    "lon": -111.84477,
    "elevation_ft": 7220.0,
-   "swe_in": 0.2,
-   "snwd_in": 0
+   "swe_in": 0.3,
+   "snwd_in": 2
   },
   {
    "triplet": "489:ID:SNTL",
@@ -5041,7 +5021,7 @@
    "lat": 43.87497,
    "lon": -114.71363,
    "elevation_ft": 8790.0,
-   "swe_in": 3.7,
+   "swe_in": 3.8,
    "snwd_in": 21
   },
   {
@@ -5061,7 +5041,7 @@
    "lat": 43.6104,
    "lon": -113.9308,
    "elevation_ft": 6580.0,
-   "swe_in": 1.0,
+   "swe_in": 0.9,
    "snwd_in": 6
   },
   {
@@ -5081,8 +5061,8 @@
    "lat": 44.7638,
    "lon": -118.3117,
    "elevation_ft": 5400.0,
-   "swe_in": 1.4,
-   "snwd_in": 11
+   "swe_in": 1.3,
+   "snwd_in": 10
   },
   {
    "triplet": "495:UT:SNTL",
@@ -5091,7 +5071,7 @@
    "lat": 38.80034,
    "lon": -111.68333,
    "elevation_ft": 7930.0,
-   "swe_in": 0.5,
+   "swe_in": 0.6,
    "snwd_in": 3
   },
   {
@@ -5101,8 +5081,8 @@
    "lat": 43.9538,
    "lon": -115.27387,
    "elevation_ft": 5690.0,
-   "swe_in": 0.7,
-   "snwd_in": 3
+   "swe_in": 0.5,
+   "snwd_in": 2
   },
   {
    "triplet": "497:WY:SNTL",
@@ -5121,8 +5101,8 @@
    "lat": 41.67032,
    "lon": -117.56668,
    "elevation_ft": 8500.0,
-   "swe_in": 3.0,
-   "snwd_in": 22
+   "swe_in": 3.2,
+   "snwd_in": 19
   },
   {
    "triplet": "499:WY:SNTL",
@@ -5131,7 +5111,7 @@
    "lat": 44.12602,
    "lon": -110.83429,
    "elevation_ft": 7330.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 18
   },
   {
@@ -5141,8 +5121,8 @@
    "lat": 48.91453,
    "lon": -114.76663,
    "elevation_ft": 4350.0,
-   "swe_in": 0.2,
-   "snwd_in": 0
+   "swe_in": 0.3,
+   "snwd_in": 1
   },
   {
    "triplet": "501:WY:SNTL",
@@ -5181,8 +5161,8 @@
    "lat": 45.62237,
    "lon": -121.70415,
    "elevation_ft": 3320.0,
-   "swe_in": 0.4,
-   "snwd_in": 2
+   "swe_in": 0.5,
+   "snwd_in": null
   },
   {
    "triplet": "505:CO:SNTL",
@@ -5191,7 +5171,7 @@
    "lat": 39.64646,
    "lon": -105.8694,
    "elevation_ft": 11110.0,
-   "swe_in": 0.1,
+   "swe_in": 0.2,
    "snwd_in": 5
   },
   {
@@ -5201,7 +5181,7 @@
    "lat": 43.38939,
    "lon": -110.12943,
    "elevation_ft": 8760.0,
-   "swe_in": 2.5,
+   "swe_in": 2.6,
    "snwd_in": 6
   },
   {
@@ -5211,8 +5191,8 @@
    "lat": 47.28107,
    "lon": -120.48771,
    "elevation_ft": 5390.0,
-   "swe_in": 0.7,
-   "snwd_in": 2
+   "swe_in": 0.9,
+   "snwd_in": 6
   },
   {
    "triplet": "508:CA:SNTL",
@@ -5221,8 +5201,8 @@
    "lat": 38.8519,
    "lon": -119.9374,
    "elevation_ft": 7740.0,
-   "swe_in": 2.9,
-   "snwd_in": 26
+   "swe_in": 2.8,
+   "snwd_in": 22
   },
   {
    "triplet": "509:WY:SNTL",
@@ -5241,7 +5221,7 @@
    "lat": 48.30754,
    "lon": -114.84075,
    "elevation_ft": 5030.0,
-   "swe_in": 0.6,
+   "swe_in": 0.8,
    "snwd_in": 5
   },
   {
@@ -5281,8 +5261,8 @@
    "lat": 37.48997,
    "lon": -112.57602,
    "elevation_ft": 7800.0,
-   "swe_in": 0.6,
-   "snwd_in": 3
+   "swe_in": 0.4,
+   "snwd_in": 1
   },
   {
    "triplet": "515:WA:SNTL",
@@ -5292,7 +5272,7 @@
    "lon": -120.6586,
    "elevation_ft": 6490.0,
    "swe_in": 2.9,
-   "snwd_in": 16
+   "snwd_in": null
   },
   {
    "triplet": "516:MT:SNTL",
@@ -5301,8 +5281,8 @@
    "lat": 48.9724,
    "lon": -115.95344,
    "elevation_ft": 6460.0,
-   "swe_in": 1.6,
-   "snwd_in": 7
+   "swe_in": 1.8,
+   "snwd_in": 8
   },
   {
    "triplet": "517:UT:SNTL",
@@ -5311,7 +5291,7 @@
    "lat": 40.79669,
    "lon": -110.88472,
    "elevation_ft": 9170.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 9
   },
   {
@@ -5322,7 +5302,7 @@
    "lon": -119.91641,
    "elevation_ft": 8540.0,
    "swe_in": 3.6,
-   "snwd_in": 24
+   "snwd_in": 21
   },
   {
    "triplet": "519:AZ:SNTL",
@@ -5341,8 +5321,8 @@
    "lat": 46.48111,
    "lon": -115.63361,
    "elevation_ft": 5800.0,
-   "swe_in": 1.5,
-   "snwd_in": 8
+   "swe_in": 2.0,
+   "snwd_in": 13
   },
   {
    "triplet": "521:UT:SNTL",
@@ -5351,7 +5331,7 @@
    "lat": 40.95009,
    "lon": -110.48419,
    "elevation_ft": 9510.0,
-   "swe_in": 0.8,
+   "swe_in": 0.1,
    "snwd_in": 6
   },
   {
@@ -5371,7 +5351,7 @@
    "lat": 45.69682,
    "lon": -118.10657,
    "elevation_ft": 4900.0,
-   "swe_in": 1.1,
+   "swe_in": 1.4,
    "snwd_in": 6
   },
   {
@@ -5381,7 +5361,7 @@
    "lat": 44.01896,
    "lon": -113.47242,
    "elevation_ft": 8090.0,
-   "swe_in": 3.4,
+   "swe_in": 3.5,
    "snwd_in": 13
   },
   {
@@ -5402,7 +5382,7 @@
    "lon": -121.85655,
    "elevation_ft": 4800.0,
    "swe_in": 0.7,
-   "snwd_in": 3
+   "snwd_in": 4
   },
   {
    "triplet": "527:NV:SNTL",
@@ -5411,8 +5391,8 @@
    "lat": 40.94168,
    "lon": -115.0954,
    "elevation_ft": 8170.0,
-   "swe_in": 0.9,
-   "snwd_in": 7
+   "swe_in": 0.7,
+   "snwd_in": 6
   },
   {
    "triplet": "528:UT:SNTL",
@@ -5425,24 +5405,14 @@
    "snwd_in": 4
   },
   {
-   "triplet": "529:OR:SNTL",
-   "name": "Holland Meadows",
-   "state": "OR",
-   "lat": 43.66917,
-   "lon": -122.56877,
-   "elevation_ft": 4930.0,
-   "swe_in": 0.6,
-   "snwd_in": 1
-  },
-  {
    "triplet": "530:MT:SNTL",
    "name": "Hoodoo Basin",
    "state": "MT",
    "lat": 46.97511,
    "lon": -115.03486,
    "elevation_ft": 6060.0,
-   "swe_in": 1.9,
-   "snwd_in": 12
+   "swe_in": 2.1,
+   "snwd_in": 13
   },
   {
    "triplet": "531:CO:SNTL",
@@ -5461,7 +5431,7 @@
    "lat": 36.71632,
    "lon": -106.2637,
    "elevation_ft": 10080.0,
-   "swe_in": 1.2,
+   "swe_in": 1.3,
    "snwd_in": 6
   },
   {
@@ -5491,8 +5461,8 @@
    "lat": 47.53178,
    "lon": -115.77643,
    "elevation_ft": 4260.0,
-   "swe_in": 0.4,
-   "snwd_in": 2
+   "swe_in": 0.5,
+   "snwd_in": 3
   },
   {
    "triplet": "537:ID:SNTL",
@@ -5502,7 +5472,7 @@
    "lon": -114.15894,
    "elevation_ft": 7590.0,
    "swe_in": 1.2,
-   "snwd_in": 8
+   "snwd_in": 6
   },
   {
    "triplet": "538:CO:SNTL",
@@ -5511,7 +5481,7 @@
    "lat": 37.93389,
    "lon": -107.6762,
    "elevation_ft": 9780.0,
-   "swe_in": 1.7,
+   "swe_in": 1.8,
    "snwd_in": 9
   },
   {
@@ -5522,7 +5492,7 @@
    "lon": -120.29367,
    "elevation_ft": 6970.0,
    "swe_in": 2.9,
-   "snwd_in": 20
+   "snwd_in": 18
   },
   {
    "triplet": "540:CA:SNTL",
@@ -5532,7 +5502,7 @@
    "lon": -120.28226,
    "elevation_ft": 6440.0,
    "swe_in": 2.4,
-   "snwd_in": 19
+   "snwd_in": 16
   },
   {
    "triplet": "541:CA:SNTL",
@@ -5541,8 +5511,8 @@
    "lat": 39.42752,
    "lon": -120.31342,
    "elevation_ft": 8340.0,
-   "swe_in": 6.7,
-   "snwd_in": 42
+   "swe_in": 6.8,
+   "snwd_in": 39
   },
   {
    "triplet": "542:CO:SNTL",
@@ -5561,7 +5531,7 @@
    "lat": 39.89166,
    "lon": -110.74604,
    "elevation_ft": 9170.0,
-   "swe_in": 1.7,
+   "swe_in": 1.6,
    "snwd_in": 13
   },
   {
@@ -5571,7 +5541,7 @@
    "lat": 42.30023,
    "lon": -110.67753,
    "elevation_ft": 9400.0,
-   "swe_in": 1.5,
+   "swe_in": 1.6,
    "snwd_in": 16
   },
   {
@@ -5581,8 +5551,8 @@
    "lat": 43.80368,
    "lon": -121.94793,
    "elevation_ft": 5540.0,
-   "swe_in": 1.1,
-   "snwd_in": 5
+   "swe_in": 1.3,
+   "snwd_in": 6
   },
   {
    "triplet": "546:ID:SNTL",
@@ -5591,7 +5561,7 @@
    "lat": 44.4203,
    "lon": -111.38512,
    "elevation_ft": 6300.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 8
   },
   {
@@ -5601,7 +5571,7 @@
    "lat": 39.29228,
    "lon": -106.54907,
    "elevation_ft": 10540.0,
-   "swe_in": 2.6,
+   "swe_in": 2.7,
    "snwd_in": 13
   },
   {
@@ -5611,7 +5581,7 @@
    "lat": 41.54675,
    "lon": -116.00517,
    "elevation_ft": 7380.0,
-   "swe_in": 1.4,
+   "swe_in": 1.6,
    "snwd_in": 11
   },
   {
@@ -5621,8 +5591,8 @@
    "lat": 41.5136,
    "lon": -116.0117,
    "elevation_ft": 8440.0,
-   "swe_in": 4.4,
-   "snwd_in": 20
+   "swe_in": 4.6,
+   "snwd_in": 21
   },
   {
    "triplet": "550:ID:SNTL",
@@ -5631,7 +5601,7 @@
    "lat": 44.05092,
    "lon": -115.44322,
    "elevation_ft": 7060.0,
-   "swe_in": 1.6,
+   "swe_in": 1.9,
    "snwd_in": 10
   },
   {
@@ -5651,8 +5621,8 @@
    "lat": 44.38605,
    "lon": -122.16683,
    "elevation_ft": 3530.0,
-   "swe_in": 0.2,
-   "snwd_in": 2
+   "swe_in": 0.4,
+   "snwd_in": 0
   },
   {
    "triplet": "553:WA:SNTL",
@@ -5661,8 +5631,8 @@
    "lat": 46.14778,
    "lon": -122.15413,
    "elevation_ft": 3440.0,
-   "swe_in": 0.3,
-   "snwd_in": 0
+   "swe_in": 0.7,
+   "snwd_in": 2
   },
   {
    "triplet": "554:WY:SNTL",
@@ -5741,8 +5711,8 @@
    "lat": 37.52664,
    "lon": -113.05386,
    "elevation_ft": 9250.0,
-   "swe_in": 5.6,
-   "snwd_in": 29
+   "swe_in": 5.5,
+   "snwd_in": 27
   },
   {
    "triplet": "562:MT:SNTL",
@@ -5761,8 +5731,8 @@
    "lat": 44.21007,
    "lon": -118.63752,
    "elevation_ft": 5250.0,
-   "swe_in": 0.8,
-   "snwd_in": 6
+   "swe_in": 1.0,
+   "snwd_in": 7
   },
   {
    "triplet": "564:CO:SNTL",
@@ -5792,7 +5762,7 @@
    "lon": -110.43316,
    "elevation_ft": 10120.0,
    "swe_in": 5.1,
-   "snwd_in": 23
+   "snwd_in": 20
   },
   {
    "triplet": "568:MT:SNTL",
@@ -5801,7 +5771,7 @@
    "lat": 44.58907,
    "lon": -111.82498,
    "elevation_ft": 7340.0,
-   "swe_in": 0.9,
+   "swe_in": 1.0,
    "snwd_in": 7
   },
   {
@@ -5811,8 +5781,8 @@
    "lat": 41.51542,
    "lon": -117.63197,
    "elevation_ft": 6390.0,
-   "swe_in": 2.0,
-   "snwd_in": 16
+   "swe_in": 1.4,
+   "snwd_in": 9
   },
   {
    "triplet": "570:NV:SNTL",
@@ -5832,7 +5802,7 @@
    "lon": -105.86051,
    "elevation_ft": 8370.0,
    "swe_in": 1.0,
-   "snwd_in": 4
+   "snwd_in": 5
   },
   {
    "triplet": "572:UT:SNTL",
@@ -5851,7 +5821,7 @@
    "lat": 41.77637,
    "lon": -116.02957,
    "elevation_ft": 6680.0,
-   "swe_in": 1.1,
+   "swe_in": 1.0,
    "snwd_in": 8
   },
   {
@@ -5862,7 +5832,7 @@
    "lon": -119.61281,
    "elevation_ft": 9600.0,
    "swe_in": 10.9,
-   "snwd_in": 51
+   "snwd_in": 48
   },
   {
    "triplet": "575:CA:SNTL",
@@ -5871,8 +5841,8 @@
    "lat": 38.30367,
    "lon": -119.55111,
    "elevation_ft": 7200.0,
-   "swe_in": 3.5,
-   "snwd_in": 24
+   "swe_in": 3.4,
+   "snwd_in": 20
   },
   {
    "triplet": "576:MT:SNTL",
@@ -5911,7 +5881,7 @@
    "lat": 40.86493,
    "lon": -110.79813,
    "elevation_ft": 9130.0,
-   "swe_in": 0.7,
+   "swe_in": 0.6,
    "snwd_in": 6
   },
   {
@@ -5941,8 +5911,8 @@
    "lat": 37.48631,
    "lon": -113.84582,
    "elevation_ft": 6070.0,
-   "swe_in": 1.2,
-   "snwd_in": 3
+   "swe_in": 1.0,
+   "snwd_in": 2
   },
   {
    "triplet": "584:OR:SNTL",
@@ -5951,7 +5921,7 @@
    "lat": 44.61297,
    "lon": -122.22565,
    "elevation_ft": 4020.0,
-   "swe_in": 0.3,
+   "swe_in": 0.5,
    "snwd_in": 0
   },
   {
@@ -5982,7 +5952,7 @@
    "lon": -119.36572,
    "elevation_ft": 9260.0,
    "swe_in": 2.7,
-   "snwd_in": 23
+   "snwd_in": 20
   },
   {
    "triplet": "588:ID:SNTL",
@@ -6011,8 +5981,8 @@
    "lat": 45.27412,
    "lon": -111.42692,
    "elevation_ft": 8820.0,
-   "swe_in": 2.0,
-   "snwd_in": 10
+   "swe_in": 2.1,
+   "snwd_in": 11
   },
   {
    "triplet": "591:WA:SNTL",
@@ -6021,8 +5991,8 @@
    "lat": 46.27143,
    "lon": -121.96288,
    "elevation_ft": 3940.0,
-   "swe_in": 0.2,
-   "snwd_in": 2
+   "swe_in": 0.3,
+   "snwd_in": 3
   },
   {
    "triplet": "592:UT:SNTL",
@@ -6041,8 +6011,8 @@
    "lat": 37.48756,
    "lon": -112.51458,
    "elevation_ft": 7460.0,
-   "swe_in": 0.5,
-   "snwd_in": 5
+   "swe_in": 0.6,
+   "snwd_in": 4
   },
   {
    "triplet": "594:ID:SNTL",
@@ -6051,7 +6021,7 @@
    "lat": 47.45749,
    "lon": -115.70457,
    "elevation_ft": 5180.0,
-   "swe_in": 0.8,
+   "swe_in": 0.9,
    "snwd_in": 6
   },
   {
@@ -6081,7 +6051,7 @@
    "lat": 43.17387,
    "lon": -110.14007,
    "elevation_ft": 8240.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 7
   },
   {
@@ -6091,7 +6061,7 @@
    "lat": 46.35754,
    "lon": -121.0809,
    "elevation_ft": 5100.0,
-   "swe_in": 0.8,
+   "swe_in": null,
    "snwd_in": 7
   },
   {
@@ -6101,8 +6071,8 @@
    "lat": 47.0809,
    "lon": -115.9604,
    "elevation_ft": 6090.0,
-   "swe_in": 1.6,
-   "snwd_in": 10
+   "swe_in": 1.8,
+   "snwd_in": 12
   },
   {
    "triplet": "601:ID:SNTL",
@@ -6111,8 +6081,8 @@
    "lat": 43.82441,
    "lon": -114.26404,
    "elevation_ft": 7870.0,
-   "swe_in": 2.6,
-   "snwd_in": 15
+   "swe_in": 2.7,
+   "snwd_in": 14
   },
   {
    "triplet": "602:CO:SNTL",
@@ -6121,7 +6091,7 @@
    "lat": 39.67428,
    "lon": -105.90264,
    "elevation_ft": 11410.0,
-   "swe_in": 1.7,
+   "swe_in": 1.8,
    "snwd_in": 4
   },
   {
@@ -6161,8 +6131,8 @@
    "lat": 48.19798,
    "lon": -120.91678,
    "elevation_ft": 5990.0,
-   "swe_in": 4.5,
-   "snwd_in": 16
+   "swe_in": 4.6,
+   "snwd_in": 19
   },
   {
    "triplet": "607:CO:SNTL",
@@ -6191,7 +6161,7 @@
    "lat": 44.58623,
    "lon": -111.11627,
    "elevation_ft": 7710.0,
-   "swe_in": 1.5,
+   "swe_in": 1.6,
    "snwd_in": 10
   },
   {
@@ -6221,7 +6191,7 @@
    "lat": 48.79698,
    "lon": -113.6705,
    "elevation_ft": 4930.0,
-   "swe_in": 0.6,
+   "swe_in": 0.7,
    "snwd_in": 6
   },
   {
@@ -6251,7 +6221,7 @@
    "lat": 44.3016,
    "lon": -109.24019,
    "elevation_ft": 8800.0,
-   "swe_in": 0.0,
+   "swe_in": 0.1,
    "snwd_in": 4
   },
   {
@@ -6261,7 +6231,7 @@
    "lat": 33.92123,
    "lon": -109.45872,
    "elevation_ft": 9210.0,
-   "swe_in": 0.2,
+   "swe_in": 0.3,
    "snwd_in": 0
   },
   {
@@ -6281,8 +6251,8 @@
    "lat": 44.2103,
    "lon": -121.87292,
    "elevation_ft": 4770.0,
-   "swe_in": 1.2,
-   "snwd_in": 3
+   "swe_in": 1.3,
+   "snwd_in": 4
   },
   {
    "triplet": "620:ID:SNTL",
@@ -6291,7 +6261,7 @@
    "lat": 44.43655,
    "lon": -113.31815,
    "elevation_ft": 9190.0,
-   "swe_in": 1.8,
+   "swe_in": 2.0,
    "snwd_in": 12
   },
   {
@@ -6321,8 +6291,8 @@
    "lat": 47.15045,
    "lon": -116.26643,
    "elevation_ft": 4480.0,
-   "swe_in": 0.2,
-   "snwd_in": 2
+   "swe_in": 0.4,
+   "snwd_in": 3
   },
   {
    "triplet": "624:CO:SNTL",
@@ -6341,7 +6311,7 @@
    "lat": 43.62733,
    "lon": -107.18152,
    "elevation_ft": 7760.0,
-   "swe_in": 0.7,
+   "swe_in": 0.8,
    "snwd_in": 9
   },
   {
@@ -6352,7 +6322,7 @@
    "lon": -112.83849,
    "elevation_ft": 9830.0,
    "swe_in": 8.6,
-   "snwd_in": 40
+   "snwd_in": 38
   },
   {
    "triplet": "627:ID:SNTL",
@@ -6371,7 +6341,7 @@
    "lat": 40.65883,
    "lon": -111.63683,
    "elevation_ft": 8940.0,
-   "swe_in": 1.8,
+   "swe_in": 1.7,
    "snwd_in": 12
   },
   {
@@ -6381,7 +6351,7 @@
    "lat": 37.84737,
    "lon": -107.72657,
    "elevation_ft": 10030.0,
-   "swe_in": 3.0,
+   "swe_in": 3.1,
    "snwd_in": 13
   },
   {
@@ -6391,7 +6361,7 @@
    "lat": 40.49384,
    "lon": -112.61141,
    "elevation_ft": 8290.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 11
   },
   {
@@ -6412,7 +6382,7 @@
    "lon": -119.6087,
    "elevation_ft": 8320.0,
    "swe_in": 3.8,
-   "snwd_in": 31
+   "snwd_in": 27
   },
   {
    "triplet": "634:UT:SNTL",
@@ -6421,7 +6391,7 @@
    "lat": 41.46547,
    "lon": -111.49688,
    "elevation_ft": 8930.0,
-   "swe_in": 3.3,
+   "swe_in": 3.4,
    "snwd_in": 19
   },
   {
@@ -6431,7 +6401,7 @@
    "lat": 45.21759,
    "lon": -110.237,
    "elevation_ft": 8740.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 5
   },
   {
@@ -6441,8 +6411,8 @@
    "lat": 44.41478,
    "lon": -113.39814,
    "elevation_ft": 7490.0,
-   "swe_in": 1.1,
-   "snwd_in": 6
+   "swe_in": 1.4,
+   "snwd_in": 7
   },
   {
    "triplet": "637:ID:SNTL",
@@ -6451,8 +6421,8 @@
    "lat": 43.932,
    "lon": -115.66588,
    "elevation_ft": 6090.0,
-   "swe_in": 1.6,
-   "snwd_in": 7
+   "swe_in": 1.8,
+   "snwd_in": 9
   },
   {
    "triplet": "638:ID:SNTL",
@@ -6461,8 +6431,8 @@
    "lat": 45.67008,
    "lon": -113.95315,
    "elevation_ft": 6170.0,
-   "swe_in": 0.5,
-   "snwd_in": 2
+   "swe_in": 0.6,
+   "snwd_in": 4
   },
   {
    "triplet": "639:ID:SNTL",
@@ -6471,7 +6441,7 @@
    "lat": 44.84237,
    "lon": -114.26871,
    "elevation_ft": 7620.0,
-   "swe_in": 0.9,
+   "swe_in": 1.0,
    "snwd_in": 7
   },
   {
@@ -6492,7 +6462,7 @@
    "lon": -149.26769,
    "elevation_ft": 2690.0,
    "swe_in": 5.0,
-   "snwd_in": 19
+   "snwd_in": 18
   },
   {
    "triplet": "642:WA:SNTL",
@@ -6501,8 +6471,8 @@
    "lat": 46.90585,
    "lon": -121.4827,
    "elevation_ft": 5400.0,
-   "swe_in": 3.2,
-   "snwd_in": 12
+   "swe_in": 3.5,
+   "snwd_in": 13
   },
   {
    "triplet": "643:UT:SNTL",
@@ -6511,7 +6481,7 @@
    "lat": 40.60798,
    "lon": -109.8881,
    "elevation_ft": 9550.0,
-   "swe_in": 3.4,
+   "swe_in": 3.6,
    "snwd_in": 20
   },
   {
@@ -6521,8 +6491,8 @@
    "lat": 48.36166,
    "lon": -119.08158,
    "elevation_ft": 5470.0,
-   "swe_in": 0.2,
-   "snwd_in": 0
+   "swe_in": 0.4,
+   "snwd_in": 2
   },
   {
    "triplet": "645:ID:SNTL",
@@ -6531,8 +6501,8 @@
    "lat": 48.05726,
    "lon": -116.23055,
    "elevation_ft": 5270.0,
-   "swe_in": 0.3,
-   "snwd_in": 1
+   "swe_in": 0.6,
+   "snwd_in": 4
   },
   {
    "triplet": "646:MT:SNTL",
@@ -6541,7 +6511,7 @@
    "lat": 47.68497,
    "lon": -113.96239,
    "elevation_ft": 6760.0,
-   "swe_in": 5.7,
+   "swe_in": 5.8,
    "snwd_in": 31
   },
   {
@@ -6551,7 +6521,7 @@
    "lat": 45.27173,
    "lon": -117.68747,
    "elevation_ft": 5760.0,
-   "swe_in": 1.6,
+   "swe_in": 1.7,
    "snwd_in": 10
   },
   {
@@ -6561,8 +6531,8 @@
    "lat": 47.7637,
    "lon": -123.026,
    "elevation_ft": 3960.0,
-   "swe_in": 1.7,
-   "snwd_in": 7
+   "swe_in": 2.5,
+   "snwd_in": 8
   },
   {
    "triplet": "649:MT:SNTL",
@@ -6602,7 +6572,7 @@
    "lon": -119.89473,
    "elevation_ft": 8810.0,
    "swe_in": 8.0,
-   "snwd_in": 51
+   "snwd_in": 48
   },
   {
    "triplet": "653:OR:SNTL",
@@ -6641,8 +6611,8 @@
    "lat": 45.40957,
    "lon": -112.95927,
    "elevation_ft": 8300.0,
-   "swe_in": 2.3,
-   "snwd_in": 10
+   "swe_in": 2.4,
+   "snwd_in": 11
   },
   {
    "triplet": "657:MT:SNTL",
@@ -6711,7 +6681,7 @@
    "lat": 48.15668,
    "lon": -113.9463,
    "elevation_ft": 6070.0,
-   "swe_in": 5.6,
+   "swe_in": 5.8,
    "snwd_in": 25
   },
   {
@@ -6721,7 +6691,7 @@
    "lat": 36.99396,
    "lon": -105.25988,
    "elevation_ft": 10570.0,
-   "swe_in": 0.1,
+   "swe_in": 0.0,
    "snwd_in": 0
   },
   {
@@ -6731,7 +6701,7 @@
    "lat": 45.5505,
    "lon": -122.00283,
    "elevation_ft": 3070.0,
-   "swe_in": 0.0,
+   "swe_in": 0.5,
    "snwd_in": 3
   },
   {
@@ -6741,7 +6711,7 @@
    "lat": 47.27258,
    "lon": -113.75631,
    "elevation_ft": 6110.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 14
   },
   {
@@ -6761,7 +6731,7 @@
    "lat": 39.07818,
    "lon": -107.14388,
    "elevation_ft": 9190.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 10
   },
   {
@@ -6771,7 +6741,7 @@
    "lat": 45.00568,
    "lon": -110.01411,
    "elevation_ft": 7420.0,
-   "swe_in": 0.4,
+   "swe_in": 0.5,
    "snwd_in": 3
   },
   {
@@ -6792,7 +6762,7 @@
    "lon": -121.44213,
    "elevation_ft": 4010.0,
    "swe_in": 0.7,
-   "snwd_in": 1
+   "snwd_in": 2
   },
   {
    "triplet": "673:WY:SNTL",
@@ -6821,7 +6791,7 @@
    "lat": 43.65868,
    "lon": -109.00988,
    "elevation_ft": 8990.0,
-   "swe_in": 0.0,
+   "swe_in": 0.1,
    "snwd_in": 2
   },
   {
@@ -6842,7 +6812,7 @@
    "lon": -121.74767,
    "elevation_ft": 5150.0,
    "swe_in": 0.9,
-   "snwd_in": 3
+   "snwd_in": 6
   },
   {
    "triplet": "680:CO:SNTL",
@@ -6861,8 +6831,8 @@
    "lat": 48.44488,
    "lon": -120.91551,
    "elevation_ft": 4610.0,
-   "swe_in": 0.5,
-   "snwd_in": 2
+   "swe_in": 0.6,
+   "snwd_in": 3
   },
   {
    "triplet": "682:CO:SNTL",
@@ -6881,7 +6851,7 @@
    "lat": 44.73396,
    "lon": -109.91484,
    "elevation_ft": 9420.0,
-   "swe_in": 2.9,
+   "swe_in": 3.1,
    "snwd_in": 13
   },
   {
@@ -6915,23 +6885,13 @@
    "snwd_in": 0
   },
   {
-   "triplet": "688:CO:SNTL",
-   "name": "Phantom Valley",
-   "state": "CO",
-   "lat": 40.39803,
-   "lon": -105.84606,
-   "elevation_ft": 9030.0,
-   "swe_in": 0.2,
-   "snwd_in": 0
-  },
-  {
    "triplet": "689:WY:SNTL",
    "name": "Phillips Bench",
    "state": "WY",
    "lat": 43.51687,
    "lon": -110.91258,
    "elevation_ft": 8170.0,
-   "swe_in": 1.6,
+   "swe_in": 1.7,
    "snwd_in": 14
   },
   {
@@ -6941,7 +6901,7 @@
    "lat": 46.57969,
    "lon": -111.26812,
    "elevation_ft": 6680.0,
-   "swe_in": 0.5,
+   "swe_in": 0.6,
    "snwd_in": 2
   },
   {
@@ -6961,7 +6921,7 @@
    "lat": 46.62153,
    "lon": -121.38643,
    "elevation_ft": 5800.0,
-   "swe_in": 2.6,
+   "swe_in": 2.7,
    "snwd_in": 10
   },
   {
@@ -6991,7 +6951,7 @@
    "lat": 43.56998,
    "lon": -111.21157,
    "elevation_ft": 6710.0,
-   "swe_in": 1.0,
+   "swe_in": 1.2,
    "snwd_in": 11
   },
   {
@@ -7012,7 +6972,7 @@
    "lon": -119.62624,
    "elevation_ft": 7730.0,
    "swe_in": 4.3,
-   "snwd_in": 32
+   "snwd_in": 28
   },
   {
    "triplet": "698:NV:SNTL",
@@ -7032,7 +6992,7 @@
    "lon": -120.56622,
    "elevation_ft": 3590.0,
    "swe_in": null,
-   "snwd_in": 1
+   "snwd_in": 2
   },
   {
    "triplet": "700:MT:SNTL",
@@ -7062,7 +7022,7 @@
    "lon": -121.51415,
    "elevation_ft": 4480.0,
    "swe_in": 0.6,
-   "snwd_in": 5
+   "snwd_in": 6
   },
   {
    "triplet": "703:WY:SNTL",
@@ -7082,7 +7042,7 @@
    "lon": -115.573,
    "elevation_ft": 4800.0,
    "swe_in": 0.2,
-   "snwd_in": 1
+   "snwd_in": 0
   },
   {
    "triplet": "705:AZ:SNTL",
@@ -7111,8 +7071,8 @@
    "lat": 47.87927,
    "lon": -117.08938,
    "elevation_ft": 4710.0,
-   "swe_in": 0.4,
-   "snwd_in": 0
+   "swe_in": 0.7,
+   "snwd_in": 2
   },
   {
    "triplet": "708:NM:SNTL",
@@ -7161,8 +7121,8 @@
    "lat": 45.4643,
    "lon": -121.70428,
    "elevation_ft": 4410.0,
-   "swe_in": 0.8,
-   "snwd_in": 2
+   "swe_in": 1.0,
+   "snwd_in": 4
   },
   {
    "triplet": "713:CO:SNTL",
@@ -7181,7 +7141,7 @@
    "lat": 39.45197,
    "lon": -111.27221,
    "elevation_ft": 8990.0,
-   "swe_in": 1.6,
+   "swe_in": 1.7,
    "snwd_in": 11
   },
   {
@@ -7191,7 +7151,7 @@
    "lat": 36.69935,
    "lon": -105.34145,
    "elevation_ft": 9840.0,
-   "swe_in": 0.5,
+   "swe_in": 0.4,
    "snwd_in": 2
   },
   {
@@ -7211,7 +7171,7 @@
    "lat": 40.10844,
    "lon": -107.29383,
    "elevation_ft": 10340.0,
-   "swe_in": 1.5,
+   "swe_in": 1.6,
    "snwd_in": 10
   },
   {
@@ -7222,7 +7182,7 @@
    "lon": -106.04675,
    "elevation_ft": 9710.0,
    "swe_in": 0.8,
-   "snwd_in": 3
+   "snwd_in": 4
   },
   {
    "triplet": "719:OR:SNTL",
@@ -7231,7 +7191,7 @@
    "lat": 43.90098,
    "lon": -122.03063,
    "elevation_ft": 4960.0,
-   "swe_in": 0.4,
+   "swe_in": 0.0,
    "snwd_in": 4
   },
   {
@@ -7301,8 +7261,8 @@
    "lat": 45.54475,
    "lon": -123.37331,
    "elevation_ft": 3090.0,
-   "swe_in": 0.2,
-   "snwd_in": 0
+   "swe_in": 0.7,
+   "snwd_in": 3
   },
   {
    "triplet": "727:MT:SNTL",
@@ -7311,7 +7271,7 @@
    "lat": 45.69259,
    "lon": -113.96828,
    "elevation_ft": 7890.0,
-   "swe_in": 2.0,
+   "swe_in": 2.1,
    "snwd_in": 10
   },
   {
@@ -7321,7 +7281,7 @@
    "lat": 48.65518,
    "lon": -119.8383,
    "elevation_ft": 4460.0,
-   "swe_in": 0.0,
+   "swe_in": 0.2,
    "snwd_in": 0
   },
   {
@@ -7331,8 +7291,8 @@
    "lat": 43.61193,
    "lon": -122.11758,
    "elevation_ft": 4220.0,
-   "swe_in": 0.4,
-   "snwd_in": 1
+   "swe_in": 0.5,
+   "snwd_in": 3
   },
   {
    "triplet": "730:WY:SNTL",
@@ -7371,8 +7331,8 @@
    "lat": 44.43503,
    "lon": -121.94502,
    "elevation_ft": 3740.0,
-   "swe_in": 0.5,
-   "snwd_in": 1
+   "swe_in": 0.6,
+   "snwd_in": 2
   },
   {
    "triplet": "734:WA:SNTL",
@@ -7381,8 +7341,8 @@
    "lat": 47.38485,
    "lon": -121.06323,
    "elevation_ft": 4340.0,
-   "swe_in": 0.9,
-   "snwd_in": 6
+   "swe_in": 1.0,
+   "snwd_in": 7
   },
   {
    "triplet": "735:ID:SNTL",
@@ -7401,8 +7361,8 @@
    "lat": 45.00107,
    "lon": -117.16522,
    "elevation_ft": 5400.0,
-   "swe_in": 2.1,
-   "snwd_in": 10
+   "swe_in": 2.4,
+   "snwd_in": 11
   },
   {
    "triplet": "737:CO:SNTL",
@@ -7421,8 +7381,8 @@
    "lat": 48.37428,
    "lon": -116.63917,
    "elevation_ft": 6090.0,
-   "swe_in": 1.5,
-   "snwd_in": 6
+   "swe_in": 1.9,
+   "snwd_in": 9
   },
   {
    "triplet": "739:CO:SNTL",
@@ -7431,7 +7391,7 @@
    "lat": 37.64562,
    "lon": -108.00833,
    "elevation_ft": 9160.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 5
   },
   {
@@ -7441,7 +7401,7 @@
    "lat": 45.18848,
    "lon": -115.97152,
    "elevation_ft": 6530.0,
-   "swe_in": 1.8,
+   "swe_in": 1.9,
    "snwd_in": 10
   },
   {
@@ -7462,7 +7422,7 @@
    "lon": -111.43297,
    "elevation_ft": 9900.0,
    "swe_in": 3.8,
-   "snwd_in": 18
+   "snwd_in": 16
   },
   {
    "triplet": "743:OR:SNTL",
@@ -7491,8 +7451,8 @@
    "lat": 42.69825,
    "lon": -122.14165,
    "elevation_ft": 5690.0,
-   "swe_in": 0.3,
-   "snwd_in": 2
+   "swe_in": 0.5,
+   "snwd_in": 0
   },
   {
    "triplet": "746:NV:SNTL",
@@ -7501,7 +7461,7 @@
    "lat": 41.73732,
    "lon": -115.47215,
    "elevation_ft": 7360.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 7
   },
   {
@@ -7511,8 +7471,8 @@
    "lat": 46.56603,
    "lon": -115.74216,
    "elevation_ft": 4590.0,
-   "swe_in": 0.9,
-   "snwd_in": 5
+   "swe_in": 1.1,
+   "snwd_in": 7
   },
   {
    "triplet": "748:WA:SNTL",
@@ -7521,8 +7481,8 @@
    "lat": 46.19325,
    "lon": -122.25393,
    "elevation_ft": 3990.0,
-   "swe_in": 0.2,
-   "snwd_in": 3
+   "swe_in": 0.5,
+   "snwd_in": 5
   },
   {
    "triplet": "749:ID:SNTL",
@@ -7551,7 +7511,7 @@
    "lat": 44.50012,
    "lon": -107.42947,
    "elevation_ft": 9570.0,
-   "swe_in": 2.2,
+   "swe_in": 2.3,
    "snwd_in": 14
   },
   {
@@ -7581,7 +7541,7 @@
    "lat": 45.40125,
    "lon": -110.95758,
    "elevation_ft": 8060.0,
-   "swe_in": 2.5,
+   "swe_in": 2.6,
    "snwd_in": 22
   },
   {
@@ -7631,7 +7591,7 @@
    "lat": 46.24212,
    "lon": -113.7725,
    "elevation_ft": 7260.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 10
   },
   {
@@ -7661,7 +7621,7 @@
    "lat": 40.78931,
    "lon": -111.09192,
    "elevation_ft": 7640.0,
-   "swe_in": 0.7,
+   "swe_in": 0.6,
    "snwd_in": 6
   },
   {
@@ -7671,7 +7631,7 @@
    "lat": 44.13361,
    "lon": -110.66917,
    "elevation_ft": 6900.0,
-   "swe_in": 1.1,
+   "swe_in": 1.2,
    "snwd_in": 9
   },
   {
@@ -7691,7 +7651,7 @@
    "lat": 40.56914,
    "lon": -111.65852,
    "elevation_ft": 9170.0,
-   "swe_in": 5.6,
+   "swe_in": 5.7,
    "snwd_in": 29
   },
   {
@@ -7721,8 +7681,8 @@
    "lat": 43.48407,
    "lon": -114.82692,
    "elevation_ft": 5780.0,
-   "swe_in": 0.4,
-   "snwd_in": 2
+   "swe_in": 0.6,
+   "snwd_in": 3
   },
   {
    "triplet": "770:ID:SNTL",
@@ -7731,7 +7691,7 @@
    "lat": 42.95275,
    "lon": -111.35933,
    "elevation_ft": 6830.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 9
   },
   {
@@ -7742,7 +7702,7 @@
    "lon": -119.6003,
    "elevation_ft": 8770.0,
    "swe_in": 5.8,
-   "snwd_in": 38
+   "snwd_in": 34
   },
   {
    "triplet": "772:WY:SNTL",
@@ -7761,7 +7721,7 @@
    "lat": 37.96647,
    "lon": -105.53671,
    "elevation_ft": 10790.0,
-   "swe_in": 4.4,
+   "swe_in": 4.6,
    "snwd_in": 16
   },
   {
@@ -7772,7 +7732,7 @@
    "lon": -116.90029,
    "elevation_ft": 6650.0,
    "swe_in": 1.5,
-   "snwd_in": 12
+   "snwd_in": 11
   },
   {
    "triplet": "775:WY:SNTL",
@@ -7791,8 +7751,8 @@
    "lat": 46.1795,
    "lon": -121.92661,
    "elevation_ft": 3400.0,
-   "swe_in": 0.0,
-   "snwd_in": 0
+   "swe_in": 0.2,
+   "snwd_in": 2
   },
   {
    "triplet": "777:WA:SNTL",
@@ -7801,8 +7761,8 @@
    "lat": 46.26113,
    "lon": -122.1772,
    "elevation_ft": 3520.0,
-   "swe_in": 0.3,
-   "snwd_in": 3
+   "swe_in": 0.4,
+   "snwd_in": 4
   },
   {
    "triplet": "778:CA:SNTL",
@@ -7811,8 +7771,8 @@
    "lat": 38.66627,
    "lon": -119.81741,
    "elevation_ft": 6060.0,
-   "swe_in": 2.6,
-   "snwd_in": 17
+   "swe_in": 2.5,
+   "snwd_in": 14
   },
   {
    "triplet": "779:WY:SNTL",
@@ -7821,7 +7781,7 @@
    "lat": 42.52516,
    "lon": -110.66148,
    "elevation_ft": 9020.0,
-   "swe_in": 1.5,
+   "swe_in": 1.6,
    "snwd_in": 16
   },
   {
@@ -7852,7 +7812,7 @@
    "lon": -116.24805,
    "elevation_ft": 6240.0,
    "swe_in": 1.6,
-   "snwd_in": 12
+   "snwd_in": 13
   },
   {
    "triplet": "783:MT:SNTL",
@@ -7861,8 +7821,8 @@
    "lat": 47.17902,
    "lon": -114.33371,
    "elevation_ft": 6120.0,
-   "swe_in": 0.9,
-   "snwd_in": 7
+   "swe_in": 1.0,
+   "snwd_in": 8
   },
   {
    "triplet": "784:CA:SNTL",
@@ -7891,7 +7851,7 @@
    "lat": 43.03312,
    "lon": -109.17021,
    "elevation_ft": 8610.0,
-   "swe_in": 0.1,
+   "swe_in": 0.2,
    "snwd_in": 1
   },
   {
@@ -7901,8 +7861,8 @@
    "lat": 48.90902,
    "lon": -114.86298,
    "elevation_ft": 6040.0,
-   "swe_in": 5.1,
-   "snwd_in": 20
+   "swe_in": 5.3,
+   "snwd_in": 22
   },
   {
    "triplet": "788:WA:SNTL",
@@ -7912,7 +7872,7 @@
    "lon": -121.34162,
    "elevation_ft": 3850.0,
    "swe_in": 0.2,
-   "snwd_in": 6
+   "snwd_in": 1
   },
   {
    "triplet": "789:OR:SNTL",
@@ -7932,7 +7892,7 @@
    "lon": -110.50462,
    "elevation_ft": 10140.0,
    "swe_in": 2.1,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "791:WA:SNTL",
@@ -7952,7 +7912,7 @@
    "lon": -114.20902,
    "elevation_ft": 7440.0,
    "swe_in": 1.3,
-   "snwd_in": 7
+   "snwd_in": 6
   },
   {
    "triplet": "793:CO:SNTL",
@@ -8021,7 +7981,7 @@
    "lat": 43.44907,
    "lon": -122.13808,
    "elevation_ft": 5610.0,
-   "swe_in": 1.1,
+   "swe_in": 1.3,
    "snwd_in": 4
   },
   {
@@ -8032,7 +7992,7 @@
    "lon": -106.1577,
    "elevation_ft": 9350.0,
    "swe_in": 0.5,
-   "snwd_in": 3
+   "snwd_in": 4
   },
   {
    "triplet": "803:ID:SNTL",
@@ -8041,8 +8001,8 @@
    "lat": 47.55545,
    "lon": -115.82422,
    "elevation_ft": 5570.0,
-   "swe_in": 0.9,
-   "snwd_in": 6
+   "swe_in": 1.0,
+   "snwd_in": 7
   },
   {
    "triplet": "804:WA:SNTL",
@@ -8051,8 +8011,8 @@
    "lat": 46.09497,
    "lon": -121.76345,
    "elevation_ft": 4280.0,
-   "swe_in": 0.6,
-   "snwd_in": 4
+   "swe_in": 0.8,
+   "snwd_in": 5
   },
   {
    "triplet": "805:ID:SNTL",
@@ -8062,7 +8022,7 @@
    "lon": -113.96887,
    "elevation_ft": 7640.0,
    "swe_in": 2.1,
-   "snwd_in": 13
+   "snwd_in": 12
   },
   {
    "triplet": "806:WY:SNTL",
@@ -8071,7 +8031,7 @@
    "lat": 44.47764,
    "lon": -110.15651,
    "elevation_ft": 8440.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 10
   },
   {
@@ -8082,7 +8042,7 @@
    "lon": -110.03808,
    "elevation_ft": 7140.0,
    "swe_in": 0.6,
-   "snwd_in": 2
+   "snwd_in": 4
   },
   {
    "triplet": "809:CA:SNTL",
@@ -8092,7 +8052,7 @@
    "lon": -120.15362,
    "elevation_ft": 6760.0,
    "swe_in": 2.8,
-   "snwd_in": 23
+   "snwd_in": 21
   },
   {
    "triplet": "810:OR:SNTL",
@@ -8102,7 +8062,7 @@
    "lon": -121.42592,
    "elevation_ft": 5030.0,
    "swe_in": 0.5,
-   "snwd_in": 2
+   "snwd_in": 1
   },
   {
    "triplet": "811:NV:SNTL",
@@ -8112,7 +8072,7 @@
    "lon": -116.0293,
    "elevation_ft": 6320.0,
    "swe_in": 0.6,
-   "snwd_in": 3
+   "snwd_in": 1
   },
   {
    "triplet": "812:OR:SNTL",
@@ -8131,8 +8091,8 @@
    "lat": 44.78562,
    "lon": -111.71,
    "elevation_ft": 7950.0,
-   "swe_in": 1.7,
-   "snwd_in": 8
+   "swe_in": 1.8,
+   "snwd_in": 10
   },
   {
    "triplet": "814:UT:SNTL",
@@ -8141,7 +8101,7 @@
    "lat": 40.6235,
    "lon": -111.53322,
    "elevation_ft": 9260.0,
-   "swe_in": 4.1,
+   "swe_in": 4.2,
    "snwd_in": 27
   },
   {
@@ -8152,7 +8112,7 @@
    "lon": -121.64095,
    "elevation_ft": 5680.0,
    "swe_in": 0.4,
-   "snwd_in": 0
+   "snwd_in": 1
   },
   {
    "triplet": "816:WY:SNTL",
@@ -8221,7 +8181,7 @@
    "lat": 43.74902,
    "lon": -110.0578,
    "elevation_ft": 9590.0,
-   "swe_in": 2.6,
+   "swe_in": 2.7,
    "snwd_in": 14
   },
   {
@@ -8241,7 +8201,7 @@
    "lat": 46.11868,
    "lon": -117.8505,
    "elevation_ft": 5520.0,
-   "swe_in": 0.7,
+   "swe_in": 0.8,
    "snwd_in": 7
   },
   {
@@ -8271,7 +8231,7 @@
    "lat": 39.99881,
    "lon": -107.23618,
    "elevation_ft": 9750.0,
-   "swe_in": 0.9,
+   "swe_in": 1.0,
    "snwd_in": 1
   },
   {
@@ -8301,8 +8261,8 @@
    "lat": 43.62903,
    "lon": -115.43818,
    "elevation_ft": 7790.0,
-   "swe_in": 3.8,
-   "snwd_in": 20
+   "swe_in": 4.2,
+   "snwd_in": 22
   },
   {
    "triplet": "831:WY:SNTL",
@@ -8321,7 +8281,7 @@
    "lat": 47.23328,
    "lon": -120.29412,
    "elevation_ft": 5480.0,
-   "swe_in": 1.4,
+   "swe_in": 1.6,
    "snwd_in": 6
   },
   {
@@ -8331,7 +8291,7 @@
    "lat": 40.739,
    "lon": -109.6728,
    "elevation_ft": 9440.0,
-   "swe_in": 1.7,
+   "swe_in": 1.8,
    "snwd_in": 16
   },
   {
@@ -8342,7 +8302,7 @@
    "lon": -120.18407,
    "elevation_ft": 6500.0,
    "swe_in": 3.8,
-   "snwd_in": 26
+   "snwd_in": 25
   },
   {
    "triplet": "835:MT:SNTL",
@@ -8351,8 +8311,8 @@
    "lat": 46.14287,
    "lon": -114.44755,
    "elevation_ft": 5530.0,
-   "swe_in": 0.6,
-   "snwd_in": 5
+   "swe_in": 0.7,
+   "snwd_in": 6
   },
   {
    "triplet": "836:MT:SNTL",
@@ -8362,7 +8322,7 @@
    "lon": -114.5056,
    "elevation_ft": 6380.0,
    "swe_in": 1.1,
-   "snwd_in": 8
+   "snwd_in": 9
   },
   {
    "triplet": "837:WY:SNTL",
@@ -8371,7 +8331,7 @@
    "lat": 44.15178,
    "lon": -110.22122,
    "elevation_ft": 9240.0,
-   "swe_in": 4.6,
+   "swe_in": 4.7,
    "snwd_in": 21
   },
   {
@@ -8401,7 +8361,7 @@
    "lat": 37.48563,
    "lon": -106.83528,
    "elevation_ft": 10140.0,
-   "swe_in": 3.1,
+   "swe_in": 3.2,
    "snwd_in": 15
   },
   {
@@ -8411,8 +8371,8 @@
    "lat": 47.28734,
    "lon": -120.37015,
    "elevation_ft": 4330.0,
-   "swe_in": 1.1,
-   "snwd_in": 8
+   "swe_in": 1.3,
+   "snwd_in": 10
   },
   {
    "triplet": "842:CO:SNTL",
@@ -8441,7 +8401,7 @@
    "lat": 39.93667,
    "lon": -112.41478,
    "elevation_ft": 7310.0,
-   "swe_in": 1.9,
+   "swe_in": 1.8,
    "snwd_in": 12
   },
   {
@@ -8451,7 +8411,7 @@
    "lat": 43.79942,
    "lon": -114.85273,
    "elevation_ft": 8930.0,
-   "swe_in": 2.7,
+   "swe_in": 2.8,
    "snwd_in": 17
   },
   {
@@ -8462,7 +8422,7 @@
    "lon": -119.23433,
    "elevation_ft": 9400.0,
    "swe_in": 2.5,
-   "snwd_in": 24
+   "snwd_in": 20
   },
   {
    "triplet": "847:MT:SNTL",
@@ -8471,7 +8431,7 @@
    "lat": 47.91998,
    "lon": -112.79087,
    "elevation_ft": 5640.0,
-   "swe_in": 0.8,
+   "swe_in": 0.9,
    "snwd_in": 7
   },
   {
@@ -8491,8 +8451,8 @@
    "lat": 39.13242,
    "lon": -114.95575,
    "elevation_ft": 9170.0,
-   "swe_in": 3.8,
-   "snwd_in": 25
+   "swe_in": 4.0,
+   "snwd_in": 23
   },
   {
    "triplet": "850:MT:SNTL",
@@ -8501,7 +8461,7 @@
    "lat": 46.27368,
    "lon": -113.164,
    "elevation_ft": 7840.0,
-   "swe_in": 2.4,
+   "swe_in": 2.5,
    "snwd_in": 18
   },
   {
@@ -8511,7 +8471,7 @@
    "lat": 41.1591,
    "lon": -106.92809,
    "elevation_ft": 9250.0,
-   "swe_in": 1.7,
+   "swe_in": 1.8,
    "snwd_in": 10
   },
   {
@@ -8521,8 +8481,8 @@
    "lat": 37.575,
    "lon": -112.90155,
    "elevation_ft": 9150.0,
-   "swe_in": 3.6,
-   "snwd_in": 19
+   "swe_in": 3.4,
+   "snwd_in": 17
   },
   {
    "triplet": "854:NM:SNTL",
@@ -8532,7 +8492,7 @@
    "lon": -105.54337,
    "elevation_ft": 11110.0,
    "swe_in": 0.7,
-   "snwd_in": 1
+   "snwd_in": 2
   },
   {
    "triplet": "855:ID:SNTL",
@@ -8541,7 +8501,7 @@
    "lat": 45.0722,
    "lon": -116.45413,
    "elevation_ft": 5590.0,
-   "swe_in": 1.1,
+   "swe_in": 0.9,
    "snwd_in": 7
   },
   {
@@ -8571,7 +8531,7 @@
    "lat": 44.61088,
    "lon": -111.14998,
    "elevation_ft": 6790.0,
-   "swe_in": 1.0,
+   "swe_in": 1.1,
    "snwd_in": 8
   },
   {
@@ -8591,8 +8551,8 @@
    "lat": 44.53267,
    "lon": -111.41085,
    "elevation_ft": 7670.0,
-   "swe_in": 2.2,
-   "snwd_in": 12
+   "swe_in": 2.4,
+   "snwd_in": 13
   },
   {
    "triplet": "861:AZ:SNTL",
@@ -8601,7 +8561,7 @@
    "lat": 35.14189,
    "lon": -112.14966,
    "elevation_ft": 7190.0,
-   "swe_in": 0.1,
+   "swe_in": 0.2,
    "snwd_in": 0
   },
   {
@@ -8611,8 +8571,8 @@
    "lat": 45.04575,
    "lon": -109.90987,
    "elevation_ft": 8730.0,
-   "swe_in": 1.2,
-   "snwd_in": 8
+   "swe_in": 1.3,
+   "snwd_in": 9
   },
   {
    "triplet": "863:WA:SNTL",
@@ -8641,8 +8601,8 @@
    "lat": 37.83633,
    "lon": -111.88163,
    "elevation_ft": 9640.0,
-   "swe_in": 2.2,
-   "snwd_in": 14
+   "swe_in": 2.3,
+   "snwd_in": 13
   },
   {
    "triplet": "866:AZ:SNTL",
@@ -8691,7 +8651,7 @@
    "lat": 40.43397,
    "lon": -105.73588,
    "elevation_ft": 10710.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 4
   },
   {
@@ -8721,7 +8681,7 @@
    "lat": 45.06704,
    "lon": -118.15185,
    "elevation_ft": 5730.0,
-   "swe_in": 1.4,
+   "swe_in": 1.5,
    "snwd_in": 9
   },
   {
@@ -8731,7 +8691,7 @@
    "lat": 37.47903,
    "lon": -106.80234,
    "elevation_ft": 10930.0,
-   "swe_in": 10.3,
+   "swe_in": 10.5,
    "snwd_in": 37
   },
   {
@@ -8771,7 +8731,7 @@
    "lat": 43.93225,
    "lon": -109.81775,
    "elevation_ft": 8340.0,
-   "swe_in": 0.3,
+   "swe_in": null,
    "snwd_in": 3
   },
   {
@@ -8791,7 +8751,7 @@
    "lat": 43.7685,
    "lon": -114.41812,
    "elevation_ft": 6310.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 8
   },
   {
@@ -8831,7 +8791,7 @@
    "lat": 47.33198,
    "lon": -121.46975,
    "elevation_ft": 3000.0,
-   "swe_in": 0.4,
+   "swe_in": 0.5,
    "snwd_in": 0
   },
   {
@@ -8841,7 +8801,7 @@
    "lat": 46.99521,
    "lon": -113.92667,
    "elevation_ft": 7270.0,
-   "swe_in": 3.8,
+   "swe_in": 3.9,
    "snwd_in": 19
   },
   {
@@ -8861,8 +8821,8 @@
    "lat": 46.84234,
    "lon": -112.50787,
    "elevation_ft": 7030.0,
-   "swe_in": 1.4,
-   "snwd_in": 8
+   "swe_in": 1.6,
+   "snwd_in": 10
   },
   {
    "triplet": "904:CO:SNTL",
@@ -8871,7 +8831,7 @@
    "lat": 37.44146,
    "lon": -108.02468,
    "elevation_ft": 10780.0,
-   "swe_in": 5.2,
+   "swe_in": 5.1,
    "snwd_in": 21
   },
   {
@@ -8911,7 +8871,7 @@
    "lat": 47.77957,
    "lon": -121.69847,
    "elevation_ft": 3500.0,
-   "swe_in": 0.1,
+   "swe_in": 0.2,
    "snwd_in": 1
   },
   {
@@ -8931,7 +8891,7 @@
    "lat": 48.69092,
    "lon": -121.90893,
    "elevation_ft": 3050.0,
-   "swe_in": 0.3,
+   "swe_in": 0.7,
    "snwd_in": 0
   },
   {
@@ -8971,7 +8931,7 @@
    "lat": 37.85192,
    "lon": -105.43666,
    "elevation_ft": 9650.0,
-   "swe_in": 0.2,
+   "swe_in": 0.1,
    "snwd_in": 1
   },
   {
@@ -8981,7 +8941,7 @@
    "lat": 44.84618,
    "lon": -113.83732,
    "elevation_ft": 8620.0,
-   "swe_in": 1.3,
+   "swe_in": 1.4,
    "snwd_in": 8
   },
   {
@@ -8991,7 +8951,7 @@
    "lat": 45.59723,
    "lon": -111.95902,
    "elevation_ft": 8500.0,
-   "swe_in": 2.5,
+   "swe_in": 2.6,
    "snwd_in": 11
   },
   {
@@ -9001,8 +8961,8 @@
    "lat": 48.17478,
    "lon": -109.64728,
    "elevation_ft": 4730.0,
-   "swe_in": 0.3,
-   "snwd_in": 1
+   "swe_in": 0.4,
+   "snwd_in": null
   },
   {
    "triplet": "918:MT:SNTL",
@@ -9011,8 +8971,8 @@
    "lat": 48.97523,
    "lon": -115.81915,
    "elevation_ft": 4250.0,
-   "swe_in": 0.1,
-   "snwd_in": 1
+   "swe_in": 0.2,
+   "snwd_in": 2
   },
   {
    "triplet": "919:MT:SNTL",
@@ -9061,7 +9021,7 @@
    "lat": 42.59076,
    "lon": -108.90273,
    "elevation_ft": 9690.0,
-   "swe_in": 3.3,
+   "swe_in": 3.4,
    "snwd_in": 15
   },
   {
@@ -9081,7 +9041,7 @@
    "lat": 45.44575,
    "lon": -122.03125,
    "elevation_ft": 2690.0,
-   "swe_in": 0.0,
+   "swe_in": 0.1,
    "snwd_in": 0
   },
   {
@@ -9092,7 +9052,7 @@
    "lon": -113.83402,
    "elevation_ft": 9540.0,
    "swe_in": 3.9,
-   "snwd_in": 26
+   "snwd_in": 24
   },
   {
    "triplet": "927:AZ:SNTL",
@@ -9131,8 +9091,8 @@
    "lat": 46.12588,
    "lon": -113.30792,
    "elevation_ft": 7190.0,
-   "swe_in": 1.5,
-   "snwd_in": 7
+   "swe_in": 1.6,
+   "snwd_in": 6
   },
   {
    "triplet": "931:WY:SNTL",
@@ -9151,8 +9111,8 @@
    "lat": 48.12632,
    "lon": -115.6234,
    "elevation_ft": 5050.0,
-   "swe_in": 0.7,
-   "snwd_in": 5
+   "swe_in": 1.0,
+   "snwd_in": 7
   },
   {
    "triplet": "933:NM:SNTL",
@@ -9261,7 +9221,7 @@
    "lat": 47.8722,
    "lon": -123.07879,
    "elevation_ft": 3990.0,
-   "swe_in": 0.9,
+   "swe_in": 1.0,
    "snwd_in": 4
   },
   {
@@ -9292,7 +9252,7 @@
    "lon": -149.48543,
    "elevation_ft": 2400.0,
    "swe_in": null,
-   "snwd_in": 42
+   "snwd_in": 38
   },
   {
    "triplet": "947:AK:SNTL",
@@ -9322,7 +9282,7 @@
    "lon": -145.87358,
    "elevation_ft": 1840.0,
    "swe_in": 1.7,
-   "snwd_in": 7
+   "snwd_in": 6
   },
   {
    "triplet": "950:AK:SNTL",
@@ -9332,7 +9292,7 @@
    "lon": -146.21215,
    "elevation_ft": 3020.0,
    "swe_in": 2.6,
-   "snwd_in": 12
+   "snwd_in": 11
   },
   {
    "triplet": "951:AK:SNTL",
@@ -9351,18 +9311,8 @@
    "lat": 65.09852,
    "lon": -144.93318,
    "elevation_ft": 2790.0,
-   "swe_in": 2.3,
+   "swe_in": 2.4,
    "snwd_in": 12
-  },
-  {
-   "triplet": "954:AK:SNTL",
-   "name": "Turnagain Pass",
-   "state": "AK",
-   "lat": 60.78043,
-   "lon": -149.18325,
-   "elevation_ft": 1860.0,
-   "swe_in": 7.3,
-   "snwd_in": 43
   },
   {
    "triplet": "955:AK:SNTL",
@@ -9371,7 +9321,7 @@
    "lat": 60.61713,
    "lon": -149.53128,
    "elevation_ft": 1340.0,
-   "swe_in": 3.7,
+   "swe_in": 3.6,
    "snwd_in": 16
   },
   {
@@ -9381,8 +9331,8 @@
    "lat": 60.60832,
    "lon": -149.06313,
    "elevation_ft": 1070.0,
-   "swe_in": 4.4,
-   "snwd_in": 19
+   "swe_in": 4.2,
+   "snwd_in": 17
   },
   {
    "triplet": "957:AK:SNTL",
@@ -9392,7 +9342,7 @@
    "lon": -149.47817,
    "elevation_ft": 4780.0,
    "swe_in": null,
-   "snwd_in": 36
+   "snwd_in": 40
   },
   {
    "triplet": "958:AK:SNTL",
@@ -9412,7 +9362,7 @@
    "lon": -149.6936,
    "elevation_ft": 1150.0,
    "swe_in": 3.2,
-   "snwd_in": 16
+   "snwd_in": 15
   },
   {
    "triplet": "960:AK:SNTL",
@@ -9432,7 +9382,7 @@
    "lon": -145.24553,
    "elevation_ft": 440.0,
    "swe_in": null,
-   "snwd_in": 3
+   "snwd_in": 2
   },
   {
    "triplet": "963:AK:SNTL",
@@ -9451,7 +9401,7 @@
    "lat": 60.25965,
    "lon": -149.34228,
    "elevation_ft": 720.0,
-   "swe_in": 3.5,
+   "swe_in": 3.7,
    "snwd_in": 8
   },
   {
@@ -9462,7 +9412,7 @@
    "lon": -150.47369,
    "elevation_ft": 290.0,
    "swe_in": 0.9,
-   "snwd_in": 3
+   "snwd_in": 2
   },
   {
    "triplet": "967:AK:SNTL",
@@ -9482,7 +9432,7 @@
    "lon": -149.3033,
    "elevation_ft": 3060.0,
    "swe_in": null,
-   "snwd_in": 10
+   "snwd_in": 9
   },
   {
    "triplet": "969:AZ:SNTL",
@@ -9521,7 +9471,7 @@
    "lat": 40.83033,
    "lon": -111.76457,
    "elevation_ft": 6740.0,
-   "swe_in": 1.0,
+   "swe_in": 0.0,
    "snwd_in": 13
   },
   {
@@ -9541,8 +9491,8 @@
    "lat": 47.94485,
    "lon": -123.42594,
    "elevation_ft": 5010.0,
-   "swe_in": 0.6,
-   "snwd_in": 3
+   "swe_in": 0.7,
+   "snwd_in": 4
   },
   {
    "triplet": "975:WA:SNTL",
@@ -9571,8 +9521,8 @@
    "lat": 43.76377,
    "lon": -116.09685,
    "elevation_ft": 6370.0,
-   "swe_in": 2.6,
-   "snwd_in": 21
+   "swe_in": 3.2,
+   "snwd_in": 23
   },
   {
    "triplet": "979:ID:SNTL",
@@ -9581,7 +9531,7 @@
    "lat": 44.37665,
    "lon": -116.3366,
    "elevation_ft": 4960.0,
-   "swe_in": 0.8,
+   "swe_in": 1.0,
    "snwd_in": 6
   },
   {
@@ -9611,7 +9561,7 @@
    "lat": 37.9725,
    "lon": -111.83355,
    "elevation_ft": 10010.0,
-   "swe_in": 4.3,
+   "swe_in": 4.4,
    "snwd_in": 18
   },
   {
@@ -9651,7 +9601,7 @@
    "lat": 48.89368,
    "lon": -116.75743,
    "elevation_ft": 5000.0,
-   "swe_in": 1.0,
+   "swe_in": 1.2,
    "snwd_in": 3
   },
   {
@@ -9661,7 +9611,7 @@
    "lat": 46.805,
    "lon": -116.8535,
    "elevation_ft": 4700.0,
-   "swe_in": 0.1,
+   "swe_in": 0.3,
    "snwd_in": 2
   },
   {
@@ -9691,7 +9641,7 @@
    "lat": 40.8852,
    "lon": -110.8277,
    "elevation_ft": 8510.0,
-   "swe_in": 0.4,
+   "swe_in": 0.5,
    "snwd_in": 5
   },
   {
@@ -9721,12 +9671,12 @@
    "lat": 48.76292,
    "lon": -121.69823,
    "elevation_ft": 3520.0,
-   "swe_in": 0.0,
-   "snwd_in": 0
+   "swe_in": 0.2,
+   "snwd_in": null
   }
  ],
  "stats": {
   "stations_with_snow": 881,
-  "mean_depth_in_of_snowy": 10.9
+  "mean_depth_in_of_snowy": 10.7
  }
 }
