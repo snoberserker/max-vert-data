@@ -1,11 +1,11 @@
 {
-  "collectedAt": "2026-11-23T00:48:23Z",
+  "collectedAt": "2026-11-23T06:47:15Z",
   "resorts": {
     "banff-sunshine": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Banff",
-      "issuedAt": "2026-11-22T22:00:00Z",
+      "issuedAt": "2026-11-23T01:39:00Z",
       "periods": [
         {
           "name": "Tonight",
@@ -388,7 +388,7 @@
     "lake-louise": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
-      "sourceLocation": "Yoho (National Park)",
+      "sourceLocation": "Kootenay (National Park)",
       "issuedAt": "2026-11-22T23:00:00Z",
       "periods": [
         {
@@ -517,14 +517,14 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Jasper",
-      "issuedAt": "2026-11-22T22:00:00Z",
+      "issuedAt": "2026-11-23T04:09:00Z",
       "periods": [
         {
           "name": "Tonight",
           "daytime": false,
           "summary": "A few clouds",
-          "detail": "Clear. Becoming partly cloudy overnight. Wind up to 15 km/h. Low minus 13. Wind chill minus 10 this evening and minus 19 overnight.",
-          "temperature": -13,
+          "detail": "Clear. Becoming partly cloudy overnight. Wind up to 15 km/h. Low minus 15. Wind chill minus 21 this evening.",
+          "temperature": -15,
           "unit": "C",
           "precipitation": null,
           "wind": "10 km/h SW"
