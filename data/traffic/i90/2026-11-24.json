@@ -2,8 +2,8 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-24T11:31:21.819178+00:00",
- "activeEvents": 14,
+ "collectedAt": "2026-11-24T14:19:26.476860+00:00",
+ "activeEvents": 13,
  "events": [
   {
    "type": "alert",
@@ -19,31 +19,7 @@
    "road": "I-90",
    "direction": "Both Directions",
    "closed": 0,
-   "updated": 1795468889663
-  },
-  {
-   "type": "alert",
-   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and dry.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1795468901627
-  },
-  {
-   "type": "alert",
-   "headline": "From 9 p.m. to 5 a.m. nightly Wednesday, Nov. 18, through Sunday morning, Nov. 22, and Monday and Tuesday nights, Nov. 23-24, the 148th Avenue Southeast on-ramp to westbound I-90 will close for construction. Signed detours will be available.",
-   "road": "I-90",
-   "direction": "Westbound",
-   "closed": 0,
-   "updated": 1795207092953
-  },
-  {
-   "type": "alert",
-   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 5 a.m., starting the night of Sunday, Nov. 15 to the morning of Tuesday, Nov. 24. A signed detour will be in place.",
-   "road": "I-90",
-   "direction": "Eastbound",
-   "closed": 0,
-   "updated": 1794855213157
+   "updated": 1795525562830
   },
   {
    "type": "alert",
@@ -55,19 +31,27 @@
   },
   {
    "type": "alert",
+   "headline": "I-90 FROM RITZVILLE TO SR 904: No current information available.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795525592400
+  },
+  {
+   "type": "alert",
+   "headline": "From 9 p.m. to 5 a.m. nightly Wednesday, Nov. 18, through Sunday morning, Nov. 22, and Monday and Tuesday nights, Nov. 23-24, the 148th Avenue Southeast on-ramp to westbound I-90 will close for construction. Signed detours will be available.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795207092953
+  },
+  {
+   "type": "alert",
    "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 8 a.m., starting the night of Saturday, Nov. 21 to the morning of Tuesday, Nov. 24. A signed detour will be in place.",
    "road": "I-90",
    "direction": "Eastbound",
    "closed": 0,
    "updated": 1794855312257
-  },
-  {
-   "type": "alert",
-   "headline": "I-90 FROM RITZVILLE TO SR 904: Bare and dry.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1795468840963
   },
   {
    "type": "alert",
@@ -84,6 +68,14 @@
    "direction": "Westbound",
    "closed": 0,
    "updated": 1795207298860
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and dry.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795525549697
   },
   {
    "type": "alert",
@@ -111,11 +103,11 @@
   },
   {
    "type": "alert",
-   "headline": "I-90 FROM SR 904 TO US 195: Bare and wet to bare and dry.",
+   "headline": "I-90 FROM SR 904 TO US 195: Bare and dry.",
    "road": "I-90",
    "direction": "Both Directions",
    "closed": 0,
-   "updated": 1795468972177
+   "updated": 1795525270537
   }
  ]
 }
