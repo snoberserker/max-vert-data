@@ -1,17 +1,17 @@
 {
-  "collectedAt": "2026-11-24T00:41:56Z",
+  "collectedAt": "2026-11-24T06:37:38Z",
   "resorts": {
     "banff-sunshine": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Banff",
-      "issuedAt": "2026-11-23T22:00:00Z",
+      "issuedAt": "2026-11-24T01:48:00Z",
       "periods": [
         {
           "name": "Tonight",
           "daytime": false,
           "summary": "Partly cloudy",
-          "detail": "Partly cloudy. Wind up to 15 km/h. Low minus 9. Wind chill minus 7 this evening and minus 16 overnight.",
+          "detail": "Partly cloudy. Wind up to 15 km/h. Low minus 9. Wind chill minus 10 this evening and minus 16 overnight.",
           "temperature": -9,
           "unit": "C",
           "precipitation": null,
@@ -517,13 +517,13 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Jasper",
-      "issuedAt": "2026-11-23T22:00:00Z",
+      "issuedAt": "2026-11-24T01:48:00Z",
       "periods": [
         {
           "name": "Tonight",
           "daytime": false,
-          "summary": "A few clouds",
-          "detail": "Clear. Becoming partly cloudy this evening. Wind up to 15 km/h. Low minus 9. Wind chill minus 14 overnight.",
+          "summary": "Partly cloudy",
+          "detail": "Partly cloudy. Wind up to 15 km/h. Low minus 9. Wind chill near minus 14.",
           "temperature": -9,
           "unit": "C",
           "precipitation": null,
