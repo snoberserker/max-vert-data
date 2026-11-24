@@ -1,6 +1,6 @@
 {
-  "collectedAt": "2026-11-23T14:18:18.174009+00:00",
-  "date": "2026-11-23",
+  "collectedAt": "2026-11-24T11:30:45.105881+00:00",
+  "date": "2026-11-24",
   "points": [
     {
       "label": "Mammoth Mountain, CA",
@@ -9,64 +9,64 @@
       "office": "HNX",
       "periods": [
         {
-          "name": "Today",
+          "name": "Overnight",
           "pop": 0,
-          "short": "Sunny",
-          "tempF": 28
-        },
-        {
-          "name": "Tonight",
-          "pop": 0,
-          "short": "Partly Cloudy",
+          "short": "Mostly Clear",
           "tempF": 19
         },
         {
           "name": "Tuesday",
-          "pop": 1,
-          "short": "Mostly Cloudy",
-          "tempF": 32
+          "pop": 0,
+          "short": "Mostly Sunny",
+          "tempF": 33
         },
         {
           "name": "Tuesday Night",
-          "pop": 24,
+          "pop": 1,
           "short": "Slight Chance Light Snow",
-          "tempF": 22
+          "tempF": 21
         },
         {
           "name": "Wednesday",
-          "pop": 24,
-          "short": "Slight Chance Light Snow then Mostly Sunny",
-          "tempF": 31
+          "pop": 1,
+          "short": "Mostly Sunny",
+          "tempF": 33
         },
         {
           "name": "Wednesday Night",
           "pop": 0,
           "short": "Mostly Clear",
-          "tempF": 23
+          "tempF": 22
         },
         {
           "name": "Thanksgiving Day",
           "pop": 0,
-          "short": "Partly Sunny",
-          "tempF": 40
+          "short": "Mostly Sunny",
+          "tempF": 42
         },
         {
           "name": "Thursday Night",
           "pop": 0,
           "short": "Mostly Cloudy",
-          "tempF": 31
+          "tempF": 32
         },
         {
           "name": "Friday",
           "pop": 1,
           "short": "Partly Sunny",
-          "tempF": 41
+          "tempF": 43
         },
         {
           "name": "Friday Night",
-          "pop": 8,
+          "pop": 3,
           "short": "Mostly Cloudy",
-          "tempF": 30
+          "tempF": 33
+        },
+        {
+          "name": "Saturday",
+          "pop": 6,
+          "short": "Mostly Sunny",
+          "tempF": 37
         }
       ]
     },
@@ -77,28 +77,22 @@
       "office": "BOU",
       "periods": [
         {
-          "name": "Today",
-          "pop": 61,
-          "short": "Mostly Cloudy then Snow Showers Likely",
-          "tempF": 34
-        },
-        {
           "name": "Tonight",
-          "pop": 68,
-          "short": "Snow Showers Likely",
+          "pop": 22,
+          "short": "Slight Chance Snow Showers",
           "tempF": 15
         },
         {
           "name": "Tuesday",
           "pop": 0,
           "short": "Sunny",
-          "tempF": 36
+          "tempF": 35
         },
         {
           "name": "Tuesday Night",
           "pop": 0,
           "short": "Mostly Clear",
-          "tempF": 14
+          "tempF": 17
         },
         {
           "name": "Wednesday",
@@ -108,33 +102,39 @@
         },
         {
           "name": "Wednesday Night",
-          "pop": 1,
+          "pop": 0,
           "short": "Partly Cloudy",
-          "tempF": 18
+          "tempF": 19
         },
         {
           "name": "Thanksgiving Day",
-          "pop": 3,
-          "short": "Mostly Sunny",
-          "tempF": 43
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 44
         },
         {
           "name": "Thursday Night",
-          "pop": 35,
-          "short": "Partly Cloudy then Chance Snow Showers",
-          "tempF": 21
+          "pop": 9,
+          "short": "Partly Cloudy",
+          "tempF": 22
         },
         {
           "name": "Friday",
-          "pop": 45,
-          "short": "Chance Snow Showers",
-          "tempF": 42
+          "pop": 26,
+          "short": "Mostly Sunny then Chance Snow Showers",
+          "tempF": 43
         },
         {
           "name": "Friday Night",
-          "pop": 45,
-          "short": "Chance Snow Showers",
-          "tempF": 24
+          "pop": 66,
+          "short": "Snow Showers Likely",
+          "tempF": 25
+        },
+        {
+          "name": "Saturday",
+          "pop": 66,
+          "short": "Snow Showers Likely",
+          "tempF": 38
         }
       ]
     },
@@ -145,21 +145,15 @@
       "office": "SLC",
       "periods": [
         {
-          "name": "Today",
-          "pop": 2,
-          "short": "Mostly Sunny",
-          "tempF": 28
-        },
-        {
-          "name": "Tonight",
-          "pop": 2,
+          "name": "Overnight",
+          "pop": 0,
           "short": "Mostly Clear",
           "tempF": 15
         },
         {
           "name": "Tuesday",
           "pop": 0,
-          "short": "Mostly Sunny",
+          "short": "Sunny",
           "tempF": 32
         },
         {
@@ -170,39 +164,45 @@
         },
         {
           "name": "Wednesday",
-          "pop": 2,
-          "short": "Partly Sunny",
-          "tempF": 34
+          "pop": 0,
+          "short": "Mostly Cloudy",
+          "tempF": 36
         },
         {
           "name": "Wednesday Night",
-          "pop": 2,
+          "pop": 0,
           "short": "Partly Cloudy",
-          "tempF": 21
+          "tempF": 22
         },
         {
           "name": "Thanksgiving Day",
-          "pop": 11,
-          "short": "Mostly Sunny",
-          "tempF": 34
+          "pop": 1,
+          "short": "Sunny",
+          "tempF": 35
         },
         {
           "name": "Thursday Night",
-          "pop": 19,
-          "short": "Mostly Cloudy then Slight Chance Light Snow",
+          "pop": 8,
+          "short": "Mostly Cloudy",
           "tempF": 26
         },
         {
           "name": "Friday",
-          "pop": 19,
-          "short": "Slight Chance Light Snow then Mostly Cloudy",
+          "pop": 20,
+          "short": "Partly Sunny then Slight Chance Light Snow",
           "tempF": 35
         },
         {
           "name": "Friday Night",
-          "pop": 38,
+          "pop": 46,
           "short": "Chance Light Snow",
-          "tempF": 29
+          "tempF": 28
+        },
+        {
+          "name": "Saturday",
+          "pop": 46,
+          "short": "Chance Light Snow",
+          "tempF": 34
         }
       ]
     },
@@ -214,24 +214,12 @@
       "periods": [
         {
           "name": "Today",
-          "pop": 32,
-          "short": "Chance Rain Showers",
-          "tempF": 48
+          "pop": 1,
+          "short": "Mostly Sunny",
+          "tempF": 25
         },
         {
           "name": "Tonight",
-          "pop": 14,
-          "short": "Partly Cloudy",
-          "tempF": 23
-        },
-        {
-          "name": "Tuesday",
-          "pop": 1,
-          "short": "Mostly Sunny",
-          "tempF": 24
-        },
-        {
-          "name": "Tuesday Night",
           "pop": 0,
           "short": "Mostly Clear",
           "tempF": 15
@@ -239,7 +227,7 @@
         {
           "name": "Wednesday",
           "pop": 0,
-          "short": "Sunny",
+          "short": "Mostly Sunny",
           "tempF": 29
         },
         {
@@ -250,27 +238,39 @@
         },
         {
           "name": "Thanksgiving Day",
-          "pop": 12,
+          "pop": 23,
           "short": "Partly Sunny",
-          "tempF": 33
+          "tempF": 34
         },
         {
           "name": "Thursday Night",
-          "pop": 92,
+          "pop": 96,
           "short": "Rain And Snow",
           "tempF": 29
         },
         {
           "name": "Friday",
-          "pop": 92,
-          "short": "Light Rain then Rain And Snow",
-          "tempF": 36
+          "pop": 96,
+          "short": "Light Rain",
+          "tempF": 39
         },
         {
           "name": "Friday Night",
-          "pop": 78,
+          "pop": 92,
           "short": "Rain And Snow",
           "tempF": 29
+        },
+        {
+          "name": "Saturday",
+          "pop": 73,
+          "short": "Light Snow Likely",
+          "tempF": 32
+        },
+        {
+          "name": "Saturday Night",
+          "pop": 59,
+          "short": "Light Snow Likely",
+          "tempF": 30
         }
       ]
     }
