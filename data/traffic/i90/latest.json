@@ -2,8 +2,8 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-25T11:31:00.801511+00:00",
- "activeEvents": 10,
+ "collectedAt": "2026-11-25T14:19:50.932143+00:00",
+ "activeEvents": 7,
  "events": [
   {
    "type": "alert",
@@ -12,14 +12,6 @@
    "direction": "Both Directions",
    "closed": 0,
    "updated": 1795188755163
-  },
-  {
-   "type": "alert",
-   "headline": "On I-90 eastbound just east of Rainier Ave S (MP 3) there is an incident blocking the HOV lane.  The State Patrol has arrived on the scene.",
-   "road": "I-90",
-   "direction": "Eastbound",
-   "closed": 0,
-   "updated": 1795603440917
   },
   {
    "type": "alert",
@@ -36,14 +28,6 @@
    "direction": "Westbound",
    "closed": 0,
    "updated": 1792466870430
-  },
-  {
-   "type": "alert",
-   "headline": "From 9 p.m. to 5 a.m. nightly on Monday and Tuesday nights, Nov. 23-24, the westbound I-90 on-ramp from 142nd Place Southeast will close for construction. Signed detours will be available.",
-   "road": "I-90",
-   "direction": "Westbound",
-   "closed": 0,
-   "updated": 1795207298860
   },
   {
    "type": "alert",
@@ -68,14 +52,6 @@
    "direction": "Westbound",
    "closed": 0,
    "updated": 1795206223367
-  },
-  {
-   "type": "alert",
-   "headline": "The eastbound I-90 off-ramp to Factoria Boulevard will be closed nightly from 9 p.m. \u2013 5 a.m., starting <br/>the night of Sunday, Nov. 22 to the morning of Wednesday, Nov. 25. A signed detour will be in place.",
-   "road": "I-90",
-   "direction": "Eastbound",
-   "closed": 0,
-   "updated": 1795477821060
   },
   {
    "type": "alert",
