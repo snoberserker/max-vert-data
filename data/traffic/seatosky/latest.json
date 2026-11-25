@@ -2,7 +2,7 @@
  "corridor": "seatosky",
  "label": "Vancouver \u2192 Whistler (Sea-to-Sky, Hwy 99)",
  "source": "DriveBC Open511 (api.open511.gov.bc.ca)",
- "collectedAt": "2026-11-24T14:19:17.993731+00:00",
+ "collectedAt": "2026-11-25T11:30:53.607388+00:00",
  "activeEvents": 3,
  "events": [
   {
@@ -15,21 +15,21 @@
    "status": "ACTIVE"
   },
   {
-   "id": "drivebc.ca/RIDE-105618",
-   "type": "CONSTRUCTION",
-   "severity": "MINOR",
-   "headline": "CONSTRUCTION",
-   "description": "Utility work at Highway 99, In Lions Bay and 154m South of Kelvin Grove Way Underpass. Starting 9:00 AM PCT on Tuesday November 24, 2026 until 3:00 PM PCT on Tuesday November 24, 2026. Last update: November 6th, 2026 at 2:42pm PCT. Work on right shoulder. Watch for traffic control.",
-   "updated": "2026-11-06T14:42:58-07:00",
-   "status": "ACTIVE"
-  },
-  {
    "id": "drivebc.ca/RIDE-103722",
    "type": "CONSTRUCTION",
    "severity": "MINOR",
    "headline": "CONSTRUCTION",
    "description": "Road maintenance from Highway 99, At Nordic Drive and 500m West of Nordic Drive to In Whistler. Starting Tue Oct 13 until Thu Dec 31. From 6:00 AM to 7:00 PM PDT, every day. Single lane alternating traffic. Last update: October 15th, 2026 at 12:56pm PDT. Fuel management and reduction for community wildfire risk reduction.",
    "updated": "2026-10-15T12:56:55-07:00",
+   "status": "ACTIVE"
+  },
+  {
+   "id": "drivebc.ca/RIDE-107781",
+   "type": "CONSTRUCTION",
+   "severity": "MINOR",
+   "headline": "CONSTRUCTION",
+   "description": "Utility work from Highway 99, In Whistler and Cheakamus Lake Road to At Whistler Way. Starting 8:00 AM PCT on Thursday November 26, 2026 until 4:00 PM PCT on Friday November 27, 2026. From 8:00 AM to 4:00 PM PCT, Thursday. Shoulder closed. Watch for traffic control. Last update: November 24th, 2026 at 2:31pm PCT.",
+   "updated": "2026-11-24T14:31:04-07:00",
    "status": "ACTIVE"
   }
  ]
