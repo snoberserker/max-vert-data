@@ -1,21 +1,21 @@
 {
-  "collectedAt": "2026-11-26T12:34:38Z",
+  "collectedAt": "2026-11-26T18:31:26Z",
   "resorts": {
     "banff-sunshine": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Banff",
-      "issuedAt": "2026-11-26T11:00:00Z",
+      "issuedAt": "2026-11-26T17:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
           "summary": "A few rain showers or flurries",
-          "detail": "Cloudy. A few rain showers beginning early this morning and ending this afternoon then 60 percent chance of flurries late this afternoon. Snow level near valley bottom. Snowfall amount 5 cm over sections of the Icefields Parkway. Wind becoming southwest 20 km/h gusting to 40 this morning. High 6.",
-          "temperature": 6,
+          "detail": "A few rain showers ending late this afternoon then cloudy with 60 percent chance of flurries. Snow level near valley bottom. Snowfall amount 5 cm over sections of the Icefields Parkway. Wind southwest 20 km/h gusting to 40. High 7.",
+          "temperature": 7,
           "unit": "C",
           "precipitation": null,
-          "wind": "10 km/h SW"
+          "wind": "20 km/h SW"
         },
         {
           "name": "Tonight",
@@ -143,14 +143,14 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Kelowna",
-      "issuedAt": "2026-11-26T12:00:00Z",
+      "issuedAt": "2026-11-26T18:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
           "summary": "Chance of showers",
-          "detail": "A few showers ending this morning then cloudy with 30 percent chance of showers. Snow level 1400 metres. Wind southeast 20 km/h gusting to 40. High 9. UV index 1 or low.",
-          "temperature": 9,
+          "detail": "Mainly cloudy. 30 percent chance of showers early this afternoon. Snow level 1400 metres. Wind southeast 20 km/h gusting to 40. High 11. UV index 1 or low.",
+          "temperature": 11,
           "unit": "C",
           "precipitation": null,
           "wind": "20 km/h SE"
@@ -281,13 +281,13 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Sparwood",
-      "issuedAt": "2026-11-26T12:00:00Z",
+      "issuedAt": "2026-11-26T18:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
-          "summary": "Periods of light wet snow mixed with rain",
-          "detail": "Cloudy. Periods of light wet snow mixed with rain beginning early this morning and ending this afternoon then 60 percent chance of rain showers later this afternoon. Local snowfall amount 2 cm. Wind south 20 km/h gusting to 40. High plus 4.",
+          "summary": "Periods of rain",
+          "detail": "Periods of rain. Wind south 20 km/h gusting to 40. High plus 4.",
           "temperature": 4,
           "unit": "C",
           "precipitation": null,
@@ -418,14 +418,14 @@
     "lake-louise": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
-      "sourceLocation": "Kootenay (National Park)",
-      "issuedAt": "2026-11-26T12:00:00Z",
+      "sourceLocation": "Yoho (National Park)",
+      "issuedAt": "2026-11-26T18:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
           "summary": "Periods of snow",
-          "detail": "Cloudy. Periods of snow beginning this morning. Amount 5 to 10 cm. Wind west 30 km/h gusting to 50. Temperature steady near zero.",
+          "detail": "Periods of snow. Amount 5 to 10 cm. Wind west 30 km/h gusting to 50. Temperature steady near zero.",
           "temperature": 0,
           "unit": "C",
           "precipitation": null,
@@ -557,17 +557,17 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Jasper",
-      "issuedAt": "2026-11-26T11:00:00Z",
+      "issuedAt": "2026-11-26T17:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
           "summary": "Chance of showers",
-          "detail": "Mainly cloudy with 60 percent chance of showers. Snow level 1300 metres. Wind becoming southwest 20 km/h this morning. High 8.",
+          "detail": "Mainly cloudy with 60 percent chance of showers. Snow level 1300 metres. Wind southwest 20 km/h. High 8.",
           "temperature": 8,
           "unit": "C",
           "precipitation": null,
-          "wind": "5 km/h SW"
+          "wind": "20 km/h SW"
         },
         {
           "name": "Tonight",
@@ -695,17 +695,17 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Montmagny",
-      "issuedAt": "2026-11-26T10:00:00Z",
+      "issuedAt": "2026-11-26T16:30:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
-          "summary": "Sunny",
-          "detail": "Sunny. Wind up to 15 km/h. High minus 1. Wind chill minus 11 this morning and minus 3 this afternoon. UV index 1 or low.",
+          "summary": "Mainly sunny",
+          "detail": "Mainly sunny. Wind up to 15 km/h. High minus 1. Wind chill minus 5 this afternoon. UV index 1 or low.",
           "temperature": -1,
           "unit": "C",
           "precipitation": null,
-          "wind": "10 km/h SW"
+          "wind": "5 km/h VR"
         },
         {
           "name": "Tonight",
@@ -720,8 +720,8 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "Freezing rain or rain",
-          "detail": "Freezing rain changing to rain in the afternoon. Rainfall amount 10 to 15 mm. Wind northeast 30 km/h gusting to 50. Temperature steady near plus 1.",
+          "summary": "Freezing rain mixed with rain",
+          "detail": "Freezing rain or rain changing to rain in the afternoon. Rainfall amount 10 to 15 mm. Wind northeast 30 km/h gusting to 50. Temperature steady near plus 1.",
           "temperature": 1,
           "unit": "C",
           "precipitation": null,
@@ -833,14 +833,14 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Revelstoke",
-      "issuedAt": "2026-11-26T12:00:00Z",
+      "issuedAt": "2026-11-26T18:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
           "summary": "Periods of rain",
-          "detail": "Periods of rain. Amount 5 to 10 mm. Wind southeast 20 km/h becoming light this afternoon. High plus 5.",
-          "temperature": 5,
+          "detail": "Periods of rain. Snow level 900 metres rising to 1200 metres near noon. Amount 5 to 10 mm. Wind southeast 20 km/h becoming light this afternoon. High 6.",
+          "temperature": 6,
           "unit": "C",
           "precipitation": null,
           "wind": "20 km/h SE"
@@ -849,7 +849,7 @@
           "name": "Tonight",
           "daytime": false,
           "summary": "Chance of showers",
-          "detail": "Cloudy with 40 percent chance of showers. Low plus 2.",
+          "detail": "Cloudy with 40 percent chance of showers. Snow level 1100 metres. Low plus 2.",
           "temperature": 2,
           "unit": "C",
           "precipitation": null,
@@ -858,8 +858,8 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "Mainly cloudy",
-          "detail": "Mainly cloudy. High plus 5.",
+          "summary": "Chance of showers",
+          "detail": "Mainly cloudy with 30 percent chance of showers. Snow level rising to 1200 metres near noon. High plus 5.",
           "temperature": 5,
           "unit": "C",
           "precipitation": null,
@@ -878,8 +878,8 @@
         {
           "name": "Saturday",
           "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High plus 4.",
+          "summary": "Chance of showers",
+          "detail": "Cloudy with 30 percent chance of showers. High plus 4.",
           "temperature": 4,
           "unit": "C",
           "precipitation": null,
@@ -971,13 +971,13 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Kamloops",
-      "issuedAt": "2026-11-26T12:00:00Z",
+      "issuedAt": "2026-11-26T18:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
           "summary": "Chance of showers",
-          "detail": "Mainly cloudy. 40 percent chance of showers this morning. Snow level 1400 metres. Wind east 30 km/h gusting to 50. High 12. UV index 1 or low.",
+          "detail": "A mix of sun and cloud. 40 percent chance of showers near noon. Snow level 1400 metres. Wind east 30 km/h gusting to 50. High 12. UV index 1 or low.",
           "temperature": 12,
           "unit": "C",
           "precipitation": null,
@@ -1109,17 +1109,17 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Whistler",
-      "issuedAt": "2026-11-26T12:00:00Z",
+      "issuedAt": "2026-11-26T18:00:00Z",
       "periods": [
         {
           "name": "Today",
           "daytime": true,
-          "summary": "Periods of rain",
-          "detail": "Periods of rain. Wind becoming south 20 km/h gusting to 50 this morning. High 6.",
+          "summary": "Showers at times heavy",
+          "detail": "Rain at times heavy changing to showers this afternoon. Wind south 20 km/h gusting to 50. High 6.",
           "temperature": 6,
           "unit": "C",
           "precipitation": null,
-          "wind": "5 km/h VR"
+          "wind": "20 km/h S"
         },
         {
           "name": "Tonight",
