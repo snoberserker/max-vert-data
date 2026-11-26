@@ -2,7 +2,7 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-26T11:31:29.039891+00:00",
+ "collectedAt": "2026-11-26T14:17:43.684758+00:00",
  "activeEvents": 7,
  "events": [
   {
@@ -20,14 +20,6 @@
    "direction": "Westbound",
    "closed": 0,
    "updated": 1792466870430
-  },
-  {
-   "type": "alert",
-   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and wet.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1795691241197
   },
   {
    "type": "alert",
@@ -60,6 +52,14 @@
    "direction": "Both Directions",
    "closed": 0,
    "updated": 1795691270797
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and wet.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795701550337
   }
  ]
 }
