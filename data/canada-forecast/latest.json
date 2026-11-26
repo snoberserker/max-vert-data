@@ -1,38 +1,28 @@
 {
-  "collectedAt": "2026-11-26T06:38:19Z",
+  "collectedAt": "2026-11-26T12:34:38Z",
   "resorts": {
     "banff-sunshine": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Banff",
-      "issuedAt": "2026-11-25T22:00:00Z",
+      "issuedAt": "2026-11-26T11:00:00Z",
       "periods": [
+        {
+          "name": "Today",
+          "daytime": true,
+          "summary": "A few rain showers or flurries",
+          "detail": "Cloudy. A few rain showers beginning early this morning and ending this afternoon then 60 percent chance of flurries late this afternoon. Snow level near valley bottom. Snowfall amount 5 cm over sections of the Icefields Parkway. Wind becoming southwest 20 km/h gusting to 40 this morning. High 6.",
+          "temperature": 6,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "10 km/h SW"
+        },
         {
           "name": "Tonight",
           "daytime": false,
           "summary": "Chance of flurries",
-          "detail": "Increasing cloudiness early this evening. 30 percent chance of flurries late this evening and overnight. Wind southwest 20 km/h gusting to 40 becoming light this evening. Low plus 2.",
-          "temperature": 2,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h SW"
-        },
-        {
-          "name": "Thursday",
-          "daytime": true,
-          "summary": "A few rain showers or flurries",
-          "detail": "A few rain showers ending late in the afternoon then mainly cloudy with 60 percent chance of flurries. Snow level near valley bottom. Snowfall amount 10 cm over sections of the Icefields Parkway. Wind becoming southwest 20 km/h gusting to 40 in the morning. High plus 5.",
-          "temperature": 5,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "15 km/h SW"
-        },
-        {
-          "name": "Thursday night",
-          "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Partly cloudy with 60 percent chance of flurries. Wind southwest 20 km/h gusting to 40 becoming light in the evening. Low plus 2.",
-          "temperature": 2,
+          "detail": "Cloudy with 60 percent chance of flurries. Wind southwest 20 km/h gusting to 40 becoming light this evening. Low plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": "20 km/h SW"
@@ -40,12 +30,12 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High plus 3.",
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 30 percent chance of flurries in the morning then a mix of sun and cloud. Temperature steady near plus 3. UV index 1 or low.",
           "temperature": 3,
           "unit": "C",
           "precipitation": null,
-          "wind": ""
+          "wind": "10 km/h SW"
         },
         {
           "name": "Friday night",
@@ -71,8 +61,8 @@
           "name": "Saturday night",
           "daytime": false,
           "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 6.",
-          "temperature": -6,
+          "detail": "Cloudy periods. Low minus 7.",
+          "temperature": -7,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -91,8 +81,8 @@
           "name": "Sunday night",
           "daytime": false,
           "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 10.",
-          "temperature": -10,
+          "detail": "Cloudy periods. Low minus 7.",
+          "temperature": -7,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -100,9 +90,9 @@
         {
           "name": "Monday",
           "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High minus 4.",
-          "temperature": -4,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 70 percent chance of flurries. High minus 1.",
+          "temperature": -1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -111,14 +101,34 @@
           "name": "Monday night",
           "daytime": false,
           "summary": "Chance of flurries",
-          "detail": "Cloudy periods with 30 percent chance of flurries. Low minus 11.",
-          "temperature": -11,
+          "detail": "Cloudy with 30 percent chance of flurries. Low minus 10.",
+          "temperature": -10,
           "unit": "C",
           "precipitation": null,
           "wind": ""
         },
         {
           "name": "Tuesday",
+          "daytime": true,
+          "summary": "Cloudy",
+          "detail": "Cloudy. High minus 4.",
+          "temperature": -4,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Cloudy periods",
+          "detail": "Cloudy periods. Low minus 11.",
+          "temperature": -11,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
           "daytime": true,
           "summary": "A mix of sun and cloud",
           "detail": "A mix of sun and cloud. High minus 4.",
@@ -133,33 +143,23 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Kelowna",
-      "issuedAt": "2026-11-25T23:00:00Z",
+      "issuedAt": "2026-11-26T12:00:00Z",
       "periods": [
         {
-          "name": "Tonight",
-          "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Cloudy with 40 percent chance of showers this evening and after midnight. A few showers beginning after midnight. Snow level 1400 metres. Wind southeast 20 km/h gusting to 40. Temperature steady near plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h SE"
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "daytime": true,
           "summary": "Chance of showers",
-          "detail": "A few showers ending in the morning then cloudy with 30 percent chance of showers. Snow level 1400 metres. Wind southeast 20 km/h gusting to 40. High 9. UV index 1 or low.",
+          "detail": "A few showers ending this morning then cloudy with 30 percent chance of showers. Snow level 1400 metres. Wind southeast 20 km/h gusting to 40. High 9. UV index 1 or low.",
           "temperature": 9,
           "unit": "C",
           "precipitation": null,
           "wind": "20 km/h SE"
         },
         {
-          "name": "Thursday night",
+          "name": "Tonight",
           "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Mainly cloudy. 30 percent chance of showers in the evening. Snow level 1400 metres. Wind southeast 20 km/h gusting to 40. Low plus 4.",
+          "summary": "Partly cloudy",
+          "detail": "Mainly cloudy. Clearing late this evening. Wind southeast 20 km/h gusting to 40. Low plus 4.",
           "temperature": 4,
           "unit": "C",
           "precipitation": null,
@@ -169,18 +169,18 @@
           "name": "Friday",
           "daytime": true,
           "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High 9.",
-          "temperature": 9,
+          "detail": "A mix of sun and cloud. High 7. UV index 1 or low.",
+          "temperature": 7,
           "unit": "C",
           "precipitation": null,
-          "wind": ""
+          "wind": "10 km/h E"
         },
         {
           "name": "Friday night",
           "daytime": false,
           "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low plus 2.",
-          "temperature": 2,
+          "detail": "Cloudy periods. Low plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -188,35 +188,15 @@
         {
           "name": "Saturday",
           "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High plus 5.",
-          "temperature": 5,
+          "summary": "Sunny",
+          "detail": "Sunny. High plus 4.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
         },
         {
           "name": "Saturday night",
-          "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low zero.",
-          "temperature": 0,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Sunday",
-          "daytime": true,
-          "summary": "Chance of flurries or rain showers",
-          "detail": "Cloudy with 40 percent chance of flurries or rain showers. High plus 3.",
-          "temperature": 3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Sunday night",
           "daytime": false,
           "summary": "Cloudy",
           "detail": "Cloudy. Low minus 1.",
@@ -226,11 +206,31 @@
           "wind": ""
         },
         {
+          "name": "Sunday",
+          "daytime": true,
+          "summary": "Cloudy",
+          "detail": "Cloudy. High plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Sunday night",
+          "daytime": false,
+          "summary": "Snow",
+          "detail": "Snow. Low plus 1.",
+          "temperature": 1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
           "name": "Monday",
           "daytime": true,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 30 percent chance of flurries. High plus 1.",
-          "temperature": 1,
+          "summary": "Periods of snow or rain",
+          "detail": "Periods of snow or rain. High plus 4.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -238,15 +238,35 @@
         {
           "name": "Monday night",
           "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 60 percent chance of flurries. Low zero.",
-          "temperature": 0,
+          "summary": "Chance of flurries or rain showers",
+          "detail": "Cloudy with 40 percent chance of flurries or rain showers. Low plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
         },
         {
           "name": "Tuesday",
+          "daytime": true,
+          "summary": "Chance of flurries or rain showers",
+          "detail": "Cloudy with 30 percent chance of flurries or rain showers. High plus 3.",
+          "temperature": 3,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low zero.",
+          "temperature": 0,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
           "daytime": true,
           "summary": "Cloudy",
           "detail": "Cloudy. High plus 3.",
@@ -261,34 +281,24 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Sparwood",
-      "issuedAt": "2026-11-25T23:00:00Z",
+      "issuedAt": "2026-11-26T12:00:00Z",
       "periods": [
+        {
+          "name": "Today",
+          "daytime": true,
+          "summary": "Periods of light wet snow mixed with rain",
+          "detail": "Cloudy. Periods of light wet snow mixed with rain beginning early this morning and ending this afternoon then 60 percent chance of rain showers later this afternoon. Local snowfall amount 2 cm. Wind south 20 km/h gusting to 40. High plus 4.",
+          "temperature": 4,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "20 km/h S"
+        },
         {
           "name": "Tonight",
           "daytime": false,
           "summary": "Chance of showers",
-          "detail": "Cloudy with 40 percent chance of showers. Wind south 20 km/h gusting to 40. Temperature steady near plus 2.",
-          "temperature": 2,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h S"
-        },
-        {
-          "name": "Thursday",
-          "daytime": true,
-          "summary": "Periods of light wet snow mixed with rain",
-          "detail": "Periods of light wet snow mixed with rain changing to rain in the afternoon. Local snowfall amount 2 cm. Wind south 20 km/h gusting to 40. Temperature steady near plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h S"
-        },
-        {
-          "name": "Thursday night",
-          "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Cloudy with 60 percent chance of showers. Wind south 20 km/h gusting to 40. Temperature steady near plus 4.",
-          "temperature": 4,
+          "detail": "Cloudy with 60 percent chance of showers. Wind south 20 km/h gusting to 40. Low plus 3.",
+          "temperature": 3,
           "unit": "C",
           "precipitation": null,
           "wind": "20 km/h S"
@@ -296,19 +306,19 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High plus 5.",
-          "temperature": 5,
+          "summary": "Clearing",
+          "detail": "Clearing in the morning. High plus 4. UV index 1 or low.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
-          "wind": ""
+          "wind": "15 km/h S"
         },
         {
           "name": "Friday night",
           "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 2.",
-          "temperature": -2,
+          "summary": "Clear",
+          "detail": "Clear. Low minus 5.",
+          "temperature": -5,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -317,8 +327,8 @@
           "name": "Saturday",
           "daytime": true,
           "summary": "Sunny",
-          "detail": "Sunny. High plus 3.",
-          "temperature": 3,
+          "detail": "Sunny. High plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -326,9 +336,9 @@
         {
           "name": "Saturday night",
           "daytime": false,
-          "summary": "Clear",
-          "detail": "Clear. Low minus 4.",
-          "temperature": -4,
+          "summary": "Cloudy periods",
+          "detail": "Cloudy periods. Low minus 5.",
+          "temperature": -5,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -337,8 +347,8 @@
           "name": "Sunday",
           "daytime": true,
           "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High zero.",
-          "temperature": 0,
+          "detail": "A mix of sun and cloud. High minus 1.",
+          "temperature": -1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -346,9 +356,9 @@
         {
           "name": "Sunday night",
           "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 4.",
-          "temperature": -4,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 40 percent chance of flurries. Low minus 3.",
+          "temperature": -3,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -356,9 +366,9 @@
         {
           "name": "Monday",
           "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High zero.",
-          "temperature": 0,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 70 percent chance of flurries. High plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -366,9 +376,9 @@
         {
           "name": "Monday night",
           "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 6.",
-          "temperature": -6,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 60 percent chance of flurries. Low minus 5.",
+          "temperature": -5,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -382,41 +392,51 @@
           "unit": "C",
           "precipitation": null,
           "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Cloudy periods",
+          "detail": "Cloudy periods. Low minus 4.",
+          "temperature": -4,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
+          "daytime": true,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
         }
       ]
     },
     "lake-louise": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
-      "sourceLocation": "Yoho (National Park)",
-      "issuedAt": "2026-11-25T23:00:00Z",
+      "sourceLocation": "Kootenay (National Park)",
+      "issuedAt": "2026-11-26T12:00:00Z",
       "periods": [
         {
-          "name": "Tonight",
-          "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 30 percent chance of flurries. Periods of snow beginning overnight. Wind west 30 km/h gusting to 50. Temperature steady near minus 2. Wind chill near minus 9.",
-          "temperature": -2,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "30 km/h W"
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "daytime": true,
           "summary": "Periods of snow",
-          "detail": "Periods of snow. Amount 5 to 10 cm. Wind west 30 km/h gusting to 50. Temperature steady near zero. Wind chill minus 9 in the morning.",
+          "detail": "Cloudy. Periods of snow beginning this morning. Amount 5 to 10 cm. Wind west 30 km/h gusting to 50. Temperature steady near zero.",
           "temperature": 0,
           "unit": "C",
           "precipitation": null,
           "wind": "30 km/h W"
         },
         {
-          "name": "Thursday night",
+          "name": "Tonight",
           "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Periods of snow ending in the evening then cloudy with 40 percent chance of flurries in the evening and after midnight. Periods of snow beginning overnight. Amount 2 cm. Wind west 30 km/h gusting to 50. Temperature steady near minus 2. Wind chill minus 9 overnight.",
-          "temperature": -2,
+          "summary": "Periods of snow",
+          "detail": "Periods of snow. Amount 2 to 4 cm. Wind west 30 km/h gusting to 50. Temperature steady near minus 1. Wind chill minus 8 overnight.",
+          "temperature": -1,
           "unit": "C",
           "precipitation": null,
           "wind": "30 km/h W"
@@ -424,9 +444,9 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "Flurries",
-          "detail": "Flurries. Windy. High zero.",
-          "temperature": 0,
+          "summary": "Chance of flurries",
+          "detail": "Periods of light snow ending in the morning then mainly cloudy with 40 percent chance of flurries. Wind west 30 km/h gusting to 50 becoming light in the afternoon. Wind becoming west 30 late in the afternoon. Temperature steady near minus 1. Wind chill minus 9 in the afternoon.",
+          "temperature": -1,
           "unit": "C",
           "precipitation": null,
           "wind": "30 km/h W"
@@ -434,9 +454,9 @@
         {
           "name": "Friday night",
           "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 40 percent chance of flurries. Low minus 5.",
-          "temperature": -5,
+          "summary": "Cloudy periods",
+          "detail": "Cloudy periods. Low minus 4.",
+          "temperature": -4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -475,8 +495,8 @@
           "name": "Sunday night",
           "daytime": false,
           "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 9.",
-          "temperature": -9,
+          "detail": "Increasing cloudiness. Low minus 8.",
+          "temperature": -8,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -484,9 +504,9 @@
         {
           "name": "Monday",
           "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High minus 3.",
-          "temperature": -3,
+          "summary": "Snow",
+          "detail": "Snow. High minus 4.",
+          "temperature": -4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -495,8 +515,8 @@
           "name": "Monday night",
           "daytime": false,
           "summary": "Chance of flurries",
-          "detail": "Cloudy periods with 40 percent chance of flurries. Low minus 9.",
-          "temperature": -9,
+          "detail": "Cloudy with 60 percent chance of flurries. Low minus 8.",
+          "temperature": -8,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -504,9 +524,29 @@
         {
           "name": "Tuesday",
           "daytime": true,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 60 percent chance of flurries. High minus 3.",
+          "temperature": -3,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 60 percent chance of flurries. Low minus 9.",
+          "temperature": -9,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
+          "daytime": true,
           "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High minus 2.",
-          "temperature": -2,
+          "detail": "A mix of sun and cloud. High minus 3.",
+          "temperature": -3,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -517,33 +557,23 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Jasper",
-      "issuedAt": "2026-11-25T22:00:00Z",
+      "issuedAt": "2026-11-26T11:00:00Z",
       "periods": [
         {
-          "name": "Tonight",
-          "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Increasing cloudiness early this evening. 30 percent chance of showers. Snow level 1900 metres lowering to 1300 metres overnight. Wind southwest 20 km/h becoming light this evening. Low plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h SW"
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "daytime": true,
           "summary": "Chance of showers",
-          "detail": "Mainly cloudy with 60 percent chance of showers. Snow level 1300 metres. Wind becoming southwest 20 km/h in the morning. High 8.",
+          "detail": "Mainly cloudy with 60 percent chance of showers. Snow level 1300 metres. Wind becoming southwest 20 km/h this morning. High 8.",
           "temperature": 8,
           "unit": "C",
           "precipitation": null,
-          "wind": "15 km/h SW"
+          "wind": "5 km/h SW"
         },
         {
-          "name": "Thursday night",
+          "name": "Tonight",
           "daytime": false,
           "summary": "Chance of showers",
-          "detail": "Partly cloudy with 60 percent chance of showers. Snow level 1300 metres. Wind southwest 20 km/h becoming light in the evening. Low plus 3.",
+          "detail": "Mainly cloudy with 60 percent chance of showers. Snow level 1300 metres. Wind southwest 20 km/h becoming light this evening. Low plus 3.",
           "temperature": 3,
           "unit": "C",
           "precipitation": null,
@@ -552,275 +582,19 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High 6.",
+          "summary": "Mainly cloudy",
+          "detail": "Mainly cloudy. High 6.",
           "temperature": 6,
           "unit": "C",
           "precipitation": null,
-          "wind": ""
+          "wind": "10 km/h S"
         },
         {
           "name": "Friday night",
           "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 1.",
-          "temperature": -1,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Saturday",
-          "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High plus 3.",
-          "temperature": 3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Saturday night",
-          "daytime": false,
           "summary": "Cloudy",
-          "detail": "Cloudy. Low minus 3.",
-          "temperature": -3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Sunday",
-          "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High plus 2.",
-          "temperature": 2,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Sunday night",
-          "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 11.",
-          "temperature": -11,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Monday",
-          "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High minus 5.",
-          "temperature": -5,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Monday night",
-          "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low minus 11.",
-          "temperature": -11,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Tuesday",
-          "daytime": true,
-          "summary": "Chance of flurries",
-          "detail": "A mix of sun and cloud with 30 percent chance of flurries. High minus 4.",
-          "temperature": -4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        }
-      ]
-    },
-    "mont-sainte-anne": {
-      "status": "snapshot",
-      "source": "Environment and Climate Change Canada",
-      "sourceLocation": "Montmagny",
-      "issuedAt": "2026-11-25T20:45:00Z",
-      "periods": [
-        {
-          "name": "Tonight",
-          "daytime": false,
-          "summary": "Clear",
-          "detail": "Clear. Wind southwest 20 km/h becoming light this evening. Low minus 5. Wind chill near minus 9.",
-          "temperature": -5,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h SW"
-        },
-        {
-          "name": "Thursday",
-          "daytime": true,
-          "summary": "Mainly sunny",
-          "detail": "Mainly sunny. Wind up to 15 km/h. High minus 1. Wind chill minus 9 in the morning and minus 3 in the afternoon. UV index 1 or low.",
-          "temperature": -1,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "10 km/h SW"
-        },
-        {
-          "name": "Thursday night",
-          "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Increasing cloudiness. 60 percent chance of showers overnight. Wind becoming northeast 20 km/h gusting to 40 after midnight. Temperature steady near zero. Wind chill minus 6 in the evening.",
+          "detail": "Cloudy. Low zero.",
           "temperature": 0,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "10 km/h NE"
-        },
-        {
-          "name": "Friday",
-          "daytime": true,
-          "summary": "Rain",
-          "detail": "Rain. High plus 1.",
-          "temperature": 1,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Friday night",
-          "daytime": false,
-          "summary": "Rain",
-          "detail": "Rain. Low plus 2.",
-          "temperature": 2,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Saturday",
-          "daytime": true,
-          "summary": "Periods of rain",
-          "detail": "Periods of rain. High plus 3.",
-          "temperature": 3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Saturday night",
-          "daytime": false,
-          "summary": "Cloudy",
-          "detail": "Cloudy. Low plus 1.",
-          "temperature": 1,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Sunday",
-          "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Sunday night",
-          "daytime": false,
-          "summary": "Flurries or rain showers",
-          "detail": "Flurries or rain showers. Low plus 1.",
-          "temperature": 1,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Monday",
-          "daytime": true,
-          "summary": "Rain",
-          "detail": "Rain. High plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Monday night",
-          "daytime": false,
-          "summary": "Cloudy",
-          "detail": "Cloudy. Low minus 3.",
-          "temperature": -3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Tuesday",
-          "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High minus 2.",
-          "temperature": -2,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        }
-      ]
-    },
-    "revelstoke": {
-      "status": "snapshot",
-      "source": "Environment and Climate Change Canada",
-      "sourceLocation": "Revelstoke",
-      "issuedAt": "2026-11-25T23:00:00Z",
-      "periods": [
-        {
-          "name": "Tonight",
-          "daytime": false,
-          "summary": "Periods of rain",
-          "detail": "Periods of rain. Snow level 1300 metres. Wind southeast 20 km/h. Temperature steady near plus 3.",
-          "temperature": 3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h SE"
-        },
-        {
-          "name": "Thursday",
-          "daytime": true,
-          "summary": "Periods of rain",
-          "detail": "Periods of rain. Snow level 1300 metres. Amount 5 to 10 mm. Wind southeast 20 km/h becoming light in the afternoon. Temperature steady near plus 5.",
-          "temperature": 5,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h SE"
-        },
-        {
-          "name": "Thursday night",
-          "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Periods of rain ending in the evening then cloudy with 40 percent chance of showers. Snow level 1300 metres lowering to 1000 metres after midnight. Temperature steady near plus 3.",
-          "temperature": 3,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Friday",
-          "daytime": true,
-          "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High 6.",
-          "temperature": 6,
-          "unit": "C",
-          "precipitation": null,
-          "wind": ""
-        },
-        {
-          "name": "Friday night",
-          "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low plus 3.",
-          "temperature": 3,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -839,8 +613,8 @@
           "name": "Saturday night",
           "daytime": false,
           "summary": "Cloudy periods",
-          "detail": "Cloudy periods. Low zero.",
-          "temperature": 0,
+          "detail": "Cloudy periods. Low minus 7.",
+          "temperature": -7,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -848,9 +622,9 @@
         {
           "name": "Sunday",
           "daytime": true,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 40 percent chance of flurries. High plus 2.",
-          "temperature": 2,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -858,9 +632,9 @@
         {
           "name": "Sunday night",
           "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 30 percent chance of flurries. Low minus 3.",
-          "temperature": -3,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low minus 7.",
+          "temperature": -7,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -868,9 +642,9 @@
         {
           "name": "Monday",
           "daytime": true,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 70 percent chance of flurries. High minus 1.",
-          "temperature": -1,
+          "summary": "Periods of snow",
+          "detail": "Periods of snow. High minus 2.",
+          "temperature": -2,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -878,9 +652,9 @@
         {
           "name": "Monday night",
           "daytime": false,
-          "summary": "Periods of snow",
-          "detail": "Periods of snow. Low minus 3.",
-          "temperature": -3,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 40 percent chance of flurries. Low minus 9.",
+          "temperature": -9,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -889,8 +663,304 @@
           "name": "Tuesday",
           "daytime": true,
           "summary": "Chance of flurries",
-          "detail": "Cloudy with 60 percent chance of flurries. High plus 1.",
+          "detail": "Cloudy with 40 percent chance of flurries. High minus 3.",
+          "temperature": -3,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Cloudy periods",
+          "detail": "Cloudy periods. Low minus 8.",
+          "temperature": -8,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
+          "daytime": true,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High minus 1.",
+          "temperature": -1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        }
+      ]
+    },
+    "mont-sainte-anne": {
+      "status": "snapshot",
+      "source": "Environment and Climate Change Canada",
+      "sourceLocation": "Montmagny",
+      "issuedAt": "2026-11-26T10:00:00Z",
+      "periods": [
+        {
+          "name": "Today",
+          "daytime": true,
+          "summary": "Sunny",
+          "detail": "Sunny. Wind up to 15 km/h. High minus 1. Wind chill minus 11 this morning and minus 3 this afternoon. UV index 1 or low.",
+          "temperature": -1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "10 km/h SW"
+        },
+        {
+          "name": "Tonight",
+          "daytime": false,
+          "summary": "Mainly cloudy",
+          "detail": "Increasing cloudiness this evening. Wind becoming northeast 20 km/h gusting to 40 after midnight. Temperature steady near zero. Wind chill minus 6 this evening.",
+          "temperature": 0,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "10 km/h NE"
+        },
+        {
+          "name": "Friday",
+          "daytime": true,
+          "summary": "Freezing rain or rain",
+          "detail": "Freezing rain changing to rain in the afternoon. Rainfall amount 10 to 15 mm. Wind northeast 30 km/h gusting to 50. Temperature steady near plus 1.",
           "temperature": 1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "30 km/h NE"
+        },
+        {
+          "name": "Friday night",
+          "daytime": false,
+          "summary": "Rain",
+          "detail": "Rain. Windy. Low plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "40 km/h NE"
+        },
+        {
+          "name": "Saturday",
+          "daytime": true,
+          "summary": "Rain",
+          "detail": "Rain. High plus 3.",
+          "temperature": 3,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Saturday night",
+          "daytime": false,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Sunday",
+          "daytime": true,
+          "summary": "Cloudy",
+          "detail": "Cloudy. High plus 3.",
+          "temperature": 3,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Sunday night",
+          "daytime": false,
+          "summary": "Periods of rain",
+          "detail": "Periods of rain. Low plus 4.",
+          "temperature": 4,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Monday",
+          "daytime": true,
+          "summary": "Rain",
+          "detail": "Rain. High plus 5.",
+          "temperature": 5,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Monday night",
+          "daytime": false,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low minus 6.",
+          "temperature": -6,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday",
+          "daytime": true,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High minus 3.",
+          "temperature": -3,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Cloudy periods",
+          "detail": "Cloudy periods. Low minus 8.",
+          "temperature": -8,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
+          "daytime": true,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High minus 2.",
+          "temperature": -2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        }
+      ]
+    },
+    "revelstoke": {
+      "status": "snapshot",
+      "source": "Environment and Climate Change Canada",
+      "sourceLocation": "Revelstoke",
+      "issuedAt": "2026-11-26T12:00:00Z",
+      "periods": [
+        {
+          "name": "Today",
+          "daytime": true,
+          "summary": "Periods of rain",
+          "detail": "Periods of rain. Amount 5 to 10 mm. Wind southeast 20 km/h becoming light this afternoon. High plus 5.",
+          "temperature": 5,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "20 km/h SE"
+        },
+        {
+          "name": "Tonight",
+          "daytime": false,
+          "summary": "Chance of showers",
+          "detail": "Cloudy with 40 percent chance of showers. Low plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Friday",
+          "daytime": true,
+          "summary": "Mainly cloudy",
+          "detail": "Mainly cloudy. High plus 5.",
+          "temperature": 5,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "5 km/h VR"
+        },
+        {
+          "name": "Friday night",
+          "daytime": false,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Saturday",
+          "daytime": true,
+          "summary": "Cloudy",
+          "detail": "Cloudy. High plus 4.",
+          "temperature": 4,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Saturday night",
+          "daytime": false,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low plus 1.",
+          "temperature": 1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Sunday",
+          "daytime": true,
+          "summary": "Cloudy",
+          "detail": "Cloudy. High plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Sunday night",
+          "daytime": false,
+          "summary": "Snow",
+          "detail": "Snow. Low plus 1.",
+          "temperature": 1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Monday",
+          "daytime": true,
+          "summary": "Snow or rain",
+          "detail": "Snow or rain. High plus 2.",
+          "temperature": 2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Monday night",
+          "daytime": false,
+          "summary": "Rain or snow",
+          "detail": "Rain or snow. Low minus 2.",
+          "temperature": -2,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday",
+          "daytime": true,
+          "summary": "Periods of snow",
+          "detail": "Periods of snow. High plus 1.",
+          "temperature": 1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 60 percent chance of flurries. Low minus 1.",
+          "temperature": -1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
+          "daytime": true,
+          "summary": "Chance of flurries",
+          "detail": "Cloudy with 60 percent chance of flurries. High zero.",
+          "temperature": 0,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -901,54 +971,44 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Kamloops",
-      "issuedAt": "2026-11-25T23:00:00Z",
+      "issuedAt": "2026-11-26T12:00:00Z",
       "periods": [
+        {
+          "name": "Today",
+          "daytime": true,
+          "summary": "Chance of showers",
+          "detail": "Mainly cloudy. 40 percent chance of showers this morning. Snow level 1400 metres. Wind east 30 km/h gusting to 50. High 12. UV index 1 or low.",
+          "temperature": 12,
+          "unit": "C",
+          "precipitation": null,
+          "wind": "30 km/h E"
+        },
         {
           "name": "Tonight",
           "daytime": false,
-          "summary": "Chance of showers",
-          "detail": "Cloudy. 70 percent chance of showers changing to 30 percent chance of showers early this evening and then to 70 percent chance of showers after midnight. Snow level 1400 metres. Wind east 30 km/h gusting to 50. Temperature steady near 8.",
-          "temperature": 8,
+          "summary": "Partly cloudy",
+          "detail": "Partly cloudy. Wind east 30 km/h gusting to 50 becoming west 20 near midnight. Low plus 5.",
+          "temperature": 5,
           "unit": "C",
           "precipitation": null,
           "wind": "30 km/h E"
-        },
-        {
-          "name": "Thursday",
-          "daytime": true,
-          "summary": "Chance of showers",
-          "detail": "Cloudy with 30 percent chance of showers. Snow level 1400 metres. Wind east 30 km/h gusting to 50 becoming south 30 gusting to 50 in the afternoon. High 11.",
-          "temperature": 11,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "30 km/h E"
-        },
-        {
-          "name": "Thursday night",
-          "daytime": false,
-          "summary": "Mainly cloudy",
-          "detail": "Mainly cloudy. Wind south 30 km/h gusting to 50 becoming west 20 near midnight. Low plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "30 km/h S"
         },
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High 7.",
-          "temperature": 7,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High 8. UV index 1 or low.",
+          "temperature": 8,
           "unit": "C",
           "precipitation": null,
-          "wind": ""
+          "wind": "10 km/h E"
         },
         {
           "name": "Friday night",
           "daytime": false,
           "summary": "Clear",
-          "detail": "Clear. Low zero.",
-          "temperature": 0,
+          "detail": "Clear. Low minus 1.",
+          "temperature": -1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -957,8 +1017,8 @@
           "name": "Saturday",
           "daytime": true,
           "summary": "Sunny",
-          "detail": "Sunny. High plus 5.",
-          "temperature": 5,
+          "detail": "Sunny. High plus 4.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -966,8 +1026,8 @@
         {
           "name": "Saturday night",
           "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Increasing cloudiness. Low plus 1.",
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low plus 1.",
           "temperature": 1,
           "unit": "C",
           "precipitation": null,
@@ -976,9 +1036,9 @@
         {
           "name": "Sunday",
           "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High plus 5.",
-          "temperature": 5,
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High plus 4.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -986,9 +1046,9 @@
         {
           "name": "Sunday night",
           "daytime": false,
-          "summary": "Cloudy",
-          "detail": "Cloudy. Low minus 1.",
-          "temperature": -1,
+          "summary": "Snow",
+          "detail": "Snow. Low plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -996,15 +1056,35 @@
         {
           "name": "Monday",
           "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High zero.",
-          "temperature": 0,
+          "summary": "Periods of snow or rain",
+          "detail": "Periods of snow or rain. High plus 5.",
+          "temperature": 5,
           "unit": "C",
           "precipitation": null,
           "wind": ""
         },
         {
           "name": "Monday night",
+          "daytime": false,
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low plus 1.",
+          "temperature": 1,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday",
+          "daytime": true,
+          "summary": "Cloudy",
+          "detail": "Cloudy. High plus 4.",
+          "temperature": 4,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
           "daytime": false,
           "summary": "Cloudy",
           "detail": "Cloudy. Low zero.",
@@ -1014,7 +1094,7 @@
           "wind": ""
         },
         {
-          "name": "Tuesday",
+          "name": "Wednesday",
           "daytime": true,
           "summary": "Cloudy",
           "detail": "Cloudy. High plus 4.",
@@ -1029,30 +1109,20 @@
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
       "sourceLocation": "Whistler",
-      "issuedAt": "2026-11-25T23:00:00Z",
+      "issuedAt": "2026-11-26T12:00:00Z",
       "periods": [
         {
-          "name": "Tonight",
-          "daytime": false,
-          "summary": "Rain at times heavy",
-          "detail": "Rain at times heavy. Amount 30 to 40 mm. Wind south 20 km/h becoming light early this evening. Temperature steady near plus 4.",
-          "temperature": 4,
-          "unit": "C",
-          "precipitation": null,
-          "wind": "20 km/h S"
-        },
-        {
-          "name": "Thursday",
+          "name": "Today",
           "daytime": true,
           "summary": "Periods of rain",
-          "detail": "Periods of rain. Amount 10 to 20 mm. Wind becoming south 20 km/h gusting to 50 in the morning. High plus 5.",
-          "temperature": 5,
+          "detail": "Periods of rain. Wind becoming south 20 km/h gusting to 50 this morning. High 6.",
+          "temperature": 6,
           "unit": "C",
           "precipitation": null,
           "wind": "5 km/h VR"
         },
         {
-          "name": "Thursday night",
+          "name": "Tonight",
           "daytime": false,
           "summary": "Chance of showers",
           "detail": "Cloudy with 60 percent chance of showers. Wind south 20 km/h. Low plus 3.",
@@ -1064,19 +1134,19 @@
         {
           "name": "Friday",
           "daytime": true,
-          "summary": "Chance of showers",
-          "detail": "Cloudy with 60 percent chance of showers. High plus 5.",
-          "temperature": 5,
+          "summary": "Showers",
+          "detail": "Showers. High 6.",
+          "temperature": 6,
           "unit": "C",
           "precipitation": null,
-          "wind": ""
+          "wind": "15 km/h S"
         },
         {
           "name": "Friday night",
           "daytime": false,
           "summary": "Chance of showers",
-          "detail": "Cloudy with 30 percent chance of showers. Low minus 1.",
-          "temperature": -1,
+          "detail": "Cloudy with 30 percent chance of showers. Low minus 2.",
+          "temperature": -2,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -1084,8 +1154,8 @@
         {
           "name": "Saturday",
           "daytime": true,
-          "summary": "Cloudy",
-          "detail": "Cloudy. High plus 4.",
+          "summary": "A mix of sun and cloud",
+          "detail": "A mix of sun and cloud. High plus 4.",
           "temperature": 4,
           "unit": "C",
           "precipitation": null,
@@ -1094,8 +1164,8 @@
         {
           "name": "Saturday night",
           "daytime": false,
-          "summary": "Cloudy periods",
-          "detail": "Increasing cloudiness. Low minus 2.",
+          "summary": "Cloudy",
+          "detail": "Cloudy. Low minus 2.",
           "temperature": -2,
           "unit": "C",
           "precipitation": null,
@@ -1105,8 +1175,8 @@
           "name": "Sunday",
           "daytime": true,
           "summary": "A mix of sun and cloud",
-          "detail": "A mix of sun and cloud. High plus 3.",
-          "temperature": 3,
+          "detail": "A mix of sun and cloud. High plus 4.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -1114,9 +1184,9 @@
         {
           "name": "Sunday night",
           "daytime": false,
-          "summary": "Chance of flurries",
-          "detail": "Cloudy with 60 percent chance of flurries. Low minus 1.",
-          "temperature": -1,
+          "summary": "Rain",
+          "detail": "Rain. Low plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -1124,9 +1194,9 @@
         {
           "name": "Monday",
           "daytime": true,
-          "summary": "Chance of flurries or rain showers",
-          "detail": "Cloudy with 60 percent chance of flurries or rain showers. High plus 2.",
-          "temperature": 2,
+          "summary": "Periods of rain",
+          "detail": "Periods of rain. High plus 4.",
+          "temperature": 4,
           "unit": "C",
           "precipitation": null,
           "wind": ""
@@ -1135,14 +1205,34 @@
           "name": "Monday night",
           "daytime": false,
           "summary": "Chance of rain showers or flurries",
-          "detail": "Cloudy with 60 percent chance of rain showers or flurries. Low zero.",
-          "temperature": 0,
+          "detail": "Cloudy with 60 percent chance of rain showers or flurries. Low plus 1.",
+          "temperature": 1,
           "unit": "C",
           "precipitation": null,
           "wind": ""
         },
         {
           "name": "Tuesday",
+          "daytime": true,
+          "summary": "Chance of flurries or rain showers",
+          "detail": "Cloudy with 60 percent chance of flurries or rain showers. High plus 5.",
+          "temperature": 5,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Tuesday night",
+          "daytime": false,
+          "summary": "Chance of rain showers or flurries",
+          "detail": "Cloudy with 30 percent chance of rain showers or flurries. Low zero.",
+          "temperature": 0,
+          "unit": "C",
+          "precipitation": null,
+          "wind": ""
+        },
+        {
+          "name": "Wednesday",
           "daytime": true,
           "summary": "Chance of flurries or rain showers",
           "detail": "Cloudy with 60 percent chance of flurries or rain showers. High plus 4.",
