@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-26T00:45:27Z",
+  "collectedAt": "2026-11-26T06:38:19Z",
   "resorts": {
     "banff-sunshine": {
       "status": "snapshot",
@@ -388,7 +388,7 @@
     "lake-louise": {
       "status": "snapshot",
       "source": "Environment and Climate Change Canada",
-      "sourceLocation": "Kootenay (National Park)",
+      "sourceLocation": "Yoho (National Park)",
       "issuedAt": "2026-11-25T23:00:00Z",
       "periods": [
         {
