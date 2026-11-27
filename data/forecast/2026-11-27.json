@@ -1,0 +1,278 @@
+{
+  "collectedAt": "2026-11-27T11:31:03.753796+00:00",
+  "date": "2026-11-27",
+  "points": [
+    {
+      "label": "Mammoth Mountain, CA",
+      "lat": 37.631,
+      "lon": -119.045,
+      "office": "HNX",
+      "periods": [
+        {
+          "name": "Overnight",
+          "pop": 0,
+          "short": "Mostly Cloudy",
+          "tempF": 36
+        },
+        {
+          "name": "Friday",
+          "pop": 0,
+          "short": "Partly Sunny",
+          "tempF": 38
+        },
+        {
+          "name": "Friday Night",
+          "pop": 0,
+          "short": "Mostly Cloudy",
+          "tempF": 33
+        },
+        {
+          "name": "Saturday",
+          "pop": 0,
+          "short": "Partly Sunny",
+          "tempF": 43
+        },
+        {
+          "name": "Saturday Night",
+          "pop": 0,
+          "short": "Mostly Clear",
+          "tempF": 31
+        },
+        {
+          "name": "Sunday",
+          "pop": 62,
+          "short": "Mostly Sunny then Chance Light Snow",
+          "tempF": 34
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 62,
+          "short": "Light Snow Likely",
+          "tempF": 28
+        },
+        {
+          "name": "Monday",
+          "pop": 41,
+          "short": "Chance Light Snow",
+          "tempF": 32
+        },
+        {
+          "name": "Monday Night",
+          "pop": 95,
+          "short": "Light Snow",
+          "tempF": 23
+        },
+        {
+          "name": "Tuesday",
+          "pop": 95,
+          "short": "Snow",
+          "tempF": 27
+        }
+      ]
+    },
+    {
+      "label": "Breckenridge, CO",
+      "lat": 39.481,
+      "lon": -106.038,
+      "office": "BOU",
+      "periods": [
+        {
+          "name": "Overnight",
+          "pop": 0,
+          "short": "Partly Cloudy",
+          "tempF": 22
+        },
+        {
+          "name": "Friday",
+          "pop": 15,
+          "short": "Mostly Sunny then Slight Chance Snow Showers",
+          "tempF": 42
+        },
+        {
+          "name": "Friday Night",
+          "pop": 99,
+          "short": "Snow Showers",
+          "tempF": 27
+        },
+        {
+          "name": "Saturday",
+          "pop": 99,
+          "short": "Snow Showers And Patchy Blowing Snow",
+          "tempF": 28
+        },
+        {
+          "name": "Saturday Night",
+          "pop": 38,
+          "short": "Chance Snow Showers then Partly Cloudy",
+          "tempF": 8
+        },
+        {
+          "name": "Sunday",
+          "pop": 0,
+          "short": "Sunny",
+          "tempF": 39
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 2,
+          "short": "Mostly Clear",
+          "tempF": 17
+        },
+        {
+          "name": "Monday",
+          "pop": 10,
+          "short": "Mostly Sunny",
+          "tempF": 38
+        },
+        {
+          "name": "Monday Night",
+          "pop": 8,
+          "short": "Partly Cloudy",
+          "tempF": 17
+        },
+        {
+          "name": "Tuesday",
+          "pop": 15,
+          "short": "Partly Sunny then Slight Chance Snow Showers",
+          "tempF": 43
+        }
+      ]
+    },
+    {
+      "label": "Alta, UT",
+      "lat": 40.588,
+      "lon": -111.639,
+      "office": "SLC",
+      "periods": [
+        {
+          "name": "Overnight",
+          "pop": 3,
+          "short": "Mostly Cloudy",
+          "tempF": 27
+        },
+        {
+          "name": "Friday",
+          "pop": 4,
+          "short": "Mostly Cloudy",
+          "tempF": 37
+        },
+        {
+          "name": "Friday Night",
+          "pop": 47,
+          "short": "Chance Snow",
+          "tempF": 29
+        },
+        {
+          "name": "Saturday",
+          "pop": 80,
+          "short": "Snow",
+          "tempF": 33
+        },
+        {
+          "name": "Saturday Night",
+          "pop": 1,
+          "short": "Mostly Cloudy",
+          "tempF": 22
+        },
+        {
+          "name": "Sunday",
+          "pop": 1,
+          "short": "Mostly Sunny",
+          "tempF": 38
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 39,
+          "short": "Chance Light Snow",
+          "tempF": 29
+        },
+        {
+          "name": "Monday",
+          "pop": 39,
+          "short": "Chance Light Snow",
+          "tempF": 33
+        },
+        {
+          "name": "Monday Night",
+          "pop": 48,
+          "short": "Chance Light Snow",
+          "tempF": 28
+        },
+        {
+          "name": "Tuesday",
+          "pop": 82,
+          "short": "Light Snow",
+          "tempF": 32
+        }
+      ]
+    },
+    {
+      "label": "Stowe, VT",
+      "lat": 44.539,
+      "lon": -72.785,
+      "office": "BTV",
+      "periods": [
+        {
+          "name": "Today",
+          "pop": 23,
+          "short": "Slight Chance Light Rain",
+          "tempF": 40
+        },
+        {
+          "name": "Tonight",
+          "pop": 98,
+          "short": "Light Rain then Rain And Snow Likely",
+          "tempF": 31
+        },
+        {
+          "name": "Saturday",
+          "pop": 75,
+          "short": "Rain And Snow",
+          "tempF": 34
+        },
+        {
+          "name": "Saturday Night",
+          "pop": 89,
+          "short": "Light Snow",
+          "tempF": 32
+        },
+        {
+          "name": "Sunday",
+          "pop": 62,
+          "short": "Light Snow Likely then Partly Sunny",
+          "tempF": 40
+        },
+        {
+          "name": "Sunday Night",
+          "pop": 85,
+          "short": "Mostly Cloudy then Light Rain",
+          "tempF": 33
+        },
+        {
+          "name": "Monday",
+          "pop": 97,
+          "short": "Light Rain then Rain And Snow",
+          "tempF": 38
+        },
+        {
+          "name": "Monday Night",
+          "pop": 63,
+          "short": "Light Snow Likely",
+          "tempF": 20
+        },
+        {
+          "name": "Tuesday",
+          "pop": 13,
+          "short": "Partly Sunny",
+          "tempF": 28
+        },
+        {
+          "name": "Tuesday Night",
+          "pop": 1,
+          "short": "Partly Cloudy",
+          "tempF": 21
+        }
+      ]
+    }
+  ]
+}

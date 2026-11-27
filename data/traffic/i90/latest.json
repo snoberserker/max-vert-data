@@ -2,7 +2,7 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-26T14:17:43.684758+00:00",
+ "collectedAt": "2026-11-27T11:31:24.024387+00:00",
  "activeEvents": 7,
  "events": [
   {
@@ -15,6 +15,22 @@
   },
   {
    "type": "alert",
+   "headline": "I-90 FROM US195 TO BROADWAY: Bare and dry.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795760001657
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM SR 904 TO US 195: Bare and dry.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795766196120
+  },
+  {
+   "type": "alert",
    "headline": "The westbound Winchester rest area on I90 at milepost 161.83 will be closed for maintenance until further notice.",
    "road": "I-90",
    "direction": "Westbound",
@@ -23,11 +39,11 @@
   },
   {
    "type": "alert",
-   "headline": "I-90 FROM SR 904 TO US 195: Bare and wet.",
+   "headline": "I-90 FROM RITZVILLE TO SR 904: No current information available.",
    "road": "I-90",
    "direction": "Both Directions",
    "closed": 0,
-   "updated": 1795690968193
+   "updated": 1795759815277
   },
   {
    "type": "alert",
@@ -39,27 +55,11 @@
   },
   {
    "type": "alert",
-   "headline": "I-90 FROM RITZVILLE TO SR 904: No current information available.",
+   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and dry.",
    "road": "I-90",
    "direction": "Both Directions",
    "closed": 0,
-   "updated": 1795691119867
-  },
-  {
-   "type": "alert",
-   "headline": "I-90 FROM US195 TO BROADWAY: Bare and wet.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1795691270797
-  },
-  {
-   "type": "alert",
-   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and wet.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1795701550337
+   "updated": 1795766207857
   }
  ]
 }
