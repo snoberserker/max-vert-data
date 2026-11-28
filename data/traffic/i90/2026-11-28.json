@@ -2,7 +2,7 @@
  "corridor": "i90",
  "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
  "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
- "collectedAt": "2026-11-28T11:31:27.038219+00:00",
+ "collectedAt": "2026-11-28T14:18:43.321829+00:00",
  "activeEvents": 7,
  "events": [
   {
@@ -15,14 +15,6 @@
   },
   {
    "type": "alert",
-   "headline": "I-90 FROM US195 TO BROADWAY: Bare and dry.",
-   "road": "I-90",
-   "direction": "Both Directions",
-   "closed": 0,
-   "updated": 1795828237737
-  },
-  {
-   "type": "alert",
    "headline": "I-90 FROM RITZVILLE TO SR 904: No current information available.",
    "road": "I-90",
    "direction": "Both Directions",
@@ -31,11 +23,11 @@
   },
   {
    "type": "alert",
-   "headline": "I-90 FROM SR 904 TO US 195: Bare and dry.",
+   "headline": "I-90 FROM SR 904 TO US 195: No current information available at this time.",
    "road": "I-90",
    "direction": "Both Directions",
    "closed": 0,
-   "updated": 1795828107697
+   "updated": 1795875348870
   },
   {
    "type": "alert",
@@ -44,6 +36,14 @@
    "direction": "Westbound",
    "closed": 0,
    "updated": 1792466870430
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM US195 TO BROADWAY: There is no current information available at this time.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795875413570
   },
   {
    "type": "alert",
