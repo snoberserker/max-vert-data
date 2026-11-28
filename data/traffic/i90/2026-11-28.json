@@ -1,0 +1,65 @@
+{
+ "corridor": "i90",
+ "label": "Seattle \u2192 Snoqualmie Pass (I-90)",
+ "source": "WSDOT ArcGIS FeatureServers data.wsdot.wa.gov (no key)",
+ "collectedAt": "2026-11-28T11:31:27.038219+00:00",
+ "activeEvents": 7,
+ "events": [
+  {
+   "type": "alert",
+   "headline": "Travelers will experience single-lane closures 24/7 on I-90 at Hansen Rd. in Moses Lake (milepost 174) through February 2027. Eastbound travelers heading north or south of Hansen Road must use Exit 169 at Hiawatha Road. Westbound travelers heading north may use exit 174. Travelers heading south must use exit 169 and follow the South Frontage Road detour.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795188755163
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM US195 TO BROADWAY: Bare and dry.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795828237737
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM RITZVILLE TO SR 904: No current information available.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795828227810
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM SR 904 TO US 195: Bare and dry.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795828107697
+  },
+  {
+   "type": "alert",
+   "headline": "The westbound Winchester rest area on I90 at milepost 161.83 will be closed for maintenance until further notice.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1792466870430
+  },
+  {
+   "type": "alert",
+   "headline": "I-90 FROM BROADWAY TO THE IDAHO STATE LINE: Bare and dry.",
+   "road": "I-90",
+   "direction": "Both Directions",
+   "closed": 0,
+   "updated": 1795828182230
+  },
+  {
+   "type": "alert",
+   "headline": "The westbound I-90 HOV lane will remain closed near Lakemont Boulevard Southeast for up to a year starting Monday, Nov. 23, to support bridge construction on eastbound I-90. Three lanes of westbound I-90 will remain open through the area.",
+   "road": "I-90",
+   "direction": "Westbound",
+   "closed": 0,
+   "updated": 1795206223367
+  }
+ ]
+}
